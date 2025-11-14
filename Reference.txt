@@ -1,0 +1,35 @@
+Discussion Topic: CSE 573 - Project Presentation feedback for Groups 1 - 4CSE 573 - Project Presentation feedback for Groups 1 - 4
+
+Folks,
+
+Thank you for the outstanding presentations showcasing innovative top-down designs for your projects. I’d like to share a a few sample analysis methods on Key Recurring Themes (KRTs)  (refer to Paper1
+, Appendix1 given in this folder) and their Boolean patterns (Paper2).
+
+I encourage the TrustMed teams to focus their efforts on one or two priority disease areas, such as Type II Diabetes and Heart Disease/Hypertension.
+
+As a first step, please collect 500–1,000 discussion threads from relevant online health forums and patient communities. These discussions should center on the selected disease areas. Conduct a detailed qualitative analysis of these threads to identify Key Recurring Themes (KRTs) that appear both in the original posts/questions and in their responses/answers.
+
+The primary objective is to uncover the top few recurring themes related to:
+
+    Symptoms and early warning signs
+
+    Medications, including dosage experiences and side effects
+
+    Treatments and management strategies, including lifestyle adjustments
+
+These insights will directly support the design of a medical information interpretation system capable of:
+
+    Understanding and interpreting meta-information embedded in user-generated health queries and community responses.
+
+    Developing intelligent lookup strategies to retrieve, integrate, and summarize relevant insights from trusted medical knowledge sources.
+
+By grounding the system in real-world patient and caregiver discussions, these findings will:
+
+    Enhance answer-generation strategies to ensure alignment with users’ core health concerns, symptom–treatment relationships, and problem–solution contexts.
+
+    Enable incorporation of auxiliary recommendations and safety insights, such as potential drug–drug and drug–diet interactions.
+
+Ultimately, this work will help TrustMed deliver accurate, contextually aware, and patient-centered responses that address users’ true informational and decision-making needs.
+
+All Best, 
+Hasan

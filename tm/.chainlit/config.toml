@@ -24,7 +24,7 @@ custom_css = "/public/theme.css"
 # The JavaScript file can be served from the public directory or via an external link.
 custom_js = ""
 # Specify a custom font url. You can also specify a list of fonts.
-custom_font = "https://fonts.googleapis.com/css2?family=Geist:wght@100;200;300;400;500;600;700;800;900&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
+custom_font = "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;500;600;700;800;900&display=swap"
 # Specify a custom build directory for the frontend.
 custom_build = ""
 # Override default MUI light theme. (Check theme.ts)

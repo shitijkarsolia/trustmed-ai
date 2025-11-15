@@ -14,7 +14,9 @@ async def on_chat_start():
     Called when a new chat session starts.
     This is where we can initialize the session and send a welcome message.
     """
+    banner = "![TrustMed AI logo](/public/banner.png)"
     welcome_message = """
+
 # Welcome to TrustMed AI! 🏥
 
 This is a demo of the Chainlit interface. Once we integrate with AWS Bedrock, 
@@ -27,10 +29,10 @@ this chatbot will be able to answer medical queries using a RAG (Retrieval-Augme
 
 *Note: Currently running in demo mode without Bedrock integration.*
     """
-    
+
     await cl.Message(
         content=welcome_message,
-        author="TrustMed AI"
+        author="banner"
     ).send()
 
 
@@ -42,9 +44,8 @@ async def on_message(message: cl.Message):
     For now, this demonstrates basic Chainlit message handling.
     """
     user_input = message.content
-    
     # Create a message object that we'll update with the response
-    response_msg = cl.Message(content="")
+    response_msg = cl.Message(author="banner",content="")
     await response_msg.send()
     
     # Simulate processing time (like we'd have with Bedrock API calls)
@@ -55,7 +56,7 @@ async def on_message(message: cl.Message):
     demo_response = f"""
 I received your message: **"{user_input}"**
 
----
+--- 
 
 ## 🔧 Demo Mode Active
 
@@ -97,6 +98,6 @@ async def on_stop():
     """
     await cl.Message(
         content="Session ended. Thank you for using TrustMed AI!",
-        author="TrustMed AI"
+        author="banner"
     ).send()
 

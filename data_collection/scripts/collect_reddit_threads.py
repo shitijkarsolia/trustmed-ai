@@ -29,8 +29,11 @@ DISEASE_AREAS = {
     }
 }
 
-OUTPUT_DIR = '/home/user/trustmed-ai/data_collection/data'
-LOG_DIR = '/home/user/trustmed-ai/data_collection/logs'
+# Get the script directory and set output relative to project root
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(os.path.dirname(SCRIPT_DIR))
+OUTPUT_DIR = os.path.join(PROJECT_ROOT, 'data_collection', 'data')
+LOG_DIR = os.path.join(PROJECT_ROOT, 'data_collection', 'logs')
 
 class RedditHealthCollector:
     """Collects health-related discussion threads from Reddit."""

@@ -1,0 +1,57 @@
+Title: One-hour blood glucose level: A better chance to prevent diabetes
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-hour-blood-glucose-chance-diabetes.html
+Collected: 2025-11-15T16:58:49.301339
+
+================================================================================
+
+One-hour blood glucose level: A better chance to prevent diabetes
+
+byGerman Center for Diabetes Research
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+An elevated blood glucose level one hour after the oral glucose tolerance test (OGTT) signals a critical metabolic state—even before prediabetes. Affected individuals respond particularly well to lifestyle interventions. This value could become a new clinically relevant biomarker—and enable more targeted, earlier prevention of type 2 diabetes.
+
+This is the conclusion reached by a team from the University of Tübingen, Helmholtz Munich and the German Center for Diabetes Research (DZD). This research, conducted in cooperation with Prof. Michael Bergman from New York University, has now beenpublishedinMetabolism.
+
+Prediabetes is considered a precursor to type 2 diabetes. However, over 40% of people diagnosed with prediabetes do not progress to diabetes within a decade. More importantly, the ADA prediabetes criteria fail to identify around 20% of individuals who later develop diabetes, leaving them without anearly warning. How can at-risk individuals be better identified and treated more effectively?
+
+A closer look at the early stage of the metabolic disorder
+
+To find answers to this question, researchers have been searching for more precise markers. The one-hour plasma glucose concentration (1h-PG) in theoral glucose tolerance test(OGTT) seemed particularly relevant to them. This is theblood glucose levelthat doctors determine exactly one hour after the patient has ingested a glucose solution.
+
+According to the International Diabetes Federation (IDF), a value of ≥ 155 mg/dl is considered an early indicator of impaired glucose regulation—often before fasting or two-hour values become abnormal. The hope is that this measurement could offer opportunities to identify at-risk individuals early and treat them in a targeted manner.
+
+Lifestyle intervention with a significant effect
+
+To test their hypothesis, researchers in the Tübingen Lifestyle Intervention Program (TULIP) intensively monitored 317 individuals with varying levels of glucose tolerance for nine months. The goal of the lifestyle intervention was aweight lossof at least 5% through a balanced diet and regular exercise.
+
+Participants were assigned to three groups based on metabolic parameters:
+
+with normal glucose regulation,
+
+with isolated elevated 1-hour prostaglandin (other values, such as fasting glucose and 2-hour prostaglandin, were still normal),
+
+with classic impaired glucose regulation (prediabetes).
+
+At the beginning of the study, it became apparent that individuals with high 1-hour prostaglandin levels were metabolically intermediate between healthy and unhealthy. Theirinsulin sensitivityand beta-cell function were impaired, and their liver and abdominal fat levels were elevated, although still reversible.
+
+After nine months of intervention, insulin sensitivity and beta-cell function improved significantly in the 1h-PG group, restoring to levels comparable to those of metabolically healthy individuals. At the same time, liver fat levels normalized. These improvements were considerably less pronounced in the prediabetes group.
+
+Long-term benefits: 80% lower risk
+
+Over a period of up to twelve years, an impressive effect was observed: Individuals with elevated 1-hour glucose levels who participated in the intervention were 80% less likely to develop type 2 diabetes than people with prediabetes. Almost half even achieved normal blood glucose levels (normoglycemia)—twice as many as in the prediabetes group.
+
+"Weight loss and reduced liver fat improved both insulin sensitivity and the ability of beta cells to respond to glucose. This normalization of key metabolic processes could be crucial for enabling the transition to stable, healthy glucose metabolism." says Yiying Wang, the first author of the study and a MD student in the Department of Diabetology, Endocrinology and Nephrology of the University Hospital Tübingen and a Clinician Scientist in the DZD.
+
+New prevention strategy with practical potential
+
+The one-hour glucose value proved to be the most sensitive marker for the early detection of impaired glucose tolerance. It was significantly more informative than the HbA1c value, fasting glucose, or two-hour glucose. "This value apparently marks the optimal point in time to normalize metabolism," comments Prof. Dr. Andreas Birkenfeld, the senior author of the study.
+
+According to Birkenfeld, the test could potentially enable the early identification and effective treatment of at-risk individuals, long before prediabetes is diagnosed. This could establish the 1-hour post-load glucose (1h-PG) as a new, clinically relevant biomarker.
+
+More information:Yiying Wang et al, Lifestyle intervention is more effective in high 1-hour post-load glucose than in prediabetes for restoring β-cell function, reducing ectopic fat, and preventing type 2 diabetes,Metabolism(2026).DOI: 10.1016/j.metabol.2025.156430Journal information:Metabolism

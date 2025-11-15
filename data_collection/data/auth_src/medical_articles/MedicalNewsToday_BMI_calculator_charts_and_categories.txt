@@ -1,0 +1,100 @@
+Title: BMI calculator, charts, and categories
+Source: MedicalNewsToday
+URL: https://www.medicalnewstoday.com/articles/323586
+Collected: 2025-11-15T16:55:30.189907
+
+================================================================================
+
+BMI uses a person’s height and weight to estimate their body fat level and gauge their risk of body fat-related diseases. BMI charts also display the ranges for the categories of underweight, overweight, and obesity.
+
+Carrying too much or too little weight can increase a person’s risk of health problems, either in the present or the future.
+
+A person’s body mass index (BMI) is not the only factor that affects this risk. Other tools for assessing whether or not a person has a moderate weight or body composition include the waist-to-hip ratio, waist-to-height ratio, and body fat percentage.
+
+However, BMI may be a helpful starting point. This article provides some tools for people to work out their BMI.
+
+BMI is a calculation of a person’s body fat based on their height and weight. However, studies suggest it is apoor indicatorof a person’s body fat percentage.
+
+It can be misleading because the measure does not account for overall body composition or capture information on the mass of fat in different body sites. The latter relates to both health and social issues.
+
+BMI cutoff pointswere generated mostly from the white population, but body fat distribution differs by race and ethnicity.
+
+For additional information, talk with your doctor about other body fat assessment methods.
+
+These calculators and charts can indicate whether a person’s weight may affect their risk of health problems.
+
+This article publishes the calculators courtesy ofThe Calculator Site. Two calculation options are available: metric and imperial.
+
+The charts below allow a person to find their weight in pounds (lb) along the top and their height in feet (ft) and inches (in) down the side. They can then look across to find their BMI.
+
+There are two charts. If a person weighs 245 lb or less, they can use the first chart. If their weight is over 250 lb, they can look at the second one.
+
+The shaded areas correspond to BMI values that indicate either a moderate weight, overweight, or obesity.
+
+In addition, researchers and doctors divide obesity into threecategories:
+
+Class 1:BMI is 30 to 34.9.
+
+Class 2:BMI is 35 to 39.9.
+
+Class 3:BMI is 40 and above.
+
+The chartsare an adaptation of the adult BMI chart created by the University of Vermont in Burlington.
+
+BMI chart: Weight of 95 to 245 lb
+
+BMI chart: Weight of 250 to 400 lb
+
+These figures are only a guide. The BMI tools do not determine whether or not a person has anideal body weight, but they can help show if an individual’s weight may increase their risk of disease.
+
+A very fit person, such as an Olympic athlete, may have a high BMI. However, this does not necessarily mean they are overweight due to excess body fat. In that case, the excess weight may be due to increased muscle mass.
+
+The following table shows the standard weight status categories associated withBMI ranges for adults:
+
+A BMI of under 18.5 indicates that a person has insufficient weight, so they may need to put on some weight. They should ask a doctor or dietitian for advice.
+
+A BMI of 18.5 to 24.9 indicates that a person has a moderate weight for their height. By maintaining a moderate weight, they can lower their risk of developing serious health problems.
+
+A BMI of 25 to 29.9 indicates that a person is slightly overweight. A doctor may advise them to lose some weight for health reasons. They should talk with a doctor or dietitian for advice.
+
+A BMI of over 30 indicates that a person has obesity. Their health may be at risk if they do not lose weight. They should talk with a doctor or dietitian for advice.
+
+Maintaining a moderate weight can help prevent a range of health conditions.
+
+People who are overweight may have ahigher riskthan others of conditions such asheart disease,type 2 diabetes,sleep apnea, andcolorectal cancer. Some of these can be life threatening.
+
+Having insufficient weight canincrease the riskofmalnutrition,osteoporosis,anemia, and a range of problems that can result from various nutrient deficiencies. It can also be a symptom of a hormonal, digestive, or other problem.
+
+Varying cutoff points
+
+Some evidence suggests that the associations between BMI, body fat percentage, and body fat distribution may differ across populations due to variations in sex, race, and ethnicity.
+
+ABrazilian studyfrom 2017 looked at the correlation between BMI and body fat percentage in 856 adult males and females.
+
+They concluded that the standard BMI threshold of 29.9 kilograms per square meter (kg/m2) was appropriate for males to predict obesity-type body fat percentage, but a more suitable cutoff point for females appeared to be 24.9 kg/m2.
+
+In 2017,Korean researcherspointed out that people in the Asia-Pacific region often have a higher risk of type 2 diabetes and cardiovascular disease at a BMI below the existing World Health Organization (WHO) cutoff point of 25 kg/m2.
+
+They added that in Korea, there is evidence to suggest that almost twice as many people have features of metabolic obesity but a moderate weight compared with the United States.
+
+The following table by theWHOshows some comparisons and cutoff points that may apply. Doctorsmay usethese variations when advising or treating conditions in specific people.
+
+Weight management resources
+
+To discover more evidence-based information and resources for weight management, visitour dedicated hub.
+
+Frequently asked questions
+
+What is the correct BMI for my age?
+
+Different tools and calculatorscan offer a guideregarding the ideal weight for each age.
+
+What is a typical BMI for a woman?
+
+A moderate BMI/rating score for women is18.5 up to 24.9.
+
+BMI is a useful tool that gives a general idea about whether or not a person’s weight is healthy for them.
+
+However, it is a simple tool that does not tell the whole story about people’s weight and health risks.
+
+Anyone with concerns about their weight could speak with a healthcare professional. A healthcare professional may also consider their body fat distribution and the ratio of their waist size to their height and offer advice tailored to each individual.

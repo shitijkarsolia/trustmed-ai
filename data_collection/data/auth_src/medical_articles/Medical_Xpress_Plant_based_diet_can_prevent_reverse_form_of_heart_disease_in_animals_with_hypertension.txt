@@ -1,0 +1,43 @@
+Title: Plant-based diet can prevent, reverse form of heart disease in animals with hypertension
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-based-diet-reverse-heart-disease.html
+Collected: 2025-11-15T16:59:42.400391
+
+================================================================================
+
+Plant-based diet can prevent, reverse form of heart disease in animals with hypertension
+
+byGeorgia State University
+
+edited byGaby Clark, 																								reviewed byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+Eating a plant-based diet consisting of fruits, vegetables, nuts and legumes can help prevent and reverse heart disease in rats that have high blood pressure, according to a study published by researchers in the Institute for Biomedical Sciences at Georgia State University.
+
+The basic research study,publishedin theJournal of the American Heart Association, tested whether coronary microvascular dysfunction (CMD), a type of heart disease that occurs when there's damage to the tiny blood vessels that regulate blood flow to heart tissue, could be reduced in rats with hypertension. The study also examined underlying mechanisms of CMD.
+
+Hypertension is a major risk factor for CMD, which can lead to frequentchest pain, hospitalizations, heart failure and deaths. Uniquely, CMD afflicts women more severely than men, and women have higher rates of hospitalizations compared to men after diagnosis.
+
+Therapeutic strategies for CMD are only moderately effective, and patients continue to have poor outcomes. Thus, new treatment approaches are urgently needed. This is one of the first studies to look at the role of diet in treating CMD, and the research team investigated the effects of aplant-based diet.
+
+"We found that a plant-based diet both prevented the development of CMD and reversed established CMD in hypertensive rats, which translates well to theclinical setting," said Rami S. Najjar, corresponding author of the study, a postdoctoral fellow in the Institute for Biomedical Sciences at Georgia State when the study was conducted and now a postdoctoral fellow at Emory University School of Medicine in the Division of Cardiology.
+
+"Interestingly, the beneficial effects of the plant-based diet in CMD occurred despite the persistence of hypertension, showing that the diet was having a targeted effect on the small blood vessels of the heart," Najjar explained.
+
+"We believe this effect occurred due to improved function of blood vessel cells, counteracting the damaging effects of hypertension. When these cells are damaged, blood vessels in the heart contract and blood cannot flow well, the cause of chest pain in humans with CMD.
+
+"However, the plant-based diet rescued the function of these cells, allowing blood vessels to dilate normally again. This is one of the first studies to show that diet can treat CMD. These exciting results supportclinical trialsto test plant-based diets in human CMD, and we hope to do this soon."
+
+This study fed female spontaneouslyhypertensive ratsfor six months either a control, refined diet, absent in plant foods, or a plant-based diet, which comprised 28% fruits, vegetables, nuts and legumes. Importantly, both diets were matched for all nutrients, so the only known difference was the high antioxidant content of the plant-based diet.
+
+If a human ate this diet, it would contain one cup of black beans, one large red bell pepper, 1 ½ cups of Brussels sprouts, two lemons, one medium sweet potato, 1 ½ cups of walnuts and one cup of blueberries each day. After six months, a subgroup of rats eating the control diet was switched to the plant-based diet to treat CMD after it was established.
+
+CMD was assessed by measuring coronary flow reserve, an approach used in the clinic. Researchers also used Georgia State's recently established Advanced Translational Imaging Facility, using cardiac MRI to look at blood flow of the heart muscle. In addition, investigators isolated blood vessel cells from the heart to look at their function and examined markers of damage in heart tissue.
+
+Additional authors of the study include Yanling Wang, Vu Ngo, Juan P. Tejada and Andrew T. Gewirtz of the Institute for Biomedical Sciences at Georgia State; Nedumangalam Hekmatyar of the Advanced Translational Imaging Facility at Georgia State; Hannah L. Lail, Jessica P. Danh, Desiree Wanders and Rafaela G. Feresin of the Department of Nutrition and the Department of Chemistry at Georgia State; and Puja K. Mehta of Emory University School of Medicine.
+
+More information:Rami S. Najjar et al, Prevention and Reversal of Hypertension‐Induced Coronary Microvascular Dysfunction by a Plant‐Based Diet,Journal of the American Heart Association(2025).DOI: 10.1161/jaha.125.045515Journal information:Journal of the American Heart Association

@@ -1,0 +1,59 @@
+Title: Early-life ketone signaling may shape long-term metabolic health
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-early-life-ketone-term-metabolic.html
+Collected: 2025-11-15T17:10:37.481248
+
+================================================================================
+
+Early-life ketone signaling may shape long-term metabolic health
+
+byNational Taiwan University
+
+edited bySadie Harley, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+In a major advance in metabolic research, scientists from National Taiwan University have discovered that ketone bodies produced naturally during the lactation period are not merely an alternative fuel, but act as powerful developmental signals that shape the body's long-term metabolic health.
+
+The study, led by Dr. Fu-Jung Lin and Dr. Chung-Lin Jiang, waspublishedinNature Metabolismand reveals that early-life ketogenesis programs beige adipose tissue formation through epigenetic regulation, offering a new understanding of how early nutrition affects adult physiology.
+
+Ketone bodies, including β-hydroxybutyrate (βHB), are energy molecules produced by the liver from fatty acids whenglucose levelsare low—such as during fasting, exercise, or ketogenic diets. Newborn mammals naturally enter a ketogenic state during suckling, as their diet is rich in fat from breast milk. However, until now, the physiological role of this neonatal ketosis has remained largely unknown.
+
+How beige fat influences metabolism
+
+Beige adipocytes are a special type of fat cell residing within white adipose tissue, particularly in the inguinalwhite adipose tissue(iWAT). Unlike typical white fat, which primarily stores energy, beige fat can burn lipids and glucose to produce heat—a process known as non-shivering thermogenesis.
+
+Duringcold exposureor specific metabolic cues, iWAT undergoes a remarkable transformation known as "browning," in which energy-storing white adipocytes acquire thermogenic features. By dissipating excess calories, beige adipocytes help maintain energy balance and improve insulin sensitivity.
+
+Enhancing iWAT browning and beige fat activity has therefore emerged as a promising strategy to combat obesity, type 2 diabetes, and related metabolic disorders.
+
+Ketogenesis in early life shapes future health
+
+The research team at National Taiwan University uncovered that preweaning ketogenesis plays a pivotal role in the development of beige adipocytes. In neonatal mice, circulating βHB levels rise transiently during lactation.
+
+When pups were weaned prematurely—thereby disrupting this endogenous ketogenesis—beige fat development was significantly impaired, resulting in reduced thermogenic capacity and increased susceptibility to diet-induced obesity later in life. Similarly, mice with liver-specific deletion of Hmgcs2, the rate-limiting enzyme for ketogenesis, showed defects in beige fat biogenesis and energy homeostasis.
+
+Conversely, enhancing ketogenesis during lactation through supplementation with 1,3-butanediol, a ketogenic precursor, increased energy expenditure and promoted beige adipocyte accumulation in offspring. These findings reveal that the neonatal ketogenic state is a crucial metabolic window that imprints long-term thermogenic potential.
+
+Epigenetic mechanisms behind ketone signaling
+
+Mechanistically, the researchers combined bulk and single-cell RNA sequencing to identify a specific population of CD81⁺ adipose progenitor cells (APCs) that are highly responsive to βHB.
+
+Exposure to βHB inducedhistone acetylation(H3K9ac, H3K14ac) and β-hydroxybutyrylation (H3K9bhb) at the promoters of key beige fat regulators such as Ppargc1a, Klf9, and Vdr, thereby activating their expression and priming progenitors toward beige adipogenesis.
+
+This work provides direct evidence thatketone bodiesact as epigenetic modulators, linking early nutritional states to the transcriptional programming of adipose tissue.
+
+Implications for obesity prevention and infant health
+
+Prof. Fu-Jung Lin from the Department of Biochemical Science and Technology, National Taiwan University and lead author of the study said, "Our findings redefine infant ketosis as an active developmental signal rather than a passive metabolic byproduct. It highlights a previously unrecognized mechanism by which early-life nutrition imprints long-termmetabolic health."
+
+"Notably, we found that β-hydroxybutyrate supplementation during lactation ameliorated metabolic dysfunction in the offspring of obese parents, suggesting that targeted modulation of ketone signaling in early life may counteract inherited metabolic risks and provide new opportunities for early prevention of obesity and related diseases."
+
+This discovery opens new avenues for preventing obesity and metabolic diseases by modulating ketone signaling during critical developmental periods. It also offers a plausible molecular basis for the long-recognized link between breastfeeding and a lower risk of childhood obesity.
+
+Together, Jiang and colleagues' study establishes β-hydroxybutyrate as both a metabolic fuel and an epigenetic regulator, reshaping our understanding of developmental metabolism and the lasting impact of early nutritional environments.
+
+More information:Chung-Lin Jiang et al, Early-life ketone body signalling promotes beige fat biogenesis through changes in histone acetylome and β-hydroxybutyrylome,Nature Metabolism(2025).DOI: 10.1038/s42255-025-01378-8Journal information:Nature Metabolism

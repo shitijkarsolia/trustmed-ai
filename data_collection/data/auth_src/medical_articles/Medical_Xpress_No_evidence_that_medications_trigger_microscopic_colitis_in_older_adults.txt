@@ -1,0 +1,39 @@
+Title: No evidence that medications trigger microscopic colitis in older adults
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-06-evidence-medications-trigger-microscopic-colitis.html
+Collected: 2025-11-15T17:12:10.597102
+
+================================================================================
+
+No evidence that medications trigger microscopic colitis in older adults
+
+byBrigham and Women’s Hospital
+
+edited bySadie Harley, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+Microscopic colitis (MC) is a chronic inflammatory bowel disease that severely reduces quality of life. MC is responsible for over 30% of all chronic diarrhea cases in people over 65 years of age, and its prevalence is rising worldwide.
+
+Although little is known about what causes MC, previous studies have suggested that a range of common medications could trigger the condition, includingnon-steroidal anti-inflammatory drugs(NSAIDs),blood pressure medications, andselective serotonin reuptake inhibitors(SSRIs).
+
+However, according to a new large-scale, longitudinal study of older adults in Sweden from Mass General Brigham, Broad Institute of MIT and Harvard, and Karolinska Institutet researchers, most of these medications are not associated with increased risk of MC. Results are published inAnnals of Internal Medicine.
+
+"Our study demonstrated that, contrary to the previous belief, it's unlikely that medications are the primary triggers for microscopic colitis," said corresponding author Hamed Khalili, MD MPH, associate director of the Clinical and Translational Epidemiology Unit and director of Clinical Research at the Crohn's and Colitis Center at Massachusetts General Hospital.
+
+"Clinicians should carefully balance the intended benefits of these medications against the very low likelihood that they cause microscopic colitis."
+
+To look for associations between medication use and MC diagnosis, the researchers analyzed data from over 2.8 million individuals aged 65 years and older in Sweden. The data included information on prescribed medications, hospitalizations, medical diagnoses, and gastrointestinal biopsy results.
+
+Overall, they found that the risk of developing MC was less than 0.5%. There was no association between NSAIDs, angiotensin converting enzyme (ACE-I) inhibitors, angiotensin II receptor blockers (ARBs),proton pump inhibitors(PPIs), or statins and the risk of developing MC, but individuals prescribed SSRIs had a 0.04% higher risk of developing MC.
+
+However, the researchers also showed that individuals prescribed SSRIs were also more likely to receive a colonoscopy, which is necessary to diagnose MC.
+
+"Our analyses suggest that surveillance bias is a likely explanation for earlier findings that implicated medications in the pathogenesis of microscopic colitis and may also explain the continued association with SSRIs," said senior author Jonas F Ludvigsson, MD Ph.D., pediatrician at Örebro University Hospital and Professor at the Department of Medical Epidemiology and Biostatistics, Karolinska Institutet in Sweden.
+
+The study did not include data on primary care visits, which could impact the likelihood of colonoscopy, or lifestyle factors such as diet and smoking status.
+
+More information:Khalili, H et al. Medications and risk of microscopic colitis: A nationwide study of older adults in Sweden,Annals of Internal Medicine(2025).www.acpjournals.org/doi/10.7326/ANNALS-25-00268Journal information:Annals of Internal Medicine

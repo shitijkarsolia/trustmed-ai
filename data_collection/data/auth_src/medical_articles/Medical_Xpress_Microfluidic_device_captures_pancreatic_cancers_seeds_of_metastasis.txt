@@ -1,0 +1,61 @@
+Title: Microfluidic device captures pancreatic cancer's 'seeds of metastasis'
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-microfluidic-device-captures-pancreatic-cancer.html
+Collected: 2025-11-15T17:10:20.683013
+
+================================================================================
+
+Microfluidic device captures pancreatic cancer's 'seeds of metastasis'
+
+by Jenna Kurtzweil,University of Illinois at Chicago
+
+edited byGaby Clark, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+Pinned between the stomach and spine, the pancreas supervises both digestion and blood sugar in the body. It's also the site of an aggressive cancer called pancreatic ductal adenocarcinoma, or PDAC.
+
+PDAC is the most common type of pancreatic cancer, thethird-leading causeof cancer deaths in the U.S. It's difficult to detect and recurs about 70% of the time after treatment. Only13%of those diagnosed survive more than five years.
+
+A team of surgeons, anesthesiologists and engineers at the University of Illinois Chicago is studying how lidocaine, a common local anesthetic, affects pancreatic cancer cells released into the bloodstream during surgery. Theirlatest advancementevaluates a method for capturing these rogue cells and is published in the journalLab on a Chip.
+
+"I really expect that the results of this study may help our patients," said Dr. Gina Votta-Velis, a UIC professor of anesthesiology in the College of Medicine and a lead investigator. "The notion that lidocaine, which has been used to relieve pain for more than 65 years, may mitigate metastasis and favorably affectpatient outcomesis highly innovative."
+
+How circulating tumor cells spread
+
+Circulating tumor cells are cancerous cells that break away from the tumor—often during tumor-removal surgery—and escape into the bloodstream. Patients with more aggressive circulating tumor cells in their blood have poorer prognoses and higher recurrence rates.
+
+Votta-Velis said patients must recover from surgery before starting chemotherapy. In that window of time, circulating tumor cells, or CTCs, can travel throughout the body and spawn new tumors. But preliminary in-vitro studies have shown that lidocaine may hamper cells from bursting back out of the bloodstream, instead trapping them to be naturally cleaned out by our immune systems.
+
+"CTCs are the seeds of metastasis," she said. "If we can detect them and decrease their aggressiveness with lidocaine infusion, we may lower the risk of the metastatic process."
+
+Innovative methods for isolating cancer cells
+
+Because circulatingtumor cellsare rare, isolating them could mean pulling 30 to 40 cells out of the billions in our bloodstream—just like pulling a needle from a haystack. That's why Votta-Velis teamed up with fellow University of Illinois Cancer Center affiliate Ian Papautsky, the UIC Richard and Loan Hill Professor of Biomedical Engineering in the College of Engineering. He specializes in microfluidics: how small amounts of fluids, like blood, flow through minute channels.
+
+His contribution to the project is a small microfluidic device, fabricated from glass and plastic, measuring just a couple of inches long and containing channels just wider than a strand of hair. The device isolates cancer cells from a patient's blood sample based on their size—a process referred to as a liquid biopsy.
+
+"CTCs are typically larger thanwhite blood cells, which are larger than red blood cells. Cancer cells also tend to be softer and more moldable," Papautsky said. "When we put the blood into this device, we can filter out the CTCs without modifying or damaging the cells."
+
+Comparing new and existing detection tools
+
+In 2019, Papautsky's team demonstrated that this method picks out cancer cells with93% accuracy. This time, the researchers compared Papautsky's method to a commercially available tool called EasySep, which pulls cells apart magnetically. Papautsky said magnetic separation can be harsh and sometimes destroy the cells it's attempting to catch.
+
+The researchers tested both systems—EasySep and their original method—with blood samples from pancreatic cancer patients. They found that Papautsky's method recovered eight times as many cancer cells and processed blood samples faster, in as little as 20 minutes.
+
+"The method's success is so important for asymptomatic cancers like pancreatic cancer, where a blood draw may be the only way to diagnose early," Papautsky said.
+
+Implications for future cancer treatment
+
+Dr. Pier Giulianotti, a co-investigator and the division chief of general, minimally invasive and robotic surgery in the College of Medicine, said this discovery opens the door to the next generation of personalized medical treatment.
+
+"Science is based on little steps," said Giulianotti, who is a world-renowned expert in the surgical treatment of hepatobiliary pancreatic cancer malignancies.
+
+"And this is a very good step. Most malignant cancers in humans spread through the bloodstream. Understanding how cancer cells are released into the bloodstream and being able to control this process is very, very important."
+
+Additional UIC researchers include Celine Macaraniag, Ifra Khan, Alexandra Barabanova, Valentina Valle and Alain Borgeat. Jian Zhou of Rush University Medical Center is a co-author.
+
+More information:Celine Macaraniag et al, Benchmarking microfluidic and immunomagnetic platforms for isolating circulating tumor cells in pancreatic cancer,Lab on a Chip(2025).DOI: 10.1039/d5lc00512dJournal information:Lab on a Chip

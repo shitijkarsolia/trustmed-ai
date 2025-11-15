@@ -1,0 +1,1829 @@
+[
+  {
+    "title": "White coat hypertension: When blood pressure rises in a medical setting",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/white-coat-hypertension/faq-20057792",
+    "filename": "Mayo_Clinic_White_coat_hypertension_When_blood_pressure_rises_in_a_medical_setting.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_White_coat_hypertension_When_blood_pressure_rises_in_a_medical_setting.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:08:39.460785"
+  },
+  {
+    "title": "Diabetes prevention: 5 tips for taking control",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-prevention/art-20047639",
+    "filename": "Mayo_Clinic_Diabetes_prevention_5_tips_for_taking_control.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diabetes_prevention_5_tips_for_taking_control.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:08:46.751463"
+  },
+  {
+    "title": "Type 2 diabetes",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/diagnosis-treatment/drc-20351199",
+    "filename": "Mayo_Clinic_Type_2_diabetes.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Type_2_diabetes.txt",
+    "word_count": 4070,
+    "collected_at": "2025-11-15T16:08:53.297181"
+  },
+  {
+    "title": "High blood pressure (hypertension)",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417",
+    "filename": "Mayo_Clinic_High_blood_pressure_hypertension.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_High_blood_pressure_hypertension.txt",
+    "word_count": 5479,
+    "collected_at": "2025-11-15T16:08:59.401327"
+  },
+  {
+    "title": "Blood sugar testing: Why, when and how",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/blood-sugar/art-20046628",
+    "filename": "Mayo_Clinic_Blood_sugar_testing_Why_when_and_how.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Blood_sugar_testing_Why_when_and_how.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:09:09.492270"
+  },
+  {
+    "title": "Calcium channel blockers",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/calcium-channel-blockers/art-20047605",
+    "filename": "Mayo_Clinic_Calcium_channel_blockers.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Calcium_channel_blockers.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:09:13.791813"
+  },
+  {
+    "title": "Hypertensive crisis: What are the symptoms?",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/hypertensive-crisis/faq-20058491",
+    "filename": "Mayo_Clinic_Hypertensive_crisis_What_are_the_symptoms.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Hypertensive_crisis_What_are_the_symptoms.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:09:19.289102"
+  },
+  {
+    "title": "Beta blockers",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/beta-blockers/art-20044522",
+    "filename": "Mayo_Clinic_Beta_blockers.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Beta_blockers.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:09:23.281282"
+  },
+  {
+    "title": "Blood pressure test",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/tests-procedures/blood-pressure-test/about/pac-20393098",
+    "filename": "Mayo_Clinic_Blood_pressure_test.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Blood_pressure_test.txt",
+    "word_count": 1718,
+    "collected_at": "2025-11-15T16:09:27.394603"
+  },
+  {
+    "title": "Diabetes: How do I help protect my liver?",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/expert-answers/diabetes/faq-20058461",
+    "filename": "Mayo_Clinic_Diabetes_How_do_I_help_protect_my_liver.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diabetes_How_do_I_help_protect_my_liver.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:09:40.155567"
+  },
+  {
+    "title": "A1C test",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/tests-procedures/a1c-test/about/pac-20384643",
+    "filename": "Mayo_Clinic_A1C_test.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_A1C_test.txt",
+    "word_count": 1241,
+    "collected_at": "2025-11-15T16:09:45.975716"
+  },
+  {
+    "title": "Angiotensin-converting enzyme (ACE) inhibitors",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/ace-inhibitors/art-20047480",
+    "filename": "Mayo_Clinic_Angiotensin_converting_enzyme_ACE_inhibitors.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Angiotensin_converting_enzyme_ACE_inhibitors.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:09:49.731384"
+  },
+  {
+    "title": "Nutrition and healthy eating",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/dash-diet/art-20048456",
+    "filename": "Mayo_Clinic_Nutrition_and_healthy_eating.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Nutrition_and_healthy_eating.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:09:55.143042"
+  },
+  {
+    "title": "Diabetes and depression: Coping with the two conditions",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/expert-answers/diabetes-and-depression/faq-20057904",
+    "filename": "Mayo_Clinic_Diabetes_and_depression_Coping_with_the_two_conditions.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diabetes_and_depression_Coping_with_the_two_conditions.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:10:03.336628"
+  },
+  {
+    "title": "Diabetes management: How lifestyle, daily routine affect blood sugar",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-management/art-20047963",
+    "filename": "Mayo_Clinic_Diabetes_management_How_lifestyle_daily_routine_affect_blood_sugar.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diabetes_management_How_lifestyle_daily_routine_affect_blood_sugar.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:10:13.843040"
+  },
+  {
+    "title": "10 ways to control high blood pressure without medication",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974",
+    "filename": "Mayo_Clinic_10_ways_to_control_high_blood_pressure_without_medication.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_10_ways_to_control_high_blood_pressure_without_medication.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:10:20.166082"
+  },
+  {
+    "title": "Prediabetes",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/prediabetes/symptoms-causes/syc-20355278",
+    "filename": "Mayo_Clinic_Prediabetes.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Prediabetes.txt",
+    "word_count": 2007,
+    "collected_at": "2025-11-15T16:10:24.059606"
+  },
+  {
+    "title": "Diuretics",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/diuretics/art-20048129",
+    "filename": "Mayo_Clinic_Diuretics.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diuretics.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:10:29.781432"
+  },
+  {
+    "title": "Diabetes diet: Create your healthy-eating plan",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-diet/art-20044295",
+    "filename": "Mayo_Clinic_Diabetes_diet_Create_your_healthy_eating_plan.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diabetes_diet_Create_your_healthy_eating_plan.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:10:36.253683"
+  },
+  {
+    "title": "Blood pressure chart: What your reading means",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/blood-pressure/art-20050982",
+    "filename": "Mayo_Clinic_Blood_pressure_chart_What_your_reading_means.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Blood_pressure_chart_What_your_reading_means.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:10:39.938942"
+  },
+  {
+    "title": "Diabetes Resource Center",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/diabetes/default.htm",
+    "filename": "WebMD_Diabetes_Resource_Center.txt",
+    "filepath": "../data/medical_articles/WebMD_Diabetes_Resource_Center.txt",
+    "word_count": 1930,
+    "collected_at": "2025-11-15T16:14:00.430777"
+  },
+  {
+    "title": "Visual Guide to High Blood Pressure",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/hypertension-high-blood-pressure/ss/slideshow-hypertension-overview",
+    "filename": "WebMD_Visual_Guide_to_High_Blood_Pressure.txt",
+    "filepath": "../data/medical_articles/WebMD_Visual_Guide_to_High_Blood_Pressure.txt",
+    "word_count": 1786,
+    "collected_at": "2025-11-15T16:14:15.459174"
+  },
+  {
+    "title": "Symptoms of High Blood Pressure",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/hypertension-high-blood-pressure/hypertension-symptoms-high-blood-pressure",
+    "filename": "WebMD_Symptoms_of_High_Blood_Pressure.txt",
+    "filepath": "../data/medical_articles/WebMD_Symptoms_of_High_Blood_Pressure.txt",
+    "word_count": 1792,
+    "collected_at": "2025-11-15T16:14:27.204903"
+  },
+  {
+    "title": "Insulin Resistance \u2013 What You Need to Know",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/diabetes/insulin-resistance-syndrome",
+    "filename": "WebMD_Insulin_Resistance_What_You_Need_to_Know.txt",
+    "filepath": "../data/medical_articles/WebMD_Insulin_Resistance_What_You_Need_to_Know.txt",
+    "word_count": 2487,
+    "collected_at": "2025-11-15T16:14:31.823224"
+  },
+  {
+    "title": "Hypoglycemia: When Your Blood Sugar Gets Too Low",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/diabetes/guide/diabetes-hypoglycemia",
+    "filename": "WebMD_Hypoglycemia_When_Your_Blood_Sugar_Gets_Too_Low.txt",
+    "filepath": "../data/medical_articles/WebMD_Hypoglycemia_When_Your_Blood_Sugar_Gets_Too_Low.txt",
+    "word_count": 931,
+    "collected_at": "2025-11-15T16:14:37.539830"
+  },
+  {
+    "title": "How Sugar Affects Diabetes",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/diabetes/guide/normal-blood-sugar-levels-chart-adults",
+    "filename": "WebMD_How_Sugar_Affects_Diabetes.txt",
+    "filepath": "../data/medical_articles/WebMD_How_Sugar_Affects_Diabetes.txt",
+    "word_count": 1419,
+    "collected_at": "2025-11-15T16:14:49.366263"
+  },
+  {
+    "title": "High Blood Pressure and Hypertensive Crisis",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/hypertension-high-blood-pressure/guide/hypertensive-crisis",
+    "filename": "WebMD_High_Blood_Pressure_and_Hypertensive_Crisis.txt",
+    "filepath": "../data/medical_articles/WebMD_High_Blood_Pressure_and_Hypertensive_Crisis.txt",
+    "word_count": 389,
+    "collected_at": "2025-11-15T16:15:00.359268"
+  },
+  {
+    "title": "Hyperglycemia: What Is It?",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/diabetes/guide/diabetes-hyperglycemia",
+    "filename": "WebMD_Hyperglycemia_What_Is_It.txt",
+    "filepath": "../data/medical_articles/WebMD_Hyperglycemia_What_Is_It.txt",
+    "word_count": 1806,
+    "collected_at": "2025-11-15T16:15:26.179138"
+  },
+  {
+    "title": "Diastole vs. Systole: Know Your Blood Pressure Numbers",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/hypertension-high-blood-pressure/guide/diastolic-and-systolic-blood-pressure-know-your-numbers",
+    "filename": "WebMD_Diastole_vs_Systole_Know_Your_Blood_Pressure_Numbers.txt",
+    "filepath": "../data/medical_articles/WebMD_Diastole_vs_Systole_Know_Your_Blood_Pressure_Numbers.txt",
+    "word_count": 2498,
+    "collected_at": "2025-11-15T16:15:36.032611"
+  },
+  {
+    "title": "DASH Diet and High Blood Pressure",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/hypertension-high-blood-pressure/guide/dash-diet",
+    "filename": "WebMD_DASH_Diet_and_High_Blood_Pressure.txt",
+    "filepath": "../data/medical_articles/WebMD_DASH_Diet_and_High_Blood_Pressure.txt",
+    "word_count": 1569,
+    "collected_at": "2025-11-15T16:15:47.866279"
+  },
+  {
+    "title": "Type 1 Diabetes",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/diabetes/type-1-diabetes",
+    "filename": "WebMD_Type_1_Diabetes.txt",
+    "filepath": "../data/medical_articles/WebMD_Type_1_Diabetes.txt",
+    "word_count": 2883,
+    "collected_at": "2025-11-15T16:15:53.663453"
+  },
+  {
+    "title": "Type 2 Diabetes: Symptoms, Causes, and Treatment",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/diabetes/type-2-diabetes",
+    "filename": "WebMD_Type_2_Diabetes_Symptoms_Causes_and_Treatment.txt",
+    "filepath": "../data/medical_articles/WebMD_Type_2_Diabetes_Symptoms_Causes_and_Treatment.txt",
+    "word_count": 4693,
+    "collected_at": "2025-11-15T16:16:06.547882"
+  },
+  {
+    "title": "A Complete List of Diabetes Medications",
+    "source": "Healthline",
+    "url": "https://www.healthline.com/health/diabetes/medications-list",
+    "filename": "Healthline_A_Complete_List_of_Diabetes_Medications.txt",
+    "filepath": "../data/medical_articles/Healthline_A_Complete_List_of_Diabetes_Medications.txt",
+    "word_count": 1647,
+    "collected_at": "2025-11-15T16:16:58.050493"
+  },
+  {
+    "title": "Everything You Need to Know About High Blood Pressure (Hypertension)",
+    "source": "Healthline",
+    "url": "https://www.healthline.com/health/high-blood-pressure-hypertension",
+    "filename": "Healthline_Everything_You_Need_to_Know_About_High_Blood_Pressure_Hypertension.txt",
+    "filepath": "../data/medical_articles/Healthline_Everything_You_Need_to_Know_About_High_Blood_Pressure_Hypertension.txt",
+    "word_count": 1724,
+    "collected_at": "2025-11-15T16:17:08.119998"
+  },
+  {
+    "title": "Understanding Type 2 Diabetes",
+    "source": "Healthline",
+    "url": "https://www.healthline.com/health/type-2-diabetes",
+    "filename": "Healthline_Understanding_Type_2_Diabetes.txt",
+    "filepath": "../data/medical_articles/Healthline_Understanding_Type_2_Diabetes.txt",
+    "word_count": 1066,
+    "collected_at": "2025-11-15T16:17:12.166150"
+  },
+  {
+    "title": "Everything To Know About A1C Levels in Diabetes Care",
+    "source": "Healthline",
+    "url": "https://www.healthline.com/health/type-2-diabetes/ac1-test",
+    "filename": "Healthline_Everything_To_Know_About_A1C_Levels_in_Diabetes_Care.txt",
+    "filepath": "../data/medical_articles/Healthline_Everything_To_Know_About_A1C_Levels_in_Diabetes_Care.txt",
+    "word_count": 874,
+    "collected_at": "2025-11-15T16:17:33.654332"
+  },
+  {
+    "title": "What to Know About Diuretics",
+    "source": "Healthline",
+    "url": "https://www.healthline.com/health/diuretics",
+    "filename": "Healthline_What_to_Know_About_Diuretics.txt",
+    "filepath": "../data/medical_articles/Healthline_What_to_Know_About_Diuretics.txt",
+    "word_count": 671,
+    "collected_at": "2025-11-15T16:17:44.405871"
+  },
+  {
+    "title": "10 Common Blood Pressure Medication Classes",
+    "source": "Healthline",
+    "url": "https://www.healthline.com/health/high-blood-pressure-hypertension-medication",
+    "filename": "Healthline_10_Common_Blood_Pressure_Medication_Classes.txt",
+    "filepath": "../data/medical_articles/Healthline_10_Common_Blood_Pressure_Medication_Classes.txt",
+    "word_count": 1328,
+    "collected_at": "2025-11-15T16:17:59.302574"
+  },
+  {
+    "title": "What Is Type 1 Diabetes?",
+    "source": "Healthline",
+    "url": "https://www.healthline.com/health/type-1-diabetes",
+    "filename": "Healthline_What_Is_Type_1_Diabetes.txt",
+    "filepath": "../data/medical_articles/Healthline_What_Is_Type_1_Diabetes.txt",
+    "word_count": 2118,
+    "collected_at": "2025-11-15T16:19:10.445549"
+  },
+  {
+    "title": "Everything You Need to Know About Diabetes",
+    "source": "Healthline",
+    "url": "https://www.healthline.com/health/diabetes",
+    "filename": "Healthline_Everything_You_Need_to_Know_About_Diabetes.txt",
+    "filepath": "../data/medical_articles/Healthline_Everything_You_Need_to_Know_About_Diabetes.txt",
+    "word_count": 2073,
+    "collected_at": "2025-11-15T16:19:14.115763"
+  },
+  {
+    "title": "National Diabetes Statistics Report",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/diabetes/php/data-research/index.html",
+    "filename": "CDC_National_Diabetes_Statistics_Report.txt",
+    "filepath": "../data/medical_articles/CDC_National_Diabetes_Statistics_Report.txt",
+    "word_count": 3876,
+    "collected_at": "2025-11-15T16:21:10.981320"
+  },
+  {
+    "title": "About Sodium and Health",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/salt/index.htm",
+    "filename": "CDC_About_Sodium_and_Health.txt",
+    "filepath": "../data/medical_articles/CDC_About_Sodium_and_Health.txt",
+    "word_count": 296,
+    "collected_at": "2025-11-15T16:22:17.186900"
+  },
+  {
+    "title": "Health",
+    "source": "Johns Hopkins Medicine",
+    "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/high-blood-pressure-hypertension",
+    "filename": "Johns_Hopkins_Medicine_Health.txt",
+    "filepath": "../data/medical_articles/Johns_Hopkins_Medicine_Health.txt",
+    "word_count": 1021,
+    "collected_at": "2025-11-15T16:25:30.101924"
+  },
+  {
+    "title": "How to Prevent High Blood Pressure",
+    "source": "MedlinePlus",
+    "url": "https://medlineplus.gov/howtopreventhighbloodpressure.html",
+    "filename": "MedlinePlus_How_to_Prevent_High_Blood_Pressure.txt",
+    "filepath": "../data/medical_articles/MedlinePlus_How_to_Prevent_High_Blood_Pressure.txt",
+    "word_count": 1339,
+    "collected_at": "2025-11-15T16:26:04.420807"
+  },
+  {
+    "title": "High Blood Pressure",
+    "source": "MedlinePlus",
+    "url": "https://medlineplus.gov/highbloodpressure.html",
+    "filename": "MedlinePlus_High_Blood_Pressure.txt",
+    "filepath": "../data/medical_articles/MedlinePlus_High_Blood_Pressure.txt",
+    "word_count": 1222,
+    "collected_at": "2025-11-15T16:26:10.831117"
+  },
+  {
+    "title": "Diabetes Medicines",
+    "source": "MedlinePlus",
+    "url": "https://medlineplus.gov/diabetesmedicines.html",
+    "filename": "MedlinePlus_Diabetes_Medicines.txt",
+    "filepath": "../data/medical_articles/MedlinePlus_Diabetes_Medicines.txt",
+    "word_count": 935,
+    "collected_at": "2025-11-15T16:26:15.282135"
+  },
+  {
+    "title": "Blood Pressure Medicines",
+    "source": "MedlinePlus",
+    "url": "https://medlineplus.gov/highbloodpressuremedicines.html",
+    "filename": "MedlinePlus_Blood_Pressure_Medicines.txt",
+    "filepath": "../data/medical_articles/MedlinePlus_Blood_Pressure_Medicines.txt",
+    "word_count": 644,
+    "collected_at": "2025-11-15T16:26:19.704740"
+  },
+  {
+    "title": "Diabetes treatment: Medications for type 2 diabetes",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-treatment/art-20051004",
+    "filename": "Mayo_Clinic_Diabetes_treatment_Medications_for_type_2_diabetes.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diabetes_treatment_Medications_for_type_2_diabetes.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:27:45.341954"
+  },
+  {
+    "title": "Diabetes symptoms: When diabetes symptoms are a concern",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-symptoms/art-20044248",
+    "filename": "Mayo_Clinic_Diabetes_symptoms_When_diabetes_symptoms_are_a_concern.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diabetes_symptoms_When_diabetes_symptoms_are_a_concern.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:27:48.428296"
+  },
+  {
+    "title": "Diabetes and exercise: When to monitor your blood sugar",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-and-exercise/art-20045697",
+    "filename": "Mayo_Clinic_Diabetes_and_exercise_When_to_monitor_your_blood_sugar.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diabetes_and_exercise_When_to_monitor_your_blood_sugar.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:27:50.425386"
+  },
+  {
+    "title": "Type 1 diabetes",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/type-1-diabetes/symptoms-causes/syc-20353011",
+    "filename": "Mayo_Clinic_Type_1_diabetes.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Type_1_diabetes.txt",
+    "word_count": 2597,
+    "collected_at": "2025-11-15T16:28:05.613247"
+  },
+  {
+    "title": "Blood pressure: Does it have a daily pattern?",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/blood-pressure/faq-20058115",
+    "filename": "Mayo_Clinic_Blood_pressure_Does_it_have_a_daily_pattern.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Blood_pressure_Does_it_have_a_daily_pattern.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:28:17.606861"
+  },
+  {
+    "title": "Prediabetes",
+    "source": "MedlinePlus",
+    "url": "https://medlineplus.gov/prediabetes.html",
+    "filename": "MedlinePlus_Prediabetes.txt",
+    "filepath": "../data/medical_articles/MedlinePlus_Prediabetes.txt",
+    "word_count": 886,
+    "collected_at": "2025-11-15T16:33:37.725493"
+  },
+  {
+    "title": "Diabetes",
+    "source": "MedlinePlus",
+    "url": "https://medlineplus.gov/diabetes.html",
+    "filename": "MedlinePlus_Diabetes.txt",
+    "filepath": "../data/medical_articles/MedlinePlus_Diabetes.txt",
+    "word_count": 1653,
+    "collected_at": "2025-11-15T16:33:39.442024"
+  },
+  {
+    "title": "Diabetes Type 2",
+    "source": "MedlinePlus",
+    "url": "https://medlineplus.gov/diabetestype2.html",
+    "filename": "MedlinePlus_Diabetes_Type_2.txt",
+    "filepath": "../data/medical_articles/MedlinePlus_Diabetes_Type_2.txt",
+    "word_count": 1310,
+    "collected_at": "2025-11-15T16:33:42.908320"
+  },
+  {
+    "title": "Diabetes",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/care-at-mayo-clinic/mac-20371457",
+    "filename": "Mayo_Clinic_Diabetes.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diabetes.txt",
+    "word_count": 791,
+    "collected_at": "2025-11-15T16:38:39.411161"
+  },
+  {
+    "title": "Gestational diabetes",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/gestational-diabetes/symptoms-causes/syc-20355339",
+    "filename": "Mayo_Clinic_Gestational_diabetes.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Gestational_diabetes.txt",
+    "word_count": 1290,
+    "collected_at": "2025-11-15T16:38:44.059747"
+  },
+  {
+    "title": "Type 2 diabetes in children",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes-in-children/symptoms-causes/syc-20355318",
+    "filename": "Mayo_Clinic_Type_2_diabetes_in_children.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Type_2_diabetes_in_children.txt",
+    "word_count": 1436,
+    "collected_at": "2025-11-15T16:38:45.499453"
+  },
+  {
+    "title": "\u7cd6\u5c3f\u75c5",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/zh-hans/diseases-conditions/diabetes/symptoms-causes/syc-20371444",
+    "filename": "Mayo_Clinic_\u7cd6\u5c3f\u75c5.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_\u7cd6\u5c3f\u75c5.txt",
+    "word_count": 477,
+    "collected_at": "2025-11-15T16:38:49.523331"
+  },
+  {
+    "title": "Type 1 diabetes in children",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/type-1-diabetes-in-children/symptoms-causes/syc-20355306",
+    "filename": "Mayo_Clinic_Type_1_diabetes_in_children.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Type_1_diabetes_in_children.txt",
+    "word_count": 1350,
+    "collected_at": "2025-11-15T16:38:51.642493"
+  },
+  {
+    "title": "\u062f\u0627\u0621 \u0627\u0644\u0633\u0643\u0631\u064a",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/ar/diseases-conditions/diabetes/symptoms-causes/syc-20371444",
+    "filename": "Mayo_Clinic_\u062f\u0627\u0621_\u0627\u0644\u0633\u0643\u0631\u064a.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_\u062f\u0627\u0621_\u0627\u0644\u0633\u0643\u0631\u064a.txt",
+    "word_count": 2002,
+    "collected_at": "2025-11-15T16:38:58.752014"
+  },
+  {
+    "title": "Effects of diabetes on the body and organs",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/317483",
+    "filename": "MedicalNewsToday_Effects_of_diabetes_on_the_body_and_organs.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Effects_of_diabetes_on_the_body_and_organs.txt",
+    "word_count": 2187,
+    "collected_at": "2025-11-15T16:54:54.882239"
+  },
+  {
+    "title": "Diabetes types and treatments",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/323627",
+    "filename": "MedicalNewsToday_Diabetes_types_and_treatments.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Diabetes_types_and_treatments.txt",
+    "word_count": 2541,
+    "collected_at": "2025-11-15T16:54:56.281955"
+  },
+  {
+    "title": "What are the early symptoms of COPD?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/323733",
+    "filename": "MedicalNewsToday_What_are_the_early_symptoms_of_COPD.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_What_are_the_early_symptoms_of_COPD.txt",
+    "word_count": 674,
+    "collected_at": "2025-11-15T16:54:58.123929"
+  },
+  {
+    "title": "Statistics and facts about type 2 diabetes",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/318472",
+    "filename": "MedicalNewsToday_Statistics_and_facts_about_type_2_diabetes.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Statistics_and_facts_about_type_2_diabetes.txt",
+    "word_count": 1171,
+    "collected_at": "2025-11-15T16:54:59.268204"
+  },
+  {
+    "title": "These supplements may actually harm your health",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/323013",
+    "filename": "MedicalNewsToday_These_supplements_may_actually_harm_your_health.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_These_supplements_may_actually_harm_your_health.txt",
+    "word_count": 615,
+    "collected_at": "2025-11-15T16:55:00.807324"
+  },
+  {
+    "title": "Is it safe for a person with diabetes to eat sweets?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/323080",
+    "filename": "MedicalNewsToday_Is_it_safe_for_a_person_with_diabetes_to_eat_sweets.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Is_it_safe_for_a_person_with_diabetes_to_eat_sweets.txt",
+    "word_count": 1507,
+    "collected_at": "2025-11-15T16:55:05.324719"
+  },
+  {
+    "title": "Everything you need to know about hypertension (high blood pressure)",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/150109",
+    "filename": "MedicalNewsToday_Everything_you_need_to_know_about_hypertension_high_blood_pressure.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Everything_you_need_to_know_about_hypertension_high_blood_pressure.txt",
+    "word_count": 1723,
+    "collected_at": "2025-11-15T16:55:07.246307"
+  },
+  {
+    "title": "18 best foods for high blood pressure",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/322284",
+    "filename": "MedicalNewsToday_18_best_foods_for_high_blood_pressure.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_18_best_foods_for_high_blood_pressure.txt",
+    "word_count": 2409,
+    "collected_at": "2025-11-15T16:55:08.510906"
+  },
+  {
+    "title": "How can you stop a chronic UTI?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/322185",
+    "filename": "MedicalNewsToday_How_can_you_stop_a_chronic_UTI.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_How_can_you_stop_a_chronic_UTI.txt",
+    "word_count": 1000,
+    "collected_at": "2025-11-15T16:55:10.111023"
+  },
+  {
+    "title": "Chronic fatigue syndrome: Changes in brain chemistry found",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/320051",
+    "filename": "MedicalNewsToday_Chronic_fatigue_syndrome_Changes_in_brain_chemistry_found.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Chronic_fatigue_syndrome_Changes_in_brain_chemistry_found.txt",
+    "word_count": 635,
+    "collected_at": "2025-11-15T16:55:12.646322"
+  },
+  {
+    "title": "What foods and drinks to have and avoid if you have diarrhea",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/320124",
+    "filename": "MedicalNewsToday_What_foods_and_drinks_to_have_and_avoid_if_you_have_diarrhea.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_What_foods_and_drinks_to_have_and_avoid_if_you_have_diarrhea.txt",
+    "word_count": 1478,
+    "collected_at": "2025-11-15T16:55:14.153944"
+  },
+  {
+    "title": "How do free radicals affect the body?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/318652",
+    "filename": "MedicalNewsToday_How_do_free_radicals_affect_the_body.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_How_do_free_radicals_affect_the_body.txt",
+    "word_count": 889,
+    "collected_at": "2025-11-15T16:55:15.240025"
+  },
+  {
+    "title": "Medicare costs: 3 key changes in 2026",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/medicare-costs-3-key-changes-in-2026",
+    "filename": "MedicalNewsToday_Medicare_costs_3_key_changes_in_2026.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Medicare_costs_3_key_changes_in_2026.txt",
+    "word_count": 1368,
+    "collected_at": "2025-11-15T16:55:18.105380"
+  },
+  {
+    "title": "In Conversation podcast",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/in-conversation-podcast",
+    "filename": "MedicalNewsToday_In_Conversation_podcast.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_In_Conversation_podcast.txt",
+    "word_count": 4540,
+    "collected_at": "2025-11-15T16:55:19.731403"
+  },
+  {
+    "title": "Artificial sweeteners and brain aging: What we know so far",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/artificial-sweeteners-and-brain-aging-what-we-know-so-far",
+    "filename": "MedicalNewsToday_Artificial_sweeteners_and_brain_aging_What_we_know_so_far.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Artificial_sweeteners_and_brain_aging_What_we_know_so_far.txt",
+    "word_count": 371,
+    "collected_at": "2025-11-15T16:55:20.976307"
+  },
+  {
+    "title": "Does the Mediterranean diet hold the key to longevity?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/does-the-mediterranean-diet-hold-the-key-to-longevity",
+    "filename": "MedicalNewsToday_Does_the_Mediterranean_diet_hold_the_key_to_longevity.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Does_the_Mediterranean_diet_hold_the_key_to_longevity.txt",
+    "word_count": 476,
+    "collected_at": "2025-11-15T16:55:22.492577"
+  },
+  {
+    "title": "Can fiber help you lose weight? Dietitian answers 5 key questions",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/can-fiber-help-lose-weight-dietitian-answers-5-key-questions",
+    "filename": "MedicalNewsToday_Can_fiber_help_you_lose_weight_Dietitian_answers_5_key_questions.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Can_fiber_help_you_lose_weight_Dietitian_answers_5_key_questions.txt",
+    "word_count": 646,
+    "collected_at": "2025-11-15T16:55:23.342967"
+  },
+  {
+    "title": "Health misinformation and disinformation: How to avoid it",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/health-misinformation-and-disinformation-how-to-avoid-it",
+    "filename": "MedicalNewsToday_Health_misinformation_and_disinformation_How_to_avoid_it.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Health_misinformation_and_disinformation_How_to_avoid_it.txt",
+    "word_count": 446,
+    "collected_at": "2025-11-15T16:55:24.213728"
+  },
+  {
+    "title": "Brain health, sleep, diet: 3 health resolutions for 2025",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/brain-health-sleep-diet-3-health-resolutions-for-2025",
+    "filename": "MedicalNewsToday_Brain_health_sleep_diet_3_health_resolutions_for_2025.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Brain_health_sleep_diet_3_health_resolutions_for_2025.txt",
+    "word_count": 425,
+    "collected_at": "2025-11-15T16:55:25.770769"
+  },
+  {
+    "title": "5 things everyone should know about menopause",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/5-things-everyone-should-know-about-menopause",
+    "filename": "MedicalNewsToday_5_things_everyone_should_know_about_menopause.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_5_things_everyone_should_know_about_menopause.txt",
+    "word_count": 310,
+    "collected_at": "2025-11-15T16:55:27.184426"
+  },
+  {
+    "title": "Welcome to our content hubs",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/content-hubs",
+    "filename": "MedicalNewsToday_Welcome_to_our_content_hubs.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Welcome_to_our_content_hubs.txt",
+    "word_count": 3028,
+    "collected_at": "2025-11-15T16:55:28.940737"
+  },
+  {
+    "title": "BMI calculator, charts, and categories",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/323586",
+    "filename": "MedicalNewsToday_BMI_calculator_charts_and_categories.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_BMI_calculator_charts_and_categories.txt",
+    "word_count": 994,
+    "collected_at": "2025-11-15T16:55:30.190045"
+  },
+  {
+    "title": "Understanding your reading with a blood pressure chart",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/327077",
+    "filename": "MedicalNewsToday_Understanding_your_reading_with_a_blood_pressure_chart.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Understanding_your_reading_with_a_blood_pressure_chart.txt",
+    "word_count": 752,
+    "collected_at": "2025-11-15T16:55:31.557228"
+  },
+  {
+    "title": "A visual guide for performing a self exam for breast cancer",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/316898",
+    "filename": "MedicalNewsToday_A_visual_guide_for_performing_a_self_exam_for_breast_cancer.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_A_visual_guide_for_performing_a_self_exam_for_breast_cancer.txt",
+    "word_count": 1237,
+    "collected_at": "2025-11-15T16:55:32.738063"
+  },
+  {
+    "title": "Sleep calculator: How much sleep do you need?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/sleep-calculator",
+    "filename": "MedicalNewsToday_Sleep_calculator_How_much_sleep_do_you_need.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Sleep_calculator_How_much_sleep_do_you_need.txt",
+    "word_count": 1001,
+    "collected_at": "2025-11-15T16:55:34.446729"
+  },
+  {
+    "title": "Everything you need to know about rheumatoid arthritis",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/science-fact-or-fiction-separating-ra-myths-from-facts#1",
+    "filename": "MedicalNewsToday_Everything_you_need_to_know_about_rheumatoid_arthritis.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Everything_you_need_to_know_about_rheumatoid_arthritis.txt",
+    "word_count": 1908,
+    "collected_at": "2025-11-15T16:55:35.692641"
+  },
+  {
+    "title": "Science fact or fiction: Complementary therapies for AS pain",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/complementary-therapies-for-as-quiz#1",
+    "filename": "MedicalNewsToday_Science_fact_or_fiction_Complementary_therapies_for_AS_pain.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Science_fact_or_fiction_Complementary_therapies_for_AS_pain.txt",
+    "word_count": 185,
+    "collected_at": "2025-11-15T16:55:39.721310"
+  },
+  {
+    "title": "Our editorial process",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/process",
+    "filename": "MedicalNewsToday_Our_editorial_process.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Our_editorial_process.txt",
+    "word_count": 1206,
+    "collected_at": "2025-11-15T16:55:41.414214"
+  },
+  {
+    "title": "Diabetes Complications",
+    "source": "MedlinePlus",
+    "url": "https://medlineplus.gov/diabetescomplications.html",
+    "filename": "MedlinePlus_Diabetes_Complications.txt",
+    "filepath": "../data/medical_articles/MedlinePlus_Diabetes_Complications.txt",
+    "word_count": 744,
+    "collected_at": "2025-11-15T16:58:20.369859"
+  },
+  {
+    "title": "Diabetes",
+    "source": "WHO",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "filename": "WHO_Diabetes.txt",
+    "filepath": "../data/medical_articles/WHO_Diabetes.txt",
+    "word_count": 1138,
+    "collected_at": "2025-11-15T16:58:21.920391"
+  },
+  {
+    "title": "Hypertension",
+    "source": "WHO",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/hypertension",
+    "filename": "WHO_Hypertension.txt",
+    "filepath": "../data/medical_articles/WHO_Hypertension.txt",
+    "word_count": 1334,
+    "collected_at": "2025-11-15T16:58:23.414319"
+  },
+  {
+    "title": "Gut bacterium could be key to tackling obesity crisis",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-gut-bacterium-key-tackling-obesity.html",
+    "filename": "Medical_Xpress_Gut_bacterium_could_be_key_to_tackling_obesity_crisis.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Gut_bacterium_could_be_key_to_tackling_obesity_crisis.txt",
+    "word_count": 515,
+    "collected_at": "2025-11-15T16:58:30.111912"
+  },
+  {
+    "title": "Big sex differences found in how diet and insulin rewire muscle for better blood sugar",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-big-sex-differences-diet-insulin.html",
+    "filename": "Medical_Xpress_Big_sex_differences_found_in_how_diet_and_insulin_rewire_muscle_for_better_blood_sugar.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Big_sex_differences_found_in_how_diet_and_insulin_rewire_muscle_for_better_blood_sugar.txt",
+    "word_count": 676,
+    "collected_at": "2025-11-15T16:58:32.765270"
+  },
+  {
+    "title": "GLP-1 and health: Beyond weight loss in the Ozempic era",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-glp-health-weight-loss-ozempic.html",
+    "filename": "Medical_Xpress_GLP_1_and_health_Beyond_weight_loss_in_the_Ozempic_era.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_GLP_1_and_health_Beyond_weight_loss_in_the_Ozempic_era.txt",
+    "word_count": 1046,
+    "collected_at": "2025-11-15T16:58:35.614082"
+  },
+  {
+    "title": "Ultra-processed foods tied to higher rates of early-onset colorectal cancer precursors in adults",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-ultra-foods-higher-early-onset.html",
+    "filename": "Medical_Xpress_Ultra_processed_foods_tied_to_higher_rates_of_early_onset_colorectal_cancer_precursors_in_adults.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Ultra_processed_foods_tied_to_higher_rates_of_early_onset_colorectal_cancer_precursors_in_adults.txt",
+    "word_count": 705,
+    "collected_at": "2025-11-15T16:58:37.698273"
+  },
+  {
+    "title": "Normalizing blood sugars could cut type 2 diabetes risk in half",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-blood-sugars-diabetes.html",
+    "filename": "Medical_Xpress_Normalizing_blood_sugars_could_cut_type_2_diabetes_risk_in_half.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Normalizing_blood_sugars_could_cut_type_2_diabetes_risk_in_half.txt",
+    "word_count": 547,
+    "collected_at": "2025-11-15T16:58:40.151201"
+  },
+  {
+    "title": "Five health benefits of line dancing\u2014according to science",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-health-benefits-line-science.html",
+    "filename": "Medical_Xpress_Five_health_benefits_of_line_dancingaccording_to_science.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Five_health_benefits_of_line_dancingaccording_to_science.txt",
+    "word_count": 662,
+    "collected_at": "2025-11-15T16:58:41.878306"
+  },
+  {
+    "title": "Why ultra-processed foods dominate the grocery store\u2014and what it means for your health",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-ultra-foods-dominate-grocery-health.html",
+    "filename": "Medical_Xpress_Why_ultra_processed_foods_dominate_the_grocery_storeand_what_it_means_for_your_health.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Why_ultra_processed_foods_dominate_the_grocery_storeand_what_it_means_for_your_health.txt",
+    "word_count": 621,
+    "collected_at": "2025-11-15T16:58:44.458971"
+  },
+  {
+    "title": "Metformin as a new standard of care to manage weight gain side effect of certain bipolar medications",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-metformin-standard-weight-gain-side.html",
+    "filename": "Medical_Xpress_Metformin_as_a_new_standard_of_care_to_manage_weight_gain_side_effect_of_certain_bipolar_medications.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Metformin_as_a_new_standard_of_care_to_manage_weight_gain_side_effect_of_certain_bipolar_medications.txt",
+    "word_count": 744,
+    "collected_at": "2025-11-15T16:58:46.729491"
+  },
+  {
+    "title": "One-hour blood glucose level: A better chance to prevent diabetes",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-hour-blood-glucose-chance-diabetes.html",
+    "filename": "Medical_Xpress_One_hour_blood_glucose_level_A_better_chance_to_prevent_diabetes.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_One_hour_blood_glucose_level_A_better_chance_to_prevent_diabetes.txt",
+    "word_count": 720,
+    "collected_at": "2025-11-15T16:58:49.301478"
+  },
+  {
+    "title": "Nature vs. nurture: Sequencing study quantifies genetic influence on human traits and diseases",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-nature-nurture-sequencing-quantifies-genetic.html",
+    "filename": "Medical_Xpress_Nature_vs_nurture_Sequencing_study_quantifies_genetic_influence_on_human_traits_and_diseases.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Nature_vs_nurture_Sequencing_study_quantifies_genetic_influence_on_human_traits_and_diseases.txt",
+    "word_count": 383,
+    "collected_at": "2025-11-15T16:58:52.315513"
+  },
+  {
+    "title": "Q&A: Why experts urge continued hepatitis B vaccine birth doses for newborns",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-qa-experts-urge-hepatitis-vaccine.html",
+    "filename": "Medical_Xpress_QA_Why_experts_urge_continued_hepatitis_B_vaccine_birth_doses_for_newborns.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_QA_Why_experts_urge_continued_hepatitis_B_vaccine_birth_doses_for_newborns.txt",
+    "word_count": 891,
+    "collected_at": "2025-11-15T16:58:58.343398"
+  },
+  {
+    "title": "From contraception to menopause: Why women face a higher risk of stroke",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-contraception-menopause-women-higher.html",
+    "filename": "Medical_Xpress_From_contraception_to_menopause_Why_women_face_a_higher_risk_of_stroke.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_From_contraception_to_menopause_Why_women_face_a_higher_risk_of_stroke.txt",
+    "word_count": 994,
+    "collected_at": "2025-11-15T16:59:00.821518"
+  },
+  {
+    "title": "Lifelong drugs for autoimmune diseases don't work well. Now scientists are trying something new",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-bold-approach-autoimmune-diseases.html",
+    "filename": "Medical_Xpress_Lifelong_drugs_for_autoimmune_diseases_dont_work_well_Now_scientists_are_trying_something_new.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Lifelong_drugs_for_autoimmune_diseases_dont_work_well_Now_scientists_are_trying_something_new.txt",
+    "word_count": 1349,
+    "collected_at": "2025-11-15T16:59:03.485916"
+  },
+  {
+    "title": "Scientists trying to unravel one of the body's biggest mysteries",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-scientists-unravel-body-biggest-mysteries.html",
+    "filename": "Medical_Xpress_Scientists_trying_to_unravel_one_of_the_bodys_biggest_mysteries.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Scientists_trying_to_unravel_one_of_the_bodys_biggest_mysteries.txt",
+    "word_count": 1806,
+    "collected_at": "2025-11-15T16:59:06.391417"
+  },
+  {
+    "title": "Why type 1 diabetes is more aggressive in young children",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-diabetes-aggressive-young-children.html",
+    "filename": "Medical_Xpress_Why_type_1_diabetes_is_more_aggressive_in_young_children.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Why_type_1_diabetes_is_more_aggressive_in_young_children.txt",
+    "word_count": 698,
+    "collected_at": "2025-11-15T16:59:08.859729"
+  },
+  {
+    "title": "Why do some people with depression struggle to get better?",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-people-depression-struggle.html",
+    "filename": "Medical_Xpress_Why_do_some_people_with_depression_struggle_to_get_better.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Why_do_some_people_with_depression_struggle_to_get_better.txt",
+    "word_count": 586,
+    "collected_at": "2025-11-15T16:59:15.071301"
+  },
+  {
+    "title": "Nutritional supplement could help with fat metabolism activation therapies",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-nutritional-supplement-fat-metabolism-therapies.html",
+    "filename": "Medical_Xpress_Nutritional_supplement_could_help_with_fat_metabolism_activation_therapies.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Nutritional_supplement_could_help_with_fat_metabolism_activation_therapies.txt",
+    "word_count": 390,
+    "collected_at": "2025-11-15T16:59:18.060110"
+  },
+  {
+    "title": "Hypertension affects the brain much earlier than expected, study suggests",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-hypertension-affects-brain-earlier.html",
+    "filename": "Medical_Xpress_Hypertension_affects_the_brain_much_earlier_than_expected_study_suggests.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Hypertension_affects_the_brain_much_earlier_than_expected_study_suggests.txt",
+    "word_count": 706,
+    "collected_at": "2025-11-15T16:59:23.619975"
+  },
+  {
+    "title": "High blood pressure in children nearly doubled from 2000\u20132020, global study finds",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-high-blood-pressure-children-global.html",
+    "filename": "Medical_Xpress_High_blood_pressure_in_children_nearly_doubled_from_20002020_global_study_finds.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_High_blood_pressure_in_children_nearly_doubled_from_20002020_global_study_finds.txt",
+    "word_count": 900,
+    "collected_at": "2025-11-15T16:59:28.240153"
+  },
+  {
+    "title": "Lactulose and tai chi show promise preventing falls for cirrhosis patients",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-lactulose-tai-chi-falls-cirrhosis.html",
+    "filename": "Medical_Xpress_Lactulose_and_tai_chi_show_promise_preventing_falls_for_cirrhosis_patients.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Lactulose_and_tai_chi_show_promise_preventing_falls_for_cirrhosis_patients.txt",
+    "word_count": 352,
+    "collected_at": "2025-11-15T16:59:30.124143"
+  },
+  {
+    "title": "From heart health to drug interactions: Garlic's effect on the body",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-heart-health-drug-interactions-garlic.html",
+    "filename": "Medical_Xpress_From_heart_health_to_drug_interactions_Garlics_effect_on_the_body.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_From_heart_health_to_drug_interactions_Garlics_effect_on_the_body.txt",
+    "word_count": 995,
+    "collected_at": "2025-11-15T16:59:33.188262"
+  },
+  {
+    "title": "Sleep-related disorders associated with hypertension in postmenopausal women",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-disorders-hypertension-postmenopausal-women.html",
+    "filename": "Medical_Xpress_Sleep_related_disorders_associated_with_hypertension_in_postmenopausal_women.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Sleep_related_disorders_associated_with_hypertension_in_postmenopausal_women.txt",
+    "word_count": 383,
+    "collected_at": "2025-11-15T16:59:37.251389"
+  },
+  {
+    "title": "Speaking more languages might keep you younger, study suggests",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-languages-younger.html",
+    "filename": "Medical_Xpress_Speaking_more_languages_might_keep_you_younger_study_suggests.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Speaking_more_languages_might_keep_you_younger_study_suggests.txt",
+    "word_count": 502,
+    "collected_at": "2025-11-15T16:59:40.123263"
+  },
+  {
+    "title": "Plant-based diet can prevent, reverse form of heart disease in animals with hypertension",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-based-diet-reverse-heart-disease.html",
+    "filename": "Medical_Xpress_Plant_based_diet_can_prevent_reverse_form_of_heart_disease_in_animals_with_hypertension.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Plant_based_diet_can_prevent_reverse_form_of_heart_disease_in_animals_with_hypertension.txt",
+    "word_count": 701,
+    "collected_at": "2025-11-15T16:59:42.400502"
+  },
+  {
+    "title": "Poisonings from ADHD medication have quadrupled in the last ten years",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-poisonings-adhd-medication-quadrupled-ten.html",
+    "filename": "Medical_Xpress_Poisonings_from_ADHD_medication_have_quadrupled_in_the_last_ten_years.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Poisonings_from_ADHD_medication_have_quadrupled_in_the_last_ten_years.txt",
+    "word_count": 629,
+    "collected_at": "2025-11-15T16:59:44.250168"
+  },
+  {
+    "title": "AI predicts when donor livers are viable, potentially slashing canceled transplants by 60%",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-ai-donor-livers-viable-potentially.html",
+    "filename": "Medical_Xpress_AI_predicts_when_donor_livers_are_viable_potentially_slashing_canceled_transplants_by_60.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_AI_predicts_when_donor_livers_are_viable_potentially_slashing_canceled_transplants_by_60.txt",
+    "word_count": 1165,
+    "collected_at": "2025-11-15T16:59:53.182390"
+  },
+  {
+    "title": "Conflict with fathers and friends speeds up aging",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-conflict-fathers-friends-aging.html",
+    "filename": "Medical_Xpress_Conflict_with_fathers_and_friends_speeds_up_aging.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Conflict_with_fathers_and_friends_speeds_up_aging.txt",
+    "word_count": 544,
+    "collected_at": "2025-11-15T16:59:55.115591"
+  },
+  {
+    "title": "During a heart attack, immediate stenting of other arteries isn't always necessary",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-heart-stenting-arteries-isnt.html",
+    "filename": "Medical_Xpress_During_a_heart_attack_immediate_stenting_of_other_arteries_isnt_always_necessary.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_During_a_heart_attack_immediate_stenting_of_other_arteries_isnt_always_necessary.txt",
+    "word_count": 554,
+    "collected_at": "2025-11-15T17:00:02.079771"
+  },
+  {
+    "title": "States hope to use rural health money to keep doctors, combat chronic disease",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-states-rural-health-money-doctors.html",
+    "filename": "Medical_Xpress_States_hope_to_use_rural_health_money_to_keep_doctors_combat_chronic_disease.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_States_hope_to_use_rural_health_money_to_keep_doctors_combat_chronic_disease.txt",
+    "word_count": 1991,
+    "collected_at": "2025-11-15T17:00:04.880168"
+  },
+  {
+    "title": "How income may shape risk of dementia",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-income-dementia.html",
+    "filename": "Medical_Xpress_How_income_may_shape_risk_of_dementia.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_How_income_may_shape_risk_of_dementia.txt",
+    "word_count": 643,
+    "collected_at": "2025-11-15T17:00:07.032866"
+  },
+  {
+    "title": "Circadian rhythm discovery may transform what time of day doctors induce labor",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-circadian-rhythm-discovery-day-doctors.html",
+    "filename": "Medical_Xpress_Circadian_rhythm_discovery_may_transform_what_time_of_day_doctors_induce_labor.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Circadian_rhythm_discovery_may_transform_what_time_of_day_doctors_induce_labor.txt",
+    "word_count": 635,
+    "collected_at": "2025-11-15T17:00:15.034261"
+  },
+  {
+    "title": "Randomized trials show no evidence of non-specific vaccine effects",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-randomized-trials-evidence-specific-vaccine.html",
+    "filename": "Medical_Xpress_Randomized_trials_show_no_evidence_of_non_specific_vaccine_effects.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Randomized_trials_show_no_evidence_of_non_specific_vaccine_effects.txt",
+    "word_count": 601,
+    "collected_at": "2025-11-15T17:00:19.824552"
+  },
+  {
+    "title": "What is HIV seroconversion?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/323825",
+    "filename": "MedicalNewsToday_What_is_HIV_seroconversion.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_What_is_HIV_seroconversion.txt",
+    "word_count": 1255,
+    "collected_at": "2025-11-15T17:07:44.571114"
+  },
+  {
+    "title": "Can apple cider vinegar help with arthritis?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/323074",
+    "filename": "MedicalNewsToday_Can_apple_cider_vinegar_help_with_arthritis.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Can_apple_cider_vinegar_help_with_arthritis.txt",
+    "word_count": 853,
+    "collected_at": "2025-11-15T17:07:46.233436"
+  },
+  {
+    "title": "What effects does alcohol have on health?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/305062",
+    "filename": "MedicalNewsToday_What_effects_does_alcohol_have_on_health.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_What_effects_does_alcohol_have_on_health.txt",
+    "word_count": 1327,
+    "collected_at": "2025-11-15T17:07:48.083609"
+  },
+  {
+    "title": "What does autism look like in the brain?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/323741",
+    "filename": "MedicalNewsToday_What_does_autism_look_like_in_the_brain.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_What_does_autism_look_like_in_the_brain.txt",
+    "word_count": 611,
+    "collected_at": "2025-11-15T17:07:49.343706"
+  },
+  {
+    "title": "What causes anxiety?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/323456",
+    "filename": "MedicalNewsToday_What_causes_anxiety.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_What_causes_anxiety.txt",
+    "word_count": 1042,
+    "collected_at": "2025-11-15T17:07:50.343667"
+  },
+  {
+    "title": "What are the symptoms of type 2 diabetes?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/323159",
+    "filename": "MedicalNewsToday_What_are_the_symptoms_of_type_2_diabetes.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_What_are_the_symptoms_of_type_2_diabetes.txt",
+    "word_count": 1778,
+    "collected_at": "2025-11-15T17:07:51.496736"
+  },
+  {
+    "title": "What does the liver do?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/305075",
+    "filename": "MedicalNewsToday_What_does_the_liver_do.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_What_does_the_liver_do.txt",
+    "word_count": 1369,
+    "collected_at": "2025-11-15T17:07:52.137841"
+  },
+  {
+    "title": "Left brain vs. right brain: How does one dominate?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/323892",
+    "filename": "MedicalNewsToday_Left_brain_vs_right_brain_How_does_one_dominate.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Left_brain_vs_right_brain_How_does_one_dominate.txt",
+    "word_count": 619,
+    "collected_at": "2025-11-15T17:07:53.708679"
+  },
+  {
+    "title": "Side effects of the tetanus shot and booster",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/323784",
+    "filename": "MedicalNewsToday_Side_effects_of_the_tetanus_shot_and_booster.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Side_effects_of_the_tetanus_shot_and_booster.txt",
+    "word_count": 957,
+    "collected_at": "2025-11-15T17:07:58.946915"
+  },
+  {
+    "title": "Is aspartame safe, and what are its side effects and health risks?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/322266",
+    "filename": "MedicalNewsToday_Is_aspartame_safe_and_what_are_its_side_effects_and_health_risks.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Is_aspartame_safe_and_what_are_its_side_effects_and_health_risks.txt",
+    "word_count": 1158,
+    "collected_at": "2025-11-15T17:08:07.998188"
+  },
+  {
+    "title": "What to know about high blood pressure",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/159283",
+    "filename": "MedicalNewsToday_What_to_know_about_high_blood_pressure.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_What_to_know_about_high_blood_pressure.txt",
+    "word_count": 3555,
+    "collected_at": "2025-11-15T17:08:08.738928"
+  },
+  {
+    "title": "A guide to eating a balanced diet",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/322298",
+    "filename": "MedicalNewsToday_A_guide_to_eating_a_balanced_diet.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_A_guide_to_eating_a_balanced_diet.txt",
+    "word_count": 798,
+    "collected_at": "2025-11-15T17:08:09.903483"
+  },
+  {
+    "title": "What's the link between birth control and headaches?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/322354",
+    "filename": "MedicalNewsToday_Whats_the_link_between_birth_control_and_headaches.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Whats_the_link_between_birth_control_and_headaches.txt",
+    "word_count": 1100,
+    "collected_at": "2025-11-15T17:08:11.927259"
+  },
+  {
+    "title": "Is tilapia healthy? Safety to eat, nutrition, and how farmers raise it",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/322493",
+    "filename": "MedicalNewsToday_Is_tilapia_healthy_Safety_to_eat_nutrition_and_how_farmers_raise_it.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Is_tilapia_healthy_Safety_to_eat_nutrition_and_how_farmers_raise_it.txt",
+    "word_count": 892,
+    "collected_at": "2025-11-15T17:08:15.643837"
+  },
+  {
+    "title": "Your guide to understanding Vaginal pH balance",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/322537",
+    "filename": "MedicalNewsToday_Your_guide_to_understanding_Vaginal_pH_balance.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Your_guide_to_understanding_Vaginal_pH_balance.txt",
+    "word_count": 854,
+    "collected_at": "2025-11-15T17:08:17.013458"
+  },
+  {
+    "title": "Differences between stool softeners and other laxatives",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/322621",
+    "filename": "MedicalNewsToday_Differences_between_stool_softeners_and_other_laxatives.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Differences_between_stool_softeners_and_other_laxatives.txt",
+    "word_count": 1378,
+    "collected_at": "2025-11-15T17:08:17.693897"
+  },
+  {
+    "title": "Tendon repair: What to expect",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/322689",
+    "filename": "MedicalNewsToday_Tendon_repair_What_to_expect.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Tendon_repair_What_to_expect.txt",
+    "word_count": 906,
+    "collected_at": "2025-11-15T17:08:19.321286"
+  },
+  {
+    "title": "Is it safe to skip your period using birth control?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/322753",
+    "filename": "MedicalNewsToday_Is_it_safe_to_skip_your_period_using_birth_control.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Is_it_safe_to_skip_your_period_using_birth_control.txt",
+    "word_count": 743,
+    "collected_at": "2025-11-15T17:08:20.629473"
+  },
+  {
+    "title": "How long does it take to heal a pulled quad?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/322812",
+    "filename": "MedicalNewsToday_How_long_does_it_take_to_heal_a_pulled_quad.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_How_long_does_it_take_to_heal_a_pulled_quad.txt",
+    "word_count": 843,
+    "collected_at": "2025-11-15T17:08:21.300885"
+  },
+  {
+    "title": "What do the cramps feel like in early pregnancy?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/321456",
+    "filename": "MedicalNewsToday_What_do_the_cramps_feel_like_in_early_pregnancy.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_What_do_the_cramps_feel_like_in_early_pregnancy.txt",
+    "word_count": 865,
+    "collected_at": "2025-11-15T17:08:22.028771"
+  },
+  {
+    "title": "What to know about stabilizing blood pressure",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/321523",
+    "filename": "MedicalNewsToday_What_to_know_about_stabilizing_blood_pressure.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_What_to_know_about_stabilizing_blood_pressure.txt",
+    "word_count": 909,
+    "collected_at": "2025-11-15T17:08:22.814722"
+  },
+  {
+    "title": "Essential oils for a sore throat: Lemon, peppermint, and more",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/321598",
+    "filename": "MedicalNewsToday_Essential_oils_for_a_sore_throat_Lemon_peppermint_and_more.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Essential_oils_for_a_sore_throat_Lemon_peppermint_and_more.txt",
+    "word_count": 609,
+    "collected_at": "2025-11-15T17:08:23.766470"
+  },
+  {
+    "title": "How do you get rid of periungual warts?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/321672",
+    "filename": "MedicalNewsToday_How_do_you_get_rid_of_periungual_warts.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_How_do_you_get_rid_of_periungual_warts.txt",
+    "word_count": 1123,
+    "collected_at": "2025-11-15T17:08:24.770428"
+  },
+  {
+    "title": "Do nightshade vegetables make arthritis worse?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/321745",
+    "filename": "MedicalNewsToday_Do_nightshade_vegetables_make_arthritis_worse.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Do_nightshade_vegetables_make_arthritis_worse.txt",
+    "word_count": 957,
+    "collected_at": "2025-11-15T17:08:26.403690"
+  },
+  {
+    "title": "What to know about osteoarthritis",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/321812",
+    "filename": "MedicalNewsToday_What_to_know_about_osteoarthritis.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_What_to_know_about_osteoarthritis.txt",
+    "word_count": 1771,
+    "collected_at": "2025-11-15T17:08:27.554988"
+  },
+  {
+    "title": "Why fever can be your friend in times of illness",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/321889",
+    "filename": "MedicalNewsToday_Why_fever_can_be_your_friend_in_times_of_illness.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Why_fever_can_be_your_friend_in_times_of_illness.txt",
+    "word_count": 705,
+    "collected_at": "2025-11-15T17:08:28.390108"
+  },
+  {
+    "title": "What can cause pain in the diaphragm area?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/321956",
+    "filename": "MedicalNewsToday_What_can_cause_pain_in_the_diaphragm_area.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_What_can_cause_pain_in_the_diaphragm_area.txt",
+    "word_count": 1116,
+    "collected_at": "2025-11-15T17:08:29.375693"
+  },
+  {
+    "title": "Is a tickle in the chest serious?",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/322023",
+    "filename": "MedicalNewsToday_Is_a_tickle_in_the_chest_serious.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_Is_a_tickle_in_the_chest_serious.txt",
+    "word_count": 876,
+    "collected_at": "2025-11-15T17:08:30.152604"
+  },
+  {
+    "title": "What to know about Alzheimer\u2019s disease",
+    "source": "MedicalNewsToday",
+    "url": "https://www.medicalnewstoday.com/articles/322223",
+    "filename": "MedicalNewsToday_What_to_know_about_Alzheimers_disease.txt",
+    "filepath": "../data/medical_articles/MedicalNewsToday_What_to_know_about_Alzheimers_disease.txt",
+    "word_count": 1931,
+    "collected_at": "2025-11-15T17:08:32.339018"
+  },
+  {
+    "title": "Q&A: Can drinking tap water reduce how many calories children drink?",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-qa-calories-children.html",
+    "filename": "Medical_Xpress_QA_Can_drinking_tap_water_reduce_how_many_calories_children_drink.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_QA_Can_drinking_tap_water_reduce_how_many_calories_children_drink.txt",
+    "word_count": 1454,
+    "collected_at": "2025-11-15T17:09:02.848265"
+  },
+  {
+    "title": "Exercise-induced vesicles boost neuron growth when transplanted into sedentary mice",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-vesicles-boost-neuron-growth-transplanted.html",
+    "filename": "Medical_Xpress_Exercise_induced_vesicles_boost_neuron_growth_when_transplanted_into_sedentary_mice.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Exercise_induced_vesicles_boost_neuron_growth_when_transplanted_into_sedentary_mice.txt",
+    "word_count": 881,
+    "collected_at": "2025-11-15T17:10:01.250422"
+  },
+  {
+    "title": "Study shows Ozempic could help dialysis patients qualify for kidney transplants",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-ozempic-dialysis-patients-kidney-transplants.html",
+    "filename": "Medical_Xpress_Study_shows_Ozempic_could_help_dialysis_patients_qualify_for_kidney_transplants.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Study_shows_Ozempic_could_help_dialysis_patients_qualify_for_kidney_transplants.txt",
+    "word_count": 465,
+    "collected_at": "2025-11-15T17:10:05.138554"
+  },
+  {
+    "title": "A closer look at the unapproved peptide injections promoted by influencers and celebrities",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-closer-unapproved-peptide-celebrities.html",
+    "filename": "Medical_Xpress_A_closer_look_at_the_unapproved_peptide_injections_promoted_by_influencers_and_celebrities.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_A_closer_look_at_the_unapproved_peptide_injections_promoted_by_influencers_and_celebrities.txt",
+    "word_count": 1014,
+    "collected_at": "2025-11-15T17:10:06.596383"
+  },
+  {
+    "title": "Experts recommend small changes for a healthier, more enjoyable holiday season",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-experts-small-healthier-enjoyable-holiday.html",
+    "filename": "Medical_Xpress_Experts_recommend_small_changes_for_a_healthier_more_enjoyable_holiday_season.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Experts_recommend_small_changes_for_a_healthier_more_enjoyable_holiday_season.txt",
+    "word_count": 692,
+    "collected_at": "2025-11-15T17:10:14.875599"
+  },
+  {
+    "title": "Microfluidic device captures pancreatic cancer's 'seeds of metastasis'",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-microfluidic-device-captures-pancreatic-cancer.html",
+    "filename": "Medical_Xpress_Microfluidic_device_captures_pancreatic_cancers_seeds_of_metastasis.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Microfluidic_device_captures_pancreatic_cancers_seeds_of_metastasis.txt",
+    "word_count": 789,
+    "collected_at": "2025-11-15T17:10:20.683166"
+  },
+  {
+    "title": "First death linked to 'meat allergy' spread by ticks",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-death-linked-meat-allergy.html",
+    "filename": "Medical_Xpress_First_death_linked_to_meat_allergy_spread_by_ticks.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_First_death_linked_to_meat_allergy_spread_by_ticks.txt",
+    "word_count": 751,
+    "collected_at": "2025-11-15T17:10:24.822563"
+  },
+  {
+    "title": "Could exercising while losing weight preserve your muscles and help keep them 'young'?",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-weight-muscles-young.html",
+    "filename": "Medical_Xpress_Could_exercising_while_losing_weight_preserve_your_muscles_and_help_keep_them_young.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Could_exercising_while_losing_weight_preserve_your_muscles_and_help_keep_them_young.txt",
+    "word_count": 967,
+    "collected_at": "2025-11-15T17:10:31.765756"
+  },
+  {
+    "title": "Q&A: How to have a heart-healthy Thanksgiving",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-qa-heart-healthy-thanksgiving.html",
+    "filename": "Medical_Xpress_QA_How_to_have_a_heart_healthy_Thanksgiving.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_QA_How_to_have_a_heart_healthy_Thanksgiving.txt",
+    "word_count": 550,
+    "collected_at": "2025-11-15T17:10:35.776190"
+  },
+  {
+    "title": "Early-life ketone signaling may shape long-term metabolic health",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-early-life-ketone-term-metabolic.html",
+    "filename": "Medical_Xpress_Early_life_ketone_signaling_may_shape_long_term_metabolic_health.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Early_life_ketone_signaling_may_shape_long_term_metabolic_health.txt",
+    "word_count": 687,
+    "collected_at": "2025-11-15T17:10:37.481551"
+  },
+  {
+    "title": "Study links ultra-processed food intake to prediabetes in young adults",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-links-ultra-food-intake-prediabetes.html",
+    "filename": "Medical_Xpress_Study_links_ultra_processed_food_intake_to_prediabetes_in_young_adults.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Study_links_ultra_processed_food_intake_to_prediabetes_in_young_adults.txt",
+    "word_count": 775,
+    "collected_at": "2025-11-15T17:10:38.898135"
+  },
+  {
+    "title": "Strong link between type 2 diabetes and hearing loss revealed",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-strong-link-diabetes-loss-revealed.html",
+    "filename": "Medical_Xpress_Strong_link_between_type_2_diabetes_and_hearing_loss_revealed.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Strong_link_between_type_2_diabetes_and_hearing_loss_revealed.txt",
+    "word_count": 425,
+    "collected_at": "2025-11-15T17:10:39.995067"
+  },
+  {
+    "title": "Diabetes drug reduced irregular heartbeat events in overweight/obese adults with AFib",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-diabetes-drug-irregular-heartbeat-events.html",
+    "filename": "Medical_Xpress_Diabetes_drug_reduced_irregular_heartbeat_events_in_overweightobese_adults_with_AFib.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Diabetes_drug_reduced_irregular_heartbeat_events_in_overweightobese_adults_with_AFib.txt",
+    "word_count": 1018,
+    "collected_at": "2025-11-15T17:10:43.764736"
+  },
+  {
+    "title": "Quality improvement intervention may help prevent deaths from metformin-associated lactic acid",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-quality-intervention-deaths-metformin-lactic.html",
+    "filename": "Medical_Xpress_Quality_improvement_intervention_may_help_prevent_deaths_from_metformin_associated_lactic_acid.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Quality_improvement_intervention_may_help_prevent_deaths_from_metformin_associated_lactic_acid.txt",
+    "word_count": 279,
+    "collected_at": "2025-11-15T17:10:45.188503"
+  },
+  {
+    "title": "Why your daily walk might not work as well if you're on metformin",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-daily-youre-metformin.html",
+    "filename": "Medical_Xpress_Why_your_daily_walk_might_not_work_as_well_if_youre_on_metformin.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Why_your_daily_walk_might_not_work_as_well_if_youre_on_metformin.txt",
+    "word_count": 791,
+    "collected_at": "2025-11-15T17:10:46.697039"
+  },
+  {
+    "title": "Common heartburn and blood pressure medicines linked to adverse breast cancer outcomes in large global study",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-common-heartburn-blood-pressure-medicines.html",
+    "filename": "Medical_Xpress_Common_heartburn_and_blood_pressure_medicines_linked_to_adverse_breast_cancer_outcomes_in_large_glob.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Common_heartburn_and_blood_pressure_medicines_linked_to_adverse_breast_cancer_outcomes_in_large_glob.txt",
+    "word_count": 492,
+    "collected_at": "2025-11-15T17:10:48.492433"
+  },
+  {
+    "title": "Weight loss alone not enough to boost men's fertility",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-10-weight-loss-boost-men-fertility.html",
+    "filename": "Medical_Xpress_Weight_loss_alone_not_enough_to_boost_mens_fertility.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Weight_loss_alone_not_enough_to_boost_mens_fertility.txt",
+    "word_count": 588,
+    "collected_at": "2025-11-15T17:10:49.766629"
+  },
+  {
+    "title": "AI-powered diabetes prevention program shows similar benefits to those led by people",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-10-ai-powered-diabetes-similar-benefits.html",
+    "filename": "Medical_Xpress_AI_powered_diabetes_prevention_program_shows_similar_benefits_to_those_led_by_people.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_AI_powered_diabetes_prevention_program_shows_similar_benefits_to_those_led_by_people.txt",
+    "word_count": 933,
+    "collected_at": "2025-11-15T17:10:51.537147"
+  },
+  {
+    "title": "Brain scans may predict future weight gain in people with mental disorders",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-10-brain-scans-future-weight-gain.html",
+    "filename": "Medical_Xpress_Brain_scans_may_predict_future_weight_gain_in_people_with_mental_disorders.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Brain_scans_may_predict_future_weight_gain_in_people_with_mental_disorders.txt",
+    "word_count": 831,
+    "collected_at": "2025-11-15T17:10:52.725707"
+  },
+  {
+    "title": "Mortality down with GLP-1 receptor agonist use in T2D, especially in those with OSA",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-10-mortality-glp-receptor-agonist-t2d.html",
+    "filename": "Medical_Xpress_Mortality_down_with_GLP_1_receptor_agonist_use_in_T2D_especially_in_those_with_OSA.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Mortality_down_with_GLP_1_receptor_agonist_use_in_T2D_especially_in_those_with_OSA.txt",
+    "word_count": 275,
+    "collected_at": "2025-11-15T17:10:54.286815"
+  },
+  {
+    "title": "Why women's brains face higher risk: Scientists pinpoint X-chromosome gene behind MS and Alzheimer's",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-10-women-brains-higher-scientists-chromosome.html",
+    "filename": "Medical_Xpress_Why_womens_brains_face_higher_risk_Scientists_pinpoint_X_chromosome_gene_behind_MS_and_Alzheimers.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Why_womens_brains_face_higher_risk_Scientists_pinpoint_X_chromosome_gene_behind_MS_and_Alzheimers.txt",
+    "word_count": 553,
+    "collected_at": "2025-11-15T17:10:55.977629"
+  },
+  {
+    "title": "Type 1 diabetes causes, symptoms, diagnosis and treatment",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-diabetes-symptoms-diagnosis-treatment.html",
+    "filename": "Medical_Xpress_Type_1_diabetes_causes_symptoms_diagnosis_and_treatment.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Type_1_diabetes_causes_symptoms_diagnosis_and_treatment.txt",
+    "word_count": 1041,
+    "collected_at": "2025-11-15T17:10:59.623104"
+  },
+  {
+    "title": "New model shows how treating diabetes early makes a difference",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-10-diabetes-early-difference.html",
+    "filename": "Medical_Xpress_New_model_shows_how_treating_diabetes_early_makes_a_difference.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_New_model_shows_how_treating_diabetes_early_makes_a_difference.txt",
+    "word_count": 734,
+    "collected_at": "2025-11-15T17:11:01.114417"
+  },
+  {
+    "title": "Research shows pharmacists can help people with cancer and diabetes better manage their blood sugar",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-10-pharmacists-people-cancer-diabetes-blood.html",
+    "filename": "Medical_Xpress_Research_shows_pharmacists_can_help_people_with_cancer_and_diabetes_better_manage_their_blood_sugar.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Research_shows_pharmacists_can_help_people_with_cancer_and_diabetes_better_manage_their_blood_sugar.txt",
+    "word_count": 781,
+    "collected_at": "2025-11-15T17:11:02.799385"
+  },
+  {
+    "title": "New diagnosis code for patients with type 2 diabetes in remission",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-10-diagnosis-code-patients-diabetes-remission.html",
+    "filename": "Medical_Xpress_New_diagnosis_code_for_patients_with_type_2_diabetes_in_remission.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_New_diagnosis_code_for_patients_with_type_2_diabetes_in_remission.txt",
+    "word_count": 395,
+    "collected_at": "2025-11-15T17:11:05.123099"
+  },
+  {
+    "title": "For people without diabetes, continuous glucose monitors may not accurately reflect blood sugar control",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-09-people-diabetes-glucose-accurately-blood.html",
+    "filename": "Medical_Xpress_For_people_without_diabetes_continuous_glucose_monitors_may_not_accurately_reflect_blood_sugar_contr.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_For_people_without_diabetes_continuous_glucose_monitors_may_not_accurately_reflect_blood_sugar_contr.txt",
+    "word_count": 634,
+    "collected_at": "2025-11-15T17:11:06.511409"
+  },
+  {
+    "title": "GLP-1 receptor agonists improve glycemic and weight outcomes in children with type 2 diabetes, finds study",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-09-glp-receptor-agonists-glycemic-weight.html",
+    "filename": "Medical_Xpress_GLP_1_receptor_agonists_improve_glycemic_and_weight_outcomes_in_children_with_type_2_diabetes_finds.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_GLP_1_receptor_agonists_improve_glycemic_and_weight_outcomes_in_children_with_type_2_diabetes_finds.txt",
+    "word_count": 253,
+    "collected_at": "2025-11-15T17:11:08.063471"
+  },
+  {
+    "title": "Bariatric surgery for weight loss shows greater long-term benefits than GLP-1 medicines",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-09-bariatric-surgery-weight-loss-greater.html",
+    "filename": "Medical_Xpress_Bariatric_surgery_for_weight_loss_shows_greater_long_term_benefits_than_GLP_1_medicines.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Bariatric_surgery_for_weight_loss_shows_greater_long_term_benefits_than_GLP_1_medicines.txt",
+    "word_count": 527,
+    "collected_at": "2025-11-15T17:11:09.590652"
+  },
+  {
+    "title": "Scientists pinpoint early warning stage before prediabetes",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-09-scientists-early-stage-prediabetes.html",
+    "filename": "Medical_Xpress_Scientists_pinpoint_early_warning_stage_before_prediabetes.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Scientists_pinpoint_early_warning_stage_before_prediabetes.txt",
+    "word_count": 638,
+    "collected_at": "2025-11-15T17:11:11.064267"
+  },
+  {
+    "title": "Community health centers provide care for 1 in 10 Americans, but funding cuts threaten their survival",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-community-health-centers-americans-funding.html",
+    "filename": "Medical_Xpress_Community_health_centers_provide_care_for_1_in_10_Americans_but_funding_cuts_threaten_their_survival.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Community_health_centers_provide_care_for_1_in_10_Americans_but_funding_cuts_threaten_their_survival.txt",
+    "word_count": 1180,
+    "collected_at": "2025-11-15T17:11:35.013089"
+  },
+  {
+    "title": "Five types of 'wellness woo' that borrow from mainstream medicine",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-wellness-woo-mainstream-medicine.html",
+    "filename": "Medical_Xpress_Five_types_of_wellness_woo_that_borrow_from_mainstream_medicine.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Five_types_of_wellness_woo_that_borrow_from_mainstream_medicine.txt",
+    "word_count": 848,
+    "collected_at": "2025-11-15T17:11:36.552083"
+  },
+  {
+    "title": "New guidance on diagnosing and managing heart failure during pregnancy and postpartum",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-10-guidance-heart-failure-pregnancy-postpartum.html",
+    "filename": "Medical_Xpress_New_guidance_on_diagnosing_and_managing_heart_failure_during_pregnancy_and_postpartum.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_New_guidance_on_diagnosing_and_managing_heart_failure_during_pregnancy_and_postpartum.txt",
+    "word_count": 645,
+    "collected_at": "2025-11-15T17:12:03.408141"
+  },
+  {
+    "title": "Continuation and selection of antihypertensives before and after non-cardiac surgery could reduce risks",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-10-antihypertensives-cardiac-surgery.html",
+    "filename": "Medical_Xpress_Continuation_and_selection_of_antihypertensives_before_and_after_non_cardiac_surgery_could_reduce_ri.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Continuation_and_selection_of_antihypertensives_before_and_after_non_cardiac_surgery_could_reduce_ri.txt",
+    "word_count": 672,
+    "collected_at": "2025-11-15T17:12:04.809456"
+  },
+  {
+    "title": "New medication lowers hard-to-control high blood pressure in people with chronic kidney disease",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-09-medication-lowers-hard-high-blood.html",
+    "filename": "Medical_Xpress_New_medication_lowers_hard_to_control_high_blood_pressure_in_people_with_chronic_kidney_disease.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_New_medication_lowers_hard_to_control_high_blood_pressure_in_people_with_chronic_kidney_disease.txt",
+    "word_count": 1147,
+    "collected_at": "2025-11-15T17:12:06.330182"
+  },
+  {
+    "title": "After a heart attack, women shown to have worse prognosis when treated with beta-blockers",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-08-heart-women-shown-worse-prognosis.html",
+    "filename": "Medical_Xpress_After_a_heart_attack_women_shown_to_have_worse_prognosis_when_treated_with_beta_blockers.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_After_a_heart_attack_women_shown_to_have_worse_prognosis_when_treated_with_beta_blockers.txt",
+    "word_count": 791,
+    "collected_at": "2025-11-15T17:12:07.723011"
+  },
+  {
+    "title": "From painkillers to antibiotics: Five medicines that could harm your hearing",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-07-painkillers-antibiotics-medicines.html",
+    "filename": "Medical_Xpress_From_painkillers_to_antibiotics_Five_medicines_that_could_harm_your_hearing.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_From_painkillers_to_antibiotics_Five_medicines_that_could_harm_your_hearing.txt",
+    "word_count": 841,
+    "collected_at": "2025-11-15T17:12:09.068411"
+  },
+  {
+    "title": "No evidence that medications trigger microscopic colitis in older adults",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-06-evidence-medications-trigger-microscopic-colitis.html",
+    "filename": "Medical_Xpress_No_evidence_that_medications_trigger_microscopic_colitis_in_older_adults.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_No_evidence_that_medications_trigger_microscopic_colitis_in_older_adults.txt",
+    "word_count": 452,
+    "collected_at": "2025-11-15T17:12:10.597199"
+  },
+  {
+    "title": "When the heat rises, so do heart risks: What you need to know",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-06-heart.html",
+    "filename": "Medical_Xpress_When_the_heat_rises_so_do_heart_risks_What_you_need_to_know.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_When_the_heat_rises_so_do_heart_risks_What_you_need_to_know.txt",
+    "word_count": 524,
+    "collected_at": "2025-11-15T17:12:12.174046"
+  },
+  {
+    "title": "Alzheimer's: Certain combinations of prescription drugs may slow progression of disease, according to mice study",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-05-alzheimer-combinations-prescription-drugs-disease.html",
+    "filename": "Medical_Xpress_Alzheimers_Certain_combinations_of_prescription_drugs_may_slow_progression_of_disease_according_to_m.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Alzheimers_Certain_combinations_of_prescription_drugs_may_slow_progression_of_disease_according_to_m.txt",
+    "word_count": 824,
+    "collected_at": "2025-11-15T17:12:13.485984"
+  },
+  {
+    "title": "New review of performance measures for diabetes finds many measures inadequate",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-05-diabetes-inadequate.html",
+    "filename": "Medical_Xpress_New_review_of_performance_measures_for_diabetes_finds_many_measures_inadequate.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_New_review_of_performance_measures_for_diabetes_finds_many_measures_inadequate.txt",
+    "word_count": 435,
+    "collected_at": "2025-11-15T17:12:14.675143"
+  },
+  {
+    "title": "Many people miss out on the benefits of cardiac rehab. Here's why you shouldn't",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-people-benefits-cardiac-rehab-shouldnt.html",
+    "filename": "Medical_Xpress_Many_people_miss_out_on_the_benefits_of_cardiac_rehab_Heres_why_you_shouldnt.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Many_people_miss_out_on_the_benefits_of_cardiac_rehab_Heres_why_you_shouldnt.txt",
+    "word_count": 1462,
+    "collected_at": "2025-11-15T17:12:17.362650"
+  },
+  {
+    "title": "Combo pill boosts heart function, symptoms, life quality",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-combo-pill-boosts-heart-function.html",
+    "filename": "Medical_Xpress_Combo_pill_boosts_heart_function_symptoms_life_quality.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Combo_pill_boosts_heart_function_symptoms_life_quality.txt",
+    "word_count": 771,
+    "collected_at": "2025-11-15T17:12:18.664888"
+  },
+  {
+    "title": "Beta-blockers are no longer needed in post-infarction patients with normal heart function, study confirms",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-beta-blockers-longer-infarction-patients.html",
+    "filename": "Medical_Xpress_Beta_blockers_are_no_longer_needed_in_post_infarction_patients_with_normal_heart_function_study_conf.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Beta_blockers_are_no_longer_needed_in_post_infarction_patients_with_normal_heart_function_study_conf.txt",
+    "word_count": 1122,
+    "collected_at": "2025-11-15T17:12:19.997717"
+  },
+  {
+    "title": "Stenting all blocked arteries outperforms culprit-only treatment approach, study shows",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-stenting-blocked-arteries-outperforms-culprit.html",
+    "filename": "Medical_Xpress_Stenting_all_blocked_arteries_outperforms_culprit_only_treatment_approach_study_shows.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Stenting_all_blocked_arteries_outperforms_culprit_only_treatment_approach_study_shows.txt",
+    "word_count": 540,
+    "collected_at": "2025-11-15T17:12:21.423338"
+  },
+  {
+    "title": "Coordinated brain network activity during emotional arousal may explain vivid, lasting memories",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-brain-network-emotional-arousal-vivid.html",
+    "filename": "Medical_Xpress_Coordinated_brain_network_activity_during_emotional_arousal_may_explain_vivid_lasting_memories.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Coordinated_brain_network_activity_during_emotional_arousal_may_explain_vivid_lasting_memories.txt",
+    "word_count": 873,
+    "collected_at": "2025-11-15T17:12:22.776885"
+  },
+  {
+    "title": "Could pain medication be causing your headaches?",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-pain-medication-headaches.html",
+    "filename": "Medical_Xpress_Could_pain_medication_be_causing_your_headaches.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Could_pain_medication_be_causing_your_headaches.txt",
+    "word_count": 794,
+    "collected_at": "2025-11-15T17:12:23.947071"
+  },
+  {
+    "title": "Five things to know about the dangers of high blood pressure",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-dangers-high-blood-pressure.html",
+    "filename": "Medical_Xpress_Five_things_to_know_about_the_dangers_of_high_blood_pressure.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Five_things_to_know_about_the_dangers_of_high_blood_pressure.txt",
+    "word_count": 1737,
+    "collected_at": "2025-11-15T17:12:25.723237"
+  },
+  {
+    "title": "Three people caught Hepatitis C at a Florida doctor's office, state says",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-people-caught-hepatitis-florida-doctor.html",
+    "filename": "Medical_Xpress_Three_people_caught_Hepatitis_C_at_a_Florida_doctors_office_state_says.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Three_people_caught_Hepatitis_C_at_a_Florida_doctors_office_state_says.txt",
+    "word_count": 647,
+    "collected_at": "2025-11-15T17:12:27.036850"
+  },
+  {
+    "title": "Predicting the risk of heart disease and dementia in older adults: Q&A",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-10-heart-disease-dementia-older-adults.html",
+    "filename": "Medical_Xpress_Predicting_the_risk_of_heart_disease_and_dementia_in_older_adults_QA.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Predicting_the_risk_of_heart_disease_and_dementia_in_older_adults_QA.txt",
+    "word_count": 768,
+    "collected_at": "2025-11-15T17:12:29.645022"
+  },
+  {
+    "title": "Direct link between peak air pollution and cardiac risk revealed",
+    "source": "Medical Xpress",
+    "url": "https://medicalxpress.com/news/2025-11-link-peak-air-pollution-cardiac.html",
+    "filename": "Medical_Xpress_Direct_link_between_peak_air_pollution_and_cardiac_risk_revealed.txt",
+    "filepath": "../data/medical_articles/Medical_Xpress_Direct_link_between_peak_air_pollution_and_cardiac_risk_revealed.txt",
+    "word_count": 583,
+    "collected_at": "2025-11-15T17:12:32.428289"
+  }
+]

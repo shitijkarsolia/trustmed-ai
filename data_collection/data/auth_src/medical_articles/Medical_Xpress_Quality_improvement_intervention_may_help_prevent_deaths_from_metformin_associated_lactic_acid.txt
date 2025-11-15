@@ -1,0 +1,23 @@
+Title: Quality improvement intervention may help prevent deaths from metformin-associated lactic acid
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-quality-intervention-deaths-metformin-lactic.html
+Collected: 2025-11-15T17:10:45.188346
+
+================================================================================
+
+Quality improvement intervention may help prevent deaths from metformin-associated lactic acid
+
+byAmerican Society of Nephrology
+
+edited byStephanie Baum, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+Metformin-associated lactic acidosis (MALA) is a rare but serious adverse effect of the diabetes drug metformin in which the body accumulates too much lactic acid. Investigators developed and tested a protocol for diagnosis and treatment of MALA. Their work will be presented atASN Kidney Week 2025from November 5–9.
+
+The protocol, which included immediate initiation of dialysis using either intermittent hemodialysis, continuous kidney replacement therapy, or peritonealdialysis as treatment, was implemented at Maharat Nakhonratchasima hospital (MNRH), in Thailand. Another hospital, Burirum Hospital (BH), did not implement the protocol. A total of 347 cases were included over 5 years (70 in MNRH pre-intervention, 129 in MNRH intervention, and 148 in BH).
+
+In MNRH, the 30-day mortality rate was reduced from 25.7% to 13.9% after implementing the protocol, whereas in BH the 30-day mortality rate was not reduced during the same period (27.2% and 30%). The trend of mortality rate in MNRH during the intervention period decreased by -2.08% per quarter. The average door-to-dialysis time—the interval between a patient's hospital admission and the initiation of dialysis—was reduced from 870 minutes to 690 minutes, and MALA awareness increased from 38.5% to 89.9% after implementation.
+
+"A standardized MALA protocol coveringdiagnosis, access, and treatment shortened door-to-dialysis time, increased awareness, and reduced care variation," said corresponding author Watanyu Parapiboon, MD, of Maharat Nakhon Ratchasima Hospital, in Thailand. "Fast-track dialysis pathways should be adopted for time-sensitive conditions like MALA. Availability of alldialysismodalities ensures flexibility and enables timelytreatmentinitiation."

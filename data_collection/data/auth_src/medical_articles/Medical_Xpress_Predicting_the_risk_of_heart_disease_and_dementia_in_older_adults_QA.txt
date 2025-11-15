@@ -1,0 +1,59 @@
+Title: Predicting the risk of heart disease and dementia in older adults: Q&A
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-10-heart-disease-dementia-older-adults.html
+Collected: 2025-11-15T17:12:29.644774
+
+================================================================================
+
+Predicting the risk of heart disease and dementia in older adults: Q&A
+
+edited bySadie Harley, 																								reviewed byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+More than 70% of people over 70 years old will one day develop cardiovascular disease, highlighting the need for effective diagnosis, treatment, and care for this population.
+
+"When you ask older people withcardiovascular diseasewhat their top health priority is, they will often tell you that it is maintaining cognition and preventing dementia," says Michael Nanna, MD, MHS, assistant professor of medicine (cardiovascular medicine). "However, we have very little research in this space."
+
+Nanna recently published an article in theJournal of the American Heart Associationto introduce new, validated models to estimate an older person's risk of cognitive impairment and atherosclerotic cardiovascular disease (ASCVD), a common heart disease that predominantly affects older adults.
+
+Nanna spoke about his recent research and the connections between cognition and cardiovascular health.
+
+What is the link between cognition and cardiovascular disease?
+
+The risk factors forcognitive declinesignificantly overlap with the risk factors for cardiovascular disease. If you look at the list of 14 modifiable risk factors for dementia, it's almost like reading a list of the risk factors I think about at my cardiology clinic.
+
+Thesemodifiable risk factorsmay prevent more than 40% of dementias. We need better ways to help patients understand their personal risk so we can help prevent both cardiovascular disease and dementia, including Alzheimer's disease.
+
+What prompted your research on predictive models for cognitive impairment and ASCVD?
+
+Doctors who provide preventive cardiovascular care use a 10-year ASCVD risk calculator to predict the risk of ASCVD in their patients. However, previous research has shown that these models are less effective for older adults. The predictors used to assess risk in a 40-year-old don't behave the same way when applied to someone who is 80.
+
+We set out to develop predictive models that perform better for older people and consider the outcomes, like cognition, that older people care about most. To create the models, we used novel predictors, including factors like mobility, baseline cognition, and function.
+
+Our study found that including functional measures—like the ability to shop for groceries independently and baseline mobility—improves risk prediction for cognitive impairment.
+
+What do you hope people take away from this research?
+
+One of the most significant findings from the research is that baseline cognition and baseline mobility are the two strongest predictors of both future cognitive impairment and ASCVD risk. Assessing patients' cognition and mobility in the cardiology clinic could help inform our risk stratification and treatment recommendations.
+
+I also hope my colleagues across medicine see this research and feel inspired to take a more holistic approach to caring forolder people. We need to get out of our silos and think about the whole patient.
+
+What's next for your research on cognition and cardiovascular disease in older adults?
+
+Many of the standard treatments we deliver to patients, including anti-anginal medications likebeta blockersandcalcium channel blockers, have potential or hypothesized impacts on cognition, but it's not something that is measured in cardiovascular clinical trials. Through a new award, we are investigating whether these treatments affect cognitive status over time.
+
+While we're still in the early phases of this research, I'm hopeful we can add to the evidence base to help doctors and patients find treatments that reflect the patients' goals.
+
+I'm also excited to work on a project to create a shared decision-making tool called "Consider, Listen, Decide," to help older adults make complex decisions around the treatment of coronary disease.
+
+I recently launched the HeartWise Lab with my colleague Dr. Abdulla Damluji to explore many of these questions. For example, our group recently publisheda review inJACCexamining types of cognitive impairment prevalent among cardiac patients and some of the evidence-based management strategies that help mitigatecognitive impairmentin this population.
+
+The goal for all of our research is to bridge the gap between traditional cardiovascular treatments and the unique priorities ofolder adults. We want to ensure that therapies not only extend life but also preserve patients' function, independence, and quality of life.
+
+More information:Michael G. Nanna et al, Development and Validation of Models to Estimate the Incident Risk of Cognitive Impairment and Atherosclerotic Cardiovascular Disease in Older Adults,Journal of the American Heart Association(2025).DOI: 10.1161/jaha.124.038949Yasser Jamil et al, The Impact of Cognitive Impairment on Cardiovascular Disease,Journal of the American College of Cardiology(2025).DOI: 10.1016/j.jacc.2025.04.057Journal information:Journal of the American College of Cardiology,Journal of the American Heart Association
+
+asser Jamil et al, The Impact of Cognitive Impairment on Cardiovascular Disease,Journal of the American College of Cardiology(2025).DOI: 10.1016/j.jacc.2025.04.057

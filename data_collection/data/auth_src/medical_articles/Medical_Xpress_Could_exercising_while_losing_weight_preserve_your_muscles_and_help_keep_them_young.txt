@@ -1,0 +1,79 @@
+Title: Could exercising while losing weight preserve your muscles and help keep them 'young'?
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-weight-muscles-young.html
+Collected: 2025-11-15T17:10:31.765630
+
+================================================================================
+
+Could exercising while losing weight preserve your muscles and help keep them 'young'?
+
+by Jose L Areta,The Conversation
+
+edited byOwen Ferguson, 																								reviewed byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+written by researcher(s)
+
+When we lose weight, we don't just lose body fat—we lose muscle, too.
+
+This can be a problem for many reasons, becauseskeletal muscleis far more than the tissue that helps us move. It plays a crucial role inmetabolic health, regulatingblood sugarandhealthy aging. Losing muscle mass is linked to a reduced mobility, increased injury risk and is thought to potentially impair long-term weight loss.
+
+With millions of people now using weight loss drugs such as Wegovy and Ozempic, understanding what impact this muscle lossmight have on their healthis important.
+
+Loss ofmuscle massis also a significant challenge for athletes too, as many sports encourage them to keepbody weightlow while still maintaining demanding training loads and keeping their power-output high. So an energy deficit can put significant stress on an athlete's body—but to what extent it affects their normal function,is unclear.
+
+Yet despite these widespread implications, we still know surprisingly little about how human muscle responds at the molecular level to the combination of calorie restriction and exercise. Understanding what happens to muscle when exercising in a calorie deficit is extremely important.
+
+Newly published researchfrom myself and my colleagues casts light on this exact topic. We showed that weight loss accompanied byaerobic exercisemight not be that bad for the muscles after all—and indeed it may have positive effects.
+
+We recruited ten healthy, fit young men who completed two tightly controlled five-day experimental trials in our laboratory. During their first trial period, they consumed enough calories to maintain their body weight. But during the second, we reduced their daily calorie intake by 78%—a severe energy deficit.
+
+During both trials, participants completed a tightly-controlled, 90-minute low- to moderate-intensity cycling exercise three times during each five-day period.
+
+Throughout the trials, we measured blood markers such as glucose, ketones,fatty acidsand key hormones linked to energy preservation. We did this to determine if—and to what extent—the energy deficit was affecting them.
+
+We also collected muscle biopsies before and after each testing period. Using an advanced method calleddynamic proteomic profiling, we analyzed the production and abundance of hundreds of muscle proteins. This allowed us to build a detailed picture of how muscle adapts to sudden, substantial calorie restriction—even when exercise demands are maintained.
+
+During the five days in an energy deficit, participants lost about 3kg. Hormones such as leptin, T3 and IGF-1 also dropped sharply—clear signs the body was getting into an energy preservation mode.
+
+But inside the muscle itself, something more unexpected was happening.
+
+Muscle tissue changes
+
+The muscle tissue mounted a strong and surprisingly positive response to the combination of exercise and calorie restriction.
+
+First, we saw an increase in the amount of mitochondrial proteins within the muscle—and these proteins were also being created more quickly.
+
+Mitochondria are the power generators inside cells. They convert fat and carbohydrates into usable energy. Higher amounts of mitochondrial proteins, and faster production of them, are hallmarks of a healthier and more efficient muscle.
+
+We also saw a clear decrease in the amount and production of collagen and collagen-related proteins.
+
+Collagen is an abundant protein that plays a role in providing structure and strength to the muscle. However, collagen tends to accumulate in excess as we age—contributing to stiffness and impaired function.
+
+Taken together, these changes resemble a shift toward a more metabolically youthful muscle profile.
+
+This kind of response has also been seen in long-term calorie-restrictionstudies in monkeys. But this is the first time it has been demonstrated in humans.
+
+At first glance, it seems paradoxical that the body would invest energy in maintaining or improving muscle during a time of scarcity.
+
+Muscle tissue is demanding and costly to maintain—and movement is energetically expensive, too. Shouldn't the body simply reduce muscle activity to save energy?
+
+The answer to this question may lie in our evolutionary past. Humans evolved as hunter-gatherers, who often faced periods oflow food availability. During those times, the ability to move efficiently—to walk and run long distances, forage or hunt—wasessential for survival. A body that shut down muscle function during hunger would have been less likely to survive and reproduce.
+
+So the protective response we observed may reflect deep evolutionary adaptations: muscles stay ready to move even when fuel is running low.
+
+Our study involved a small number of young men who were deliberately following an extreme energy deficit for a short period of time. As such, we cannot assume identical responses in women,older adultsor people who are obese or have chronic health conditions.
+
+Future studies will need to compare weight loss with and without exercise, examine less extreme calorie deficits, include women and older adults, and measure how these molecular changes translate into actual physical performance.
+
+Nevertheless, our findings support the idea that exercise during weight loss may protect muscle quality—and may even enhance characteristics linked to healthier aging.
+
+These findings also have key implications for many people. People who are takingweight loss drugsor trying to lose weight may benefit from structured exercise to help them preserve muscle quality. Older adults, who are more vulnerable tomuscle loss, may especially benefit from exercising while losing weight. Athletes may approach any energy deficit with care, but know that muscle keeps adapting to exercise stimulus.
+
+Our study shows that human muscle is remarkably resilient. Even under severe stress, when much of the body is trying to conserve energy, muscle tissue seems to respond robustly—boosting itsenergy-producing machinery and limiting age-related degradation.
+
+In other words, losing weight and exercising doesn't just help preserve muscle—it may help keep it younger.
+
+This article is republished fromThe Conversationunder a Creative Commons license. Read theoriginal article.

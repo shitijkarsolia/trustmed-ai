@@ -1,0 +1,43 @@
+Title: Poisonings from ADHD medication have quadrupled in the last ten years
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-poisonings-adhd-medication-quadrupled-ten.html
+Collected: 2025-11-15T16:59:44.250024
+
+================================================================================
+
+Poisonings from ADHD medication have quadrupled in the last ten years
+
+byUniversity of Sydney
+
+edited byLisa Lock, 																								reviewed byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+More than 3,000 Australians were poisoned by medications for attention deficit hyperactivity disorder in 2023, a fourfold increase on the 795 cases recorded in 2014 to 3242 in 2023, new research from the University of Sydney reveals.
+
+Using nationwide data from the NSW Poisons Information Center (NSWPIC), researchers found more than half of the 17,000 self-reported cases in the period surveyed resulted inhospital admission, with more than 9,000 involving children under 15 years.
+
+Between 2013 and 2020, the number of Australians diagnosed with ADHDmore than doubled. While the increase in poisonings can be partly attributed to the rise in diagnoses, the rate of poisonings from clonidine is disproportionately high compared to the overall number of scripts issued.
+
+Clonidine is a potent medication that was initially designed to treat hypertension. It is often prescribed as a quarter or a half dose of a tablet, with researchers warning that this raises the risk of dosing errors.
+
+Amy Thomson, Ph.D. candidate in the School of Pharmacy and lead author of the studypublishedin theAustralian & New Zealand Journal of Psychiatry, said, "While medications are an effective way of managing ADHD, these drugs can pose a serious risk if accidentally or intentionally misused.
+
+"While the sharp rise in the number of poisonings over the last decade can be partly explained by the rise in ADHD diagnoses, clonidine poisonings are outstripping diagnosis rates. Just one double dose of clonidine can put a child in hospital and, with side effects this serious, it's vital that both families and health care professionals are aware of the dangers and provide families with guidance."
+
+Currently, there are six medications used for the treatment of ADHD: clonidine, atomoxetine, dexamphetamine, guanfacine, lisdexamphetamine and methylphenidate (known as Ritalin).
+
+National data from the NSWPIC showed clonidine and Ritalin (methylphenidate) were the two most common medications to be implicated in poisonings, each resulting in 35% of all reports respectively. They also accounted for the highest number of hospital presentations.
+
+Children and adolescents were the most likely to have an adverse exposure to ADHD medication, with 72% of accidental poisonings taking place among children aged under 15 years.
+
+Thomson said, "One problem can be that medicines are sometimes prescribed at quarter or half-doses of tablets, which can be tricky to administer accurately. Another reason can be miscommunication within the family, typically where both parents give their child a dose of medication, not realizing the other has already done it. Children can also be curious and 'try out' their siblings'medication, underscoring the importance of storing medicines safely out of reach."
+
+While the research revealed that the majority of poisonings (60%) were accidental, more than a third (38.5%) of poisonings were the result of deliberate misuse. The researchers warned, because the data from the NSWPIC is self-reported, the scale of the problem could be much bigger.
+
+"The self-reported data captures only those who phoned the poisons hotline or who presented to hospital with symptoms ofpoisoning. The true scale of the problem could be much more significant, which is why we want those with ADHD and their families to be better informed about the risks," Thomson added.
+
+"People with ADHD and their families should be careful and stick to prescribed doses. Doctors and pharmacists also play a vital role in keeping patients safe by explaining how to use medicines properly and the risks of getting it wrong."
+
+More information:Amy Thomson et al, Exposures to attention deficient hyperactivity disorder medications reported to the New South Wales Poisons Information Centre (2014–2023): A retrospective study,Australian & New Zealand Journal of Psychiatry(2025).DOI: 10.1177/00048674251384053

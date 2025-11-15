@@ -1,0 +1,551 @@
+[
+  {
+    "title": "White coat hypertension: When blood pressure rises in a medical setting",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/white-coat-hypertension/faq-20057792",
+    "filename": "Mayo_Clinic_White_coat_hypertension_When_blood_pressure_rises_in_a_medical_setting.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_White_coat_hypertension_When_blood_pressure_rises_in_a_medical_setting.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:08:39.460785"
+  },
+  {
+    "title": "Diabetes prevention: 5 tips for taking control",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-prevention/art-20047639",
+    "filename": "Mayo_Clinic_Diabetes_prevention_5_tips_for_taking_control.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diabetes_prevention_5_tips_for_taking_control.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:08:46.751463"
+  },
+  {
+    "title": "Type 2 diabetes",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/diagnosis-treatment/drc-20351199",
+    "filename": "Mayo_Clinic_Type_2_diabetes.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Type_2_diabetes.txt",
+    "word_count": 4070,
+    "collected_at": "2025-11-15T16:08:53.297181"
+  },
+  {
+    "title": "High blood pressure (hypertension)",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417",
+    "filename": "Mayo_Clinic_High_blood_pressure_hypertension.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_High_blood_pressure_hypertension.txt",
+    "word_count": 5479,
+    "collected_at": "2025-11-15T16:08:59.401327"
+  },
+  {
+    "title": "Blood sugar testing: Why, when and how",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/blood-sugar/art-20046628",
+    "filename": "Mayo_Clinic_Blood_sugar_testing_Why_when_and_how.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Blood_sugar_testing_Why_when_and_how.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:09:09.492270"
+  },
+  {
+    "title": "Calcium channel blockers",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/calcium-channel-blockers/art-20047605",
+    "filename": "Mayo_Clinic_Calcium_channel_blockers.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Calcium_channel_blockers.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:09:13.791813"
+  },
+  {
+    "title": "Hypertensive crisis: What are the symptoms?",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/hypertensive-crisis/faq-20058491",
+    "filename": "Mayo_Clinic_Hypertensive_crisis_What_are_the_symptoms.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Hypertensive_crisis_What_are_the_symptoms.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:09:19.289102"
+  },
+  {
+    "title": "Beta blockers",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/beta-blockers/art-20044522",
+    "filename": "Mayo_Clinic_Beta_blockers.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Beta_blockers.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:09:23.281282"
+  },
+  {
+    "title": "Blood pressure test",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/tests-procedures/blood-pressure-test/about/pac-20393098",
+    "filename": "Mayo_Clinic_Blood_pressure_test.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Blood_pressure_test.txt",
+    "word_count": 1718,
+    "collected_at": "2025-11-15T16:09:27.394603"
+  },
+  {
+    "title": "Diabetes: How do I help protect my liver?",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/expert-answers/diabetes/faq-20058461",
+    "filename": "Mayo_Clinic_Diabetes_How_do_I_help_protect_my_liver.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diabetes_How_do_I_help_protect_my_liver.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:09:40.155567"
+  },
+  {
+    "title": "A1C test",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/tests-procedures/a1c-test/about/pac-20384643",
+    "filename": "Mayo_Clinic_A1C_test.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_A1C_test.txt",
+    "word_count": 1241,
+    "collected_at": "2025-11-15T16:09:45.975716"
+  },
+  {
+    "title": "Angiotensin-converting enzyme (ACE) inhibitors",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/ace-inhibitors/art-20047480",
+    "filename": "Mayo_Clinic_Angiotensin_converting_enzyme_ACE_inhibitors.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Angiotensin_converting_enzyme_ACE_inhibitors.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:09:49.731384"
+  },
+  {
+    "title": "Nutrition and healthy eating",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/dash-diet/art-20048456",
+    "filename": "Mayo_Clinic_Nutrition_and_healthy_eating.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Nutrition_and_healthy_eating.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:09:55.143042"
+  },
+  {
+    "title": "Diabetes and depression: Coping with the two conditions",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/expert-answers/diabetes-and-depression/faq-20057904",
+    "filename": "Mayo_Clinic_Diabetes_and_depression_Coping_with_the_two_conditions.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diabetes_and_depression_Coping_with_the_two_conditions.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:10:03.336628"
+  },
+  {
+    "title": "Diabetes management: How lifestyle, daily routine affect blood sugar",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-management/art-20047963",
+    "filename": "Mayo_Clinic_Diabetes_management_How_lifestyle_daily_routine_affect_blood_sugar.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diabetes_management_How_lifestyle_daily_routine_affect_blood_sugar.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:10:13.843040"
+  },
+  {
+    "title": "10 ways to control high blood pressure without medication",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974",
+    "filename": "Mayo_Clinic_10_ways_to_control_high_blood_pressure_without_medication.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_10_ways_to_control_high_blood_pressure_without_medication.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:10:20.166082"
+  },
+  {
+    "title": "Prediabetes",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/prediabetes/symptoms-causes/syc-20355278",
+    "filename": "Mayo_Clinic_Prediabetes.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Prediabetes.txt",
+    "word_count": 2007,
+    "collected_at": "2025-11-15T16:10:24.059606"
+  },
+  {
+    "title": "Diuretics",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/diuretics/art-20048129",
+    "filename": "Mayo_Clinic_Diuretics.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diuretics.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:10:29.781432"
+  },
+  {
+    "title": "Diabetes diet: Create your healthy-eating plan",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-diet/art-20044295",
+    "filename": "Mayo_Clinic_Diabetes_diet_Create_your_healthy_eating_plan.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diabetes_diet_Create_your_healthy_eating_plan.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:10:36.253683"
+  },
+  {
+    "title": "Blood pressure chart: What your reading means",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/blood-pressure/art-20050982",
+    "filename": "Mayo_Clinic_Blood_pressure_chart_What_your_reading_means.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Blood_pressure_chart_What_your_reading_means.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:10:39.938942"
+  },
+  {
+    "title": "Diabetes Resource Center",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/diabetes/default.htm",
+    "filename": "WebMD_Diabetes_Resource_Center.txt",
+    "filepath": "../data/medical_articles/WebMD_Diabetes_Resource_Center.txt",
+    "word_count": 1930,
+    "collected_at": "2025-11-15T16:14:00.430777"
+  },
+  {
+    "title": "Visual Guide to High Blood Pressure",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/hypertension-high-blood-pressure/ss/slideshow-hypertension-overview",
+    "filename": "WebMD_Visual_Guide_to_High_Blood_Pressure.txt",
+    "filepath": "../data/medical_articles/WebMD_Visual_Guide_to_High_Blood_Pressure.txt",
+    "word_count": 1786,
+    "collected_at": "2025-11-15T16:14:15.459174"
+  },
+  {
+    "title": "Symptoms of High Blood Pressure",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/hypertension-high-blood-pressure/hypertension-symptoms-high-blood-pressure",
+    "filename": "WebMD_Symptoms_of_High_Blood_Pressure.txt",
+    "filepath": "../data/medical_articles/WebMD_Symptoms_of_High_Blood_Pressure.txt",
+    "word_count": 1792,
+    "collected_at": "2025-11-15T16:14:27.204903"
+  },
+  {
+    "title": "Insulin Resistance \u2013 What You Need to Know",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/diabetes/insulin-resistance-syndrome",
+    "filename": "WebMD_Insulin_Resistance_What_You_Need_to_Know.txt",
+    "filepath": "../data/medical_articles/WebMD_Insulin_Resistance_What_You_Need_to_Know.txt",
+    "word_count": 2487,
+    "collected_at": "2025-11-15T16:14:31.823224"
+  },
+  {
+    "title": "Hypoglycemia: When Your Blood Sugar Gets Too Low",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/diabetes/guide/diabetes-hypoglycemia",
+    "filename": "WebMD_Hypoglycemia_When_Your_Blood_Sugar_Gets_Too_Low.txt",
+    "filepath": "../data/medical_articles/WebMD_Hypoglycemia_When_Your_Blood_Sugar_Gets_Too_Low.txt",
+    "word_count": 931,
+    "collected_at": "2025-11-15T16:14:37.539830"
+  },
+  {
+    "title": "How Sugar Affects Diabetes",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/diabetes/guide/normal-blood-sugar-levels-chart-adults",
+    "filename": "WebMD_How_Sugar_Affects_Diabetes.txt",
+    "filepath": "../data/medical_articles/WebMD_How_Sugar_Affects_Diabetes.txt",
+    "word_count": 1419,
+    "collected_at": "2025-11-15T16:14:49.366263"
+  },
+  {
+    "title": "High Blood Pressure and Hypertensive Crisis",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/hypertension-high-blood-pressure/guide/hypertensive-crisis",
+    "filename": "WebMD_High_Blood_Pressure_and_Hypertensive_Crisis.txt",
+    "filepath": "../data/medical_articles/WebMD_High_Blood_Pressure_and_Hypertensive_Crisis.txt",
+    "word_count": 389,
+    "collected_at": "2025-11-15T16:15:00.359268"
+  },
+  {
+    "title": "Hyperglycemia: What Is It?",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/diabetes/guide/diabetes-hyperglycemia",
+    "filename": "WebMD_Hyperglycemia_What_Is_It.txt",
+    "filepath": "../data/medical_articles/WebMD_Hyperglycemia_What_Is_It.txt",
+    "word_count": 1806,
+    "collected_at": "2025-11-15T16:15:26.179138"
+  },
+  {
+    "title": "Diastole vs. Systole: Know Your Blood Pressure Numbers",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/hypertension-high-blood-pressure/guide/diastolic-and-systolic-blood-pressure-know-your-numbers",
+    "filename": "WebMD_Diastole_vs_Systole_Know_Your_Blood_Pressure_Numbers.txt",
+    "filepath": "../data/medical_articles/WebMD_Diastole_vs_Systole_Know_Your_Blood_Pressure_Numbers.txt",
+    "word_count": 2498,
+    "collected_at": "2025-11-15T16:15:36.032611"
+  },
+  {
+    "title": "DASH Diet and High Blood Pressure",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/hypertension-high-blood-pressure/guide/dash-diet",
+    "filename": "WebMD_DASH_Diet_and_High_Blood_Pressure.txt",
+    "filepath": "../data/medical_articles/WebMD_DASH_Diet_and_High_Blood_Pressure.txt",
+    "word_count": 1569,
+    "collected_at": "2025-11-15T16:15:47.866279"
+  },
+  {
+    "title": "Type 1 Diabetes",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/diabetes/type-1-diabetes",
+    "filename": "WebMD_Type_1_Diabetes.txt",
+    "filepath": "../data/medical_articles/WebMD_Type_1_Diabetes.txt",
+    "word_count": 2883,
+    "collected_at": "2025-11-15T16:15:53.663453"
+  },
+  {
+    "title": "Type 2 Diabetes: Symptoms, Causes, and Treatment",
+    "source": "WebMD",
+    "url": "https://www.webmd.com/diabetes/type-2-diabetes",
+    "filename": "WebMD_Type_2_Diabetes_Symptoms_Causes_and_Treatment.txt",
+    "filepath": "../data/medical_articles/WebMD_Type_2_Diabetes_Symptoms_Causes_and_Treatment.txt",
+    "word_count": 4693,
+    "collected_at": "2025-11-15T16:16:06.547882"
+  },
+  {
+    "title": "A Complete List of Diabetes Medications",
+    "source": "Healthline",
+    "url": "https://www.healthline.com/health/diabetes/medications-list",
+    "filename": "Healthline_A_Complete_List_of_Diabetes_Medications.txt",
+    "filepath": "../data/medical_articles/Healthline_A_Complete_List_of_Diabetes_Medications.txt",
+    "word_count": 1647,
+    "collected_at": "2025-11-15T16:16:58.050493"
+  },
+  {
+    "title": "Everything You Need to Know About High Blood Pressure (Hypertension)",
+    "source": "Healthline",
+    "url": "https://www.healthline.com/health/high-blood-pressure-hypertension",
+    "filename": "Healthline_Everything_You_Need_to_Know_About_High_Blood_Pressure_Hypertension.txt",
+    "filepath": "../data/medical_articles/Healthline_Everything_You_Need_to_Know_About_High_Blood_Pressure_Hypertension.txt",
+    "word_count": 1724,
+    "collected_at": "2025-11-15T16:17:08.119998"
+  },
+  {
+    "title": "Understanding Type 2 Diabetes",
+    "source": "Healthline",
+    "url": "https://www.healthline.com/health/type-2-diabetes",
+    "filename": "Healthline_Understanding_Type_2_Diabetes.txt",
+    "filepath": "../data/medical_articles/Healthline_Understanding_Type_2_Diabetes.txt",
+    "word_count": 1066,
+    "collected_at": "2025-11-15T16:17:12.166150"
+  },
+  {
+    "title": "Everything To Know About A1C Levels in Diabetes Care",
+    "source": "Healthline",
+    "url": "https://www.healthline.com/health/type-2-diabetes/ac1-test",
+    "filename": "Healthline_Everything_To_Know_About_A1C_Levels_in_Diabetes_Care.txt",
+    "filepath": "../data/medical_articles/Healthline_Everything_To_Know_About_A1C_Levels_in_Diabetes_Care.txt",
+    "word_count": 874,
+    "collected_at": "2025-11-15T16:17:33.654332"
+  },
+  {
+    "title": "What to Know About Diuretics",
+    "source": "Healthline",
+    "url": "https://www.healthline.com/health/diuretics",
+    "filename": "Healthline_What_to_Know_About_Diuretics.txt",
+    "filepath": "../data/medical_articles/Healthline_What_to_Know_About_Diuretics.txt",
+    "word_count": 671,
+    "collected_at": "2025-11-15T16:17:44.405871"
+  },
+  {
+    "title": "10 Common Blood Pressure Medication Classes",
+    "source": "Healthline",
+    "url": "https://www.healthline.com/health/high-blood-pressure-hypertension-medication",
+    "filename": "Healthline_10_Common_Blood_Pressure_Medication_Classes.txt",
+    "filepath": "../data/medical_articles/Healthline_10_Common_Blood_Pressure_Medication_Classes.txt",
+    "word_count": 1328,
+    "collected_at": "2025-11-15T16:17:59.302574"
+  },
+  {
+    "title": "What Is Type 1 Diabetes?",
+    "source": "Healthline",
+    "url": "https://www.healthline.com/health/type-1-diabetes",
+    "filename": "Healthline_What_Is_Type_1_Diabetes.txt",
+    "filepath": "../data/medical_articles/Healthline_What_Is_Type_1_Diabetes.txt",
+    "word_count": 2118,
+    "collected_at": "2025-11-15T16:19:10.445549"
+  },
+  {
+    "title": "Everything You Need to Know About Diabetes",
+    "source": "Healthline",
+    "url": "https://www.healthline.com/health/diabetes",
+    "filename": "Healthline_Everything_You_Need_to_Know_About_Diabetes.txt",
+    "filepath": "../data/medical_articles/Healthline_Everything_You_Need_to_Know_About_Diabetes.txt",
+    "word_count": 2073,
+    "collected_at": "2025-11-15T16:19:14.115763"
+  },
+  {
+    "title": "National Diabetes Statistics Report",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/diabetes/php/data-research/index.html",
+    "filename": "CDC_National_Diabetes_Statistics_Report.txt",
+    "filepath": "../data/medical_articles/CDC_National_Diabetes_Statistics_Report.txt",
+    "word_count": 3876,
+    "collected_at": "2025-11-15T16:21:10.981320"
+  },
+  {
+    "title": "About Sodium and Health",
+    "source": "CDC",
+    "url": "https://www.cdc.gov/salt/index.htm",
+    "filename": "CDC_About_Sodium_and_Health.txt",
+    "filepath": "../data/medical_articles/CDC_About_Sodium_and_Health.txt",
+    "word_count": 296,
+    "collected_at": "2025-11-15T16:22:17.186900"
+  },
+  {
+    "title": "Health",
+    "source": "Johns Hopkins Medicine",
+    "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/high-blood-pressure-hypertension",
+    "filename": "Johns_Hopkins_Medicine_Health.txt",
+    "filepath": "../data/medical_articles/Johns_Hopkins_Medicine_Health.txt",
+    "word_count": 1021,
+    "collected_at": "2025-11-15T16:25:30.101924"
+  },
+  {
+    "title": "How to Prevent High Blood Pressure",
+    "source": "MedlinePlus",
+    "url": "https://medlineplus.gov/howtopreventhighbloodpressure.html",
+    "filename": "MedlinePlus_How_to_Prevent_High_Blood_Pressure.txt",
+    "filepath": "../data/medical_articles/MedlinePlus_How_to_Prevent_High_Blood_Pressure.txt",
+    "word_count": 1339,
+    "collected_at": "2025-11-15T16:26:04.420807"
+  },
+  {
+    "title": "High Blood Pressure",
+    "source": "MedlinePlus",
+    "url": "https://medlineplus.gov/highbloodpressure.html",
+    "filename": "MedlinePlus_High_Blood_Pressure.txt",
+    "filepath": "../data/medical_articles/MedlinePlus_High_Blood_Pressure.txt",
+    "word_count": 1222,
+    "collected_at": "2025-11-15T16:26:10.831117"
+  },
+  {
+    "title": "Diabetes Medicines",
+    "source": "MedlinePlus",
+    "url": "https://medlineplus.gov/diabetesmedicines.html",
+    "filename": "MedlinePlus_Diabetes_Medicines.txt",
+    "filepath": "../data/medical_articles/MedlinePlus_Diabetes_Medicines.txt",
+    "word_count": 935,
+    "collected_at": "2025-11-15T16:26:15.282135"
+  },
+  {
+    "title": "Blood Pressure Medicines",
+    "source": "MedlinePlus",
+    "url": "https://medlineplus.gov/highbloodpressuremedicines.html",
+    "filename": "MedlinePlus_Blood_Pressure_Medicines.txt",
+    "filepath": "../data/medical_articles/MedlinePlus_Blood_Pressure_Medicines.txt",
+    "word_count": 644,
+    "collected_at": "2025-11-15T16:26:19.704740"
+  },
+  {
+    "title": "Diabetes treatment: Medications for type 2 diabetes",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-treatment/art-20051004",
+    "filename": "Mayo_Clinic_Diabetes_treatment_Medications_for_type_2_diabetes.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diabetes_treatment_Medications_for_type_2_diabetes.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:27:45.341954"
+  },
+  {
+    "title": "Diabetes symptoms: When diabetes symptoms are a concern",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-symptoms/art-20044248",
+    "filename": "Mayo_Clinic_Diabetes_symptoms_When_diabetes_symptoms_are_a_concern.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diabetes_symptoms_When_diabetes_symptoms_are_a_concern.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:27:48.428296"
+  },
+  {
+    "title": "Diabetes and exercise: When to monitor your blood sugar",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-and-exercise/art-20045697",
+    "filename": "Mayo_Clinic_Diabetes_and_exercise_When_to_monitor_your_blood_sugar.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diabetes_and_exercise_When_to_monitor_your_blood_sugar.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:27:50.425386"
+  },
+  {
+    "title": "Type 1 diabetes",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/type-1-diabetes/symptoms-causes/syc-20353011",
+    "filename": "Mayo_Clinic_Type_1_diabetes.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Type_1_diabetes.txt",
+    "word_count": 2597,
+    "collected_at": "2025-11-15T16:28:05.613247"
+  },
+  {
+    "title": "Blood pressure: Does it have a daily pattern?",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/blood-pressure/faq-20058115",
+    "filename": "Mayo_Clinic_Blood_pressure_Does_it_have_a_daily_pattern.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Blood_pressure_Does_it_have_a_daily_pattern.txt",
+    "word_count": 174,
+    "collected_at": "2025-11-15T16:28:17.606861"
+  },
+  {
+    "title": "Prediabetes",
+    "source": "MedlinePlus",
+    "url": "https://medlineplus.gov/prediabetes.html",
+    "filename": "MedlinePlus_Prediabetes.txt",
+    "filepath": "../data/medical_articles/MedlinePlus_Prediabetes.txt",
+    "word_count": 886,
+    "collected_at": "2025-11-15T16:33:37.725493"
+  },
+  {
+    "title": "Diabetes",
+    "source": "MedlinePlus",
+    "url": "https://medlineplus.gov/diabetes.html",
+    "filename": "MedlinePlus_Diabetes.txt",
+    "filepath": "../data/medical_articles/MedlinePlus_Diabetes.txt",
+    "word_count": 1653,
+    "collected_at": "2025-11-15T16:33:39.442024"
+  },
+  {
+    "title": "Diabetes Type 2",
+    "source": "MedlinePlus",
+    "url": "https://medlineplus.gov/diabetestype2.html",
+    "filename": "MedlinePlus_Diabetes_Type_2.txt",
+    "filepath": "../data/medical_articles/MedlinePlus_Diabetes_Type_2.txt",
+    "word_count": 1310,
+    "collected_at": "2025-11-15T16:33:42.908320"
+  },
+  {
+    "title": "Diabetes",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/care-at-mayo-clinic/mac-20371457",
+    "filename": "Mayo_Clinic_Diabetes.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Diabetes.txt",
+    "word_count": 791,
+    "collected_at": "2025-11-15T16:38:39.411161"
+  },
+  {
+    "title": "Gestational diabetes",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/gestational-diabetes/symptoms-causes/syc-20355339",
+    "filename": "Mayo_Clinic_Gestational_diabetes.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Gestational_diabetes.txt",
+    "word_count": 1290,
+    "collected_at": "2025-11-15T16:38:44.059747"
+  },
+  {
+    "title": "Type 2 diabetes in children",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes-in-children/symptoms-causes/syc-20355318",
+    "filename": "Mayo_Clinic_Type_2_diabetes_in_children.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Type_2_diabetes_in_children.txt",
+    "word_count": 1436,
+    "collected_at": "2025-11-15T16:38:45.499453"
+  },
+  {
+    "title": "\u7cd6\u5c3f\u75c5",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/zh-hans/diseases-conditions/diabetes/symptoms-causes/syc-20371444",
+    "filename": "Mayo_Clinic_\u7cd6\u5c3f\u75c5.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_\u7cd6\u5c3f\u75c5.txt",
+    "word_count": 477,
+    "collected_at": "2025-11-15T16:38:49.523331"
+  },
+  {
+    "title": "Type 1 diabetes in children",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/diseases-conditions/type-1-diabetes-in-children/symptoms-causes/syc-20355306",
+    "filename": "Mayo_Clinic_Type_1_diabetes_in_children.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_Type_1_diabetes_in_children.txt",
+    "word_count": 1350,
+    "collected_at": "2025-11-15T16:38:51.642493"
+  },
+  {
+    "title": "\u062f\u0627\u0621 \u0627\u0644\u0633\u0643\u0631\u064a",
+    "source": "Mayo Clinic",
+    "url": "https://www.mayoclinic.org/ar/diseases-conditions/diabetes/symptoms-causes/syc-20371444",
+    "filename": "Mayo_Clinic_\u062f\u0627\u0621_\u0627\u0644\u0633\u0643\u0631\u064a.txt",
+    "filepath": "../data/medical_articles/Mayo_Clinic_\u062f\u0627\u0621_\u0627\u0644\u0633\u0643\u0631\u064a.txt",
+    "word_count": 2002,
+    "collected_at": "2025-11-15T16:38:58.752014"
+  }
+]

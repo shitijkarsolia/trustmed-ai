@@ -1,0 +1,412 @@
+Title: National Diabetes Statistics Report
+Source: CDC
+URL: https://www.cdc.gov/diabetes/php/data-research/index.html
+Collected: 2025-11-15T16:21:10.980954
+
+================================================================================
+
+National Diabetes Statistics Report
+
+The National Diabetes Statistics Report provides up-to-date information on the prevalence and incidence of diabetes and prediabetes, risk factors for complications, acute and long-term complications, deaths, and costs.
+
+Data in the report can help focus efforts to prevent and control diabetes across the United States. This report is continually updated as data become available. This report fulfills the requirement mandated by the Catalyst to Better Diabetes Care Act of 2009 (Section 10407 of Public Law 111-148).
+
+Fast Facts on Diabetes
+
+Total:38.4 million people have diabetes (11.6% of the U.S. population)
+
+Diagnosed:29.7 million people, including 29.4 million adults
+
+Undiagnosed:8.7 million people (22.8% of adults with diabetes are undiagnosed)
+
+Total:97.6 million people aged 18 years or older have prediabetes (38.0% of the adult U.S. population)
+
+65 years or older:27.2 million people aged 65 years or older (48.8%) have prediabetes
+
+Prevalence of both diagnosed and undiagnosed diabetes
+
+Among the U.S. population overall, crude estimates for 2021 were:
+
+38.4 million people of all ages—or 11.6% of the U.S. population—had diabetes.
+
+38.1 million adults aged 18 years or older—or 14.7% of all U.S. adults—had diabetes (Table 1a; Table 1b).
+
+8.7 million adults aged 18 years or older who met laboratory criteria for diabetes were not aware of or did not report having diabetes (undiagnosed diabetes, Table 1b). This number represents 3.4% of all U.S. adults (Table 1a) and 22.8% of all U.S. adults with diabetes.
+
+The percentage of adults with diabetes increased with age, reaching 29.2% among those aged 65 years or older (Table 1a).
+
+Table 1a. Estimated crude prevalence of diagnosed diabetes, undiagnosed diabetes, and total diabetes among adults aged 18 years or older, United States, 2017–2020
+
+Notes: CI = confidence interval. Time period 2017–2020 covers January 2017 through March 2020 only. Diagnosed diabetes was based on self-report. Undiagnosed diabetes was based on fasting plasma glucose and A1C levels among people self-reporting no diabetes. Numbers for subgroups may not add up to the total because of rounding. Age-adjusted estimates are presented inAppendix Table 1. Data source: 2017–March 2020 National Health and Nutrition Examination Survey.
+
+Table 1b. Estimated number of adults aged 18 years or older with diagnosed diabetes, undiagnosed diabetes, and total diabetes, United States, 2021
+
+Notes: CI = confidence interval. Estimated numbers for 2021 were derived from percentages for 2017–March 2020 applied to July 1, 2021, U.S. resident population estimates from the U.S. Census Bureau (Seedetailed methods and data sources). Diagnosed diabetes was based on self-report. Undiagnosed diabetes was based on fasting plasma glucose and A1C levels among people self-reporting no diabetes. Numbers for subgroups may not add up to the total because of rounding.
+
+Data sources: 2017–March 2020 National Health and Nutrition Examination Survey; 2021 U.S. Census Bureau data.
+
+Trends in prevalence of diagnosed diabetes, undiagnosed diabetes, and total diabetes
+
+During 2001–2020, the age-adjusted prevalence of total diabetes significantly increased among adults aged 18 years or older (Figure 1).
+
+Prevalence estimates for total diabetes were 10.3% in 2001–2004 and 13.2% in 2017–2020 (Appendix Table 2).
+
+During this period, the age-adjusted prevalence significantly increased for diagnosed diabetes. No significant change in undiagnosed diabetes prevalence was found (Figure 1;Appendix Table 2).
+
+Figure 1. Trends in age-adjusted prevalence of diagnosed diabetes, undiagnosed diabetes, and total diabetes among adults aged 18 years or older, United States, 2001–2020
+
+Notes: Diagnosed diabetes was based on self-report. Undiagnosed diabetes was based on fasting plasma glucose and A1C levels among people self-reporting no diabetes. Time period 2017–2020 covers January 2017 through March 2020 only.
+
+Prevalence of diagnosed diabetes
+
+Among the U.S. population overall, crude estimates for 2021 were:
+
+29.7 million people of all ages—or 8.9% of the U.S. population—had diagnosed diabetes.
+
+352,000 children and adolescents younger than age 20 years—or 35 per 10,000 U.S. youths—had diagnosed diabetes. This includes 304,000 with type 1 diabetes.
+
+1.7 million adults aged 20 years or older—or 5.7% of all U.S. adults with diagnosed diabetes—reported both having type 1 diabetes and using insulin.
+
+3.6 million adults aged 20 years or older—or 12.3% of all U.S. adults with diagnosed diabetes—started using insulin within a year of their diagnosis.
+
+Among U.S. adults aged 18 years or older, age-adjusted data for 2019–2021 indicated the following:
+
+For both men and women, prevalence of diagnosed diabetes was highest among American Indian and Alaska Native adults (13.6%), followed by non-Hispanic Black adults (12.1%), adults of Hispanic origin (11.7%), non-Hispanic Asian adults (9.1%) and non-Hispanic White adults (6.9%) (Appendix Table 3).
+
+Prevalence varied significantly by education level, which is an indicator of socioeconomic status. Specifically, 13.1% of adults with less than a high school education had diagnosed diabetes versus 9.1% of those with a high school education and 6.9% of those with more than a high school education (Appendix Table 3).
+
+Adults with family income above 500% of the federal poverty level had the lowest prevalence for both men (6.3%) and women (3.9%) (Appendix Table 3).
+
+For both men and women, prevalence was higher among adults living in nonmetropolitan areas compared to those in metropolitan areas (Figure 2;Appendix Table 3).
+
+Figure 2. Age-adjusted estimated prevalence of diagnosed diabetes by metropolitan residence and sex for adults aged 18 years or older, United States, 2019–2021
+
+Note: Error bars represent upper and lower bounds of the 95% confidence interval.
+
+Table 2. Crude prevalence of diagnosed diabetes by detailed race and ethnicity among adults aged 18 years or older, United States, 2019–2021
+
+Note: CI = confidence interval.  Data sources: National Center for Health Statistics; 2019–2021 National Health Interview Survey.
+
+County-level prevalence among adults
+
+Among U.S. adults aged 20 years or older, age-adjusted, county-level data indicated:
+
+In 2021, estimates of diagnosed diabetes prevalence varied across U.S. counties, ranging from 4.4% to 17.9% (Figure 3).
+
+Median county-level prevalence of diagnosed diabetes increased from 6.3% in 2004 to 8.3% in 2021.
+
+Figure 3. Age-adjusted, county-level prevalence of diagnosed diabetes among adults aged 20 years or older, United States, 2004 and 2021
+
+Incidence of newly diagnosed diabetes
+
+Incidence among adults
+
+Among U.S. adults aged 18 years or older, crude estimates for 2021 were:
+
+1.2 million new cases of diabetes—or 5.9 per 1,000 people—were diagnosed (Table 3).
+
+Compared to adults aged 18 to 44 years, incidence rates of diagnosed diabetes were higher among adults aged 45 to 64 years and those aged 65 years and older (Table 3).
+
+Among U.S. adults aged 18 years or older, age-adjusted data for 2019–2021 indicated:
+
+Compared to non-Hispanic White adults and Asian adults, incidence estimates were higher for non-Hispanic Black adults and Hispanic adults (Appendix Table 4).
+
+Incidence rates of diagnosed diabetes were higher among those with less than high school education and those with high school education only compared to adults with more than high school education (Appendix Table 4).
+
+Incidence was similar among adults living in metropolitan and nonmetropolitan areas (Appendix Table 4).
+
+Table 3. Estimated crude incidence of diagnosed diabetes among adults aged 18 years or older, United States, 2019–2021
+
+CI = confidence interval.
+
+aPopulation estimates for 2021 were derived from rates for 2019–2021 applied to July 1, 2021 U.S. resident population estimates from the U.S. Census Bureau (SeeAppendix B: Detailed Methods).
+
+bRates were calculated using 2021 data only.
+
+Data sources: 2019–2021 National Health Interview Survey and 2021 U.S. Census Bureau data.
+
+Trends in incidence among adults
+
+Among adults aged 18 years or older, the age-adjusted incidence of diagnosed diabetes was similar in 2000 (6.2 per 1,000 adults) and 2021 (5.8 per 1,000 adults). A significant decreasing trend in incidence was detected after 2008 (8.4 per 1,000 adults) through 2021. (Figure 4).
+
+Figure 4. Trends in age-adjusted incidence of diagnosed diabetes among adults aged 18 years or older, United States, 2000–2021
+
+Notes: Data shown are estimated incidence rates (solid blue line) and 95% confidence intervals (shaded). Joinpoint identified in 2008 (seeAppendix B: Detailed Methods and Data Sources). Because of changes to the survey design and survey instruments after 2018, comparisons of the 2000–2018 and 2019–2021 data should be examined with caution.
+
+County-level incidence among adults
+
+Among US adults aged 20 years or older, age-adjusted, county-level data indicated:
+
+Estimates of diagnosed diabetes incidence varied across U.S. counties, ranging from 2.2 to 53.5 per 1,000 people in 2020 (for more detail, seeU.S. Diabetes Surveillance System).
+
+Median county-level incidence of diagnosed diabetes was 9.7 and 9.0 per 1,000 people in 2004 and 2020, respectively (for more detail, seeU.S. Diabetes Surveillance System).
+
+Incidence among children and adolescents
+
+Data from the SEARCH for Diabetes in Youth study indicated that, during 2017–2018, the estimated annual number of newly diagnosed cases in the United States included:
+
+18,169 children and adolescents younger than age 20 years with type 1 diabetes.
+
+5,293 children and adolescents aged 10 to 19 years with type 2 diabetes.
+
+Trends in incidence among children and adolescents
+
+Among U.S. children and adolescents aged younger than 20 years, modeled data in Figure 5 showed:
+
+For the period 2002–2018, overall incidence of type 1 diabetes significantly increased.
+
+Non-Hispanic Asian or Pacific Islander children and adolescents had the largest significant increases in incidence of type 1 diabetes, followed by Hispanic and non-Hispanic Black children and adolescents.
+
+Non-Hispanic White children and adolescents had the highest incidence of type 1 diabetes across all years.
+
+Among U.S. children and adolescents aged 10 to 19 years, modeled data in Figure 5 showed:
+
+For the entire period 2002–2018, overall incidence of type 2 diabetes significantly increased.
+
+Incidence of type 2 diabetes significantly increased for all racial and ethnic groups, especially Asian or Pacific Islander, Hispanic, and non-Hispanic Black children and adolescents.
+
+Non-Hispanic Black children and adolescents had the highest incidence of type 2 diabetes across all years.
+
+Figure 5. Trends in incidence of type 1 and type 2 diabetes in children and adolescents, overall and by race and ethnicity, 2002–2018
+
+Note: Adapted from Wagenknecht LE et al1. Data are model-adjusted incidence estimates (seeAppendix B: Detailed Methods and Data Sources).
+
+Prevalence of prediabetes among adults
+
+An estimated 97.6 million adults aged 18 years or older had prediabetes in 2021 (Table 4).
+
+Among U.S. adults aged 18 years or older, crude estimates for 2017–2020 were:38.0% of all U.S. adults had prediabetes, based on their fasting glucose or A1C level (Table 4).19.0% of adults with prediabetes reported being told by a health professional that they had this condition (Table 4).
+
+38.0% of all U.S. adults had prediabetes, based on their fasting glucose or A1C level (Table 4).
+
+19.0% of adults with prediabetes reported being told by a health professional that they had this condition (Table 4).
+
+Among U.S. adults aged 18 years or older, age-adjusted data for 2017–2020 indicated:
+
+10.8% of adults had prediabetes, based on both elevated fasting plasma glucose and A1C levels (Appendix Table 5).
+
+A higher percentage of men (41.0%) than women (32.0%) had prediabetes, based on their fasting glucose or A1C level (Appendix Table 6).
+
+Prevalence of prediabetes (based on fasting glucose or A1C level) was similar among all racial and ethnic groups and education levels (Appendix Table 6).
+
+Table 4. Estimated number, percentage, and awareness of prediabetesaamong adults aged 18 years or older, United States, 2017–2020 and 2021
+
+Notes: CI = confidence interval. Data are crude estimates (seeAppendix B: Detailed Methods and Data Sources). Time period 2017–2020 covers January 2017 through March 2020 only.
+
+aPrediabetes was defined as fasting plasma glucose values of 100 to 125 mg/dL or A1C values of 5.7% to 6.4%.
+
+bPrediabetes awareness was based on self-report and estimated only among adults with prediabetes.
+
+Data sources: 2017–March 2020 National Health and Nutrition Examination Survey; 2021 U.S. Census Bureau data.
+
+Trends in prevalence of prediabetes among adults
+
+There were no significant changes in age-adjusted prevalence of prediabetes from 2005–2008 to 2017–2020 (Appendix Table 7). About one-third of U.S. adults had prediabetes over the entire period.
+
+Among adults with prediabetes, the age-adjusted percentage aware that they had this condition increased from 6.5% in 2005–2008 to 17.4% in 2017–2020 (Appendix Table 7).
+
+Risk factors for diabetes-related complications
+
+Among U.S. adults aged 18 years or older with diagnosed diabetes, crude estimates for 2017–2020 shown inAppendix Table 8were:
+
+22.1% were tobacco users based on self-report or levels of serum cotinine.
+
+14.6% reported current cigarette smoking.
+
+36.0% had quit smoking but had a history of smoking at least 100 cigarettes in their lifetime.
+
+Overweight and obesity
+
+89.8% were overweight or had obesity, defined as a body mass index (BMI) of 25 kg/m2or higher. Specifically26.9% were overweight (BMI of 25.0 to 29.9 kg/m2).47.1% had obesity (BMI of 30.0 to 39.9 kg/m2).15.7% had extreme obesity (BMI of 40.0 kg/m2or higher).
+
+26.9% were overweight (BMI of 25.0 to 29.9 kg/m2).
+
+47.1% had obesity (BMI of 30.0 to 39.9 kg/m2).
+
+15.7% had extreme obesity (BMI of 40.0 kg/m2or higher).
+
+31.9% were physically inactive, defined as getting less than 10 minutes a week of moderate or vigorous activity in each physical activity category of work, leisure time, and transportation.
+
+47.4% had an A1C value of 7.0% or higher. Specifically:22.9% had an A1C value of 7.0% to 7.9%.11.5% had an A1C value of 8.0% to 9.0%.13.0% had an A1C value higher than 9.0%.
+
+22.9% had an A1C value of 7.0% to 7.9%.
+
+11.5% had an A1C value of 8.0% to 9.0%.
+
+13.0% had an A1C value higher than 9.0%.
+
+10.4% of adults aged 18–44 years had A1C levels of 10% or higher, compared to 9.4% of those aged 45–64 years and 2.6% of those aged 65 years or older (Appendix Table 9).
+
+80.6% had a systolic blood pressure of 130 mmHg or higher or diastolic blood pressure of 80 mmHg or higher or were on prescription medication for their high blood pressure (Appendix Table 8).
+
+70.8% had a systolic blood pressure of 140 mmHg or higher or diastolic blood pressure of 90 mmHg or higher or were on prescription medication for their high blood pressure (Appendix Table 8).
+
+39.5% had a non-HDL level of 130 mg/dL or higher. Specifically:19.9% had a non-HDL level of 130 to 159 mg/dL.11.5% had a non-HDL level of 160 to 189 mg/dL.8.0% had a non-HDL level of 190 mg/dL or higher.
+
+19.9% had a non-HDL level of 130 to 159 mg/dL.
+
+11.5% had a non-HDL level of 160 to 189 mg/dL.
+
+8.0% had a non-HDL level of 190 mg/dL or higher.
+
+* Non-high-density lipoprotein cholesterol (non-HDL) contains all the atherogenic lipoproteins, including low-density lipoprotein cholesterol (LDL), very-low-density lipoprotein, lipoprotein(a), and others. Growing evidence supports non-HDL as a better predictor of cardiovascular disease risk than LDL2.
+
+Preventing diabetes-related complications
+
+Among U.S. adults aged 18 years or older with diagnosed diabetes, crude data for 2017–2020 shown inAppendix Table 10indicated:
+
+Usual source for diabetes care
+
+78.8% reported having at least one usual source of diabetes care, such as a doctor or other health care professional.
+
+24.1% met the recommended goal of at least 150 minutes per week of leisure-time physical activity.
+
+73.1% reported managing or losing weight to lower their risk for developing certain diseases.
+
+57.8% of adults aged 40–75 years were on statin therapy.
+
+A1C, blood pressure, cholesterol, and smoking (ABCs)
+
+11.1% met all these criteria: A1C value <7.0%, blood pressure <130/80 mmHg, non-HDL cholesterol <130 mg/dL, and being a nonsmoker (Table 5).
+
+36.8% met all these criteria: A1C value <8.0%, blood pressure <140/90 mmHg, non-HDL cholesterol <160 mg/dL, and being a nonsmoker (Table 5).
+
+Table 5. Crude percentage of adults aged 18 years or older with diagnosed diabetes meeting all ABCsgoals, United States, 2017–202034
+
+Notes: ABCs = A1C, blood pressure, cholesterol, and smoking. CI = confidence interval. Estimates are crude percentages and 95% confidence intervals.
+
+Data source: 2017–2020 National Health and Nutrition Examination Survey.
+
+Among U.S. adults aged 18 years or older with diagnosed diabetes, crude data for 2021 indicated:
+
+87.9% (95% CI, 86.4–89.3) received all three recommended ABC tests by a health professional in the past year.94.2% (95% CI, 93.0–95.2) received a blood test for A1C.96.8% (95% CI, 95.8–97.5) had their blood pressure checked.93.0% (95% CI, 91.8–94.1) had their cholesterol checked.
+
+94.2% (95% CI, 93.0–95.2) received a blood test for A1C.
+
+96.8% (95% CI, 95.8–97.5) had their blood pressure checked.
+
+93.0% (95% CI, 91.8–94.1) had their cholesterol checked.
+
+Among U.S. adults aged 18 years or older with diagnosed diabetes, crude data for 2021 indicated:
+
+65.9% (95% CI, 63.8–68.0) had received an influenza vaccination in the past year.
+
+81.5% (95% CI, 79.4–83.4) had ever received a COVID-19 vaccination.8.9% (95% CI, 7.6–10.4) had received one COVID-19 vaccination.63.8% (95% CI, 61.5–66.1) had received two COVID-19 vaccinations.8.7% (95% CI, 7.6–10.1) had received more than two COVID-19 vaccinations.
+
+8.9% (95% CI, 7.6–10.4) had received one COVID-19 vaccination.
+
+63.8% (95% CI, 61.5–66.1) had received two COVID-19 vaccinations.
+
+8.7% (95% CI, 7.6–10.1) had received more than two COVID-19 vaccinations.
+
+26.2% (95% CI, 24.2–28.3) had ever received a hepatitis B vaccination.35.9% (95% CI, 32.2–39.8) of adults aged 18–59 years had ever received a hepatitis B vaccination.
+
+35.9% (95% CI, 32.2–39.8) of adults aged 18–59 years had ever received a hepatitis B vaccination.
+
+50.7% (95% CI, 48.6–52.9) had ever received a pneumococcal vaccination.
+
+Coexisting conditions and complications
+
+Emergency department visits
+
+In 2020, about 16.8 million emergency department visits were reported with diabetes as any listed diagnosis among adults aged 18 years or older (Table 6), including:
+
+267,000 for hyperglycemic crisis (11.4 per 1,000 adults with diabetes).
+
+202,000 for hypoglycemia (8.6 per 1,000 adults with diabetes).
+
+Table 6. Number and rate of emergency department visits per 1,000 adults aged 18 years or older with diabetes for selected causes, United States, 2019 and 2020
+
+Note: CI = confidence interval. Numbers rounded to the nearest thousand. Data sources: 2019 and 2020 National Emergency Department Sample; 2019 and 2020 National Health Interview Survey.
+
+In 2020, of the emergency department visits with diabetes as any listed diagnosis among U.S. adults aged 18 years or older, disposition data (seeAppendix B: Detailed Methods and Data Sources) indicated:
+
+54.9% were treated and released; 38.4% were admitted to the hospital; 2.5% were transferred to another hospital; 2.6% were transferred to a skilled nursing facility, an intermediate care facility, or home with home health care; 1.3% left against medical advice; 0.3% died; and <0.1% had unknown disposition but were not admitted to a hospital.
+
+Of those ED visits involving hypoglycemia, 66.8% were treated and released, 25.1% were admitted to the hospital, and <0.1% died.
+
+Of the ED visits involving hyperglycemic crisis, 8.4% were treated and released, 84.4% were admitted to the hospital, and <0.1% died.
+
+In 2020, a total of 7.86 million hospital discharges were reported with diabetes as any listed diagnosis among U.S. adults aged 18 years or older (335.4 per 1,000 adults with diabetes) (Table 7). These discharges included:
+
+1.68 million for major cardiovascular diseases (71.6 per 1,000 adults with diabetes), including:368,000 for ischemic heart disease (15.7 per 1,000 adults with diabetes).321,000 for stroke (13.7 per 1,000 adults with diabetes).
+
+368,000 for ischemic heart disease (15.7 per 1,000 adults with diabetes).
+
+321,000 for stroke (13.7 per 1,000 adults with diabetes).
+
+160,000 for a lower-extremity amputation (6.8 per 1,000 adults with diabetes).
+
+232,000 for hyperglycemic crisis (9.9 per 1,000 adults with diabetes).
+
+51,000 for hypoglycemia (2.2 per 1,000 adults with diabetes).
+
+Table 7. Number and rate of hospitalizations per 1,000 adults aged 18 years or older with diabetes for selected causes, United States, 2019 and 2020
+
+Notes: CI = confidence interval. Numbers rounded to the nearest thousand. Data sources: 2019 and 2020 National Inpatient Sample; 2019 and 2020 National Health Interview Survey.
+
+Among U.S. adults aged 18 years or older with diagnosed diabetes, crude data for 2017–2020 shown inAppendix Table 11indicated:
+
+39.2% had chronic kidney disease (CKD, stages 1–4), based on the updated 2021 CKD Epidemiology Collaboration (CKD-EPI) equation for estimated glomerular filtration rate (eGFR).15.7% had moderate to severe CKD (stage 3 or 4).23.1% of non-Hispanic Black adults, 17.2% of non-Hispanic White adults, and 8.9% of Hispanic adults had moderate to severe CKD (stage 3 or 4).32.5% with moderate to severe CKD (stage 3 or 4) were aware of their kidney disease.
+
+15.7% had moderate to severe CKD (stage 3 or 4).
+
+23.1% of non-Hispanic Black adults, 17.2% of non-Hispanic White adults, and 8.9% of Hispanic adults had moderate to severe CKD (stage 3 or 4).
+
+32.5% with moderate to severe CKD (stage 3 or 4) were aware of their kidney disease.
+
+40.9% had chronic kidney disease (CKD, stages 1–4), based on the 2009 CKD-EPI eGFR equation, which included a factor for non-Hispanic Black race.
+
+A total of 61,522 people developed end-stage kidney disease with diabetes as the primary cause.
+
+Crude incidence of end-stage kidney disease with diabetes as the primary cause was 192.7 per 1 million population (61,522 new cases). Adjusted for age group, sex, and racial or ethnic group, the rate was 179.5 per 1 million people.
+
+The proportion of end-stage kidney disease with diabetes listed as the primary cause was 39.2% (307,385 out of 783,594 people). As a result, diabetes was the leading cause of end-stage kidney disease, followed by high blood pressure (26.7%), glomerulonephritis (14.6%), and cystic kidney disease (5.0%).
+
+Diabetes is the leading cause of new cases of blindness among adults aged 18–64 years.
+
+Among US adults aged 18 years or older with diagnosed diabetes, crude data for 2021 indicated:10.1% (95% CI, 9.6%–11.3%) reported severe vision difficulty or blindness.
+
+10.1% (95% CI, 9.6%–11.3%) reported severe vision difficulty or blindness.
+
+In 2021, diabetes was the eighth leading cause of death in the United States. This finding is based on 103,294 death certificates in which diabetes was listed as the underlying cause of death (crude rate, 31.1 per 100,000 people).
+
+In 2021, there were 399,401 death certificates with diabetes listed as the underlying or contributing cause of death (crude rate, 120.3 per 100,000 people).
+
+The total direct and indirect estimated costs* of diagnosed diabetes in the United States in 2022 was $413 billion.
+
+Total direct estimated costs of diagnosed diabetes increased from $227 billion in 2012 to $307 billion in 2022 (2022 dollars). Total indirect costs increased from $89 billion to $106 billion in the same period (2022 dollars).
+
+From 2012 to 2022, excess medical costs per person associated with diabetes increased from $10,179 to $12,022 (2022 dollars).
+
+* Direct costs = medical costs; indirect costs = lost productivity from work-related absenteeism, reduced productivity at work and at home, unemployment from chronic disability, and premature mortality.
+
+Fast Facts on Diabetes
+
+Prevalence of both diagnosed and undiagnosed diabetes
+
+Prevalence of diagnosed diabetes
+
+Incidence of newly diagnosed diabetes
+
+Prevalence of prediabetes among adults
+
+Risk factors for diabetes-related complications
+
+Preventing diabetes-related complications
+
+Coexisting conditions and complications
+
+Wagenknecht LE, Lawrence JM, Isom S, et al. Trends in incidence of youth-onset type 1 and type 2 diabetes in the USA, 2002-18: results from the population-based SEARCH for Diabetes in Youth study.Lancet Diabetes Endocrinol. 2023;11(4):242–250. doi: 10.1016/S2213-8587(23)00025-6
+
+Su X, Kong Y, Peng D. Evidence for changing lipid management strategy to focus on non-high density lipoprotein cholesterol.Lipids Health Dis. 2019;18(1):134.
+
+American Diabetes Association. Standards of medical care in diabetes—2023.Diabetes Care. 2023;46 (suppl 1).
+
+American Association of Clinical Endocrinologists and American College of Endocrinology guidelines for the management of dyslipidemia and prevention of cardiovascular disease.Endocr Pract. 2017;23(suppl 2).
+
+Centers for Disease Control and Prevention. CDC WONDER. About Underlying Cause of Death 1999–2020. Accessed April 25, 2023.https://wonder.cdc.gov/ucd-icd10.html
+
+Parker ED, Lin J, Mahoney T, Ume N, Yang G, Gabbay RA, ElSayed NA, Bannuru RR. Economic Costs of Diabetes in the U.S. in 2022. Diabetes Care. 2024;47(1):26–43. doi: 10.2337/dci23-0085. Online ahead of print.
+
+Centers for Disease Control and Prevention. National Diabetes Statistics Report website.https://www.cdc.gov/diabetes/php/data-research/index.htmlAccessed [date].

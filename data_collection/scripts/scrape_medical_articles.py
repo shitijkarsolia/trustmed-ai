@@ -20,7 +20,7 @@ from medical_article_urls import MEDICAL_ARTICLE_URLS
 class MedicalArticleScraper:
     """Scrapes medical articles from trusted health websites."""
 
-    def __init__(self, output_dir='../data/medical_articles'):
+    def __init__(self, output_dir='../data/auth_src/medical_articles'):
         self.output_dir = output_dir
         self.metadata_file = os.path.join(output_dir, 'articles_metadata.json')
         self.articles_collected = []
@@ -310,7 +310,7 @@ class MedicalArticleScraper:
 def main():
     """Main function."""
     # Create scraper instance
-    scraper = MedicalArticleScraper(output_dir='../data/medical_articles')
+    scraper = MedicalArticleScraper(output_dir='../data/auth_src/medical_articles')
 
     # Scrape up to 200 articles
     scraper.scrape_all(target_count=200)

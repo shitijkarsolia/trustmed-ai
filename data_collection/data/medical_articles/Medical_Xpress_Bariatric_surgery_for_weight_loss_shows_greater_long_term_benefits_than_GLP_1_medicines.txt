@@ -1,0 +1,45 @@
+Title: Bariatric surgery for weight loss shows greater long-term benefits than GLP-1 medicines
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-09-bariatric-surgery-weight-loss-greater.html
+Collected: 2025-11-15T17:11:09.590508
+
+================================================================================
+
+Bariatric surgery for weight loss shows greater long-term benefits than GLP-1 medicines
+
+edited byStephanie Baum, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+A large Cleveland Clinic study has found that people with obesity and type 2 diabetes who undergo weight-loss surgery live longer and face fewer serious health problems compared with those treated with GLP-1 receptor agonist medicines alone.
+
+Patients who hadweight-loss surgery(also known as bariatric or metabolic surgery) lost more weight, achieved better blood sugar control, and relied less on diabetes andheart medicationsover 10 years. The research ispublishedinNature Medicine.
+
+"Even with today's best medicines, metabolic surgery offers unique and lasting benefits for people with obesity and diabetes," said Ali Aminian, M.D., director of Cleveland Clinic's Bariatric & Metabolic Institute and primary investigator of the study. "The benefits we observed went beyond weight loss. Surgery was linked to fewer heart problems, less kidney disease, and even lower rates of diabetes-related eye damage."
+
+GLP-1 (glucagon-like peptide-1) receptor agonists are a class of medications widely used to treat type 2 diabetes and obesity and to reduce health risks. Both metabolic surgery and GLP-1 medicines improve cardiovascular health and metabolism.
+
+The M6 study (Macrovascular and Microvascular Morbidity and Mortality after Metabolic Surgery versus Medicines) followed 3,932 adults with diabetes and obesity who received care at Cleveland Clinic for up to 10 years. Among them, 1,657 underwent metabolic surgery (includinggastric bypassorsleeve gastrectomy), while 2,275 were treated with GLP-1 medicines (including liraglutide, dulaglutide, exenatide, semaglutide, and tirzepatide).
+
+At the end of the study, patients who had metabolic surgery had:
+
+32% lower risk of death
+
+35% lower risk of major heart problems (such asheart attack,heart failure, or stroke)
+
+47% lower risk of serious kidney disease
+
+54% lower risk of diabetes-related eye damage (retinopathy)
+
+On average, people who had metabolic surgery lost 21.6% of their body weight over 10 years, compared with 6.8% weight loss in people who took GLP-1 medicines. Hemoglobin A1c, a marker of average blood sugar, improved more with surgery (-0.86%) than with GLP-1 medicines (-0.23%). Patients in the surgery group also required fewer prescriptions for diabetes, blood pressure, and cholesterol.
+
+"Even in the era of these powerful new drugs to treat obesity and diabetes,metabolic surgerymay provide additional benefits, including a survival advantage," said Steven Nissen, M.D., Chief Academic Officer of the Heart, Vascular & Thoracic Institute at Cleveland Clinic and senior author of the study.
+
+"Our findings indicate that surgery should remain an important treatment option for obesity anddiabetes," said Dr. Aminian. "These long-term benefits are harder to achieve with GLP-1 medicines alone, as many patients stop using the medications over time."
+
+According to the authors, the study has some limitations. It was observational rather than a randomized comparison of drugs and surgery, and it did not focus exclusively on the newest and most effective GLP-1 medicines. The researchers note that future studies should directly compare surgery with newer GLP-1 therapies, such as semaglutide and tirzepatide, to further guide treatment decisions.
+
+More information:Macrovascular and microvascular outcomes of metabolic surgery versus GLP-1 receptor agonists in patients with diabetes and obesity,Nature Medicine(2025).DOI: 10.1038/s41591-025-03893-3.Journal information:Nature Medicine

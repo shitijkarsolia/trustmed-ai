@@ -1,0 +1,85 @@
+Title: GLP-1 and health: Beyond weight loss in the Ozempic era
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-glp-health-weight-loss-ozempic.html
+Collected: 2025-11-15T16:58:35.613953
+
+================================================================================
+
+GLP-1 and health: Beyond weight loss in the Ozempic era
+
+by Nadine Yehya,UC Davis
+
+edited byLisa Lock, 																								reviewed byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+This week, the White House announced a deal with Eli Lilly and Novo Nordisk to lower the cost of theirGLP-1 weight loss drugs, Wegovy and Zepbound. The move could significantly expand access to these treatments for people with diabetes and obesity.
+
+GLP-1 receptor agonists (RA), such as Ozempic and Mounjaro, were initially designed to help manage blood sugar in type 2 diabetes. Now, they are reshaping the landscape of obesity treatment andmetabolic healthwith impacts that go far beyond the scale.
+
+"About 1 in 8 adult Americans has already used GLP-1 drugs. That is 41 million Americans," said Kim Fisher, director of programs at The UC Davis Innovation Institute for Food and Health (IIFH). "Lowering prices might encourage more people who might benefit from these medications to start using them."
+
+Recently, the IIFH brought together leading scientists, industry innovators and health care experts to examine how GLP-1-based therapies are transforming obesity and diabetes care. They also discussed what this means for the future of health, food and nutrition. Research is still unraveling how GLP-1 drugs influence the body, from the gut and cardiovascular system to muscular and brain function.
+
+What are GLP-1 drugs?
+
+GLP-1 (glucagon-like peptide-1) is a hormone naturally produced in the gut after eating. It helps regulate blood sugar by stimulating insulin, suppressing glucagon and slowing digestion.
+
+Pharmaceutical versions amplify these effects, reducing appetite and promoting satiety, or a feeling of fullness. For many, this means dramatic weight loss—often 15–20% ofbody weight—as well as improved blood sugar control.
+
+"GLP-1s are ushering in a transformational moment, changing how consumers worldwide eat and live," Justin Siegel, the faculty director of IIFH.
+
+The gut: More than digestion
+
+GLP-1 has a substantial impact on the gastrointestinal (GI) system. It slows gastric emptying, which helps control blood sugar and prolongs satiety. But the gut is also home to trillions of microbes that influence metabolism. GLP-1 therapies alter the way food moves in the gut and its fermentation patterns. These changes can shift the makeup of the microbiome.
+
+"GI intolerance with GLP-1 RA use is a big deal. Patients might experience nausea, vomiting and even diarrhea. The majority of these symptoms are the effects of GLP-1 RA drugs on the GI tract and the delay in the gastric emptying," said bariatric surgeon Mohamed Ali, professor and chief of Foregut, Metabolic and General Surgery at UC Davis Medical Center.
+
+A healthier microbiome supports GLP-1 activity and improves insulin sensitivity. Fiber-rich diets and probiotics may also enhance these effects, reinforcing gut health during therapy.
+
+The brain: Appetite and beyond
+
+GLP-1 signals travel from the gut to the brain via the bloodstream and the vagus nerve. These signals reduce hunger and dampen cravings for high-calorie foods. Emerging research suggests GLP-1 may also affect reward pathways, potentially influencing taste perception.
+
+"The patients taking GLP-1 RA medications report that the 'food noise'—the constant thinking about food—is quieter," Ali said.
+
+Appetite suppression helps with weight loss, but it can also change food preferences. Patients often report reduced desire for sweets and fatty foods, creating an opportunity to adopt healthier habits.
+
+The muscles: Preserving strength
+
+Skeletal muscle is the body's largest site for glucose uptake and a key player in metabolic health. While GLP-1 drugs promote fat loss, rapid weight reduction can lead to 15–25% lean muscle mass loss. Lean muscle mass is the weight of the body that is not fat—including muscles, bones, organs and more.
+
+"We are losing around 20% of muscle mass, but that is not different from diets that restrict calorie intake. Much of the reported 40% lean mass loss with GLP-1 use is coming from the liver," explained exercise physiologist Keith Baar, a professor of Neurobiology, Physiology and Behavior and Physiology and Membrane Biology. "It is still important for patients taking GLP-1 medication to limit muscle wasting through exercise and high quality protein."
+
+Losing muscle can lower metabolic rate and physical strength. Strategies like resistance training and high-quality protein intake are essential to maintain muscle during therapy.
+
+The bones: Hidden risks
+
+Bone is metabolically active and responds to incretin hormones, likeGLP-1 and GIP, released in the intestines after eating to stimulate the pancreas to produce insulin. While some evidence suggests protective effects, rapid weight loss and reduced nutrient intake can compromise bone density.
+
+Older adults and postmenopausal women face a higher risk of bone loss. This risk can increase with improper nutrient intake. These groups would need to ensure they are getting adequate calcium, vitamin D and magnesium through their diet as these are critical for bone health. Also, weight-bearing exercise strengthens bones, making them denser and stronger.
+
+The heart: Cardiovascular protection
+
+GLP-1 receptor agonists do more than regulateblood sugar—they also protect the heart. Clinical trials have shown that these medications reduce the risk of major cardiovascular events, including heart attack and stroke.
+
+GLP-1 receptors are found in the heart and blood vessels, influencing blood pressure, lipid profiles and inflammation. Multi-agonist therapies combining GLP-1 with GIP or glucagon may amplify these benefits by improving fat metabolism and reducing cardiovascular risk even further.
+
+Nutrition matters more than ever
+
+While GLP-1 drugs suppress appetite, they also create new nutritional challenges. Eating less can mean missing out on essential nutrients. Experts recommend precision nutrition strategies:
+
+Smaller, nutrient-dense meals rich in high-quality protein
+
+Micronutrient support for vitamins B12, D, folate, magnesium and iron
+
+Hydration solutions to counter reduced thirst signals
+
+Fiber and probiotics to support gut health
+
+GLP-1 therapies are revolutionizing obesity and diabetes care, but they also reshape physiology in ways that demand attention. Experts say supporting gut and heart health, preserving muscle and protecting bone are essential for long-term success. They note that pairing these medications with precision nutrition and lifestyle strategies ensures thatweight losstranslates into lasting health.
+
+"This shift caused by GLP-1 use is opening new opportunities for food companies to finally build the healthier food system we've long imagined," Siegel said.
+
+For more on the science of metabolic hormones, read UC Davis'white paper. The paper explores the science at the intersection of metabolic hormones and precision nutrition and multi-target therapies, like tirzepatide and retatrutide.

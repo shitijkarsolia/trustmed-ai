@@ -1,0 +1,44 @@
+Title: Gut bacterium could be key to tackling obesity crisis
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-gut-bacterium-key-tackling-obesity.html
+Collected: 2025-11-15T16:58:30.111733
+
+================================================================================
+
+November 14, 2025report
+
+Gut bacterium could be key to tackling obesity crisis
+
+byPaul Arnold, Medical Xpress
+
+edited byGaby Clark, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+The internet, libraries and bookshops are full of plans and advice on how to lose weight, from fad diets to intense exercise routines. But there could be another route to keeping the pounds away, and that's with a gut bacterium called Turicibacter.
+
+According to the World Health Organization, around 1 in 8 people are living with obesity. This global crisis can cause significant health complications and increase the risk of type 2 diabetes and heart disease. For years, scientists have known that ourgut microbiota(the trillions of microbes in our digestive system) play a role in our overall health, including how we process fat. But pinpointing the exact beneficial microbes and how they help us has been much harder.
+
+However, new research has identified Turicibacter inmiceas a key player, a bacterium long suspected of influencing fat metabolism. In a paperpublishedin the journalCell Metabolism, scientists detail exactly how it exerts its protective effects.
+
+Kendra Klag at the University of Utah School of Medicine in Salt Lake City and her colleagues first isolated the specific Turicibacter bacterium from other microbes. Then they tested its protective effects on different groups of mice, including those bred without any existing gut bacteria and standard lab mice. The mice were fed either a regular diet or a high-fat diet, and some were also given the bacterium as a supplement.
+
+The team then measured key health metrics, including body fat,blood sugar, and blood fat levels. They found that Turicibacter drastically reduced obesity and improved metabolic health even in mice on a high-fat diet.
+
+To understand how Turicibacter was doing this, the team analyzed mouse gut andblood samplesand found that the bacteria were producing their own lipids (fat molecules). They purified these bacterial fats and gave them to the mice, and observed that they alone (without the bacteria) were enough to prevent obesity. These lipids helped suppress the body's production ofceramides, a type of fat that builds up when an individual has ahigh-fat diet.
+
+"Our data identify a novel bacterial-host lipid network that promotes host metabolic health and holds therapeutic promise," wrote the scientists.
+
+Naturally, the research has people wondering whether gut bacteria could be our new weapon against obesity. The idea is not that far-fetched. The researchers also found that low levels of Turicibacter are linked with obesity in humans, which could pave the way for probiotic supplements to treat the metabolic disorder.
+
+Written for you by our authorPaul Arnold, edited byGaby Clark, and fact-checked and reviewed byRobert Egan—this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive.
+    If this reporting matters to you,
+    please consider adonation(especially monthly).
+    You'll get anad-freeaccount as a thank-you.
+
+More information:Kendra Klag et al, Dietary fat disrupts a commensal-host lipid network that promotes metabolic health,Cell Metabolism(2025).DOI: 10.1016/j.cmet.2025.10.007Journal information:Cell Metabolism
+
+© 2025 Science X Network

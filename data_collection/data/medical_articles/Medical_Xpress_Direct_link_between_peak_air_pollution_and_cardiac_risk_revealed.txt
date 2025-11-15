@@ -1,0 +1,41 @@
+Title: Direct link between peak air pollution and cardiac risk revealed
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-link-peak-air-pollution-cardiac.html
+Collected: 2025-11-15T17:12:32.428128
+
+================================================================================
+
+Direct link between peak air pollution and cardiac risk revealed
+
+byPolytechnic University of Milan
+
+edited byGaby Clark, 																								reviewed byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+In Lombardy, the risk of suffering cardiac arrest may increase on days recording high levels of air pollution. This emerges from a study conducted by the Politecnico di Milano andpublishedin the journalGlobal Challenges.
+
+Researchers analyzed 37,613 cases of out-of-hospital cardiac arrest in Lombardy between 2016 and 2019 by assessing, for each episode, the daily concentrations of various pollutants (PM₂.₅, PM₁₀, NO₂, O₃ and CO) obtained fromsatellite dataof the European Copernicus program (ESA). The study used advanced spatio-temporal statistical models to identify the relationship between pollution peaks and increased risk of cardiac events.
+
+"We observed a strong association with nitrogen dioxide (NO₂). Indeed, for every 10 micrograms per cubic meter increase, the risk of cardiac arrest rises by 7% over the next 96 hours," says Amruta Umakant Mahakalkar, researcher at the Department of Electronics, Information and Bioengineering, Politecnico di Milano, and first author of the study.
+
+"Even particulate matter PM₂.₅ and PM₁₀ present a 3% and 2.5% increase in the risk rate, respectively, on the same day of exposure."
+
+The effect is more pronounced inurban areasbut significant associations are also observed in rural towns. The risk particularly marks an upswing in the warm months, suggesting a possible interaction between heat and pollutants. The association was also observed at levels below legal limits, suggesting that there is no safe exposure threshold.
+
+"The link between air quality and out-of-hospitalcardiac arrestis a wake-up call for local health systems," adds Enrico Caiani, professor at the Politecnico di Milano and co-author of the study. "Emergency services should expect a potential surge in calls for action during high pollution periods."
+
+The study highlights how air pollution is a significant risk factor for cardiovascular health, even in the short term, and calls for this evidence to be considered in prevention policies and in the management of health emergencies.
+
+According to the World Health Organization, air pollution is the second environmental risk factor for non-communicable diseases. It accounts for millions of deaths worldwide each year. Lombardy, one of the most industrialized and densely populated regions in Europe, is particularly exposed to episodes of smog in winter, when system boilers are turned on and worsen air quality, along with poor atmospheric dispersion.
+
+The results of the study provide a useful tool for institutions andemergency services. Integrating environmental data into health forecasting systems could anticipate the increase in emergency calls in the future, and thus improve resource planning.
+
+The new CLIMA-CARE project officially kicks off today. It follows this trend of research. The project will use satellite data to analyze the impact of environmental conditions onpublic healthand, in particular, on emergencymedical servicesin Lombardy, both today and in the future, by creating climate projections.
+
+Project partners include the German Aerospace Center (DLR)—the initiative's lead partner—and the Group on Earth Observation (GEO), coordinated by the World Meteorological Organization (WMO).
+
+"The project will give us the opportunity to address the impact of climate change on a population-wide scale," comments Lorenzo Gianquintieri, Researcher, Department of Electronics, Information and Bioengineering, Politecnico di Milano. "Consistently with the One-Health vision, which combines human, environmental and animal health, we promote a preventive adaptation approach based on scientific evidence."
+
+More information:Amruta Umakant Mahakalkar et al, Short‐Term Effect of Air Pollution on Out of Hospital Cardiac Arrest (OHCA) in Lombardy—A Case‐Crossover Spatiotemporal Study,Global Challenges(2025).DOI: 10.1002/gch2.202500241

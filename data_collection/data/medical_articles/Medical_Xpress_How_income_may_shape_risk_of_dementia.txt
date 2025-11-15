@@ -1,0 +1,45 @@
+Title: How income may shape risk of dementia
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-income-dementia.html
+Collected: 2025-11-15T17:00:07.032711
+
+================================================================================
+
+How income may shape risk of dementia
+
+byAmerican Academy of Neurology
+
+edited byStephanie Baum, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+People with lower incomes and people from racial and ethnic historically underrepresented groups in clinical studies are more likely to have modifiable risk factors for dementia, factors that could be changed to lower their risk, according to a study published inNeurology.
+
+While the study found associations across multiple risk factors, it does not prove that income, race or ethnicity cause an increase in dementia risk factors.
+
+"Our findings provide new insight into how people living below thepoverty lineand those from historically under-resourced groups may bear a higher burden of many modifiable dementia risk factors," said study author Eric L. Stulberg, MD, MPH, of the Thomas Jefferson University Sidney Kimmel Medical College and a member of the American Academy of Neurology. "By identifying which risk factors are most prevalent in people who have a higher risk for dementia, we can better target potential prevention—whether that means improving access to vision care, supporting social connection, or addressing conditions like diabetes and high blood pressure."
+
+The study included more than 5,000 people. Participants were assessed for 13 dementia risk factors: low education, alcohol use, obesity, high LDL cholesterol,traumatic brain injury, untreated hearing loss,vision loss, diabetes, untreatedhigh blood pressure, smoking, depression, physical inactivity andsocial isolation.
+
+Analyses also accounted for age, sex, and race and ethnicity. Stulberg noted that race and ethnicity are socially-based constructs and not biological variables.
+
+Researchers divided participants into six income groups. Those in the lowest group had incomes below thefederal poverty level. Those in the highest group had incomes more than five times the federal poverty level.
+
+For each income group, researchers determined the percentage of people who had each risk factor and the percentage of dementia cases that could theoretically be prevented or delayed if those risk factors were eliminated.
+
+Researchers found higher incomes were associated with a lower prevalence of each dementia risk factor except obesity, high cholesterol and traumatic brain injury. With each step up in income category representing a 100% higher income above the poverty level, people were 9% less likely to have an additional risk factor in middle age.
+
+In the lowest group with incomes below the poverty level, vision loss and social isolation stood out. Researchers found 21% of dementia cases could potentially be mitigated if vision loss were addressed, and 20% of cases involving social isolation.
+
+Stulberg said, "While our results are exploratory and do not show cause and effect, improving access to vision care and reducing social isolation among older adults could potentially have a major impact on those living below the poverty level."
+
+After adjusting for income, several risk factors still showed stronger associations among historically underrepresented groups inclinical studies, including Black Americans, Mexican Americans and non-Mexican Hispanic Americans, when compared to white Americans. Those risk factors included diabetes, physical inactivity, obesity and vision loss.
+
+"Our results suggest there may be an opportunity to help people reduce theirdementiarisk factors now, thereby reducing risks among people with lower incomes and historically underrepresented populations in clinical studies, where our study suggests many risk factors are more prevalent," Stulberg said. "It is exciting to see that even late-life risk factors may be targets for interventions. We hope that future studies evaluate if targeting these late-life risk factors may yield benefits, particularly for people who are living below the poverty level."
+
+A limitation of the study was that it provided only a snapshot in time and did not follow people over longer periods. In addition, some information was reported by participants, and they may not have remembered or reported the information accurately.
+
+More information:Eric L. Stulberg et al, Income, Race-Ethnicity, and Dementia Risk Factors in the United States,Neurology(2025).DOI: 10.1212/WNL.0000000000214402www.neurology.org/doi/10.1212/WNL.0000000000214402Journal information:Neurology

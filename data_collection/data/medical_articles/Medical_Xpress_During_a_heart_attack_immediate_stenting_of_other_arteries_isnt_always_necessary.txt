@@ -1,0 +1,41 @@
+Title: During a heart attack, immediate stenting of other arteries isn't always necessary
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-heart-stenting-arteries-isnt.html
+Collected: 2025-11-15T17:00:02.079609
+
+================================================================================
+
+During a heart attack, immediate stenting of other arteries isn't always necessary
+
+edited byGaby Clark, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+A blocked coronary artery causing an acute heart attack must be opened immediately with a stent procedure. However, if other coronary arteries also appear to be narrowed, it is safe to wait and treat those later. This approach cuts the number of stent procedures in half,according to cardiologistsfrom Radboud university medical center, writing in theNew England Journal of Medicine.
+
+Each year, 33,600 people are admitted to the hospital with a heart attack. In those cases, doctors must quickly open the blocked artery with angioplasty to prevent part of the heart muscle from dying. Yet during the procedure, it often becomes clear that other coronary arteries are also narrowed.
+
+Researchers from 41 hospitals, led by Radboudumc, investigated whether it is necessary to treat those narrowed vessels immediately, or if it can be done safely later, under calmer circumstances.
+
+Their study, involving 1,146 participants, shows that waiting is safe. Only patients with anacute heart attackwere included. This means that acoronary arteryis completely blocked, for example by a blood clot. Half of the patients received full treatment immediately, while for the other half, additional stenting was done up to six weeks later. The researchers followed the patients for three years.
+
+Robin Nijveldt, Professor of Cardiovascular Imaging at Radboudumc, explains, "We saw no difference between the two groups in terms of death, new heart attacks, or hospital admissions due toheart failure."
+
+One striking finding: in the later, calmer phase, cardiologists treated only half as many narrowed arteries as in the acute phase.
+
+"That's because of how we determine whether stenting is necessary," says Professor of Cardiology Niels van Royen. "In the acute phase, we use a catheter to measure pressure inside the blood vessel. Later, we can perform an MRI scan to map the heart's overall blood flow. If that shows the heart is getting enough oxygen, then stenting a single narrowed artery isn't required."
+
+Still, the cardiologists don't advise delaying additional treatment deliberately. "For patients, it's usually more convenient to have everything done in one procedure," Van Royen explains.
+
+"But sometimes that's not possible—for example, if the patient is in pain and exhausted, or if another person with an acute heart attack arrives and takes priority. Now we know it's safe to stop at that point. There's no need to force things, because faster is not better."
+
+Reassurance through MRI
+
+It's also now clear that cardiologists can reassure patients a few weeks later with an MRI scan showing that no further stenting is needed. "But patients do need to come back for the MRI," Van Royen notes. "Some choose to skip the follow-up, even though additional treatment might still be wise."
+
+The cardiologists expect that current guidelines—which recommend immediate treatment of all narrowed arteries during the acute phase—will soon be revised. "These guidelines were based on two major studies that showed a small short-term benefit to immediatetreatment, but not in the long term," Nijveldt says. "Our study provides more clarity: that benefit doesn't actually exist."
+
+More information:Robin Nijveldt et al, Immediate or Deferred Nonculprit-Lesion PCI in Myocardial Infarction,New England Journal of Medicine(2025).DOI: 10.1056/nejmoa2512918Journal information:New England Journal of Medicine

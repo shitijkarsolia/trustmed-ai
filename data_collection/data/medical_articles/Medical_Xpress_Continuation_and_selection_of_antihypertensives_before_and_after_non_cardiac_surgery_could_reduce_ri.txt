@@ -1,0 +1,37 @@
+Title: Continuation and selection of antihypertensives before and after non-cardiac surgery could reduce risks
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-10-antihypertensives-cardiac-surgery.html
+Collected: 2025-11-15T17:12:04.809259
+
+================================================================================
+
+Continuation and selection of antihypertensives before and after non-cardiac surgery could reduce risks
+
+byInstitute of Science Tokyo
+
+edited byGaby Clark, 																								reviewed byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+Continuing angiotensin-converting enzyme inhibitors and angiotensin II receptor blockers before non-cardiac surgery is linked to a reduced risk of postoperative mortality and functional decline, according to researchers from Science Tokyo. Using a Japanese nationwide registry of 2.6 million patients over 50 years old, the researchers compared outcomes between those who continued antihypertensive therapy and those who did not. Their findings highlight potential benefits of specific classes of antihypertensive drugs depending on the type of surgery needed.
+
+Hypertension, orhigh blood pressure, affects nearly 1.3 billion people globally and is a leading risk factor for serious health issues. When patients with this condition need to undergo surgery, doctors must decide on how to handle their daily blood pressure medication. This is a critical choice, given that the wrong call can lead to severe complications and a decline in the patient's physical function after the operation.
+
+Unfortunately, this challenge is made even more difficult due to an ongoing debate in the medical community about two main classes ofantihypertensivedrugs: angiotensin-converting enzyme inhibitors (ACEis) and angiotensin II receptor blockers (ARBs). Some doctors hold that continuing these medications can lead to a dangerous drop in blood pressure during surgery. Others have argued that stopping them may instead trigger a dangerous spike in blood pressure, which can damage multiple organs. This lack of consensus creates a clinical dilemma for doctors and puts patients at risk.
+
+In a recent study, a research team led by Associate Professor Shintaro Mandai along with second year MD-Ph.D. student Rena Suzukawa and Professor Shinichi Uchida from the Department of Nephrology at the Graduate School of Medical and Dental Sciences, Institute of Science Tokyo (Science Tokyo), Japan, sought to settle this issue. The study was conducted in collaboration with Professor Kiyohide Fushimi from the Department of Health Policy and Informatics, Science Tokyo. Their paper, which was published inEuropean Heart Journal Openon August 11, 2025, explored the association between six classes of antihypertensive drugs and postoperative outcomes in patients undergoing non-cardiac surgeries.
+
+Using a large nationwide registry of patient claims in Japan, the team analyzed data from approximately 2.6 million patients aged 50 years or older. They compared outcomes between patients who continued their antihypertensive therapy before and after surgery and those who did not. They also analyzed the outcomes for different combinations of drugs and whether the type of surgery was a meaningful factor.
+
+Through comprehensive statistical analyses, the researchers revealed that patients who continued taking ACEis or ARBs had a significantly lower risk of mortality and functional decline after non-cardiac surgeries. Interestingly, these benefits were most evident among patients who underwent orthopedic or gastrointestinal surgeries, where they were also associated with a lower risk of sepsis.
+
+These results have important clinical implications, as Mandai explains, "By demonstrating the benefits of ACEis and ARBs in an area where randomized controlled trials are difficult to conduct, this study suggests the potential for preventing postoperative complications and maintaining quality of life inolder adults."
+
+The general findings contribute to ongoing discussions about perioperative antihypertensive management and suggest that continuing ACE inhibitors and ARBs, rather than withholding them as some clinicians advocate, may be linked to better postoperative outcomes.
+
+Moreover, the study underscores a broader point about the untapped potential of common medications. "Although essential medications such as antihypertensive drugs are often discussed in the context of negative aspects like polypharmacy, this work hints at their added clinical value," says Mandai. By focusing on these beneficial off-target effects, this research provides a new perspective on inpatient care.
+
+Overall, these efforts by Mandai and his team will hopefully pave the way for practical guidelines for doctors managing patients with hypertension, helping them improve surgical outcomes worldwide.
+
+More information:Rena Suzukawa et al, Perioperative antihypertensive medications and effects on functional decline and mortality in non-cardiac surgery,European Heart Journal Open(2025).DOI: 10.1093/ehjopen/oeaf096

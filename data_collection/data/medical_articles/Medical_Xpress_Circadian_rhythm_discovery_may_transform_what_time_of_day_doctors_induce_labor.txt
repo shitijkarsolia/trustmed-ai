@@ -1,0 +1,49 @@
+Title: Circadian rhythm discovery may transform what time of day doctors induce labor
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-circadian-rhythm-discovery-day-doctors.html
+Collected: 2025-11-15T17:00:15.034066
+
+================================================================================
+
+Circadian rhythm discovery may transform what time of day doctors induce labor
+
+by Kim Ward,Michigan State University
+
+edited byLisa Lock, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+In a discovery that could shift labor and delivery practices around the world, researchers at Michigan State University have found that the effectiveness of oxytocin—a common medication used to induce or speed up labor—depends on the time of day it's administered, especially for patients with gestational diabetes.
+
+The study,publishedinMolecular Metabolism, combined laboratory research in mice andhuman cellswith a retrospective review of more than 2,300 pregnancies.
+
+The results were striking. Women whose labors were induced in theearly morningto around noon experienced significantly shorter labor durations than those induced around midnight. For patients withgestational diabetes, the timing difference amounted to as much as seven hours.
+
+"Our findings suggest timing isn't just about scheduling—it can affect how well a patient's uterus responds to labor-inducing medication," said Hanne Hoffmann, associate professor of animal science at MSU and lead author of the study.
+
+The science behind the clock
+
+At the center of the discovery is BMAL1, a key circadian rhythm gene that helps control the body's biological 24-hour clock. In mice, the researchers showed that BMAL1 helps regulate theoxytocin receptorin the uterus, which is the same receptor that synthetic oxytocin targets to trigger contractions. When the gene was turned off or suppressed, either genetically or through a mouse model of gestational diabetes, oxytocin was significantly less effective at inducing contractions.
+
+"We were able to show that BMAL1 directly controls the oxytocin receptor, which helps explain why time of day changes the drug's effectiveness," Hoffmann said. "This is the first study to make that molecular connection in the uterus."
+
+In human cell experiments, MSU scientists observed a circadian rhythm of contraction responses to oxytocin confirming what had previously only been speculated.
+
+Real-world implications for labor and delivery
+
+The team also analyzed labor and delivery records from Sparrow Health System in Lansing, Michigan, focusing on more than 2,300 patients who were at least 39 weeks pregnant. Labor duration was compared across different time windows of the day and between patients with and without gestational diabetes.
+
+The shortest labors occurred when induction started between 8 a.m. and noon and the longest when induction began between midnight and 4 a.m. This effect was especially dramatic in patients with gestational diabetes, suggesting reduced oxytocin sensitivity during nighttime hours.
+
+"This isn't about convenience," Hoffmann said. "It's about optimizing outcomes. If we can better align medical interventions with a patient's internal clock, we may improve safety for both mother and baby, while potentially being able to reduce the amount of a drug a woman receives."
+
+Hoffmann and her team are now expanding their research to a larger cohort to refine the optimal timing of labor induction. "Our ongoing work suggests that factors such as whether a woman has previously given birth and her BMI may further influenceoxytocin's effectiveness," Hoffmann explained.
+
+"By integrating these considerations with the time of day of drug administration, we can make labor induction safer, faster and more personalized. These simple, evidence-based steps could significantly improve delivery outcomes, lower the rates of cesarean sections and NICU admissions, and strengthen maternal and neonate recovery."
+
+The next phase of research will include a prospective study in collaboration withlaborand delivery units to develop clear, practical guidelines for obstetricians to optimize induction timing. Ultimately, aligning medical care with the body's natural rhythms has the potential to enhance not only birth outcomes, but the long-term health and well-being of mothers, babies and families—a cornerstone of a healthy and thriving population.
+
+More information:Thu Van-Quynh Duong et al, Interaction between time-of-day and oxytocin efficacy in mice and humans with and without gestational diabetes,Molecular Metabolism(2026).DOI: 10.1016/j.molmet.2025.102269Journal information:Molecular Metabolism

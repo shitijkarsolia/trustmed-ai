@@ -1,0 +1,79 @@
+Title: AI predicts when donor livers are viable, potentially slashing canceled transplants by 60%
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-ai-donor-livers-viable-potentially.html
+Collected: 2025-11-15T16:59:53.182227
+
+================================================================================
+
+AI predicts when donor livers are viable, potentially slashing canceled transplants by 60%
+
+byStanford University Medical Center
+
+edited bySadie Harley, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+There are more candidates on the waitlist for a liver transplant than there are available organs, yet about half the time a match is found with a donor who dies after cardiac arrest following the removal of life support, the transplant must be canceled.
+
+For this type of organ donation, called donation after circulatory death, the time between the removal of life support and death must not exceed 30 to 45 minutes, or the surgeons will often reject the liver because of the increased risk of complications to the recipient.
+
+Now, Stanford Medicine researchers have developed a machine learning-based model that predicts whether a donor is likely to die within the time frame during which their organs are viable for transplantation. The model outperformed surgeon judgment and reduced the rate of futile procurements—which occur whentransplantpreparations have begun but death happens too late—by 60%.
+
+"By identifying when an organ is likely to be useful before any preparations for surgery have started, this model could make the transplant process more efficient," said Kazunari Sasaki, MD, clinical professor of abdominal transplantation and senior author on the study. "It also has the potential to allow more candidates who need an organ transplant to receive one."
+
+Theworkis published inLancet Digital Health. The lead author of the study is Rintaro Yanagawa of Kyoto University.
+
+Making liver donation more efficient
+
+For people with end-stage liver disease, which consists of severe and irreversible damage to the organ, the best treatment option is a transplant.
+
+The number of people who need a liver exceeds the number of donors, but the gap is starting to narrow due to devices that carry out normothermic machine perfusion, a technique that keeps organs at the ideal temperature and supplied with oxygen while they travel from the donor to the recipient. These devices have made it possible for organs from donation after circulatory death to be used for transplants.
+
+While most liver donations come from donors who sufferedbrain death, the number of donations after circulatory death is growing.
+
+"The number of liver transplants keeps going up because of donation after circulatory death, and the waitlist is getting smaller. In the future, it might be possible for everyone who needs aliver transplantto get one from a deceased donor," Sasaki said.
+
+A third type of liver transplantation, living donation, involves removing part of a healthy person's liver to transplant—which is possible because the liver can regenerate. While "it's a beautiful story," Sasaki said of living donation, "any major surgery is not without risk to the healthy donor."
+
+There is a challenge to donation after circulatory death, however: time.
+
+While the donor is dying, theblood supplyto organs throughout the body can vary and, in some cases, stop altogether, leading to liver damage. The liver contains a network of pipes called ducts that squeeze out bile, a fluid that helps us digest food, to the gallbladder and intestines.
+
+A long time between the cessation of life support and the donor's time of death is associated with malfunctioning ducts and serious complications for transplant recipients. If the donor's time of death happens more than 30 minutes afterblood flowstarts to decrease to the body's organs, the liver might not be useful for transplantation.
+
+About half of the possible donors die within the first 30 minutes after life support is removed. When death occurs later, between 30 and 60 minutes after life support ends, surgeons use their judgment to determine which donors are the best candidates by considering the donor's vital signs, blood work, and neurological information such as the pupil and gag reflex.
+
+Still, about half of the transplantations need to be canceled because death occurred too late. Knowing where to allocate resources, such as normothermic machine perfusion devices, can save money and streamline the workload of transplant health care workers, Sasaki explained.
+
+Competing machine-learning algorithms
+
+To predict the time of death, the model uses an array of clinical information from the donor including gender, age, body mass index, blood pressure,heart rate, respiratory rate, urine output, blood work test results and cardiovascular health history.
+
+The model also considers the ventilator settings, which indicate how much help someone needs to breathe, in addition to neurological assessments of how conscious the patient, as well as pupil, corneal, cough, gag and motor reflexes.
+
+The research team pitted numerousmachine-learning algorithmsagainst each other to find the one that best predicted the time of death using the same information available to surgeons. The winning algorithm was more accurate than surgeons and other available computerized tools at predicting whether the donor's time of death would happen within the acceptable time frame for a successful transplant.
+
+The model was trained and validated on more than 2,000 real-world cases from six U.S. transplant centers.
+
+The model accurately predicts the donor's time of death 75% of the time, outperforming both existing tools and the average judgment of surgeons, who accurately predicted the time of death 65% of the time. It also makes accurate predictions for cases with information missing from the medical record.
+
+The research team designed the model to be customizable so it can handle different surgeon preferences and hospital procedures. For example, the model can be set to calculate the time of death from when life support is removed or from when agonal breathing, a gasping breathing pattern that happens as a body is dying, begins.
+
+The researchers have also developed a natural language interface, similar to ChatGPT, that pulls information from the donor medical record into the model.
+
+Minimizing missed opportunities
+
+Sometimes death unexpectedly occurs within the time frame when organs are suitable for transplantation, but because preparations must be underway before the donor dies, these cases do not result in a transplant. The rate of these missed opportunities was similar for the model and surgeon judgment: both were just over 15%.
+
+Becauseartificial intelligenceis rapidly advancing, the researchers expect that the model's accuracy in predicting time of death will improve and that it will catch more missed opportunities.
+
+"We are now working on decreasing the missed opportunity rate because it is in the patients' best interest that those who need transplants receive them," Sasaki said.
+
+"We continue to refine the model by having competition among available machine learning algorithms, and we recently found an algorithm that achieves the same accuracy in predicting the time of death but with a missed opportunity rate of about 10%."
+
+The research team is also working on variations of themodelfor use in heart and lung transplants.
+
+Researchers from the International University of Health and Welfare, Duke University School of Medicine, Cleveland Clinic, University of Rochester Medical Center, University of Florida College of Medicine, Virginia Commonwealth University Health, Columbia University Irving Medical Center, and Transmedics, Inc. contributed to this study.
+
+More information:The Lancet Digital Health(2025).DOI: 10.1016/j.landig.2025.10091

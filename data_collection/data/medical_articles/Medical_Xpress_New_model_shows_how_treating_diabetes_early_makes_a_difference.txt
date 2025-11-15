@@ -1,0 +1,47 @@
+Title: New model shows how treating diabetes early makes a difference
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-10-diabetes-early-difference.html
+Collected: 2025-11-15T17:11:01.114250
+
+================================================================================
+
+New model shows how treating diabetes early makes a difference
+
+by Irene Hsiao,University of Chicago
+
+edited byGaby Clark, 																								reviewed byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+Could slightly elevated blood sugar levels lead to serious health problems in the future? A single patient's question sparked nearly a decade of research leading to the development of a landmark model that could shape how clinicians and researchers understand and manage diabetes across the US.
+
+When she was a fellow in the clinic, Neda Laiteerapong, MD, MS, Professor of Medicine and Chief of General Internal Medicine at the University of Chicago, had a patient—an experienced nurse—who asked a deceptively simple question. She had been living with elevated blood sugars for about three years and had not yet startedtreatment. "Did I harm myself by waiting?" she asked.
+
+At the time, Laiteerapong did not have an answer. "I wanted to say, 'Yes, absolutely,' but I didn't have any evidence to support that," she recalls.
+
+"The challenge withdiabetesis that the benefits of treatment—like controlling blood sugar,blood pressure, cholesterol, weight, or quitting smoking—often don't show up until many years later. For example, controlling blood sugar today may prevent complications 10 or even 20 years from now. But not everyone with diabetes develops complications, so there's a lot of uncertainty."
+
+That unanswered question led Laiteerapong on a mission to understand just how much treatment matters, what it costs to delay treatment in the early stages of diabetes, and how much each treatment can benefit a patient's health over time. Using real-world patient data from Kaiser Permanente, Laiteerapong and her team have now created a model to predict not only the traditional complications of diabetes, such as heart attacks,kidney failure, and amputations, but also outcomes such as depression and dementia, which have begun to receive more attention in recent years.
+
+The Multiethnic Type 2 Diabetes Outcomes Model for the U.S. (DOMUS), recently published inDiabetes Care, predicts a total of 14 different complications patients with diabetes can develop over about 15 years, and models how the disease progresses by predicting how weight, cholesterol, A1C levels, and other risk factors change over time.
+
+While other diabetes models exist, notably theUKPDS model, which isbased on 30 years of data from about 5000 patients in the UK, DOMUS uses data from a much larger and more diverse set of patients–129,000 in total, over a 12-year period–following prescriptions, lab tests, follow-ups, and complications on a quarterly basis. "We wanted to build a model that represented the people we actually treat in the US—a socioeconomically and racially diverse population," she says.
+
+As it turns out, early treatment really does make a difference in diabetes. Based on results from the model, "first-year A1C did, in fact, help predict long-term complications. So yes, those early months matter," says Laiteerapong. This result may have powerful implications for both clinicians and patients.
+
+While some newly diagnosed patients might want time to adjust before starting medication, and some doctors may feel comfortable taking a "wait and see" approach for mild cases, the model shows that even modest delays can have lasting effects.
+
+But the questions the model can help answer go far beyond individual care–not only reflecting the consequences of delayed treatment on one patient but how effective treatments are, and even how much those treatments should cost.
+
+"Historically, when we ask policy questions about diabetes, we often can't do it using real people in real time," she explains.
+
+"We have to estimate or simulate the outcomes using mathematical models. These models help us figure out the likelihood of something leading to a potential health outcome and whether an intervention is worth funding," Laiteerapong said.
+
+Currently the team is working on external validation using different data sources and pursuing application studies on racial and ethnic disparities in predicted outcomes, as well as a more detailed study of the legacy effect of early A1C control.
+
+The possibilities for future study are innumerable, and Laiteerapong and her team are eager to pursue collaborations to use and refine the model. "DOMUS can be used by insurers, policymakers, and public health agencies to guide decisions—especially when clinical trials take too long or aren't feasible," she said.
+
+More information:Aaron N. Winn et al, Development and Internal Validation of the Multiethnic Type 2 Diabetes Outcomes Model for the U.S. (DOMUS),Diabetes Care(2025).DOI: 10.2337/dc25-0911Journal information:Diabetes Care

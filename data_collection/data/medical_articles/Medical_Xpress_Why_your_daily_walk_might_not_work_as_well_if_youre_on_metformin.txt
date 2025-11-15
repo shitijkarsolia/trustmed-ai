@@ -1,0 +1,53 @@
+Title: Why your daily walk might not work as well if you're on metformin
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-daily-youre-metformin.html
+Collected: 2025-11-15T17:10:46.696859
+
+================================================================================
+
+Why your daily walk might not work as well if you're on metformin
+
+by Kitta MacPherson,Rutgers University
+
+edited byLisa Lock, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+A widely prescribed diabetes drug may be sabotaging one of the most trusted strategies for preventing the disease: exercise.
+
+That is the conclusion of a Rutgers-led studypublishedinThe Journal of Clinical Endocrinology & Metabolism, which found that metformin blunts critical improvements in blood vessel function, fitness andblood sugar controlthat normally come from working out.
+
+Since 2006, doctors have been advised to tell patients withhigh blood sugarto take metformin while engaging in exercise. Two proven therapies should deliver better results together, they reasoned. But Rutgers researchers said the math doesn't add up.
+
+"Most health care providers assume one plus one equals two," said Steven Malin, a professor in the Department of Kinesiology and Health in the School of Arts and Sciences and the lead author of the study. "The problem is that most evidence shows metformin blunts exercise benefits."
+
+To test the theory, Malin's team recruited 72 adults at risk formetabolic syndrome. The syndrome is viewed as a cluster of conditions that raise the risk of diabetes and heart disease. They divided the trial participants into four groups: people performing high-intensity exercise while taking a placebo;high-intensity exercisewith metformin; low-intensity exercise with placebo; and low-intensity exercise with metformin.
+
+Over 16 weeks, researchers tracked changes in blood vessel function under insulin stimulation, a process that helps vessels dilate and deliver oxygen, hormones and nutrients after meals.
+
+The results were clear: Exercise alone improved vascular insulin sensitivity, meaningblood vesselsresponded better to insulin and allowed more blood flow to muscles. This matters because insulin's ability to open blood vessels helps shuttle glucose out of the bloodstream and into tissues, lowering blood sugar after meals.
+
+But when metformin was added, the improvements shrank. The drug also diminished gains in aerobic fitness and reduced the positive effects on inflammation and fasting glucose.
+
+"Blood vessel function improved with exercise training, regardless of intensity," Malin said. "Metformin blunted that observation, suggesting one type of exercise intensity is not better either with the drug for blood vessel health."
+
+This matters because exercise is supposed to lower blood sugar and improve physical function, crucial goals of diabetes treatment. If metformin interferes with those benefits, patients may not get the protection they expect to help lower disease risk.
+
+"If you exercise and take metformin and your blood glucose does not go down, that's a problem," Malin said. "People taking metformin also didn't gain fitness. That means their physical function isn't getting better and that could have long-term health risk."
+
+The implications go beyond lab measurements. Fitness gains translate into energy for daily life. This includes activities such as climbing stairs, playing with children and staying active with friends. If those improvements stall, quality of life suffers, Malin said.
+
+The findings don't mean people should stop taking metformin or exercising, Malin said. Instead, it raises urgent questions for doctors about how the two treatments can be combined and the need for close monitoring. Malin hopes future research will uncover strategies that preserve the benefits of both.
+
+Why does metformin blunt exercise benefits? The answer is unclear but may lie in the drug's mechanism of action, Malin said. Metformin works partly by blocking parts of the mitochondria, which reduces oxidative stress and improves blood sugar control. But that same inhibition may interfere with the cellular adaptations triggered by exercise, including improvements in mitochondrial function and aerobic capacity. In other words, the very process that makes metformin effective may block the body's ability to respond fully to physical training.
+
+Previous research has hinted at similar effects, but this trial is among the first to examine vascular insulin sensitivity, which is a key factor controlling glucose regulation and cardiovascular health, Malin said. By showing that metformin can blunt improvements in both large arteries and tiny capillaries regardless of exercise intensity, the study underscores the complexity of combining such treatments.
+
+The stakes are high, Malin said. Type 2 diabetes affects nearly 35 million people in the United States, and prevention strategies often hinge on lifestyle changes combined with medication. If those strategies don't work as expected, patients could face greater risks down the road.
+
+"We need to figure out how to best recommend exercise withmetformin," Malin said. "We also need to consider how other medications interact with exercise to develop better guidelines for doctors to help people lower chronic disease risk."
+
+More information:Steven K Malin et al, Metformin Blunts Vascular Insulin Sensitivity After Exercise Training in Adults at Risk for Metabolic Syndrome,The Journal of Clinical Endocrinology & Metabolism(2025).DOI: 10.1210/clinem/dgaf551Journal information:Journal of Clinical Endocrinology & Metabolism

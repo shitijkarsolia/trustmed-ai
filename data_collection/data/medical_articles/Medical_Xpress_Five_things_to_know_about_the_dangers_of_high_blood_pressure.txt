@@ -1,0 +1,95 @@
+Title: Five things to know about the dangers of high blood pressure
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-dangers-high-blood-pressure.html
+Collected: 2025-11-15T17:12:25.723006
+
+================================================================================
+
+Five things to know about the dangers of high blood pressure
+
+by Rachel Tompa,Stanford University
+
+edited byLisa Lock, 																								reviewed byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+It's been nearly a decade since tens of millions of Americans awoke to a new diagnosis: high blood pressure.
+
+The American Heart Association and the American College of Cardiology released guidelines in 2017 lowering the threshold forhypertension, orhigh blood pressure, from 140/90 to 130/80. Nearly half of all U.S. adults—about 120 million—have hypertension under those definitions. And more than three-quarters of them don't have that high blood pressure under control, defined as under 130/80,accordingto the Centers for Disease Control and Prevention.
+
+Blood pressure readings consist of two numbers. The top number, or systolic blood pressure, measures the pressure your blood puts against your artery walls when your heart beats. The bottom number, ordiastolic blood pressure, is a readout of that same pressure when your heart is at rest.
+
+In August 2025, the American Heart Association and the American College of Cardiology released anotherupdate to their guidelines. This one was less dramatic—the definition of hypertension remains the same. But in the years since the last guideline update, researchers have uncovered more about the dangers of high blood pressure, as well as new ways to get it under control, both of which are reflected in the new revision.
+
+To distill the 100-plus page guideline update into practical tips forInsightsreaders, we asked David Lee, MD, professor of cardiovascular medicine, to weigh in on why we should care about hypertension, how to get it under control, and to what extent wearable technology should be involved in monitoring our blood pressure.
+
+1. Yes, you should care about your blood pressure
+
+If there's one overarching idea that hasn't changed as hypertension guidelines are revised, it's that high blood pressure is bad news. Researchers have known for a while that hypertension raises the risk of stroke andheart disease. More recent studies, however, showed that even small changes can have significant impacts.
+
+Alarge studypublished in 2015 showed that for patients at increased risk of heart disease, more aggressive treatment that lowered their systolic blood pressure (the top number) to 120 prevented more heart attacks and deaths than treatment that lowered that number to under 140.
+
+On its own, high blood pressure is a risk factor for heart disease, and conditions such as coronary artery disease or diabetes can boost a person's risk even further. The 2015 study was partially responsible for the lowering of hypertension criteria from 140/90 to 130/80 in 2017. Those guidelines also created a new category, elevated blood pressure, which captures those with asystolic blood pressurebetween 121 and 129 and a diastolic pressure of 80 or less. Normal is now considered 120/80 or below.
+
+"If you're in a normal blood pressure range, your risk of having a heart attack or stroke is actually very low," Lee said. "Once your blood pressure starts climbing, then that risk goes up two, five, eight times, depending on how high the blood pressure is."
+
+Hypertension can also raise the risk of other health problems, including kidney disease and dementia. The link between blood pressure and cognitive decline is now very clear—severalrecentstudieshave found that lowering blood pressure can reduce the risk of Alzheimer's disease and other forms of dementia.
+
+The guidelines now also recommend that pregnant people with hypertension should always be treated, although the cutoffs for high blood pressure in pregnancy are slightly higher than those for other adults. Hypertension can lead to a dangerous pregnancy condition known as pre-eclampsia or other problems for the mother or baby. Manyblood pressure medicationscan't be used during pregnancy, but there are some that are safe.
+
+2. Lifestyle changes may be enough to lower blood pressure
+
+If someone has hypertension, their doctor may recommend lifestyle tweaks before trying medical approaches, Lee said—especially if the blood pressure is between 130/80 and 139/89. Even in healthy adults, blood pressure tends to increase with age; U.S. adults have an 80% chance of having hypertension at some point in their lives, according to the guidelines.
+
+Recommended lifestyle approaches to high blood pressure include: losing weight, for those who are overweight or obese; exercising, both cardio and strength training; reducing salt in the diet; reducing alcohol consumption to one drink per day or less for women and two or fewer for men; and stress reduction techniques such as meditation or breathing exercises. All of these interventions have been shown to lower blood pressure, although stress reduction showed the smallest effects. These approaches can all also be used to prevent hypertension in people with normal blood pressure.
+
+Usually, doctors will ask patients to try a lifestyle intervention for six months and see if it's sufficient, Lee said. But adding another treatment doesn't let a person off the hook. "We still keep working on those lifestyle issues even after you've started a medication," he said.
+
+3. Effective medical interventions exist
+
+Iflifestyle changeshaven't lowered blood pressure, or if a patient's readings are 140/90 or greater, their doctor will likely recommend medication, Lee said. There areseveral classesof blood pressure drugs, also called antihypertensives, and several different medications in each class. These include diuretics, which help the body eliminate salt and water; beta-blockers, which lower the heart rate; and several others that relax blood vessels or the muscles surrounding blood vessels, which lower the fluid pressure.
+
+It can be a long process to find the right medication, dose, or combination of medications, usually involving frequent doctor visits as drugs or dosages are tweaked. Overcorrecting high blood pressure is not benign, especially in older adults, for whomlow blood pressurecan increase the risk of falling due to dizziness.
+
+"One of the things we've learned is that if you try to get too aggressive with lowering the numbers, some bad things can happen," Lee said. "We have to find the sweet spot."
+
+With some persistence, most adults will find the right medication to control hypertension. But for some, drugs don't seem to work, Lee said. Researchersestimatethat around 15% of people with hypertension have what is known as resistant hypertension.
+
+In 2023, the first procedure to treat resistant hypertension was approved by the Food and Drug Administration. Known asrenal denervation, it involves snaking a catheter from the femoral artery in the thigh into the arteries of the kidney, then using ultrasound or radiofrequency to destroy some of the nerves in those blood vessels. These nerves are part of the sympathetic nervous system, which regulates internal processes like heart rate and blood pressure. For some, removing some of the renal nerves can lower blood pressure, although these patients typically still need to take medication.
+
+There are also several kinds of new antihypertensive medications being tested in clinical trials, said Lee, who has ledtrialstesting the radiofrequencyrenal denervationdevice. "A lot of energy has been brought back into treating high blood pressure," Lee said. "There's a new horizon for patients who have difficulty managing their blood pressure."
+
+4. At-home monitoring is the future, but not all devices are created equal
+
+Although it's a vital piece of health data, getting an accurate blood pressure reading is not trivial. If someone has a single abnormal reading in their doctor's office, experts say more follow-up readings are needed before they can be truly diagnosed with hypertension. And what's often called "white coat hypertension"—blood pressure that is high at the doctor's office but normal otherwise—could account for 15% to 30% of people who have a high reading in the clinic.
+
+Traditionally, doctors use ambulatory blood-pressure monitoring to confirm a hypertension diagnosis: Patients are lent a device that automatically records blood pressure for 24 hours. But personal blood pressure monitors are becoming more common, and tech companies are getting into the game—Apple recentlyannouncedthat its smartwatches can signal hypertension.
+
+The new guidelines don't recommend cuffless monitoring like that in a smartwatch. But for those who want to use a blood pressure cuff at home, the measurements can be accurate if taken correctly (see chart). And this can cut down on the many doctor visits required when patients are fine-tuning their hypertension medications.
+
+5. It takes a village to manage hypertension
+
+In the U.S., many cases of hypertension fly under the radar. This is in part because high blood pressure rarely causes symptoms, somore than halfof those who have hypertension have no idea. And more than 30% of U.S. adultsdon't have a source of primary care, according to the Robert Graham Center, so they're not getting regular blood pressure checks.
+
+Even for those who have a primary care provider, trying and tweaking medication can be onerous for both patient and provider due to the number of office visits or other touchpoints required. And, as with most chronic conditions,adherence to hypertension medicationis low—one study found that around half who were prescribed an antihypertensive had stopped taking it a year later.
+
+High blood pressure is a common problem with a complex set of solutions. Even those who have a primary care provider may need more than one clinician to solve the problem. The guidelines now emphasize team-based care for hypertension, expanding the responsibility beyond primary care physicians to include nurses, pharmacists, dietitians, and community health workers.
+
+Team care could also include increased home-based monitoring, telehealth, and electronic communication. And health care systems can collaborate with community programs to offer more blood pressure screening in non-clinical settings.
+
+"It is a silent disease, so we have to do more to encourage community awareness," Lee said. "We need to be a little more creative to reach out to people who don't have easy access to good health care."
+
+Tips for getting an accurate blood pressure reading at home
+
+We're not quite at the point where your smartwatch or phone can give accurateblood pressure readings, Lee said. For now, home monitoring should still be done with an automatic cuff device that fits on your upper arm. Here are some tips for making sure that reading is as accurate as possible, according to the American Heart Association:
+
+Don't exercise, smoke, or consume caffeine 30 minutes before measuring.
+
+Sit in a chair with both feet on the ground and your back supported.
+
+Relax and sit still for five minutes before measuring, without talking or using your phone.
+
+Take at least two measurements one minute apart.
+
+Talk with your doctor about how frequently to monitor your blood pressure and how to report the results.

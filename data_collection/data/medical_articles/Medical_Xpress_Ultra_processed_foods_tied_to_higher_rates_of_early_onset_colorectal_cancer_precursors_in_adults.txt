@@ -1,0 +1,45 @@
+Title: Ultra-processed foods tied to higher rates of early-onset colorectal cancer precursors in adults
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-ultra-foods-higher-early-onset.html
+Collected: 2025-11-15T16:58:37.698134
+
+================================================================================
+
+Ultra-processed foods tied to higher rates of early-onset colorectal cancer precursors in adults
+
+byMass General Brigham
+
+edited byGaby Clark, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+Colorectal cancer used to be associated with old age, but diagnoses have become increasingly common in adults aged 50 or younger particularly in high-income countries like the United States. The reason for this trend is unclear, but a new study led by Mass General Brigham researchers, as part of the Cancer Grand Challenges PROSPECT team, suggests an important link to ultra-processed foods that merits closer investigation.
+
+By analyzing the diets and endoscopy results from almost 30,000 women, the team found that study participants who reported consuming the highest levels of ultra-processed foods had a 45% higher risk of developing adenomas, which can be precursors of early-onset colorectal cancer, compared to participants who reported consuming the lowest levels. Their results are published inJAMA Oncology.
+
+"Our findings support the importance of reducing the intake of ultra-processed foods as a strategy to mitigate the rising burden of early-onset colorectal cancer," said senior author Andrew Chan, MD, MPH, chief of the Clinical and Translational Epidemiology Unit and a gastroenterologist in the Mass General Brigham Cancer Institute. "The increased risk seems to be fairly linear, meaning that the more ultra-processed foods you eat, the more potential that it could lead to colon polyps."
+
+The consumption of ultra-processed foods—ready-to-eat foods that often contain high levels of sugar, salt, saturated fat and food additives—has risen in parallel to the rise of early-onset colorectal cancer (EOCRC). Chan's research group previously found an association between ultra-processed foods and colorectal cancer more broadly, but this is the first study to link ultra-processed foods with EOCRC.
+
+The researchers analyzed data from the Nurses' Health Study II, a long-term prospective study of female nurses who were born between 1947 and 1964—a generation that is known to be at elevated risk for EOCRC. They analyzed 24 years' worth of data from 29,105 female nurses who received at least two lower endoscopies before they turned 50 to screen for colorectal cancer precursors.
+
+The participants also completed dietary surveys every four years, from which the researchers estimated their average daily intake of ultra-processed food. Though diet was self-reported, this type of survey has been validated for its ability to accurately reflect a person's dietary patterns.
+
+On average, participants consumed 5.7 servings of ultra-processed foods per day, which amounted to 35% of their total daily calories—slightly lower than the national average in the U.S.
+
+From the endoscopy results, the researchers identified 2,787 participants who developed precursor polyps for colorectal cancer. Women who consumed the highest amounts of ultra-processed foods (10 servings per day on average), had a 45% higher risk of developing conventional adenomas, the colorectal cancer precursor most associated with EOCRC, compared to individuals who consumed the lowest amounts (3 servings per day on average).
+
+However, there was no association between ultra-processed food intake and serrated lesions, another type of colorectal cancer precursor, but one that develops more slowly and is less commonly associated with EOCRC.
+
+"One of the strengths of our study was that we had detailed information about other colorectal cancerrisk factorsin the participants, such asbody mass index, type 2 diabetes, and low fiber intake," said Chan. "Even after accounting for all these other risk factors, the association with ultra-processed foods still held up."
+
+The authors note that ultra-processed foods do not fully explain the rise in EOCRC, and the researchers are working to identify other risk factors. They're also working on ways to better categorize ultra-processed foods, since some foods in this category might be more harmful than others.
+
+"Diet isn't a complete explanation for why we're seeing this trend—we see many individuals in our clinic with early onset colon cancer who eat very healthy diets," said Chan, who conducted this work as part of the Cancer Grand Challenges PROSPECT team.
+
+"Identifying other risk factors for early onsetcolorectal canceris one of the focuses of the work that we're leading here at the Mass General Brigham Cancer Institute."
+
+More information:ltra-Processed Food Consumption and Risk of Early-Onset Colorectal Cancer Precursors among Women,JAMA Oncology(2025).DOI: 10.1001/jamaoncol.2025.4777Journal information:JAMA Oncology

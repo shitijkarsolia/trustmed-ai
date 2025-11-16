@@ -1,93 +1,194 @@
 """
-TrustMed AI - Chainlit Demo Application
-Basic demo showing Chainlit functionality before Bedrock integration
+TrustMed AI - Chainlit Application wired to AWS Bedrock Knowledge Base.
 """
 
-import chainlit as cl
-from chainlit import Message
 import asyncio
+import json
+import os
+from pathlib import Path
+from typing import List, Tuple
+from urllib.parse import urlparse
+
+import boto3
+from botocore.exceptions import BotoCoreError, ClientError
+import chainlit as cl
+
+BANNER_AUTHOR = "AI"
+AWS_REGION = os.getenv("AWS_REGION", "us-east-1")
+BEDROCK_KB_ID = os.getenv("BEDROCK_KB_ID","CVSWBQ5BFR")
+BEDROCK_MODEL_ARN = "meta.llama3-8b-instruct-v1:0"
+# BEDROCK_MODEL_ARN = os.getenv("BEDROCK_MODEL_ARN")
+
+_bedrock_client = None
+
+_default_manifest_path = (
+    Path(os.getenv("CONTENT_MANIFEST_PATH"))
+    if os.getenv("CONTENT_MANIFEST_PATH")
+    else Path(__file__).resolve().parent.parent / "to_upload" / "manifest.json"
+)
+CONTENT_PREFIX = os.getenv("CONTENT_PREFIX", "to_upload/")
+
+
+def load_manifest(path: Path) -> dict:
+    if not path.exists():
+        return {}
+    try:
+        entries = json.loads(path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return {}
+
+    lookup = {}
+    prefix = CONTENT_PREFIX.rstrip("/")
+    for entry in entries:
+        key = entry.get("key")
+        if not key:
+            continue
+        lookup[key] = entry
+        if prefix:
+            lookup[f"{prefix}/{key}"] = entry
+    return lookup
+
+
+MANIFEST_LOOKUP = load_manifest(_default_manifest_path)
+
+
+def get_bedrock_client():
+    global _bedrock_client
+    if _bedrock_client is None:
+        _bedrock_client = boto3.client(
+            "bedrock-agent-runtime",
+            region_name=AWS_REGION,
+        )
+    return _bedrock_client
+
+
+def format_citations(citations: List[dict]) -> Tuple[str, List[cl.Text]]:
+    """
+    Convert the citations returned by Bedrock into a markdown block and Chainlit elements.
+    """
+    if not citations:
+        return "", []
+
+    citation_lines = []
+    source_elements: List[cl.Text] = []
+    source_idx = 1
+
+    for citation in citations:
+        for ref in citation.get("retrievedReferences", []):
+            snippet = ref.get("content", {}).get("text") or "No snippet available."
+            s3_uri = ref.get("location", {}).get("s3Location", {}).get("uri")
+            filename = s3_uri.split("/")[-1] if s3_uri else f"source_{source_idx}"
+
+            manifest_entry = None
+            if s3_uri:
+                parsed = urlparse(s3_uri)
+                if parsed.scheme == "s3":
+                    manifest_entry = MANIFEST_LOOKUP.get(parsed.path.lstrip("/"))
+
+            display_name = (
+                manifest_entry.get("title") if manifest_entry else filename
+            ) or filename
+            canonical_url = (
+                manifest_entry.get("canonical_url") if manifest_entry else s3_uri
+            ) or s3_uri
+
+            if canonical_url:
+                link_text = f"[{display_name}]({canonical_url})"
+            else:
+                link_text = display_name
+
+            citation_lines.append(f"{source_idx}. {link_text}")
+            source_elements.append(
+                cl.Text(
+                    name=f"Source {source_idx}",
+                    content=snippet,
+                    display="inline",
+                )
+            )
+            source_idx += 1
+
+    citation_block = "\n\n**Sources:**\n" + "\n".join(citation_lines)
+    return citation_block, source_elements
 
 
 @cl.on_chat_start
 async def on_chat_start():
     """
     Called when a new chat session starts.
-    This is where we can initialize the session and send a welcome message.
     """
-    banner = "![TrustMed AI logo](/public/banner.png)"
-    welcome_message = """
+    # Read the chainlit.md file and send it as welcome message
+    chainlit_md_path = Path(__file__).parent / "chainlit.md"
+    if chainlit_md_path.exists():
+        welcome_content = chainlit_md_path.read_text(encoding="utf-8")
+    else:
+        welcome_content = """
+# Welcome to TrustMed AI! 
 
-# Welcome to TrustMed AI! 🏥
-
-This is a demo of the Chainlit interface. Once we integrate with AWS Bedrock, 
-this chatbot will be able to answer medical queries using a RAG (Retrieval-Augmented Generation) pipeline.
-
-**Try asking me:**
-- 💊 "What is diabetes?"
-- ❤️ "Tell me about heart disease"
-- 💉 "How does medication work?"
-
-*Note: Currently running in demo mode without Bedrock integration.*
-    """
-
+Ask about Type II Diabetes, Heart Disease, medications, or symptoms to see the
+RAG pipeline retrieve citations from both authoritative and forum sources.
+        """
+    
     await cl.Message(
-        content=welcome_message,
-        author="banner"
+        content=welcome_content,
+        author=BANNER_AUTHOR,
     ).send()
 
 
 @cl.on_message
 async def on_message(message: cl.Message):
     """
-    Called when a user sends a message.
-    This is where we'll integrate Bedrock later.
-    For now, this demonstrates basic Chainlit message handling.
+    Called when a user sends a message. Streams the prompt through Bedrock's
+    retrieve_and_generate API and returns the grounded answer with citations.
     """
-    user_input = message.content
-    # Create a message object that we'll update with the response
-    response_msg = cl.Message(author="banner",content="")
+    response_msg = cl.Message(author=BANNER_AUTHOR, content="")
     await response_msg.send()
-    
-    # Simulate processing time (like we'd have with Bedrock API calls)
-    await asyncio.sleep(0.5)
-    
-    # For demo purposes, provide a simple echo response
-    # In the real implementation, this will call Bedrock's retrieve_and_generate API
-    demo_response = f"""
-I received your message: **"{user_input}"**
 
---- 
+    missing_configs = []
+    if not BEDROCK_KB_ID:
+        missing_configs.append("BEDROCK_KB_ID")
+    if not BEDROCK_MODEL_ARN:
+        missing_configs.append("BEDROCK_MODEL_ARN")
 
-## 🔧 Demo Mode Active
+    if missing_configs:
+        response_msg.content = (
+            "⚠️ Missing configuration: "
+            + ", ".join(missing_configs)
+            + ". Please export these environment variables and restart Chainlit."
+        )
+        await response_msg.update()
+        return
 
-In the full implementation, this message would be:
+    try:
+        # Provide a minimal delay so the UI shows a spinner even for fast responses.
+        await asyncio.sleep(0.2)
 
-1. **Sent to AWS Bedrock Knowledge Base** - Your query would be processed by Amazon Bedrock
-2. **Processed through the RAG pipeline** - The system would retrieve relevant context
-3. **Retrieved relevant medical information** - From both authoritative sources and patient forums
-4. **Generated a comprehensive answer** - With proper citations and source references
+        client = get_bedrock_client()
+        bedrock_response = client.retrieve_and_generate(
+            input={"text": message.content},
+            retrieveAndGenerateConfiguration={
+                "type": "KNOWLEDGE_BASE",
+                "knowledgeBaseConfiguration": {
+                    "knowledgeBaseId": BEDROCK_KB_ID,
+                    "modelArn": BEDROCK_MODEL_ARN,
+                },
+            },
+        )
 
----
+        answer_text = bedrock_response.get("output", {}).get(
+            "text",
+            "No response text was returned by Bedrock.",
+        )
+        citation_block, source_elements = format_citations(
+            bedrock_response.get("citations", [])
+        )
 
-### 🚀 Next Steps
+        response_msg.content = answer_text + citation_block
+        response_msg.elements = source_elements
+    except (ClientError, BotoCoreError) as aws_err:
+        response_msg.content = f"⚠️ Bedrock error: {aws_err}"
+    except Exception as unexpected_err:  # pragma: no cover
+        response_msg.content = f"⚠️ Unexpected error: {unexpected_err}"
 
-- ✅ Integrate AWS Bedrock Knowledge Base
-- ✅ Connect to S3 data sources  
-- ✅ Enable source citations in responses
-
----
-
-### 💡 Try asking about:
-
-- **Medical conditions** - "What is diabetes?"
-- **Treatment options** - "How is heart disease treated?"
-- **Medication information** - "Tell me about metformin"
-- **Symptoms** - "What are the symptoms of high blood pressure?"
-
-*Remember: This is a demo. Full functionality will be available after Bedrock integration.*
-    """
-    
-    response_msg.content = demo_response
     await response_msg.update()
 
 
@@ -98,6 +199,6 @@ async def on_stop():
     """
     await cl.Message(
         content="Session ended. Thank you for using TrustMed AI!",
-        author="banner"
+        author=BANNER_AUTHOR,
     ).send()
 

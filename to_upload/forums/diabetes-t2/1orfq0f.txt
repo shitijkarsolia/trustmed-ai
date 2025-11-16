@@ -1,0 +1,26 @@
+Thread ID: 1orfq0f
+Subreddit: diabetes_t2
+Title: CGM question
+Author: Mundane_Stable7199
+Created UTC: 2025-11-07T21:07:27
+Score: 9
+Num Comments: 13
+URL: https://reddit.com/r/diabetes_t2/comments/1orfq0f/cgm_question/
+Canonical URL: https://reddit.com/r/diabetes_t2/comments/1orfq0f/cgm_question/
+Collected: 2025-11-15T02:20:11.214103
+===============================================================================
+
+Is this normal? It kind of looks like it's infected. Its a hard red bump where my libre 3 was on. I even took it off 2 days early since it was sore.
+
+---
+## Comments
+1. u/alanthiana [score=11, created=2025-11-07T21:35:33]: I get similar bumps with both my Dexcom and Omnipod sometimes. They heal without any intervention. IANAD, so this is not medical advice... Just what I would do - I would just clean it and let it breathe. If the red circle got bigger, or started leaking foul smelling pus, then I would head to urgent care.
+2. u/Mikoserena [score=6, created=2025-11-07T21:14:59]: Personally I would do some antibiotic cream and keep a close eye on it and get it looked at if it continued/got worse. Definitely not normal.
+3. u/denvergmax [score=6, created=2025-11-08T01:02:53]: Yes, somewhat normal. I have had 20 or 30 sensors in my arm. I would say a third of them leave a swollen, sore spot. The appearance upon removing the sensor is almost pimple like, or like a clogged pore. Yours could be a little pinkish or reddish. Keep an eye on it.
+4. u/Nightcaste [score=3, created=2025-11-08T01:57:06]: That looks like an ingrown hair. I'm going to guess that you got really unlucky when applying the sensor and the sensor leads jammed a hair in its follicle.
+5. u/Most_Nebula9655 [score=2, created=2025-11-07T21:12:29]: Can’t say what is normal or not, but I had a similar thing one time with a Dexcom. I had bigger reactions, that I attributed to adhesive allergy. I’m using skingrip, skin tac, and grip shield now. Better.
+6. u/Impossible-Company78 [score=2, created=2025-11-07T23:05:32]: Ugh. You should see my arm from my last libre sensor. Looks like a small animal chewed on it.
+7. u/MCbrodie [score=3, created=2025-11-07T21:26:31]: Doctors consult. Just do it.
+8. u/postpromdisorder [score=1, created=2025-11-08T06:57:51]: I have had a couple out of the 15 I’ve had so far do this as well. The lesion will calm down on its own but some neosporin should help some. You said you are changing locations, but are you also switching arms each time so as to give the one you just had the sensor on enough time to heal, completely free from a medical device?
+9. u/Difficult-Stay9810 [score=1, created=2025-11-09T10:50:37]: I always get a red itchy bump from my cgms. I attribute it to my nickel allergy. It has never seemed infected though and eventually goes away.
+10. u/aggie_fan [score=1, created=2025-11-10T13:05:05]: Improving your blood sugars could reduce the chances of this happening. High blood sugar causes slow wound healing and increases the susceptibility to infection. It's the unfortunate reason why amputations occur.

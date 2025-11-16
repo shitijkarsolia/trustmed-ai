@@ -1,0 +1,22 @@
+Thread ID: 1j7ltk7
+Subreddit: Cardiology
+Title: General Cardiology Patient Population
+Author: FalcoKingOfThieves
+Created UTC: 2025-03-09T17:15:27
+Score: 9
+Num Comments: 7
+URL: https://reddit.com/r/Cardiology/comments/1j7ltk7/general_cardiology_patient_population/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1j7ltk7/general_cardiology_patient_population/
+Collected: 2025-11-15T08:31:04.983041
+===============================================================================
+
+Hi all, I’m curious about the patient population in outpatient general cardiology practices. I understand that you generally see the “bread and butter” conditions of chest pain, heart failure, afib, palpitations, etc. In your estimation, what proportion of patients present with a condition that is “fixable” and not just manageable?
+
+---
+## Comments
+1. u/br0mer [score=8, created=2025-03-09T17:32:49]: Fixable? 10%.
+2. u/AssUpSatsUp [score=10, created=2025-03-09T18:03:02]: You'll see the occasional pericarditis and takotsubo that are (usually) one time events, but even the "fixable" stuff like valvular abnormalities require periodic follow-up after intervention, whether that's surgical or percutaneous. It's way less than 20% I reckon. We see a lot of CHF, CAD, HTN, and all the other super common acronyms that are inherently chronic in nature. POTS is real popular these days, we used to rarely run across these workups in my group but now it's multiple times a week. Very few things in cardiology are curable, but the tools to manage them have skyrocketed in the last ten years. Super cutting edge field at the moment.
+3. u/redicalschool [score=6, created=2025-03-09T19:09:07]: Rarely you'll see people that do all the things you tell them and take their meds and are exceptional patients, but even then it's not really a "fix", as you alluded to. Other than what has been mentioned, arrhythmias are the only other things I can think of that we actually "cure". It is pretty satisfying to see someone with severe symptomatic AF or SVT/VT who ends up getting an ablation without clinically evident relapse and those are always nice. Then again, it's usually EP fixing those people instead of gen cards
+4. u/[deleted] [score=4, created=2025-03-10T00:44:15]: I challenge my residents to tell me conditions other than infections that are curable - defined as indistinguishable from never having had the condition, not requiring any ongoing treatment and having no higher chance of recurrence than the background population. Usually there is a very long pause. Almost nothing in internal medicine, let alone cardiology is curable.
+5. u/dayinthewarmsun [score=1, created=2025-03-11T23:29:53]: I don't know that "fix" is ever that cut-and-dry in medicine. The only conditions that I can think of that general cardiologist truly fix are acute things, like pericarditis. Even then, I would characterize the role more as "temporizing" while the body heals. IC has the same issue. I think some conditions in EP \*might\* be considered the most "fixable". Overall: probably less than 10% For the rest, you can often still manage them and make a HUGE difference for them anyway.
+6. u/jiklkfd578 [score=1, created=2025-03-09T20:11:47]: You can’t fix people that don’t know how or don’t really care to be fixed jn 15 min. Plus the time they see you the vast majority of these patients are unfixable. So you help manage.. or you help reassure those that have nothing going on.. Maybe 5-10% you can “fix”

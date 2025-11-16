@@ -1,0 +1,18 @@
+Thread ID: 1oxihai
+Subreddit: askCardiology
+Title: Looking for reliable sources to learn more about cardiology tests and international treatment standards (not seeking a diagnosis)
+Author: Happy-Fruit-8628
+Created UTC: 2025-11-14T21:32:06
+Score: 3
+Num Comments: 2
+URL: https://reddit.com/r/askCardiology/comments/1oxihai/looking_for_reliable_sources_to_learn_more_about/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1oxihai/looking_for_reliable_sources_to_learn_more_about/
+Collected: 2025-11-15T08:37:22.189342
+===============================================================================
+
+Hi everyone, I want to be clear that I am not asking for a diagnosis or medical advice. I am just trying to better understand how to research reputable cardiac care and testing standards internationally. So far, I havee been looking at general information sites like: Mayo Clinic, Cleveland Clinic and Health-Tourism.com, which lists hospitals around the world, but I am not sure how reliable it is or how to verify accreditation. My question is: Are there trusted global resources or databases that show hospital/cardiology accreditation, international treatment guidelines, or how to check if a cardiology center is reputable? Again, I am not asking anyone to diagnose anything or tell me what to do medically, just trying to educate myself on how to identify legitimate cardiology centers and avoid misinformation online. Any guidance toward reputable sources, professional associations, or certification bodies would be really helpful. Thanks in advance.
+
+---
+## Comments
+1. u/OneHunt5428 [score=2, created=2025-11-15T05:09:08]: You can check accreditation through the Joint Commission International (JCI) website. They list accredited hospitals worldwide and include a search tool. That’s probably the most widely recognized global standard.
+2. u/darkluna_94 [score=1, created=2025-11-15T08:55:23]: Are you mainly interested in large academic hospitals or private clinics abroad? Some directories only list private hospitals, which might not always reflect quality outcomes.

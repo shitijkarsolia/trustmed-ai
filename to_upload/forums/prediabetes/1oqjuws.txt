@@ -1,0 +1,19 @@
+Thread ID: 1oqjuws
+Subreddit: prediabetes
+Title: Different A1C one week apart?
+Author: AllPanicNoDisco_1893
+Created UTC: 2025-11-06T20:31:54
+Score: 2
+Num Comments: 3
+URL: https://reddit.com/r/prediabetes/comments/1oqjuws/different_a1c_one_week_apart/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1oqjuws/different_a1c_one_week_apart/
+Collected: 2025-11-15T08:24:36.582980
+===============================================================================
+
+Last week I went to get a physical for the first time ever (I know) and got blood drawn. My A1C was the only abnormal reading at 6.1. The doctor told me to change my diet and prescribed metformin. I already feel like I live a generally healthy lifestyle- I’m 31, 5’9, 150-ish pounds, and do about an hour of cardio 3-5 days a week. I wanted to get a second opinion and purchased a test from Quest. Just got my results back and they were 5.5. Yeah it’s still teetering on the edge but it isn’t necessarily prediabetic anymore. I should add I had only taken one dose of the metformin before getting the second blood test done. Not sure if that’s relevant or not. Is there any reason these test results would be so different one week apart???
+
+---
+## Comments
+1. u/judijo621 [score=3, created=2025-11-07T08:00:28]: Repeating the test in 3 months is typical.
+2. u/aprilmofo [score=1, created=2025-11-06T21:38:18]: It’s just not really possible due to being a three month average, I’d say one of the tests was wrong. I’d retest with the doctor personally. One dose of metformin certainly wouldn’t cause it. You can get a finger tester as well for pretty cheap, I’d go that route as well and see what kind of glucose readings you get.
+3. u/NaturalTricky2776 [score=1, created=2025-11-07T06:47:39]: The 95% confidence level for any single HbA1c test is +/- 0.5%. So your 2 points are plausible within those limits and the truth probably lies somewhere between them.

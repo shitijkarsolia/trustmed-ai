@@ -1,0 +1,17 @@
+Thread ID: 1ovp5sn
+Subreddit: askCardiology
+Title: ekg results
+Author: Educational-Log-8638
+Created UTC: 2025-11-12T19:23:17
+Score: 1
+Num Comments: 2
+URL: https://reddit.com/r/askCardiology/comments/1ovp5sn/ekg_results/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1ovp5sn/ekg_results/
+Collected: 2025-11-15T08:38:46.265770
+===============================================================================
+
+went in to the ER for chest pain on my left side had a full work up done everything came back normal except my ekg this time stated this: ABNORMAL ECG - Sinus rhythm normal P axis, V-rate 60-99 Probable left atrial enlargement P &gt;50mS, &lt;-0.10mV V1 Borderline left axis deviation QRS axis (-15,-29) Low voltage, precordial leads precordial leads &lt;1.0mV Borderline T abnormalities, inferior leads T flat/neg, Il Ill aVF usually mine look something like this but probable left atrial enlargement is new. i had a full cardiac workup done last year including echo and everything was normal but ive had a child since then. should i be concerned? doc didnt seem to concerned but im wondering if i should rush to see a cardiologist or wait to see primary in january
+
+---
+## Comments
+1. u/PetroVenus [score=1, created=2025-11-12T21:01:42]: Since your doctor wasn’t concerned and you have no active symptoms, it’s usually safe to wait and review with your primary in January. ECG cannot reliably measure LVH.

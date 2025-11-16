@@ -1,0 +1,20 @@
+Thread ID: 1n4euu7
+Subreddit: type2diabetes
+Title: How I check my CGM and Glucometer for accuracy.
+Author: Own-Push5775
+Created UTC: 2025-08-30T15:47:04
+Score: 1
+Num Comments: 11
+URL: https://reddit.com/r/type2diabetes/comments/1n4euu7/how_i_check_my_cgm_and_glucometer_for_accuracy/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1n4euu7/how_i_check_my_cgm_and_glucometer_for_accuracy/
+Collected: 2025-11-15T08:18:56.753149
+===============================================================================
+
+Accuracy is required because I use inulin. I compare the results to my doctor's ordered lab glucose blood tests. If the tech allows, I grab a drop when they finish the draw, or perform a finger test and record the results simultaneously with the CGM. Levels need to be stable, not changing, such as when fasting and not stressing our body. This process confirms the accuracy of both my Contour Next One and the CGM.
+
+---
+## Comments
+1. u/Hungry-Chicken-8498 [score=1, created=2025-08-31T07:27:56]: Varies
+2. u/jmclaugmi [score=1, created=2025-08-30T19:34:42]: I compare the reading to how I am feeling. If I feel like I have eaten to many carbs and my reading is high I trust it! But this is after months of trial and error!
+3. u/325_WII4M [score=1, created=2025-08-30T17:37:22]: Sounds like you’re on the right track. I usually check my blood sugar with my glucometer before each doctor’s visit, and the numbers are typically very close to the ones the nurse gets. My A1C is also usually at a level my doctor is pleased with. When I put on a new CGM sensor, I like to compare the readings with my glucometer. A few days ago, after changing my CGM, I fell asleep. About an hour later, the sensor alarm woke me up, notifying me that my blood sugar was in the low 70s. I immediately checked with my glucometer, and the reading was around 100. I ended up spending the rest of the evening calibrating my CGM sensor. Now, when I compare my CGM readings with my glucometer, they’re consistently within about ±3 points. I use Dexcom G7 CGM System.
+4. u/coutureonly [score=1, created=2025-08-30T17:23:32]: Keep in mind blood is your finger prick whereas your CGM is interstitial fluid. You also don’t know which one is actually correct. I have a VGM and two finger prick test kits and they all read different even when using at the exact same time. Two are blood and not the same. I end up averaging the two or three and calibrating.

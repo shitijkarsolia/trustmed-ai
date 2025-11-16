@@ -1,0 +1,81 @@
+Title: Q&A: Why experts urge continued hepatitis B vaccine birth doses for newborns
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-qa-experts-urge-hepatitis-vaccine.html
+Canonical URL: https://medicalxpress.com/news/2025-11-qa-experts-urge-hepatitis-vaccine.html
+Filename: Medical_Xpress_QA_Why_experts_urge_continued_hepatitis_B_vaccine_birth_doses_for_newborns.txt
+Collected: 2025-11-15T16:58:58.343398
+===============================================================================
+
+Title: Q&A: Why experts urge continued hepatitis B vaccine birth doses for newborns
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-qa-experts-urge-hepatitis-vaccine.html
+Collected: 2025-11-15T16:58:58.343189
+
+================================================================================
+
+Q&A: Why experts urge continued hepatitis B vaccine birth doses for newborns
+
+byUniversity of Michigan
+
+edited byStephanie Baum, 																								reviewed byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+In a commentarypublishedinGastroenterology, leading experts urge that all newborns in the United States continue to receive the first dose of hepatitis B vaccine within 24 hours of birth.
+
+Hepatitis B vaccines are safe and effective with over one billion doses administered worldwide.
+
+Since 1991, the Centers for Disease Control and Prevention (CDC) and the Advisory Committee on Immunization Practices (ACIP) have recommended ahepatitisB vaccine for all infants, not just those born to mothers who have tested positive for hepatitis B, with the first dose given within 24 hours ofbirthfor infants born to mothers who tested positive for hepatitis B.
+
+Their recommendation was updated in 2005 to specify that the first dose should be administered within 12 hours of birth for infants born to mothers who tested positive for hepatitis B and before hospital discharge for other infants.
+
+In 2018, the timing of the first dose was updated to be within 24 hours of birth for all infants, includingpreterm infantsand those born to mothers who tested hepatitis B negative.
+
+The authors of this commentary have identified this universal "birth dose" as an essential safety net for preventing chronic hepatitis Binfection, which can lead to premature death from cirrhosis or liver cancer.
+
+The result of these policies has been a 95% decline in infant hepatitis B infections, which have prevented an estimated one million hospitalizations and 90,000 deaths.
+
+In this Q&A, first author Anna S. Lok, M.D., the Alice Lohrman Andrews Research Professor of Hepatology at Michigan Medicine, discusses the importance of continued universal hepatitis B vaccination for children at birth.
+
+Why is it important that all children receive a hepatitis b vaccine at birth, not just those children born to mothers who have tested positive?
+
+We don't know the status of every mother—the U.S. health care system is not perfect.
+
+A lot of people don't have insurance, or they show up very late to the hospital. They show up when they're in labor, and you may not necessarily have the ability to check the mother's status. But if you vaccinate everynewborn baby, then you don't need to worry about infants whose mother has unknown hepatitis B status.
+
+The other issue is that we assume that the only source of infection is from the mother, but that's not true, because some babies can be infected through other people.
+
+There is evidence that fathers can transmit the infection. In some families, it could be the grandparents taking care of the baby. Or it could be the nanny who's taking care of the baby. Or you drop off your baby at daycare. And you don't know the status of people in daycare, or the other kids in daycare.
+
+Now, of course, the contact between the other people and the baby is different from the contact between the mother and the baby. But babies do get scratches, and the skin may break.
+
+If babies are to get infected, they have a 90% chance of going on to chronic infection, which can lead to cirrhosis and liver cancer and early death. If yourimmune systemis mature and you get infected when you're an adult, then your chance of getting chronic infection is only 5%.
+
+Why is it important that people are vaccinated as children?
+
+In addition to the 90% chance of chronic infection, if children are infected, they can further spread the infection.
+
+The other issue is practicality. Trying to get adolescents and adults vaccinated is a very tricky issue, because we don't have a good infrastructure.
+
+Getting babies vaccinated on day 1 when they're in the hospital has a much higher chance of getting it done.
+
+Are hepatitis b vaccines safe for children?
+
+Hepatitis B vaccine was first approved in 1981. More than 1 billion doses have already been administered.
+
+It's one of the few vaccines that have been approved for use in newborns and for pregnant women. These are the most vulnerable people. There are very few things that we approve for use in newborn babies within the first 12–24 hours of birth. There are very few things that we feel comfortable recommending for use during pregnancy.
+
+What is your overall message to parents and policymakers on this issue?
+
+We have safe and effective vaccines that have been around for 45 years. And if we use the vaccine appropriately and give it to every single newborn baby at the time of birth, we can prevent infections. We don't need to worry about children getting chronic infections, cirrhosis and liver cancer.
+
+It's the most cost-effective way of preventing infection, rather than waiting for people to get infected and monitoring and treating them for the rest of their life. We have treatment for hepatitis B but they do not eliminate the virus and do not cure the disease.
+
+If a vaccine can prevent other chronic diseases, such as diabetes, I'm sure that we would. It's just that we don't have avaccinefor diabetes.
+
+We can prevent chronic hepatitis B, and we have a lot of data to show that vaccines work and are safe.
+
+More information:Hepatitis B Vaccination: A remarkable success story that must continue,Gastroenterology(2025).DOI: 10.1053/j.gastro.2025.10.295Journal information:Gastroenterology

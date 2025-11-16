@@ -1,0 +1,95 @@
+Title: Q&A: Can drinking tap water reduce how many calories children drink?
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-qa-calories-children.html
+Canonical URL: https://medicalxpress.com/news/2025-11-qa-calories-children.html
+Filename: Medical_Xpress_QA_Can_drinking_tap_water_reduce_how_many_calories_children_drink.txt
+Collected: 2025-11-15T17:09:02.848265
+===============================================================================
+
+Title: Q&A: Can drinking tap water reduce how many calories children drink?
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-qa-calories-children.html
+Collected: 2025-11-15T17:09:02.848074
+
+================================================================================
+
+Q&A: Can drinking tap water reduce how many calories children drink?
+
+by Aaron Wagner,Pennsylvania State University
+
+edited byLisa Lock, 																								reviewed byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+Drinking beverages sweetened with sugar can lead to obesity, cardiovascular disease, cavities, diabetes and other health problems. More than 20 years of public health campaigns significantly reduced the consumption of sugar-sweetened beverages by U.S. children, but that progress has plateaued in recent years, according to Asher Rosinger, associate professor of biobehavioral health and anthropology at Penn State. He said that ensuring universally available, safe tap water across the nation may be a key step toward further reducing children's consumption of these drinks.
+
+In a recent study, Rosinger, program area leader of the Penn State College of Health and Human Development's Environmental Health Sciences program, demonstrated thatchildrenwho drink their tap water and live in food-secure households consumed fewer calories fromsugary drinks. Thearticledescribing the study is available online now ahead of publication in the January issue of theAmerican Journal of Preventative Medicine.
+
+Rosinger spoke about the safety of tap water, how much sugar children consume when they avoid tap water and the connections between water insecurity, food insecurity and sugary drinks.
+
+What is water insecurity?
+
+Water insecurity is the inability to access clean, safe and reliable water for physical health, hygiene and a healthy life.
+
+There are four dimensions of water insecurity that people might face. One: Do people have enough water? Two: Can they access that water without barriers—like a long, unsafe walk to a communal well? Three: Is the water safe to use—free from chemicals, waste or other pollution? Four: If water is accessible and safe to use, how stable is the supply?
+
+In the United States, water insecurity typically relates to peoples' actions and experiences rather than hydrological access to water. Around 20% of Americans—around 60 million people—avoid drinking their tap water. In contrast, just under 1% of Americans do not have piped water in their homes at all.
+
+We have found that avoiding one's tap water is a useful proxy for water insecurity because it captures the action and experience dimensions of water insecurity that are much more common in this nation. This is important because taking action in this context relies on water already being available and accessible.
+
+How does water insecurity affect the health of children in the US?
+
+We need safe water in the U.S. for myriad health and nutritional reasons. Obviously, people need water to consume and for cooking and cleaning. If you lack or don't trust your water for any of those purposes, you may suffer significant health consequences.
+
+Additionally, water insecurity is very stressful. People who face water insecurity have to work much harder to meet the needs that other people in our society take for granted. A person's health and/or quality of life can be seriously damaged by water insecurity.
+
+So far, there has not been much research on the health impacts of water insecurity among children. In our most recent study, my co-author, Sera Young of Northwestern University, and I examined data from cross-sectional, longitudinal, national surveys to better understand how dealing with water insecurity and food insecurity affected sugar-sweetened beverage consumption.
+
+I was curious to test this because myprior workdemonstrated that when children did not drink any plain water—tap or bottled—they consumed around 100 kilocalories more from sugary drinks on a given day than children who drank plain water. This suggested to me that water insecurity could be a prime mover in affecting sugary drink intake.
+
+What counts as a sugar-sweetened drink?
+
+That's an important question, and sugar-sweetened beverages include more than you might think. Soda is the biggie. You also have juice drinks that are not 100% juice. They often have a lot of sugar added, as do bottled teas and coffee drinks.
+
+What's more, each year new sugary drinks are introduced. People probably think of energy drinks and sports drinks, but recently kombuchas and boba teas have been trendy, and they can contain a lot of sugar, depending on how they are made.
+
+Milk, 100% juice drinks and diet drinks do not count as sugar sweetened. That is not to say these beverages are or are not completely healthy, but it should be noted that we did not measure their consumption.
+
+While we did not categorize beverages as healthy or unhealthy, I think the problems associated with sugar-sweetened beverages—obesity,cardiovascular disease, cavities, diabetes and more—are generally well understood.
+
+What is food insecurity and how does it relate to water insecurity and sugary drinks?
+
+Food insecurity is analogous to water insecurity. It is the inability to access and consume a sufficient and diverse diet for a healthy life.
+
+We havedemonstratedthat, even in the United States, water insecurity and food insecurity co-occur. Water insecurity seems to lead to food insecurity because people need water to cook. If you do not have reliable water access, feeding yourself becomes more difficult and expensive.
+
+In this recent study, which included 18,251 children between the ages of 2 and 17, we divided children into four categories: water and food secure, water insecure and food secure, water secure and food insecure and both water and food insecure. Children were counted as water insecure if they did not drink tap water.
+
+When we compared these groups, children who faced any insecurity consumed more sugary drinks. Children who only experienced water insecurity consumed 1.1% more kilocalories from sugar-sweetened beverages. Children who only experienced food insecurity consumed .8% more. And children who experienced both food and water insecurity consumed 1.8% more kilocalories from sugar-sweetened beverages.
+
+That may not sound like a lot, but if a child is drinking an extra 1.8% of their calories from sugary drinks, that adds up to around 1,080 kilocalories each month. If that energy intake is not offset by the consumption of fewer calories elsewhere—and we know that calories from sodas do not sate or fill kids up the same way as calories from food—then it can lead to weight gain.
+
+So, the children who experience either water orfood insecuritydrink moresugar-sweetened beverages, but the effect is compounded when they experience both insecurities.
+
+This research shows that if the U.S. wants kids to consume fewer sugary drinks, we need to understand the food environment and the water environment where kids live. If they are drinking tap water, they are drinking fewer sugary drinks.
+
+Why do people mistrust tap water and what can be done about it?
+
+Most Americans' tap water is safe, and they should feel comfortable drinking it. But many people are uncomfortable or mistrustful of their water supply, and some have good reasons for their fears and suspicions.
+
+Every municipal water system regulated by the Environmental Protection Agency in the nation releases water-quality testing reports. Fortunately, more and more counties are trying to simplify those reports so members of the public can easily understand what is—and is not—in their water. This trend needs to spread across the nation so that everyone can see what they are drinking.
+
+As we discover emerging pollutants like per- and polyfluoroalkyl substances (PFAS)—which are getting a lot of attention these days from the media and people who study public health—we need to evolve our testing standards to capture those pollutants. In the case of PFAS, monitoring will be mandatory nationwide by April 2027.
+
+The hardest work needed to promote tap water consumption comes on two fronts.
+
+For one thing, if we want people to trust municipal water supplies, we have to increase people's trust in the institutions that regulate and supply water. That trust has eroded over time, and there is no easy way to restore it.
+
+The other important thing we need to do is support people who do not have safe drinking water in their homes. Providing water filters can go a long way to increasing consumption of tap water. People with financial resources can install a reverse osmosis filter, though they may need to supplement their water with minerals and fluoride. But as a society, we need to work to ensure that everyone has trustworthy, clean water piped into their home.
+
+The alternative to tap water is bottled water. But, bottled water is less regulated thantap water, generates tons of plastic waste and is far more expensive. That waste affects us all, and the cost will eventually be passed on to taxpayers. In the end, creating and supporting a trustworthy and trusted water supply matters to all of us.
+
+More information:Asher Y. Rosinger et al, The Intersection of Tap Water Avoidance, Food Insecurity, and Sugar-Sweetened Beverage Intake Among U.S. Children and Adolescents Aged 2–17 Years,American Journal of Preventive Medicine(2026).DOI: 10.1016/j.amepre.2025.108104Journal information:American Journal of Preventive Medicine

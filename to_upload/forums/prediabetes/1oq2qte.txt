@@ -1,0 +1,24 @@
+Thread ID: 1oq2qte
+Subreddit: prediabetes
+Title: Normal fasting glucose but 5.9 a1c.
+Author: porygon766
+Created UTC: 2025-11-06T08:59:48
+Score: 3
+Num Comments: 13
+URL: https://reddit.com/r/prediabetes/comments/1oq2qte/normal_fasting_glucose_but_59_a1c/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1oq2qte/normal_fasting_glucose_but_59_a1c/
+Collected: 2025-11-15T08:24:40.768006
+===============================================================================
+
+31M here. I am obese at 5'10 263 lbs and looking to get on GLP1 through my job's health program for weight loss. I just got my routine lab work done. Fasting glucose was 92, triglycerides look good LDL cholesterol was slightly elevated but my A1C is 5.9 which falls in the prediabetes range. Type 2 diabetes runs in my family so I am a bit alarmed over this. I dont understand why my fasting glucose is normal but A1C is elevated. Can someone explain? Does this mean my cells arent responding to insulin
+
+---
+## Comments
+1. u/LMAquatics [score=3, created=2025-11-06T09:25:39]: Fasting glucose can vary due to genetics (normal for one person can be 75 and 95 for another) and there isn't much consistency in each test (fasting glucose naturally fluctuates). It's not very reliable for T2D. A1c measures glucose averages over 3 months, so it's more reliable. Aside from the variability in fasting glucose, a wide gap between fasting glucose and a1c can also appear due to how your insulin resistance presents. You may have a more normal fasting glucose, but post prandial elevations may be severe and normal glucose elevations (due to hormones or physical activity) may be more exaggerated causing a1c to be high. These elevations indicate that your body isn't responding correctly to insulin. Think of it like: Insulin resistance -&gt; bigger glucose elevations -&gt; higher average glucose -&gt; higher a1c Google "insulin resistance and area under the curve (AUC)" and you'll find a better explanation. Fasting glucose also tends to rise with insulin resistance, but everyone's "normal" reference point is a little different, so it's hard to say how much your fasting glucose is elevated by looking at one test.
+2. u/Disastrous_Pin_5400 [score=2, created=2025-11-06T09:20:46]: Yes you might have insulin resistance . Check your insulin levels as well . Strength training 3x a week and excersung 5-6x per week. Also the very obvious - diet . Avoid high carbs and focus on balanced meals
+3. u/emi_lgr [score=2, created=2025-11-06T10:26:13]: Fasting glucose is just what your fasting glucose was when you got your blood tests done. Could be just lower that day, or could be that your fasting glucose is still within the normal range, but you have insulin resistance elevating your blood sugar for hours after you eat. My fasting blood sugar the last time I had it done was 89, which was lower than all the morning pinprick tests I’ve done in the mornings for a year. My A1c is within normal range now, but only because I’ve made some major lifestyle changes. Definitely still have insulin resistance and my A1c goes up when I loosen the reins.
+4. u/usafmd [score=1, created=2025-11-06T09:21:16]: Rarely are all three elevated early in the process. They each measure different aspects of glucose management.
+5. u/ironhide2171 [score=1, created=2025-11-06T09:30:53]: I think I can relate to this. Now at age 48 years old, I wish I told my dirty something that I should change my diet and increase exercise routine. The stats that you have mentioned is very close to mine, including diabetes 2 in the family. The bottom line is that your organs are still working, but your habits are badly formed. You can even delay pre-diabetes and type two diabetes if you can start changing now.
+6. u/EggieRowe [score=1, created=2025-11-06T10:21:07]: I started out the same way. Basically your pancreas is currently able to make enough insulin to beat down your BG at night while you're sleeping and fasting. During the day you're either consuming too much food or consuming it too often for your pancreas to keep up so your daytime average is becoming elevated and skewing your average (A1c).
+7. u/philouthea [score=1, created=2025-11-07T04:11:44]: You can have normal fasting glucose levels and still be elevated at all other times of the dat especially after eating :-) test your blood sugar after meals (1 h after the first bite). that should give you an answer.
+8. u/Big-Sheepherder-6134 [score=1, created=2025-11-07T08:50:42]: The insulin resistance could be your bigger issue here. Plus you are basically 100 pounds overweight which means you are eating way too much and probably later in the day. Get your fasting insulin tested and then you can find out your HOMA-IR score which is simply calculated by combining your insulin and glucose scores with a multiplier.

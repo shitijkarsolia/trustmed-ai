@@ -1,0 +1,19 @@
+Thread ID: 1mtx6xm
+Subreddit: type2diabetes
+Title: How often should I check glucose
+Author: AggravatingPipe2305
+Created UTC: 2025-08-18T13:16:02
+Score: 10
+Num Comments: 10
+URL: https://reddit.com/r/type2diabetes/comments/1mtx6xm/how_often_should_i_check_glucose/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1mtx6xm/how_often_should_i_check_glucose/
+Collected: 2025-11-15T08:20:14.772153
+===============================================================================
+
+I was recently diagnosed and I have been using a meter to track my glucose. I am at about a 115 average over three weeks and trending downward as I exercise and eat better. I was a bit higher when I first started starting I know I’m at least somewhat headed the right direction. I am experiencing dawn phenomenon. My glucose is highest an hour or two after I wake up. At waking my sugar is at 110 range. Two hours later it will be at 130 to 140. After lunch it will be 105. And every afternoon all the way to bedtime it will be in the 90’s and even 80’s. At bedtime it is usually at its lowest and in normal range. I have tested constantly since diagnosis and I have never had a meal spike my sugar for longer than an hour. My highest spike after a meal was 145, and my highest ready was 160 the first couple of days. I’ve never seen anything higher than that. Afternoons and evenings are great. I’ve even woke up to take my glucose at odd times during the night. I get a slow rise from the 90’s up to 110 or so upon waking up. The mornings are always highest. I don’t snack at night. I’m eat less than 50g of carbs (weighed) a day. So my question is, now that I have established some data points, how often and at what times should I check my glucose? I don’t want to allow bias to mess with the average. Any advice from those doing this longer?
+
+---
+## Comments
+1. u/Afraid-Courage851 [score=4, created=2025-08-19T05:36:42]: I’m in the same boat!!! However I had a 6.5 A1C back in April. I get retested in about a month but no meds - she didn’t even recommend a monitor and neither did my liver specialist! I test every 4 hours but I’m fasting because of the dawn phenomenon. I won’t eat after waking until it’s under. But like OP my numbers are similar both time wise and level. All my doctors told me to do is lose 10-15% of my body weight….but the irony is that I’ve been trying to lose weight! I went because I gained 15 lbs in less than a year and I wasn’t pregnant!!
+2. u/alan_s [score=4, created=2025-08-18T15:19:29]: &gt; my question is, now that I have established some data points, how often and at what times should I check my glucose? &gt;I don’t want to allow bias to mess with the average. The average is unimportant, what matters is the size and duration of spikes above normal levels. I wrote these to answer some of your questions: * [Test, Review, Adjust](http://loraldiabetes.blogspot.com/2006/10/test-review-adjust.html) * [When To Test](http://loraldiabetes.blogspot.com/2006/11/when-to-test-one-hour-or-two-hour.html) * [Blood Glucose Targets](http://loraldiabetes.blogspot.com.au/2015/08/blood-glucose-targets-2015.html) * [I Ate Nothing! Why Are My BGs high?](http://loraldiabetes.blogspot.com.au/2009/02/i-ate-nothing-why-are-my-bgs-high.html)
+3. u/Defiant_Good9427 [score=3, created=2025-08-18T13:20:13]: How often should be a conversation between you and your endocrinologist or pcp. I prefer using a cgm because I was testing 6 times a day and I was tired of sore finger and now I can check my sugar 20x a day and no finger prick unless something looks or feels weird then it’s just to double check

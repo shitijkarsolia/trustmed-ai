@@ -1,0 +1,22 @@
+Thread ID: 1lsz71z
+Subreddit: Cardiology
+Title: How to manage someone in cardiogenic shock and a fluid overload?
+Author: prairydogs
+Created UTC: 2025-07-06T04:41:06
+Score: 22
+Num Comments: 19
+URL: https://reddit.com/r/Cardiology/comments/1lsz71z/how_to_manage_someone_in_cardiogenic_shock_and_a/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1lsz71z/how_to_manage_someone_in_cardiogenic_shock_and_a/
+Collected: 2025-11-15T08:28:53.736017
+===============================================================================
+
+I have observed this subset has a poor prognosis. Maybe it's because we lack advanced treatment options. Also does cardiogenic pulmonary edema always presents with pedal edema?
+
+---
+## Comments
+1. u/Gideon511 [score=52, created=2025-07-06T04:51:07]: You can try ionotropes and diuretics, mechanical circulatory support, etc
+2. u/supercoolsmoth [score=28, created=2025-07-06T05:18:33]: There’s a good scientific statement from the ACC on this very topic. It’s a very good overview. If your program does not have advanced therapies then your role should be to learn to recognize and get the patient somewhere that does. https://www.jacc.org/doi/epdf/10.1016/j.jacc.2025.02.018
+3. u/H_is_for_Human [score=12, created=2025-07-06T07:42:38]: Cardiogenic shock in general has a poor prognosis, especially if recognized late Volume overloaded subtype actually does a bit better than the dry subtype because you have an extra lever to push on to make people better The answer is always optimize preload and afterload; usually first line is meds but if they are quickly falling down SCAI levels reach for MCS early if your institution has it
+4. u/RealMurse [score=6, created=2025-07-09T05:26:05]: Big fan of cardiac ultrasound checking IVC, pedal edema does not always equate to intravascular volume overload. Cardiogenic pulmonary edema does not always present with pedal edema. And not all volume overload is always with pulmonary edema.
+5. u/Weary_Bid6805 [score=2, created=2025-07-10T14:42:09]: Call the cardiologist
+6. u/Ibutilide [score=-1, created=2025-07-06T06:28:30]: This was the bread and butter of my CCU rotations during fellowship. We were aggressive with vasodilators first (nitroprusside), with a relatively low threshold to escalate to IABPs thereafter. We were also a very PAC-heavy programme. I know randomised data don’t really support this approach, but the number of times I saw a hypotensive patient in cardiogenic shock actually have an increase in MAP with nitroprusside was quite humbling (super high calculated SVR from PAC —&gt; start nitroprusside —&gt; MAP increases, patient warms up and starts making urine —&gt; filling pressures start coming down). We also saw a lot of valvular disease contributing to the picture, so unique maneuvers to manage that were also very helpful (eg IABP for severe MR, TVP and pacing for severe AI, metoprolol for severe MS, etc). Because of department leadership, we were very skeptical of inotropes.

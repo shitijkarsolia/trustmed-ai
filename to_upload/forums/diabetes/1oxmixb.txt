@@ -1,0 +1,17 @@
+Thread ID: 1oxmixb
+Subreddit: diabetes
+Title: The at-Home A1C from Everlywell is just plain wrong
+Author: ew73
+Created UTC: 2025-11-15T01:28:25
+Score: 2
+Num Comments: 1
+URL: https://reddit.com/r/diabetes/comments/1oxmixb/the_athome_a1c_from_everlywell_is_just_plain_wrong/
+Canonical URL: https://reddit.com/r/diabetes/comments/1oxmixb/the_athome_a1c_from_everlywell_is_just_plain_wrong/
+Collected: 2025-11-15T02:15:45.012685
+===============================================================================
+
+I had an endo appointment recently, and my insurance provider offered an at-home A1c test kit for free. I happened to get the kit a few days before my visit, so the same day I went to the lab, I did the home test kit sample collection as well. On the left, the results from my lab work. On the right, the at-home results. While I'm super proud of my 6.3, it's unconscionable that the at-home test results were so wildly wrong. While every at-home kit is always going to come with a "Talk to your doctor," warning, the degree to which this Everlywell test was wrong is alarming. Thank you for coming to my TED talk.
+
+---
+## Comments
+1. u/jrosalind [score=2, created=2025-11-15T01:45:36]: I'm assuming that part of the reason these tests are inaccurate is from factors that are controlled with normal pathology lab testing and are not able to be properly controlled with the at home test. In pathology collection simple things like where the blood is collected from, what size needle is used, letting the alcohol wipe dry before the needle goes in and even the tourniquet being left tight for too long can alter test results.

@@ -1,0 +1,33 @@
+Thread ID: 1nn2iuu
+Subreddit: Cardiology
+Title: Tips for radial access please
+Author: S1S2presentsir
+Created UTC: 2025-09-21T13:20:39
+Score: 15
+Num Comments: 31
+URL: https://reddit.com/r/Cardiology/comments/1nn2iuu/tips_for_radial_access_please/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1nn2iuu/tips_for_radial_access_please/
+Collected: 2025-11-15T08:27:35.938809
+===============================================================================
+
+I want to get better in radial access- US isnt an option in our cath lab at the moment. (issue with funds ig) Everytime i get a good pulsatile backflow from the angiocath,but the wire cannot be advanced.. i’m now stumped to the point of depression. Please help me
+
+---
+## Comments
+1. u/caboossee [score=23, created=2025-09-21T13:34:09]: Lower your angle
+2. u/themuaddib [score=10, created=2025-09-21T14:00:06]: Measure twice, cut once. I like to take a couple minutes to really localize the radial pulse and its course, especially because sometimes it’s a bit harder to feel after numbing them up. Make sure your initial poke is aligned with the course of the radial (ie not too lateral or medial). I find that when that phenomenon of getting blood but unable to pass the wire occurs it’s because my poke was too lateral or medial and I had to redirect the needle
+3. u/zeey1 [score=8, created=2025-09-21T13:46:20]: You have to feel it..immerse yourself into it
+4. u/Key-Government-3157 [score=5, created=2025-09-21T14:06:29]: Lower the needle after having flow. Don't push too hard while feeling the pulse, you will close it and will have no flow as you advance the needle.
+5. u/TouchyCrayfish [score=4, created=2025-09-21T15:18:25]: Either you aren’t in the true lumen (dissecting the vessel) or the angle is too steep and the wire can’t handle the angle. If you ram the wire through the first needling and open a big dissecting flap you’ll never cannulate. I was taught to transect the vessel and pull back, when good flow is established a small reduction in angle, generally that works. Perhaps a small increase in bleeding but the sheath tamponades the artery anyway… I’d also add it comes in waves, practice makes perfect.
+6. u/hughvr [score=3, created=2025-09-21T15:22:25]: Make a video of your technique so we can better know what could be going wrong.
+7. u/Guidewire_ [score=3, created=2025-09-21T19:29:05]: How do you guys not have ultrasound??? That is mind blowing, a cath lab costs way more We have to learn a lot of “blind” access anyway though since we are made to learn it, it’s a good skill to have… I agree w the other advice but would add, it’s always more medial than you think. Or it always is for me anyways lol Also, sometimes the artery isn’t straight up and down, it’s running a little diagonally where you want to stick. Be sure to palpate up and down to know its course and trust what you felt to be true and go in at an angle to be spot on with the vessel
+8. u/DufflesBNA [score=3, created=2025-09-21T20:10:27]: Don’t put more than 1cc of lido. Multiple sticks can cause spasm Try both angiocath DW technique and access needle SW technique. Try different wires, hydrophilic jacketed, SS and notional.
+9. u/chummybears [score=2, created=2025-09-21T14:23:29]: We used no ultrasound for radial access in my training due to not great culture. So my technique was to use my left index and second finger to feel the pulse and feel the pulse with both fingers. This allows you to see the direction your needle needs to go. I go in at a 60 degree angle and once I get a flash I go through. As I slowly pull the angiocath out I watch the catheter itself and when you start seeing red in the tubing itself I slow down and pull until I have pulsatile flow. Then I insert the guide wire, spinning it as I advance and should meet no resistance. If your unable to pass the wire and feel resistance immediately you're either not pulling the angiocath back enough or you've pulled it too far. When I pull it I pull back while rotating it back and forth in my fingers while looking at the exposed part of the Cath at the skin. I pull back with my left hand and my left hand is anchored on the patients arm with my pinky so it doesn't move. I have my wire in my right hamd ready to insert. As you pull back you'll see it fill red. Then I slow down and slowly pull back until pulsatile flow, stop, then insert wire. It takes practice, practice, practice. Shallower angle can help because it gives you more time in the lumen of the vessel. Good luck
+10. u/CreakinFunt [score=2, created=2025-09-21T15:54:48]: Once you get good blood flow from the needle, advance the needle a little more until the backflow stops. Then pull it back slowly until the flow reappears and then try inserting the wire then. This eliminates the possibility that your needle is abutting the wall.
+11. u/shahtavacko [score=2, created=2025-09-21T16:58:30]: I never could use the angiocath, switched to pedal needle; no problem at all now. Use that as you wish.
+12. u/FoolYa [score=2, created=2025-09-21T18:52:58]: Shallow angle as everyone else has said
+13. u/FeedMeBeets [score=2, created=2025-09-21T21:32:51]: Are you going through and through or using an anterior puncture technique? If you're using an angio cath, I think you'll have more success going through and through. I also suggest using your fingers to trace the path of the pulse and make sure your needle is going in that direction
+14. u/Tendou7 [score=2, created=2025-09-21T14:22:28]: so im anaesthesiologist and one of our olders uses doppler for difficult radial access didnt try it myself but maybe thats one idea for you when ultrasound is too expensive
+15. u/doc2025 [score=2, created=2025-09-21T13:33:54]: Are you a general fellow? It honestly takes a good 3 years in fellowship to get access on a consistent basis. Just keep practicing.
+16. u/Russell_Sprouts_ [score=1, created=2025-09-21T16:30:32]: If it makes you feel any better I have the same issue, I general I think it’s a common issue. The tips in here are great, I do think it’s likely an issue with the needle angle.
+17. u/BibliotecarioDeBabel [score=0, created=2025-09-21T18:00:04]: Use your left thumb to get the pulse rather your second and third fingers. This afforda you more tactile resolution. My success drastically increased with this modification in technique.

@@ -1,0 +1,18 @@
+Thread ID: 1ouuvdt
+Subreddit: askCardiology
+Title: Holter Monitor results, should I be worried?
+Author: tinybanana2
+Created UTC: 2025-11-11T20:47:28
+Score: 1
+Num Comments: 19
+URL: https://reddit.com/r/askCardiology/comments/1ouuvdt/holter_monitor_results_should_i_be_worried/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1ouuvdt/holter_monitor_results_should_i_be_worried/
+Collected: 2025-11-15T08:39:23.195015
+===============================================================================
+
+I've been feeling skipped or dropped heartbeats consistently, every day, for 3 weeks now. I was seen in an ER and they ruled out emergencies and told me I had PVCs which are benign. I was then seen by my PCP who ordered a 48 Holter Monitor to be sure everything was okay. I have the results and it looks like I have PACs, not PVCs, and a 16% burden. I'm hoping someone can look at this and maybe offer reassurance that I'm not in immediate danger or let me know if I need to push being seen by a specialist. If it helps, I had an echocardiogram in 2021 and was told all was well. Thank you for your time and any insight you might be able to offer.
+
+---
+## Comments
+1. u/Initial-Net-7519 [score=3, created=2025-11-11T20:52:28]: Something is incorrect in one of these reports. The first one says a 16% burden of PACs and the second says a 16% burden of PVCs. You need to figure out which is correct, because a 16% burden of PVCs is pretty significant.
+2. u/---root-- [score=2, created=2025-11-11T21:10:58]: A 16 % PVC burden does warrant a closer look, although this is generally not anything acutely problematic. I'd deem the mentioning of PACs in the report contained in the first image to be a transcription error.

@@ -1,0 +1,21 @@
+Thread ID: 1ovj6og
+Subreddit: prediabetes
+Title: I’m afraid I finally broke myself and dreading my next A1C test
+Author: Coixe
+Created UTC: 2025-11-12T15:09:27
+Score: 2
+Num Comments: 10
+URL: https://reddit.com/r/prediabetes/comments/1ovj6og/im_afraid_i_finally_broke_myself_and_dreading_my/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1ovj6og/im_afraid_i_finally_broke_myself_and_dreading_my/
+Collected: 2025-11-15T08:22:56.473429
+===============================================================================
+
+Been teetering around 5.6-5.8 for the past 3ish years. I’ve been wearing a CGM for over 6mo. and rarely went above 140. I thought I had a pretty good list of things I could eat. As of last week, everything on my list started spiking me way up to 160-170. Trader Joe’s Tabouli has always been fine, not anymore. A half can of kidney beans with some ground turkey was always fine, not anymore. Basically everything I was eating seems to spike me way above 140 now. I’m hoping maybe this batch of Libre sensors is way off.
+
+---
+## Comments
+1. u/blessings-of-rathma [score=8, created=2025-11-12T15:25:42]: Check your CGM against a fingerstick glucometer.
+2. u/Tall_Pineapple9343 [score=4, created=2025-11-12T16:09:28]: And if the meter agrees with the CGM, I’d look at sleep quality, whether you have or had any kind of infection or are dealing with higher stress.
+3. u/mrvinotinto [score=1, created=2025-11-12T15:22:29]: It could definitely be the sensor. I had a 2-week period with one Libre 3 that was just super high. Is there anything else going on? Stress, fatigue and lack of sleep definitely affect glucose.
+4. u/usafmd [score=1, created=2025-11-12T20:59:11]: How has your weight changed over this time?
+5. u/Coixe [score=1, created=2025-11-12T21:47:11]: I’m a 5’9” male. 51yo. I was just under 200lbs when I got my first 5.7 test result. Doctor put me on Ozempic and I went down to about 152 in 6 months and then I got off the Ozempic. Didn’t eat any sugar and stayed very low carb that entire first year was very dilligent about diet but exercise was still nothing. Tested again and I was still 5.7. Fast forward 2.5 years to current and I’m about 165 lb. and seems fairly steady but I do feel a bit heavy and I’d like to be about 155 but people were telling me I looked gaunt. I still do a 12hr fast every day (sometimes longer). Generally only eat 2 meals/day. Exercise is not what I’d like it to be but it’s not nothing anymore. I walk often. Run never. Elliptical maybe 2x-3x/week for 20mins. Some basic dumbbell exercises for arms, push-ups. All the while I’m testing every 4 months and the result is always 5.7. My next test is coming early Jan.

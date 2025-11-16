@@ -1,0 +1,78 @@
+Title: Exercise-induced vesicles boost neuron growth when transplanted into sedentary mice
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-vesicles-boost-neuron-growth-transplanted.html
+Canonical URL: https://medicalxpress.com/news/2025-11-vesicles-boost-neuron-growth-transplanted.html
+Filename: Medical_Xpress_Exercise_induced_vesicles_boost_neuron_growth_when_transplanted_into_sedentary_mice.txt
+Collected: 2025-11-15T17:10:01.250422
+===============================================================================
+
+Title: Exercise-induced vesicles boost neuron growth when transplanted into sedentary mice
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-vesicles-boost-neuron-growth-transplanted.html
+Collected: 2025-11-15T17:10:01.250260
+
+================================================================================
+
+November 15, 2025report
+
+Exercise-induced vesicles boost neuron growth when transplanted into sedentary mice
+
+byJustin Jackson, Medical Xpress
+
+edited bySadie Harley, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+Researchers at the University of Illinois Urbana-Champaign report that extracellular vesicles released into the bloodstream during aerobic exercise can, on their own, drive a robust increase in adult hippocampal neurogenesis when transferred into sedentary mice, even without changes in hippocampal vascular coverage.
+
+Aerobic physical activity preserves cognitive function across the lifespan and repeatedly links to structural and cellular plasticity in the hippocampus. Evidence from plasma transfer experiments indicates that bloodborne factors from exercising animals can transfer pro-neurogenic and pro-cognitive effects to sedentary or aged recipients, partly through reduced inflammation.
+
+Many circulating molecules have been implicated in this exercise–brain connection, includingvascular endothelial growth factor, insulin-like growth factor 1, platelet factor 4, selenoprotein P, irisin, cathepsin B, L-lactate, and interleukin-6. Each contributes to specific aspects of neurogenesis or neuronal survival.
+
+Extracellular vesicles (EVs) have entered that conversation as attractive candidates for transporters of signaling cargo between tissues and the brain, because they package proteins, lipids, nucleic acids, and microRNAs into small, membrane-bound particles that can cross the blood–brain barrier.
+
+Previous studies show that exercise increases circulating vesicles, including those of skeletal muscle origin, carrying muscle-enriched proteins and microRNAs. A key open question concerned whether vesicles collected from the circulation after exercise are themselves sufficient to increase adulthippocampal neurogenesiswhen given systemically to sedentary animals.
+
+In the study, "Exercise-induced plasma-derivedextracellular vesiclesincrease adult hippocampal neurogenesis,"publishedinBrain Research, researchers designed an experiment to test whether plasma-derived EVs from exercisingmiceare sufficient to enhance hippocampal neurogenesis and to assess associated changes in astrogliogenesis and hippocampal microvasculature.
+
+The study animals comprised 75 adult male C57BL/6J mice purchased from Charles River and Jackson Laboratory. Donor mice (n = 40 across two independent cohorts) blood collection and vesicle isolation followed an exercise paradigm designed to capture vesicles at peak activity.
+
+After four weeks, donors were fasted for 12 hours and sampled early in the morning (~3 a.m.) when mice are normally active. A separate sedentary group had a wheel locked in place, limiting their ability to exercise.
+
+Running behavior and neurogenesis
+
+Exercise donors covered long distances on wheels, with cohort means of 323.9 km and 394.5 km over 28 days. BrdU staining in a subset of donor brains confirmed the expected exercise effect on adult neurogenesis. Runner donors (n = 4) showed a marked increase in BrdU-positive cells in the dentate gyrus granule cell layer compared with sedentary donors (n = 5).
+
+Recipient mice (n = 29) were group housed and allocated to three treatment conditions. One group received phosphate-buffered saline (PBS, n = 10) as a control. A second group received EVs isolated from pooled plasma of sedentary donor mice (SedV, n = 9). A third group received exercise-derived EVs (ExerV) isolated from pooled plasma of exercising donor mice (n = 10).
+
+Neurogenesis in ExerV recipients
+
+Sedentary recipient mice that received ExerVs exhibited a robust increase in adult hippocampal neurogenesis. ExerVs raised the density of BrdU-positive cells in the granule cell layer by roughly 50% relative to both PBS and SedV groups.
+
+A statistical test comparing all three groups found a clear difference in BrdU cell density between treatments, and mice given PBS looked the same as mice given SedV. The effect of ExerVs was detected in an initial cohort and replicated in a second cohort using identical procedures.
+
+Across all groups, triple labeling indicated that most newly generated cells became neurons.
+
+When data were collapsed across treatments, about 89.4% of BrdU-positive cells co-expressed NeuN, 5.6% co-expressed S100β, and 5.0% lacked either marker and remained of undetermined phenotype. Distribution did not differ between groups, only the amount.
+
+Sedentary mice receiving EVs from running mice produced roughly half again as many newborn granule cells as controls, a response that appeared reliably in both experimental cohorts.
+
+Neurogenesis rose without shifts in dentate gyrus volume, a pattern that fits with the modest structural changes reported after running itself. Cellular additions during exercise often coexist with homeostatic mechanisms that protect overall tissue architecture, including pruning and glial remodeling, which could likewise shape how vesicle-driven neurogenesis integrates into existing circuits.
+
+EVs from running mice show that the benefits of exercise need not depend exclusively on muscle activity in real time. Signals packaged during weeks of voluntary running and delivered systemically to sedentary animals can reshape the hippocampal niche enough to stimulate the birth of new neurons.
+
+Cases of hippocampal atrophy, such as conditions ranging from PTSD and depression to Alzheimer's disease, present a logical next step in which these vesicles should be tested.
+
+Whether the vesicles can restore learning and memory, counter stress-related hippocampal shrinkage, or act as a non-invasive stand-in for exercise will define their translational promise.
+
+Written for you by our authorJustin Jackson, edited bySadie Harley, and fact-checked and reviewed byRobert Egan—this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive.
+    If this reporting matters to you,
+    please consider adonation(especially monthly).
+    You'll get anad-freeaccount as a thank-you.
+
+More information:Meghan G. Connolly et al, Exercise-induced plasma-derived extracellular vesicles increase adult hippocampal neurogenesis,Brain Research(2025).DOI: 10.1016/j.brainres.2025.150003Journal information:Brain Research
+
+© 2025 Science X Network

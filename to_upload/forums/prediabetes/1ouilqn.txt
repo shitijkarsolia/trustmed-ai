@@ -1,0 +1,18 @@
+Thread ID: 1ouilqn
+Subreddit: prediabetes
+Title: What could cause normal A1c and fasting insulin but elevated FBG?
+Author: caudicinctus
+Created UTC: 2025-11-11T12:16:23
+Score: 1
+Num Comments: 10
+URL: https://reddit.com/r/prediabetes/comments/1ouilqn/what_could_cause_normal_a1c_and_fasting_insulin/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1ouilqn/what_could_cause_normal_a1c_and_fasting_insulin/
+Collected: 2025-11-15T08:23:21.056435
+===============================================================================
+
+Scratching my head at some test results. On 500mg metformin ER daily, my fasting blood glucose is consistently still above 100, but my A1c is 5.2 and my fasting insulin is 5.4. I am lean and active, and I don't experience blood sugar spikes, but I have classic symptoms like excessive thirst, urination, hunger, and extremely intense sugar cravings. What could cause this?
+
+---
+## Comments
+1. u/usafmd [score=5, created=2025-11-11T13:17:37]: If you are lean, I am not at all clear why you are taking Metformin.
+2. u/ballade__ [score=1, created=2025-11-12T09:57:13]: Is your glucometer calibrated? They have a specific error rate. Also why are you checking sugars if everything else is stone cold normal and you’re not diabetic ?

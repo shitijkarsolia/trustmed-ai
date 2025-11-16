@@ -1,0 +1,17 @@
+Thread ID: 1otyru2
+Subreddit: askCardiology
+Title: AV Block, 2nd Degree Wenckeback
+Author: notredpigtails
+Created UTC: 2025-11-10T20:20:20
+Score: 1
+Num Comments: 2
+URL: https://reddit.com/r/askCardiology/comments/1otyru2/av_block_2nd_degree_wenckeback/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1otyru2/av_block_2nd_degree_wenckeback/
+Collected: 2025-11-15T08:40:03.655870
+===============================================================================
+
+Hi all, for 16 months now (that I know for certain) I have been sick and getting worse with constant lightheadedness, dizziness, fatigue, weakness, brain fog, concentration issues, memory issues, general cognition issues, “zoning out”, vision issues, palpitations, chest pain, body pains, headaches, bad (very bad) temperature regulation, bad circulation (frequent numbness and tingling in my hands, arms, legs, feet when still for a while), frequent (very frequent) urination, trouble urinating, insomnia, restlessness and the list continues. FYI I have also developed a murmur in the last 15 months which has not gone away. I recently wore the a holter monitor for 24 hours and it showed a Mobitz type I second-degree AV block. See pic of results. Could this explain all of my symptoms? Can someone please explain these results to me? Are they borderline or serious? Do they point to another medical condition? Thank you so much in advance for any insight you can provide, I feel like I’m losing my mind.
+
+---
+## Comments
+1. u/Impressive_Donut3122 [score=1, created=2025-11-10T21:57:33]: Mobitz type I AV block is generally not considered dangerous if it is infrequent and doesn't cause long pauses, which your report confirms no pauses. While it can sometimes cause dizziness or palpitations, it is highly unlikely to explain the extensive and severe range of symptoms. POTS which aligns much more closely with your wide array of symptoms. The AV block itself may be a secondary finding. This requires further investigation, likely focusing on dysautonomia and other potential causes.

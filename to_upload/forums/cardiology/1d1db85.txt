@@ -1,0 +1,23 @@
+Thread ID: 1d1db85
+Subreddit: Cardiology
+Title: TdP or artifact
+Author: Weary_Lie7598
+Created UTC: 2024-05-26T15:47:21
+Score: 4
+Num Comments: 7
+URL: https://reddit.com/r/Cardiology/comments/1d1db85/tdp_or_artifact/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1d1db85/tdp_or_artifact/
+Collected: 2025-11-15T08:34:53.980590
+===============================================================================
+
+(No selftext provided.)
+
+---
+## Comments
+1. u/cpnfantastic [score=13, created=2024-05-26T16:41:57]: Artifact. You can see the actual QRS march through it.
+2. u/AccomplishedClue1753 [score=2, created=2024-05-26T18:43:57]: Thank you I question myself overnight often. Does VT always terminate with a pause? Any pearls for onset and offset that are signatures of other arrhythmias or suggest one higher on the ddx than others ? I'm so weak with EP it's embarrassing
+3. u/Weary_Lie7598 [score=2, created=2024-06-01T12:12:17]: Thanks all, the hospitalist freaked out And it made me question myself... 2:00 a.m. consults are not fun
+4. u/Standardkamelen [score=1, created=2024-05-27T05:00:59]: Do you have the option of getting a calculated 12-lead when reviewing? It’s usually a good help. And yeah, this is 100% artifact.
+5. u/Illustrious-Pea-8083 [score=1, created=2024-05-27T05:41:51]: 100% artefact
+6. u/The-Sparow [score=1, created=2024-05-28T22:19:35]: I think this is an artefact . You can identify QRS complexes similar in morphology and duration inside the suspect episode
+7. u/yobroc [score=1, created=2024-06-06T18:53:58]: Artifact. Please cancel the consult

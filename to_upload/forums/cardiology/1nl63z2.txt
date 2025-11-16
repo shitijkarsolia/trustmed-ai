@@ -1,0 +1,24 @@
+Thread ID: 1nl63z2
+Subreddit: Cardiology
+Title: VT or SVT with aberrancy
+Author: JimMorrison420
+Created UTC: 2025-09-19T08:07:40
+Score: 11
+Num Comments: 14
+URL: https://reddit.com/r/Cardiology/comments/1nl63z2/vt_or_svt_with_aberrancy/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1nl63z2/vt_or_svt_with_aberrancy/
+Collected: 2025-11-15T08:27:38.654068
+===============================================================================
+
+75yr male, cmp, ef22% preexisting lbbb, unstable, treated as VT and all is well, but in hindsight i’m not sure. Aflutter ecg, sr ecg and the vt/svt ecg
+
+---
+## Comments
+1. u/Gingerbread_Toe [score=4, created=2025-09-19T09:10:43]: Idk maybe I'm dumb pr something, but are those not destinct P waves in lead III? I thought it was sinus rhythm with LBBB
+2. u/Antique_Nail_8616 [score=6, created=2025-09-19T08:46:39]: I think it looks like afib. Irregular broadcomplex tachycardia with pre existent lbbb. No axis deviation, same morphology as in sinusrhytm. I also don’t see any brugada criteria which are postive for VT. Hemodynamic instability could be due to low EF and high ventricular rate.
+3. u/Crackpipe_Mcgee [score=2, created=2025-09-19T09:08:21]: https://youtu.be/7-Vs50jfEog?si=QSCx8whhjLFN06r_ This is a decent short video that I used to learn the difference.
+4. u/Antique_Nail_8616 [score=2, created=2025-09-19T09:24:41]: Yeah makes sense! Thanks for the follow up.
+5. u/Wenckebach2theFuture [score=2, created=2025-09-19T19:23:46]: This is why having the baseline 12 lead is so key
+6. u/2toneSound [score=1, created=2025-09-19T09:15:28]: LBBB
+7. u/Guidewire_ [score=1, created=2025-09-20T13:16:44]: Not VT, agree flutter
+8. u/iamthebelsnickel [score=1, created=2025-09-21T04:17:56]: Neither. AV1+LBBB at 90ish bpm.

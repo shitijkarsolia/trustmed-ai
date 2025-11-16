@@ -1,0 +1,18 @@
+Thread ID: 1dz1cnf
+Subreddit: Cardiology
+Title: In a CAVB with VVi, why dont we see P waves all around on the EKG? Does the pacmaker inhibit them?
+Author: rosh_anak
+Created UTC: 2024-07-09T05:38:54
+Score: 2
+Num Comments: 2
+URL: https://reddit.com/r/Cardiology/comments/1dz1cnf/in_a_cavb_with_vvi_why_dont_we_see_p_waves_all/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1dz1cnf/in_a_cavb_with_vvi_why_dont_we_see_p_waves_all/
+Collected: 2025-11-15T08:34:07.593379
+===============================================================================
+
+(No selftext provided.)
+
+---
+## Comments
+1. u/Cornballer [score=5, created=2024-07-09T10:08:38]: Could be afib. In sinusrythm you should be seeing them allover unless there is retrograde conduction from the ventricle. In that case look for it in the t wave. There could be some level of isorythmia where the frequency in the atria matches with the lower rate of the single chamber pacemaker causing the P to hide out in the QRS.
+2. u/[deleted] [score=1, created=2024-09-17T01:24:24]: To answer the question if you just have ventricular pacing in complete block then yes the p waves should be present. But why would you have a VVI rather than DDD when the patient is not in AFib?

@@ -1,0 +1,19 @@
+Thread ID: 1ow0xn3
+Subreddit: askCardiology
+Title: Second opinion- Cardiologist said my Echo scan report is incorrect due to my age
+Author: rachael1249
+Created UTC: 2025-11-13T06:22:37
+Score: 3
+Num Comments: 17
+URL: https://reddit.com/r/askCardiology/comments/1ow0xn3/second_opinion_cardiologist_said_my_echo_scan/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1ow0xn3/second_opinion_cardiologist_said_my_echo_scan/
+Collected: 2025-11-15T08:38:19.745355
+===============================================================================
+
+Long post, sorry. Background- 30 year old female- healthy BMI, non-smoker, I don't exercise but am moderately active, mostly healthy diet, low caffeine, rarely drink alcohol, no history of hypertension, diabetes, sleep apnea or anything else. Large bilateral PE 5 years ago with residual bibasilar subsegmental atelectasis (partially collapsed lungs) I had an Echocardiogram done recently after having a multitude of symptoms for the last two years. This echo was read and signed off on by another cardiologist at the office, as my Dr was on leave at the time. It showed grade 2 diastolic dysfunction and moderatley elevated filling pressures, moderate tricuspid regurgitation, mild pulmonary regurgitation, and aortic sclerosis. At my follow up appointment, a different Dr said everything looks fine and nothing to worry about. I mentioned the above issues that were present on the report, and he said he'll review them again but since I'm "young and female" there's likely no real issues and it was probably read wrong. He was gone 5 minutes, came back and said everything on the report was incorrect and my heart is as healthy as any 15-20 year olds, diagnosed me with POTS on the spot. He did order a stress test, and pushed a beta blocker even though my resting heart rate is in the 40s during the day sometimes. Previously I had an EKG done which showed a possible right ventricular conduction delay and a first degree AV block. Holter results were mostly normal but I have a wide heart rate range (38-197bpm) brief episodes of NSVT, some bigeminy, trigemimy and couplets. I do have a lot of symptoms that align with POTS, but diastolic dysfunction can mimic POTS. I've been having some symptoms that POTS can't explain. POTS would certainly be a better diagnosis, but this situation feels bizarre. I do plan to seek a second opinion after the stress test, but I don't really know how how to go about that at this time.
+
+---
+## Comments
+1. u/PetroVenus [score=5, created=2025-11-13T07:55:38]: When you have a couple of conflicting answers, your best bet is to request the echo disk and take it to another cardiologist for confirmation. That way, you’ll know for sure.
+2. u/nothingtoogreat [score=1, created=2025-11-14T10:06:56]: Do you have the portion of your exam with the measurements and numbers? It’s hard to know if the regurgitation grading is correct without visually seeing the images but as far as the diastolic dysfunction- it can help with how they came to that conclusion. Although all those numbers are dependent on the tech doing the exam doing them correctly. I agree with what a previous poster mentioned, try to obtain your images on a disc and get an outside opinion.
+3. u/Calliesdad20 [score=-1, created=2025-11-13T12:13:09]: Ok I asked chat gpt for you- sent the screenshots Say your first echo wasn’t misread -it shows real findings Your holter shows real arrhythmias, None of this is explained by pots Get the echo disk and bring it to a ep,-electro psyiologist And don’t take you are young as a answer Your prior pulmonary embolism can cause Long term effects on right side of the heart

@@ -1,0 +1,19 @@
+Thread ID: 1i7d823
+Subreddit: Cardiology
+Title: CRT vs Left bundle pacing
+Author: Kibeth_8
+Created UTC: 2025-01-22T08:10:04
+Score: 18
+Num Comments: 16
+URL: https://reddit.com/r/Cardiology/comments/1i7d823/crt_vs_left_bundle_pacing/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1i7d823/crt_vs_left_bundle_pacing/
+Collected: 2025-11-15T08:31:42.836569
+===============================================================================
+
+I was just reading a study that patients with underlying LBBB *and* LAD don't respond as well to CRT therapy. Does anyone know if the same applies to left bundle area pacing? Have there been any studies on this yet?
+
+---
+## Comments
+1. u/[deleted] [score=16, created=2025-01-22T08:15:04]: Which study are you referring to? LBBB pts are usually the ones that respond to CRT hence the guideline recommendation in that scenario. It is actively being tested whether left bundle is better than CRT and a trial called left versus left, but we do not have the results yet.
+2. u/Wannabeachd [score=1, created=2025-01-22T15:25:18]: As someone who had pacing induced cardiomyopathy with a QRS of 190 and got LBBpacing my QRS only went down to 175 despite native conduction system pacing
+3. u/Livid-Dust9285 [score=1, created=2025-01-27T08:13:33]: How about CTO procedures in LAD ?

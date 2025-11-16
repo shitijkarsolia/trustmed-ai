@@ -1,0 +1,18 @@
+Thread ID: 1ovf4z3
+Subreddit: askCardiology
+Title: Can EKG results - anything to worry about?
+Author: mikebmillerSC
+Created UTC: 2025-11-12T12:39:05
+Score: 1
+Num Comments: 2
+URL: https://reddit.com/r/askCardiology/comments/1ovf4z3/can_ekg_results_anything_to_worry_about/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1ovf4z3/can_ekg_results_anything_to_worry_about/
+Collected: 2025-11-15T08:38:58.317121
+===============================================================================
+
+Hello, I'm not used to asking strangers on Reddit for medical advice but if anyone can tell me what this EKG actually indicates in English, I would appreciate it. Background - I just turned 65 in August. I need to lose 50 lbs, but exercise a good bit and am in fairly good aerobic health. I just did an 80 mile mountain bike tour over 3 days in Utah last month with no issues. I have a resting heart rate in the mid 50's. Back in May I had a physical and the GP said he saw something abnormal on the EKG, so he sent me to a cardiologist. He did another EKG and said it looked fine but then scheduled a cardiac calcium test and a stress test. The cardiac calcium came back with a 0 score, indicating no blockage. I had the stress test yesterday and he said it was abnormal. I asked in what way was it abnormal and he just said it was below the line, which tells me nothing. He scheduled me for a CT scan but that it not until almost Christmas. So I guess I am wondering if I have anything to be worried about. I'm guessing that it must not be too serious as hopefully if it was he would have gotten me in sooner. This is what my EKG says. *Symptoms/Reason for Exam: Abnormal EKG* *Cardiac Risk Factors: none* *Previous Cardiac Procedures include: No Previous Coronary History* ***Procedure:*** *Resting: EKG shows Normal sinus rhythm, lvh* *Stress: EKG shows st depression in infwerior leaads c/w ischemia* *Recovery: EKG shows resolution of st chnages* *The patient exercised on a treadmill for a total of 9:30 minutes, reaching stage 3 of the Bruce Protocol, achieving an estimated work load of 11.2 METS. The test was terminated for target achieved, fatigue, and leg fatigue. The HR was 56 bpm at baseline and was 147 bpm at peak exercise. The peak HR of 147 represents 94% of MPHR (132 TGT HR). Resting BP was 140/87 mmHg, and peak BP was 210/89 mmHg. The BP response was hypertensive.* *The patient experienced the following symptoms during the procedure: fatigue\`* *Dysrhythmias: yes, evidence of ventricular couplets in recovery* *The EKG shows a positive test.* ***Impression****: abnormal* ***Recommendations****: Advised further follow-up. Will arrange for CCTA of the coronary* FWIW, I felt like I could have gone a few more minutes on the stress test after he stopped it. Thanks for any feedback.
+
+---
+## Comments
+1. u/mikebmillerSC [score=2, created=2025-11-12T17:42:50]: Thank you!
+2. u/Impressive_Donut3122 [score=1, created=2025-11-12T13:18:59]: The fact that you have no chest pain and a calcium score of zero significantly lowers the probability of a major blockage. Your stress test showed mild changes suggesting possible reduced blood flow to part of your heart during exercise, but these changes went away in recovery, often not severe. Stress tests can give false positives, particularly in well-conditioned people. The CT angiogram will clarify.

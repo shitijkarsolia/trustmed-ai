@@ -1,0 +1,17 @@
+Thread ID: 1epdnyk
+Subreddit: Cardiology
+Title: Does fibrosis also continue the same way in ventricular walls in AS?
+Author: According_Tourist_69
+Created UTC: 2024-08-10T23:00:31
+Score: 3
+Num Comments: 1
+URL: https://reddit.com/r/Cardiology/comments/1epdnyk/does_fibrosis_also_continue_the_same_way_in/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1epdnyk/does_fibrosis_also_continue_the_same_way_in/
+Collected: 2025-11-15T08:33:54.442958
+===============================================================================
+
+Going through the pathogenesis of AS, and it states various factors like LDL, cytokines lead to synthesis of collagen and calcium hydroxy apatite in the valves. Does a similar fibrosis occur simultaneously in the ventricular walls as well? I know AS is later leading to diastolic dysfunction, so is that loss of compliance and diastolic dysfunction a direct result of the ongoing fibrosis due to this underlying collagen deposition in the ventricular walls?
+
+---
+## Comments
+1. u/According_Tourist_69 [score=1, created=2024-08-10T23:31:01]: Also, i understand concentric hypertrophy is the compensation for elevated afterload, however I want to break it down to simplest basics to understand it-- According to Laplace law- Wall stress= pressure in ventricle × radius÷ 2thickness So in AS, as afterload increases, this must be combated with elevation of pressure in LV. So P increases, however, to balance this out concentric hypertrophy occurs, which causes FALL IN Radius while INCREASE IN thickness, so this keeps the wall stress more or less constant which is related to the oxygen demand of the ventricle. Is this understanding correct?

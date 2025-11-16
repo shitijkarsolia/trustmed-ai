@@ -1,0 +1,19 @@
+Thread ID: 1ordlva
+Subreddit: prediabetes
+Title: Why are morning blood glucose levels higher even with a healthy lifestyle?
+Author: East_Collection_5672
+Created UTC: 2025-11-07T19:22:01
+Score: 3
+Num Comments: 4
+URL: https://reddit.com/r/prediabetes/comments/1ordlva/why_are_morning_blood_glucose_levels_higher_even/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1ordlva/why_are_morning_blood_glucose_levels_higher_even/
+Collected: 2025-11-15T08:24:16.903866
+===============================================================================
+
+I’ve been seeing a lot of posts lately from people wondering why their morning blood glucose is higher, even though they’re eating healthy, exercising, and avoiding late-night snacks. It’s actually a common pattern; something called the dawn effect. Between 2 a.m. and 8 a.m., your body releases hormones like cortisol and growth hormone to get you ready for the day. These hormones signal your liver to release glucose for energy, which can cause a rise even before breakfast. If you have insulin resistance or prediabetes, your body just doesn’t clear that extra glucose as quickly; so you wake up with higher readings. Some things that help: * Walk after dinner * Avoid heavy late-night carbs * Eat something small soon after waking up * Move dinner earlier Here is the interesting read on this topic - Dawn Effect: [https://buttondown.com/beat-the-spike/archive/the-dawn-effect-why-your-blood-sugar-spikes/](https://buttondown.com/beat-the-spike/archive/the-dawn-effect-why-your-blood-sugar-spikes/) Anyone here noticed this even with a clean diet and consistent exercise?
+
+---
+## Comments
+1. u/Sufficient_Beach_445 [score=2, created=2025-11-08T04:57:59]: Why would u release glucose to have available when u wake up, if your insulin would effectively remove it all from the blood before it is needed upon waking? Seems like high glucose upon waking is normal. Just what your body needs.
+2. u/Healthy-Zebra-9856 [score=2, created=2025-11-08T14:51:06]: Everybody uses the term clean diet, but it’s a very relative concept. Dawn syndrome happens due to insulin resistance of the liver. One of the biggest causes of hepatic insulin resistance is consuming saturated fat. Try eliminating the saturated fat and see if there’s an improvement in the dawn syndrome.
+3. u/salikarn [score=1, created=2025-11-08T11:07:48]: And here I am just figuring it was the stress of knowing I had to get up and go to work.

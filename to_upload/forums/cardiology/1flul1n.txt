@@ -1,0 +1,19 @@
+Thread ID: 1flul1n
+Subreddit: Cardiology
+Title: EKG learning recommendations
+Author: Gingernos
+Created UTC: 2024-09-20T21:03:24
+Score: 6
+Num Comments: 4
+URL: https://reddit.com/r/Cardiology/comments/1flul1n/ekg_learning_recommendations/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1flul1n/ekg_learning_recommendations/
+Collected: 2025-11-15T08:33:19.033138
+===============================================================================
+
+Hello everyone! I am a medical student about to start my interventional cardiology rotation and super excited! I was wondering if there were any resources y'all would recommend that you found helpful when learning your craft. I have purchased Dale Dubin's book but it won't be here for a week or two and was curious what of the resources out there were the best. So far the only thing I'd been recommended was "the only EKG book you'll ever need" but don't have much outside of random online articles and the like. Would love some insight if possible!
+
+---
+## Comments
+1. u/Witty-Cantaloupe-947 [score=6, created=2024-09-20T23:36:43]: It's important to remember that when interpreting an ECG, you're not directly observing the heart's true electrical vector as it moves through each heartbeat. Instead, you're seeing only its shadow—a projection of that vector onto the specific lead you're examining. Each lead provides a unique perspective, capturing just a part of the full picture. Just like shadows can look different depending on the angle of the light, the electrical activity of the heart can appear different depending on which lead you're looking at. To truly understand the heart's electrical behavior, you must combine the perspectives of all leads to reconstruct the full 3D motion of the electrical vector That's my two cents. I can tell you that after reading hundreds ekgs you just start to call things as they are, I. E. Pattern recognition kicks in rather than analysis.
+2. u/Creative_Event4963 [score=1, created=2024-09-21T08:15:13]: I enjoyed these cases when studying the ECG: https://ecg.bidmc.harvard.edu/maven/mavenmain.asp
+3. u/statinsinwatersupply [score=1, created=2024-09-25T20:52:43]: https://litfl.com/mi-localization-ecg-library/ Check out the second drawing, it made a lot of stuff become intuitive. https://ecg.utah.edu/ https://litfl.com/ecg-library/diagnosis/ I don't know why so many recommend Dubin's book. It's more about pattern recognition solely without the why. Marriott's is better.

@@ -1,0 +1,23 @@
+Thread ID: 1msflt2
+Subreddit: Cardiology
+Title: Case Report: UTI becomes myocardial abscess
+Author: Onion01
+Created UTC: 2025-08-16T19:50:38
+Score: 91
+Num Comments: 8
+URL: https://reddit.com/r/Cardiology/comments/1msflt2/case_report_uti_becomes_myocardial_abscess/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1msflt2/case_report_uti_becomes_myocardial_abscess/
+Collected: 2025-11-15T08:28:20.647137
+===============================================================================
+
+Elderly patient, functionally immune compromised from cancer and malnutrition, presents with sepsis. Two weeks prior admitted for UTI/delirium, treated with appropriate course of antibiotics based on sensitivities. Returns septic, thought to be pneumonia, we are consulted for “gas in the pericardium”. No recent cardiac procedures. Review of CT shows this to be much more than just gas in the pericardium, however. Patient has gas in the lumbar spine, tracking up the paravertebral tissue planes, into the heart, forming a myocardial abscess, and tracks further up to the neck. Seemed to high risk for surgery, made comfort care by family and expires within 24 hours. Blood cultures grow out same organism (GNR) from their recent UTI.
+
+---
+## Comments
+1. u/Popular_Jeweler [score=17, created=2025-08-17T04:27:49]: Impressive. You should present it in next ACC and get it published.
+2. u/Warm-Lingonberry-523 [score=6, created=2025-08-16T20:15:17]: Damn bruh
+3. u/LoudMouthPigs [score=2, created=2025-08-18T18:06:06]: Sagittal would likely be the best image for this - would love to see even a still image!
+4. u/babar001 [score=1, created=2025-08-17T01:40:20]: Nice image.
+5. u/fishmakegoodpets [score=1, created=2025-08-17T05:39:54]: Wow
+6. u/[deleted] [score=1, created=2025-08-19T15:05:22]: Heartbreaking for that patient, but so insane to see what these super organisms can accomplish.
+7. u/Agitated_Warning_421 [score=0, created=2025-08-16T20:45:31]: Is this a female UTI?

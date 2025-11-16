@@ -1,0 +1,20 @@
+Thread ID: 1l6ys94
+Subreddit: Cardiology
+Title: Atypical or typical flutter?
+Author: BarbDart
+Created UTC: 2025-06-09T00:41:19
+Score: 28
+Num Comments: 4
+URL: https://reddit.com/r/Cardiology/comments/1l6ys94/atypical_or_typical_flutter/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1l6ys94/atypical_or_typical_flutter/
+Collected: 2025-11-15T08:29:13.192541
+===============================================================================
+
+80 y/o F with diarrhea and no known cardiac history, some palpitations but overall asymptomatic. First ecg looks like atypical flutter with variable conduction. But what about the second? The deflections are positive in v1, too sharp and not really biphasic so kinda looks like flutter but this time typical? Probably not AT (less likely with recorded flutter an hour prior I thought). 3rd ecg is sinus from few months ago for comparison. Interested to hear your thoughts, how useful is trying to distinguish typical from atypical flutter based on surface ecg? Thanks !
+
+---
+## Comments
+1. u/Sir_Loon [score=22, created=2025-06-09T01:18:59]: 1 is not flutter, it’s fib. 2 and 3 are both sinus. There’s no utility in trying to subtype flutter unless you’re a cardiologist. Will not change your triaging/initial management.
+2. u/babar001 [score=12, created=2025-06-09T00:55:04]: Afib
+3. u/noltey22 [score=1, created=2025-06-14T12:51:11]: Looks more like a fib to me, not particularly regular. I think you’re getting confused by the flutter waves.
+4. u/Add1995 [score=0, created=2025-06-09T01:07:45]: NAD. Afib for sure. Also see ST Dep in leads I, V3-V6. Flutter seems atypical for her, so a recent change. What are TropT levels?

@@ -1,0 +1,19 @@
+Thread ID: 1osye5u
+Subreddit: prediabetes
+Title: Anyone here check their tyg index score and it was optimal but had elevated a1c?
+Author: skidmarks731
+Created UTC: 2025-11-09T16:34:30
+Score: 2
+Num Comments: 3
+URL: https://reddit.com/r/prediabetes/comments/1osye5u/anyone_here_check_their_tyg_index_score_and_it/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1osye5u/anyone_here_check_their_tyg_index_score_and_it/
+Collected: 2025-11-15T08:23:53.599918
+===============================================================================
+
+I lurk on this page because of my a1c came in at 5.9... being athletic and slim I wanted to understand the mechanics of what could be possibly going on. It appears based on my research that tyg score is a better indicator of insulin resistance. Anyone here have conversations with their doctors about it?
+
+---
+## Comments
+1. u/LMAquatics [score=2, created=2025-11-09T22:07:26]: Look into "whole body insulin resistance" or "peripheral insulin resistance". TLDR insulin resistance can present in various tissues so it's possible to have inconsistent results in various tests. Each test also has it's own caveats/pitfalls that can result in inaccuracies and false positives. The insulin clamp is considered the gold standard, followed by LPIR and OGTT. A1C is pretty reliable and is usually the first go-to because it's cheap, easy and available. Calculations like HOMA and TyG correlate to the insulin clamp, but can be a little unreliable in certain conditions. So they're often used when they can be checked against another test. Like others have said, a1c can be inaccurate with certain conditions (anemia, recent blood donation, etc). HOMA and TyG uses fasting insulin/glucose/triglycerides and a single test for those can be abnormal; for example, if you slept like crap the night before, your glucose can be higher than what's normal for you, so the results will be skewed.
+2. u/BlissCrafter [score=1, created=2025-11-09T17:35:03]: Low iron more than likely. To be slim and have high glucose isn’t impossible, but unlikely to the point you should do further investigation. If the only outlier is your a1c it’s usually iron deficiency or sometimes B12 or vitamin D. Iron deficiency is extremely common so start with that.
+3. u/Unlikely_List_6285 [score=1, created=2025-11-09T21:31:34]: It makes sense to dig deeper an A1C of 5.9 can feel confusing if you’re athletic and slim. While A1C gives an average blood sugar over \~3 months, it doesn’t always tell the whole story about **insulin resistance** or how your body handles glucose spikes. That’s where things like **TYG (triglyceride-glucose) score** or **HOMA-IR** can sometimes add context, since they give a sense of how your body is responding to insulin, not just your blood sugar levels.

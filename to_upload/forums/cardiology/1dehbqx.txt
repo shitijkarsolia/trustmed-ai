@@ -1,0 +1,19 @@
+Thread ID: 1dehbqx
+Subreddit: Cardiology
+Title: Pressure volume loops
+Author: Dry-Luck-9993
+Created UTC: 2024-06-12T13:56:04
+Score: 1
+Num Comments: 8
+URL: https://reddit.com/r/Cardiology/comments/1dehbqx/pressure_volume_loops/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1dehbqx/pressure_volume_loops/
+Collected: 2025-11-15T08:34:32.527287
+===============================================================================
+
+Pressure volume loops Can someone explain why in mitral stenosis the left atrial pressure remains high during diastole and systole but in aortic stenosis, the left ventricular pressure gets high only during systole? Shouldn’t the left atrial pressure go down during ventricular systole because the high left atrial pressure has managed to push blood past the stenotic mitral valve during ventricular diastole thus being the pressure in the atrium down?
+
+---
+## Comments
+1. u/dayinthewarmsun [score=3, created=2024-06-12T23:52:04]: The atria are weak. They are not muscular work horses like the LV is. The main role of the atria is to act as a conduit and reservoir for blood entering the ventricle. Blood enters the LV through the LA due to the pressure differential created by passive LA filling and LV diastole (suction). The atrial contraction “kick” adds efficiency to this but is ultimately unnecessary. As a weak chamber, the LA does not handle high pressures well (it can’t mount a pressure of 200 mmHg like the LV does in severe AS, or even of 100 mmHg). At sustained higher pressures (more than 25ish mmHg if I had to guess), the LA eventually fails to contract and essentially is a passive conduit. Its pressure has to remain high enough to overcome mitral valve resistance and fill the LV during diastole. Thus, it tends to be high. The LA (typically dilated at this point) and pulmonary veins have a reasonably high capacitance compared to LV stroke volume, so pressure remains constant and elevated. The key difference with the LV is that it is muscular and designed to mount very high pressures when needed. If it can’t (and becomes a passive conduits like a failed LA) then you die immediately.
+2. u/Olololala [score=2, created=2024-06-12T21:13:10]: If what your describing was the case mitral stenosis wouldn't cause pulmonary edema. As the pressure gets high the stenotic valve may give and open earlier but that doesn't mean it will unload all the way nor will the pressure drop it doesn't open or function like a normal valve. It is by definition stenotic
+3. u/fruityuv [score=1, created=2024-07-20T09:46:23]: .

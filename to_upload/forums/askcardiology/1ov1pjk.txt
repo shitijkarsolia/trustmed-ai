@@ -1,0 +1,17 @@
+Thread ID: 1ov1pjk
+Subreddit: askCardiology
+Title: Bradycardia, LVH
+Author: AeroAsABrick
+Created UTC: 2025-11-12T03:31:45
+Score: 1
+Num Comments: 2
+URL: https://reddit.com/r/askCardiology/comments/1ov1pjk/bradycardia_lvh/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1ov1pjk/bradycardia_lvh/
+Collected: 2025-11-15T08:39:14.699589
+===============================================================================
+
+(No selftext provided.)
+
+---
+## Comments
+1. u/---root-- [score=2, created=2025-11-12T06:50:41]: Bradycardia is not entirely uncommon with elite level endurance athletes, but a holter to evaluate nocturnal HR may not be the worst idea. LVH is not diagnosed using an ECG, but by imaging.

@@ -1,0 +1,57 @@
+Title: Study links ultra-processed food intake to prediabetes in young adults
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-links-ultra-food-intake-prediabetes.html
+Canonical URL: https://medicalxpress.com/news/2025-11-links-ultra-food-intake-prediabetes.html
+Filename: Medical_Xpress_Study_links_ultra_processed_food_intake_to_prediabetes_in_young_adults.txt
+Collected: 2025-11-15T17:10:38.898135
+===============================================================================
+
+Title: Study links ultra-processed food intake to prediabetes in young adults
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-links-ultra-food-intake-prediabetes.html
+Collected: 2025-11-15T17:10:38.897997
+
+================================================================================
+
+Study links ultra-processed food intake to prediabetes in young adults
+
+byKeck School of Medicine of USC
+
+edited bySadie Harley, 																								reviewed byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+More than half of calories consumed in the United States come from ultra-processed foods (UPFs), items like fast food and packaged snacks that are often high in sodium, sugar and unhealthy fats. In adults, research has clearly linked these foods to type 2 diabetes and other conditions, but few studies have explored their effects among youth.
+
+Now, researchers from the Keck School of Medicine of USC have completed one of the first studies to examine the link between UPF consumption and how the body processes glucose, which is known to predictdiabetes risk. By tracking changes over time, they gained insights into how dietary choices may influence key biological processes.
+
+The researchers studied a group of 85 young adults over a four-year period. They found that an increase in UPF intake was associated with a higher risk for prediabetes, or early-stage high blood sugar that can lead to diabetes. Eating more UPFs was also linked to insulin resistance, where the body becomes less effective at using insulin to control blood sugar.
+
+The study was published in the journalNutrition and Metabolism.
+
+"Our findings show that even modest increases in ultra-processed food intake can disrupt glucose regulation in young adults at risk for obesity. These results point to diet as a modifiable driver of early metabolic disease, and an urgent target for prevention strategies among young people," said Vaia Lida Chatzi, MD, Ph.D., a professor of population and public health sciences and pediatrics and director of the Southern California Superfund Research and Training Program for PFAS Assessment, Remediation and Prevention (ShARP) Center at the Keck School of Medicine, who is the study's senior author.
+
+Early adulthood is a formative stage where people have reached physical maturity and are building habits that can persist for years. Trading packaged or restaurant meals for whole and raw foods like fruits, vegetables, and whole grains can reduce the likelihood of developing type 2 diabetes later in life.
+
+"Young adulthood is a critical window for shaping long-term health," Chatzi said. "By focusing on young adults, we have an opportunity to intervene early, before prediabetes and other risk factors become lifelong conditions."
+
+The research included 85 young adults from the Metabolic and Asthma Incidence Research (Meta-AIR) study, part of the broader Southern California Children's Health Study. Participants, aged 17–22, provided data at a baseline visit between 2014 and 2018 and a follow-up visit approximately four years later.
+
+At each visit, participants reported everything they had eaten on one recent weekday and one recent weekend day. Researchers classified foods into two categories: UPFs (such as candy, soda, cereal, packaged spreads, flavored yogurts, and many restaurant foods) and foods that were not ultra-processed. They then calculated what percentage of each participant's daily caloric intake came from UPFs.
+
+The researchers also collectedblood samplesfrom participants before and after they consumed a sugary drink to test how effectively their body responded to blood sugar with insulin. They then conducted astatistical analysisto compare dietary changes with signs of prediabetes, adjusting for differences in age, sex, ethnicity and physical activity levels.
+
+From baseline to follow-up, a 10% increase in UPF consumption was associated with a 64% higher risk for prediabetes and a 56% higher risk for problems with glucose regulation. Participants who reported eating more UPFs at their initial visit were also more likely to have elevated insulin levels at follow-up—an early sign ofinsulin resistance, where the body must produce more insulin to keep blood sugar in a healthy range.
+
+Limiting ultra-processed foods
+
+The study shows that the risks of UPFs extend to young adults, a group often overlooked in previous research.
+
+"These findings indicate that ultra-processed food consumption increases the risk for pre-diabetes and type 2 diabetes among young adults—and that limiting consumption of those foods can help prevent disease," said the study's first author, Yiping Li, a doctoral student in quantitative biomedical sciences at Dartmouth College who previously worked as a researcher at the Keck School of Medicine.
+
+Future studies with larger groups and more detailed diet tracking can help clarify which foods pose the greatest risk for young adults, the researchers said.
+
+They also plan to continue investigating the biological mechanisms behind these links, including how specific nutrients in UPFs may influence insulin and blood sugar regulation.
+
+More information:Yiping Li et al, Ultra-processed food intake is associated with altered glucose homeostasis in young adults with a history of overweight or obesity: a longitudinal study,Nutrition & Metabolism(2025).DOI: 10.1186/s12986-025-01036-6

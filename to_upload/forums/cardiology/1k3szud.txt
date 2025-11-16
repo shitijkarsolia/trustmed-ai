@@ -1,0 +1,27 @@
+Thread ID: 1k3szud
+Subreddit: Cardiology
+Title: Would you recommend an Apple watch just for cardiac monitoring for someone over 60 without any cardiac risk factors?
+Author: HypeResistant
+Created UTC: 2025-04-20T11:22:23
+Score: 0
+Num Comments: 21
+URL: https://reddit.com/r/Cardiology/comments/1k3szud/would_you_recommend_an_apple_watch_just_for/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1k3szud/would_you_recommend_an_apple_watch_just_for/
+Collected: 2025-11-15T08:30:17.023168
+===============================================================================
+
+I haven't used a watch for a couple of decades because smartphones do everything the watch does, and I do not want to carry an extra gadget as I'm a minimalist. Now, as I get older, I wonder if cardiac monitoring is something I should have on a watch.
+
+---
+## Comments
+1. u/noltey22 [score=25, created=2025-04-20T11:31:01]: No
+2. u/ceelo71 [score=7, created=2025-04-20T14:15:14]: Couple of questions to answer and relevant insights: 1. We use a risk scoring system, typically the CHADS-VASC, to determine someone’s risk of stroke in the setting of atrial fibrillation. Depending on the risk, we then may recommend oral anticoagulation. Would this be something you would be willing to do? If you don’t wanna take blood thinners, there may not be any rationale, looking for atrial fibrillation 2. The value of oral anticoagulation in asymptomatic atrial fibrillation with relatively short duration is questionable. This is based on pacemaker detected atrial fibrillation studies. 3. Be prepared for a lot of false positives. The Apple Watch and other similar devices use an algorithm that seem to be good at differentiating normal from not normal rhythm, but is poor at differentiating the different types of arrhythmias falling in the not normal category.
+3. u/pairoflytics [score=6, created=2025-04-20T15:31:04]: Solely for cardiac monitoring, no. Many good answers here on why. But being a paramedic, there’s a significant amount of ground-level falls that we’ll respond to that are either triggered by fall detection or by someone’s ability to call 911 or even their loved ones from their watch while unable to reach their telephone. I’ve had patients experiencing strokes that were able to use Siri or their watch to text loved ones for assistance when unable to crawl. I’ve also responded to stroke patients that were stuck on the floor for days. Many times these patients have developed things like pneumonia, sepsis, rhabdomyolysis, and pressure ulcerations because they were unable to call for help. So, while the ECG monitoring is of questionable utility, there are other functions of the device that I’ve seen make a massive impact.
+4. u/watupdoods [score=7, created=2025-04-20T11:36:59]: All it will detect automatically is afib which is typically symptomatic. You could get a Kardia device and keep it in a toiletry bag or something if you are concerned for a fraction of the price.
+5. u/shahtavacko [score=2, created=2025-04-20T11:41:24]: Nope, it doesn’t seem like you’d need it. It’d be different if you were at least hypertensive. Actually, I would also say yes if you were obese, but it doesn’t seem like you would be (I’m obviously just guessing).
+6. u/RaspberryLeather1250 [score=2, created=2025-04-23T18:20:21]: Talk to your Masimo sales representative and ask them about the W1 medical watch. It's the only FDA approved watch for hospital and outpatient use. It's ECG clarity is superior to any consumer device. It also continuously monitors SpO2 and PR.
+7. u/leonidasturtle [score=2, created=2025-05-06T17:32:34]: The watch does not use rhythm analysis to detect AF; it uses pulse data with an accelerometer. It does not do "cardiac monitoring". This is not how you detect rhythm in the clinical setting. So why would you recommend it to anyone?
+8. u/Gideon511 [score=1, created=2025-04-20T15:31:13]: I do like Apple Watches or other wearable tech like kardiamobile, they are not perfect but for selected cases they can be helpful to establish symptom rhythm correlation
+9. u/Existing_Lab_9124 [score=1, created=2025-04-28T05:28:35]: As a pharmacist in health technology management, I would like to know your opinion on performing arrhythmia screening in a population with comorbidities, with CHA2DS2-VAS &gt;= 2, but asymptomatic, over the age of 60. Is it feasible to perform screening with medical devices, installed in health facilities that monitor from 24 hours to 7 days continuously? How much can this help in the early identification of arrhythmias and treatment to avoid more costly morbidities in the future?
+10. u/BigAorta [score=1, created=2025-04-20T12:01:06]: I would avoid as it would likely lead to over diagnosis, treatment, and harm
+11. u/iReadECGs [score=0, created=2025-04-20T11:39:46]: I like my Apple Watch as a watch and because I like tracking my workouts. I would not recommend it to an asymptomatic person with no other indication for cardiac monitoring, but feel free to purchase it if you want a smart watch. I do occasionally recommend it to my patients that would benefit from monitoring for development of atrial fibrillation, but doesn’t sound like that would be you.

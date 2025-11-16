@@ -1,0 +1,81 @@
+Title: Beta-blockers are no longer needed in post-infarction patients with normal heart function, study confirms
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-beta-blockers-longer-infarction-patients.html
+Canonical URL: https://medicalxpress.com/news/2025-11-beta-blockers-longer-infarction-patients.html
+Filename: Medical_Xpress_Beta_blockers_are_no_longer_needed_in_post_infarction_patients_with_normal_heart_function_study_conf.txt
+Collected: 2025-11-15T17:12:19.997717
+===============================================================================
+
+Title: Beta-blockers are no longer needed in post-infarction patients with normal heart function, study confirms
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-beta-blockers-longer-infarction-patients.html
+Collected: 2025-11-15T17:12:19.997533
+
+================================================================================
+
+Beta-blockers are no longer needed in post-infarction patients with normal heart function, study confirms
+
+byCentro Nacional de Investigaciones Cardiovasculares
+
+edited bySadie Harley, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+A major analysis led by the Centro Nacional de Investigaciones Cardiovasculares (CNIC), in collaboration with international institutions, has pooled data from 17,801 myocardial infarction survivors with preserved cardiac function enrolled in five global clinical trials.
+
+The study concludes that beta-blockers offer no clinical benefit for this patient group, which today represents the majority of infarction survivors. The study was made possible by close collaboration between CNIC researchers and the authors of the other trials, who worked together at record speed to deliver a definitive answer to a question affecting millions of patients worldwide.
+
+The meta-analysis,publishedinThe New England Journal of Medicineand presented at the American Heart Association (AHA) Congress in New Orleans (U.S.), confirms thatbeta-blockertherapy—one of the most widely used treatments afteracute myocardial infarction—does not reduce the risk of death, recurrent infarction, orheart failurein patients with preserved cardiac contractile function.
+
+The study analyzed individual patient data from all contemporary clinical trials—REBOOT (Spain and Italy), REDUCE-AMI (Sweden), BETAMI (Norway), DANBLOCK (Denmark), and CAPITAL-RCT (Japan)—in patients recovering from infarction who had preserved cardiac function (left ventricular ejection fraction ≥50%).
+
+In the analysis, half of the participants received beta-blockers and half did not. After nearly four years of follow-up, around 8% of patients experienced a major cardiovascular event (death, recurrent infarction, or heart failure). This rate was similar in both groups.
+
+The principal investigator on the study was Dr. Borja Ibáñez, CNIC Scientific Director, cardiologist at Hospital Universitario Fundación Jiménez Díaz, and group leader at the Spanish cardiovascular research network (CIBERCV).
+
+Dr. Ibañez—one of four senior investigators on the study—explains that the researchers also "found no benefit when analyzing individual outcomes—total or cardiac mortality, recurrent infarction, heart failure, or serious arrhythmias. The results were consistent across all patient subgroups, regardless of age, sex, or the type of beta-blocker used."
+
+As explained by Xavier Rosselló, CNIC scientist, cardiologist at Hospital Son Espases (Mallorca), and co–first author of the study, "This shows that beta-blockers provide no benefit to any subgroup of post-infarction patients with preserved cardiac function."
+
+The findings infemale patientswere of particular interest, since the REBOOT trial had suggested that beta-blockers might even be harmful in women. However, while the meta-analysis indicated that women had more adverse events when treated with beta-blockers, it also confirmed that the difference was not statistically significant.
+
+The investigators underline that the CNIC is firmly committed to studying sex-based differences in cardiovascular disease and treatment responses.
+
+Importantly, the investigators also note that beta-blockers remain essential for other patient groups, such as those with reduced left ventricular function after infarction (ejection fraction <50%) or those with chronic heart failure or arrhythmias.
+
+They also stress that these findings do not mean that patients have been treated incorrectly until now. Rather, they show that recent advances in infarction management have made beta-blockers unnecessary for infarction survivors with normal cardiac function going forward.
+
+The trials included in this meta-analysis did not enroll patients who were already taking beta-blockers for other reasons (such as heart failure or arrhythmias), so the conclusions apply only to the initiation of beta-blocker therapy after infarction in patients with normal cardiac function.
+
+The REBOOT trial, led by the CNIC in collaboration with the Spanish Society of Cardiology (SEC) and the CIBERCV, and the largest and most robust of the five, had already shown that patients with preserved cardiac function after infarction do not benefit from beta-blockers. Another recent study (BETAMI-DANBLOCK) suggested a slight benefit in reducing recurrent infarction rates.
+
+Although this benefit was not observed in the other trials (REBOOT, REDUCE-AMI, CAPITAL-RCT), it was important to conduct a pooled analysis to provide a definitive answer.
+
+This meta-analysis unequivocally demonstrates that beta-blockers do not provide any benefit—even in terms of reducing recurrent infarction rates—in patients with preserved cardiac function after infarction. The investigators affirm that "the signal seen in BETAMI-DANBLOCK likely reflects the inclusion of a non-negligible proportion of patients with mildly reduced cardiac function, a group known to benefit from beta-blockers."
+
+They conclude, "Thanks to this collaborative effort, we now know how beta-blockers should be used after infarction: patients with preserved cardiac function (ejection fraction ≥50%) do not benefit, while those with reduced function (<50%) do."
+
+Since approximately 70% of infarction patients today have preserved cardiac function, these findings have enormous global implications.
+
+For more than 40 years, all infarction patients were treated with lifelong beta-blockers, regardless of heart function. This practice was based on clinical trials from the 1970s and 1980s that showed benefit. But infarction management has changed dramatically since then, and patient outcomes have improved, with lower risks of malignant arrhythmias and heart failure.
+
+The REBOOT trial, led by the CNIC, had already pointed to a paradigm shift. This meta-analysis confirms it: patients with preserved cardiac function after infarction do not benefit from beta-blockers.
+
+Dr. Valentín Fuster, CNIC General Director, President of the Mount Sinai Fuster Heart Hospital, and investigator on both REBOOT and the meta-analysis, explains, "In 2025, we have overturned a treatment paradigm that had gone unquestioned for decades. From now on, patients discharged after infarction with normal cardiac function will no longer receive beta-blockers.
+
+"This is one of the most important changes in cardiology in recent decades. We suspected this for years, but only now—thanks to these studies—can we deliver an irrefutable message."
+
+The researchers emphasize that beta-blockers are very safe medications with a long track record of use, and they urge patients not to discontinue them without first consulting their doctor.
+
+"It's important to speak with a physician," explains Dr. Ibañez, "because some patients may be taking beta-blockers for reasons other than infarction, and in those cases the treatment should continue."
+
+This is not an urgent issue, but something to raise at the next scheduled follow-up. "If the doctor confirms that the patient is taking beta-blockers solely because of a past infarction and has normal cardiac function, the treatment will most likely be discontinued."
+
+Although beta-blockers have a very favorable safety profile, they are not entirely free of side effects. While these are generally mild, they can affect quality of life, producing fatigue or sexual dysfunction. The new findings therefore stand to improve quality of life for these patients.
+
+This study will undoubtedly have a major impact on clinical practice guidelines worldwide. As Dr. Fuster notes, "This study joins others coordinated by the CNIC—such as PESA, SECURE, and DapaTAVI—that are transforming global clinical practice."
+
+More information:Anna Meta Dyrvig Kristensen et al, Beta-Blockers after Myocardial Infarction with Normal Ejection Fraction,New England Journal of Medicine(2025).DOI: 10.1056/nejmoa2512686Journal information:New England Journal of Medicine

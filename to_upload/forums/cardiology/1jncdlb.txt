@@ -1,0 +1,26 @@
+Thread ID: 1jncdlb
+Subreddit: Cardiology
+Title: Acute MI due to coronary embolism from mechanical mitral valve. Note poor leaflet excursion.
+Author: saynocpr
+Created UTC: 2025-03-30T06:27:14
+Score: 239
+Num Comments: 25
+URL: https://reddit.com/r/Cardiology/comments/1jncdlb/acute_mi_due_to_coronary_embolism_from_mechanical/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1jncdlb/acute_mi_due_to_coronary_embolism_from_mechanical/
+Collected: 2025-11-15T08:30:42.109992
+===============================================================================
+
+60M non-compliant with warfarin presented with CP and acute anterior STEMI. Underwent successful aspiration thrombectomy using a Penumbra catheter with restoration of flow, resolution of pain and ST elevations. IVUS at the time of PCI did not show any significant plaque burden. Signed himself AMA the next day before a TEE of the valve could be done.
+
+---
+## Comments
+1. u/peepooplum [score=52, created=2025-03-30T07:37:21]: Signed himself out the next day, geesh
+2. u/5HTjm89 [score=16, created=2025-03-30T11:28:39]: This is a beautiful shot. Clear enough for my IR eyes to understand. CatRX?
+3. u/saynocpr [score=8, created=2025-03-30T06:30:17]: Higher resolution video [here (imgur)](https://imgur.com/a/uSQuJf1) Similar case [ACC here](https://www.jacc.org/doi/10.1016/j.jcin.2014.02.025)
+4. u/on3_3y3d_bunny [score=3, created=2025-03-30T11:45:53]: Did you remove the embolism first or just stent?
+5. u/rosh_anak [score=3, created=2025-03-31T14:51:02]: Reminds me of a patient he came in the ED after a VF arrest with a STEMI. Extubated himself and refused to go to a cath (talked to us and said he was fine) until we sedated him.
+6. u/Lali_mco11 [score=2, created=2025-03-30T15:13:20]: Why did you decide not to stent
+7. u/Boskouei [score=2, created=2025-04-03T16:43:59]: I prefer using penumbra over manual thrombectomy, this is relatively far distal and advancing a manual device esp passing through the bifurcation might damage endothelium or dissect. For atherosclerotic lesion since a PCI is about to follow anyway might be ok yet I rather avoid. Personally I infuse also a load of 2b3a inhibitor intracoronary, to deal with distal embolizations which might happen during process.
+8. u/Narrow_Deal_8516 [score=1, created=2025-04-02T00:22:39]: I'm kinda new to radiology, but is it the black dense color or something I'm missing of coronary arteries?
+9. u/EggieRowe [score=1, created=2025-04-01T17:23:54]: What kind of imaging is this? Looks cool
+10. u/Pandu0621 [score=0, created=2025-03-31T07:15:13]: So moral of the story is: Follow the advice of your cardiologist and ER staff, take your perceived meds otherwise, complications ! So Acute MI, after choosing to discharge himself? This means, he has passed ?

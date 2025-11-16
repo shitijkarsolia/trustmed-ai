@@ -1,0 +1,22 @@
+Thread ID: 1otc0r3
+Subreddit: Cardiology
+Title: Upcoming fellow, what resources are available for someone interested in complex cards physiology
+Author: Wannabeachd
+Created UTC: 2025-11-10T05:06:10
+Score: 11
+Num Comments: 7
+URL: https://reddit.com/r/Cardiology/comments/1otc0r3/upcoming_fellow_what_resources_are_available_for/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1otc0r3/upcoming_fellow_what_resources_are_available_for/
+Collected: 2025-11-15T08:26:17.849464
+===============================================================================
+
+I've watched all the lectures I could easily find on YouTube and read through deranged physiology but if there's a web series or book you'd recommend going into fellowship. Interested topics: really anything related to CHF (EDV/SV augmentation, atrial kick implications for diastology, acute valvular hemodynamic/cardiac output effects, pulm htn implications for LVOTO etc). Focused primarily on phys but if there's a smattering of management that would be great too
+
+---
+## Comments
+1. u/Excellent-Tea2125 [score=10, created=2025-11-10T07:10:46]: Not exactly what you’re looking for, but I’d recommend sections of the Hanna book or Braunwald. The Hanna book gives good explanations of pathophysiology and management and is fairly simple to read. He has some videos on YouTube if you want to check it out and his book is fairly similar type of content. Braunwald will get you really into the weeds. I will say if you’re still in residency, make sure you’re studying enough to pass IM boards. You’ll have plenty of time to study in fellowship. But, if it’s a genuine interest, I think select chapters of one of those 2 books would probably best.
+2. u/Apollo819 [score=4, created=2025-11-10T09:43:35]: Agree with the above comment. I found Elias Hanna’s “Practical Cardiovascular Medicine” to be useful in residency and deep enough to stay relevant during fellowship.
+3. u/CardioSource [score=3, created=2025-11-10T11:15:46]: Kerns Hemodynamic Rounds
+4. u/nalsnals [score=1, created=2025-11-10T12:47:00]: Katz textbook of physiology helped me grasp some key concepts
+5. u/justhanging14 [score=1, created=2025-11-10T19:30:52]: Agree with others, practical cardiovascular medicine by Hanna is where it’s at.
+6. u/spicypac [score=1, created=2025-11-12T12:44:25]: Just a PA but IP/OP gen cards was my first job out of school. I’ve always enjoyed diving into the weeds of cardiology on my off time cause i think it makes me a better clinician. Never read Hanna’s, but “Manual of Cardiovascular Medicine” (Griffin) is really solid. I love Braunwalds it’s helped me so much and even though it’s dense, it doesn’t feel over my head. Based on your interest I wonder if a more in depth book on echo is up your alley? Good luck!

@@ -1,0 +1,20 @@
+Thread ID: 1jwm4fe
+Subreddit: Cardiology
+Title: Need help identifying appropriate PCWP
+Author: MKchouy
+Created UTC: 2025-04-11T02:55:57
+Score: 31
+Num Comments: 7
+URL: https://reddit.com/r/Cardiology/comments/1jwm4fe/need_help_identifying_appropriate_pcwp/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1jwm4fe/need_help_identifying_appropriate_pcwp/
+Collected: 2025-11-15T08:30:26.683875
+===============================================================================
+
+Hi all, I'm a new RN to the CICU where we have lots of swans and wedge people quite often. Despite being trained to wedge, actually measuring the wedge at the correct part of the tracing still messes me up. I know you measure it on the A wave, end- expiration and should correlate with the QRS but every PCWP tracing I do seems different to online examples (yes this pic is definitely wedged, very noticeable dampening and change of waveform when done). Can anybody here show/tell me exactly where they'd place the cursor in this example? Thanks in advance!
+
+---
+## Comments
+1. u/supmua [score=12, created=2025-04-11T03:42:52]: That pic already shows you how the computer (or someone) identified the A and V waves (those long vertical lines on the screen) by using ECG correlation. A wave is at the end of QRS and V wave is after T wave. V wave is very tall here, probably due to mitral regurgitation. Take the avg A readings at the end of expiration (when the pressure line starts to decline), at least this one doesn’t show significant respiratory variation. We use mean A wave of the tracing because it’s a marker for LV filling pressure (LV filling at the end of atrial contraction).
+2. u/hagared [score=2, created=2025-04-11T10:20:12]: Probably should mention it also matters if the patient is ventilated or not. Need to be sure it’s end expiration for your measurement
+3. u/noltey22 [score=1, created=2025-04-13T12:30:47]: 28-30ish assuming spontaneous ventilation
+4. u/leonidasturtle [score=1, created=2025-04-14T03:54:35]: If this is the first time you are obtaining a PAWP for this particular patient, it is important to verify the accuracy of the result — the value you obtain has significant diagnostic and management implications. Agree with the above comments regarding (bisecting a-wave, at end expiration, determining ventilator status). The measurement should be made in West Zone III and should verified with a PA sat if this is the first value obtained. Future values can be estimated by surrogate PAd if they are close together and there is no significant elevation in PVR. This source may help further elucidate the measurement errors for PAWP. https://litfl.com/pulmonary-artery-wedge-pressure/

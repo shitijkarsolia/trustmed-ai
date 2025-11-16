@@ -1,0 +1,19 @@
+Thread ID: 1os1io5
+Subreddit: diabetes_t2
+Title: Does anyone get different readings on their glucose monitor?
+Author: Correct-Process-297
+Created UTC: 2025-11-08T14:48:13
+Score: 0
+Num Comments: 4
+URL: https://reddit.com/r/diabetes_t2/comments/1os1io5/does_anyone_get_different_readings_on_their/
+Canonical URL: https://reddit.com/r/diabetes_t2/comments/1os1io5/does_anyone_get_different_readings_on_their/
+Collected: 2025-11-15T02:20:07.661635
+===============================================================================
+
+Hello all! I have been diagnosed with diabetes for about seven and a half months now but just recently (last Sunday) I started pricking my finger and using my glucose monitor. I've tested my blood glucose once or twice a day for most days. While I tested my glucose levels, I thought I would expect a similar number if I pricked my fingers multiple times but I've consistently been getting readings of eight to 20 or more mg/dl during the same pricking session. I use the True Metrix blood glucose monitor if you guys are wondering. Im guessing one issue could be that my machine might not be reading right. To find this out i went online and bough the True Metrix glucose meter control solutions. These solutions should be arriving next week and I will test my monitor for accuracy. If I find the monitor is accurate next week, then what might be causing the different readings? Does the quantity of blood entering the test strip affect the results? Does pricking different fingers affect the results? I doubt its the fingers since its the same blood but I could be wrong. Are you guys also experiencing this? How many times are you guys pricking your fingers during the same session? I like to do it twice to see what the number says because I dont trust one solo reading. Thanks!
+
+---
+## Comments
+1. u/Thesorus [score=4, created=2025-11-08T14:55:46]: glucose is never uniformly distributed in the blood. glucose monitor, especially home models, are precise to a certain percentage (within 15% of a base line). so you'll get different readings. it's not a good idea to concentrate on a single reading (or a few readings) but look at the overall trends over weeks and months.
+2. u/Dgskydive [score=3, created=2025-11-08T17:26:17]: You'll drive yourself crazy. Take the first reading and move on.
+3. u/One-Second2557 [score=2, created=2025-11-08T15:23:52]: Yes i do...Best i can say is to test with clean fingers and keep in mind that Diabetics blood sugars can be unpredictable. Best of luck!!!

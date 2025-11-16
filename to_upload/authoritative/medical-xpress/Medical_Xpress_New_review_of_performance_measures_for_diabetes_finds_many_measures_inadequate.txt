@@ -1,0 +1,39 @@
+Title: New review of performance measures for diabetes finds many measures inadequate
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-05-diabetes-inadequate.html
+Canonical URL: https://medicalxpress.com/news/2025-05-diabetes-inadequate.html
+Filename: Medical_Xpress_New_review_of_performance_measures_for_diabetes_finds_many_measures_inadequate.txt
+Collected: 2025-11-15T17:12:14.675143
+===============================================================================
+
+Title: New review of performance measures for diabetes finds many measures inadequate
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-05-diabetes-inadequate.html
+Collected: 2025-11-15T17:12:14.675016
+
+================================================================================
+
+New review of performance measures for diabetes finds many measures inadequate
+
+byAmerican College of Physicians
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+A review by the American College of Physicians (ACP) of performance measures for diabetes found that of the 14 performance measures relevant to internal medicine, only four meet ACP's rigorous standards for appropriate use, high-quality evidence, and scientific acceptability. "Quality Indicators for Diabetes in Adults: A Review of Performance Measures by the American College of Physicians" waspublishedtoday in theAnnals of Internal Medicine.
+
+Diabetes is one of the most common chronic diseases in the United States. Type 1 and type 2diabetesare prevalent chronic illnesses, are leading causes of mortality and morbidity, and result in substantial public health burden. Timely identification and appropriate management of diabetes can help reduce adverse consequences of diabetes. Several performance measures for diabetes are currently in use in public reporting and accountability programs.
+
+The ACP Performance Measurement Committee (PMC) reviews performance measures using a rigorous process to recognize high-quality measures and address gaps and areas for improvement. ACP embracesperformance measurementas a means to improve quality of care but believes that a performance measure must be methodologically sound and evidence-based in order to be considered for inclusion in payment, accountability, or reporting programs.
+
+The PMC reviewed measures for diabetes screening; glycemic control; and monitoring comorbidities. In the paper, ACP supports kidney health evaluation, HbA1c control, eye examination, and ACE inhibitor or ARB therapy.
+
+ACP also developed a new performance measure concept with a goal of increasing prescription rates for patients eligible for newer pharmacologic agents. Together, these recommendations aim to encourage implementers and developers to establish and test performance measures that will lead to improvement in health outcomes for patients with diabetes.
+
+"Performance measurement is a means by which we look to improve the quality of care for our patients asinternal medicinephysicians," said Jason M. Goldman, President, ACP. "This review will prove valuable to practicing physicians and the medical community, as measures that provide minimal or no value topatient care, add an administrative burden to practices and systems of collecting and reporting data. Our time can be better spent on meaningful measures that help our patients."
+
+In 2024, ACP published aclinical guideline, "Newer Pharmacologic Treatments in Adults With Type 2 Diabetes: A Clinical Guideline From the American College of Physicians," to provide clinical recommendations on the topic.
+
+More information:Amir Qaseem et al, Quality Indicators for Diabetes in Adults: A Review of Performance Measures by the American College of Physicians,Annals of Internal Medicine(2025).DOI: 10.7326/ANNALS-24-03770Journal information:Annals of Internal Medicine

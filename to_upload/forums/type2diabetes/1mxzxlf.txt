@@ -1,0 +1,22 @@
+Thread ID: 1mxzxlf
+Subreddit: type2diabetes
+Title: A1C 5.7 but chronic high blood sugar
+Author: jad19090
+Created UTC: 2025-08-23T05:18:27
+Score: 5
+Num Comments: 12
+URL: https://reddit.com/r/type2diabetes/comments/1mxzxlf/a1c_57_but_chronic_high_blood_sugar/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1mxzxlf/a1c_57_but_chronic_high_blood_sugar/
+Collected: 2025-11-15T08:19:49.404694
+===============================================================================
+
+I am working with a medical team but, (55m) 5’7” 260 with COPD and stage 2 hypertension. Curious if one can be diabetic with a relatively normal A1c with consistent fasting blood sugar over 126? It’s been 2 years with my blood sugar levels like this but A1c has never gone over 5.7.
+
+---
+## Comments
+1. u/[deleted] [score=1, created=2025-08-24T03:54:31]: I’m confused. I thought HBA1C was THE test for monitoring and diagnosing diabetes? I got mine down from 100 to 37 (11 down to 5.7) but that doesn’t actually mean anything????? Please explain, I’m concerned I’ve totally misunderstood what these tests are telling me!
+2. u/anneg1312 [score=1, created=2025-08-24T02:50:38]: 5.7 is not normal… it’s high - what they like to call pre-diabetic but is really early stage diabetic. Lower your carbs and eliminate sugar and your baseline will drop lower. I went super low carb and added light intermittent fasting to lower mine.
+3. u/alan_s [score=1, created=2025-08-23T20:05:24]: Yes, you can. A1c is only one indicator. Any one of A1c, FBG or OGTT can lead to diagnosis. It is quite possible for one or two of those tests to be in normal range but you will still be diagnosed if one is high. What test results do your see one hour after meals? Have you been diagnosed by your medical team? If not, ask them why not.
+4. u/JEngErik [score=3, created=2025-08-23T15:57:44]: Yes absolutely. hbA1c isn't a measure of glucose. It's a measure of damage caused by glucose. It's affected by MANY things including anemia, apoptosis, spleen and liver factors, medications and many other conditions. Some countries won't even use hbA1c to diagnose diabetes at all as a result of its issues
+5. u/whteverusayShmegma [score=1, created=2025-08-23T13:08:54]: My understanding is that diabetes can be diagnosed with consistent fasting tests over 126 and not just A1C. Get a better doctor if yours isn’t catching this before it gets worse.
+6. u/usafmd [score=1, created=2025-08-23T11:09:51]: Yes, because there many ways for the diagnosis to be made.

@@ -1,0 +1,19 @@
+Thread ID: 1owxb00
+Subreddit: askCardiology
+Title: Question regarding svt
+Author: peanutbrittal
+Created UTC: 2025-11-14T07:02:38
+Score: 1
+Num Comments: 3
+URL: https://reddit.com/r/askCardiology/comments/1owxb00/question_regarding_svt/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1owxb00/question_regarding_svt/
+Collected: 2025-11-15T08:37:47.032692
+===============================================================================
+
+Twice in a week I’ve woken up middle of night with what I believe to be panic attacks. I did hotter monitor earlier in the year and it said one episode of svt, but I didn’t even know I had it happen. I also have POTS so my heart rate jumps to 150’s most days anyways just walking in my house. I also have an intermittent LBBB that I can feel and maybe that masked something with feeling the svt episode before. I’m trying to figure out if what I experienced this last week were panic attacks or svt. The first one was really bad. HR was 175 when I checked it with my watch in the middle of it. The one last night, it wasn’t as bad and it lasted maybe a couple of minutes and I was able to calm down quicker than the previous one. My heart felt like it was beating crazy fast too. The first one though literally had me on the floor and took a lot more effort to come out of it. I’ve had this happen before, where I’d have a month where I’d have this happen once or twice in a week. Just trying to figure this out.
+
+---
+## Comments
+1. u/myst3ryAURORA_green [score=1, created=2025-11-14T12:54:05]: I have no idea what LBBB is --- but It's still good to check out SVT via cardiologist. I know from experience that not all SVT episodes are created equal.
+2. u/Initial-Net-7519 [score=1, created=2025-11-14T13:19:39]: You’d have to catch it on an ECG for anyone to know.
+3. u/Relative_Clarity [score=1, created=2025-11-14T22:05:03]: I used to get what I thought were frequent panic attacks. Turns out I had SVT. Discovered and corrected during an EP study and ablation (for another heart issue!) SVT usually begins and ends abruptly, like the flip of a switch. It also looks different than sinus tach on ekg. You may want to get a Kardia device (6-lead) to record those high episodes, and see if you can show it to a cardiologist, if you are unable to catch it on a holter monitor or ekg. But definitely touch base with your doctor or a cardiologist about these symptoms. There are some monitors they can prescribe for weeks or a month if your symptoms are not super rare. You can also try vagal maneuvers for SVT (you can google it), and try a few of those in the moment. If it terminates the episode, it is likely an arrythmia and not panic. Some examples would be bearing down like a bowel movement, blowing hard against your thumb with closed lips, splashing ice water on your face. Of course you may want to consult with a doctor before trying any of these techniques. I would never tell someone to assume panic attacks first. Especially if you don't have a history of them and you've never had the symptoms evaluated and other causes ruled out. If you go to the doctor, describe the *symptoms*. Don't start with "I think I'm having panic attacks" or mention anxiety at all. It's also entirely possible to have both an arrhythmia, and panic attacks.

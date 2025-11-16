@@ -1,0 +1,20 @@
+Thread ID: 1meua5a
+Subreddit: Cardiology
+Title: Chronic Heart Failure Med Student Question
+Author: Suspicious-Wrap-6773
+Created UTC: 2025-08-01T04:45:53
+Score: 8
+Num Comments: 8
+URL: https://reddit.com/r/Cardiology/comments/1meua5a/chronic_heart_failure_med_student_question/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1meua5a/chronic_heart_failure_med_student_question/
+Collected: 2025-11-15T08:28:37.047501
+===============================================================================
+
+I am a medical student and while reading through my professor's slides I encountered a case of a patient with CHF and unfortunately, I don't have his contact. These slides seem to be of a single patient but it's strange to see that his heart is getting enlarged and smaller multiple times. Is this common to see in CHF patients or are they just different patients?
+
+---
+## Comments
+1. u/peepooplum [score=7, created=2025-08-01T05:14:39]: Not the same person. Looks like different genders. The second and last have very different body shapes. Their EF also wouldn't improve over consecutive admissions for heart failure. If you look at the dates as well they don't make sense as they overlap with other slides
+2. u/Silly-Ambition5241 [score=2, created=2025-08-03T06:07:38]: Just a couple things of note: Chf is to be distinguished from cardiomyopathy. The former suggesting there’s volume overload and the latter identifying structural abnormalities, whether systolic or diastolic or valvular or whatever that may or may not lead to CHF or low output heart failure. Cardiopathy can recover or revert due to exposure to toxins, stressors (e.g. sepsis), status of disease, volume decompensation (i.e. chf) etc. this can lead to changes in LV size that can alter chest x-ray findings Decades of research on neurohormonal antagonism show that these medication’s work and that coming off them can lead to regression (TREDHF). As noted above this patient may have been exposed to toxins, repetitively like alcohol and then abstained or merely stop taking their medication and got back on it after a hospitalization. Not uncommon. Lastly, wonderful job as a medical student digging in and doing your own evaluation and making observations. This is what distinguishes doctors from mid levels. You are going to make a great doctor from this alone. I hope you get to do research too. Seems like you are making observations and asking questions - prime ingredients for research
+3. u/sovook [score=1, created=2025-08-01T20:32:13]: The way my family member explained it to me from her cards rotation (back from Soviet Russia) was simple, look for a triangle for LVef HF. Differentials are pericardial effusion. On a later slide differential pneumonia. If I looked again I would try to see if I could identify LV wall thickening, and any potential collapsed lungs, seen post procedure for Left valvular intervention, can’t recall the name and I worked mostly Uro today so my mind is null.
+4. u/justhanging14 [score=1, created=2025-08-01T10:32:30]: I think the idea here is that alcoholic cardiomyopathy can be reversible if you stop drinking and can obviously relapse but these changes seem very exaggerated and as another poster mentioned. The cxr don’t all seem to be from the same patient.

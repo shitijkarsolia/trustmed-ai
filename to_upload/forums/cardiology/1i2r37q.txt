@@ -1,0 +1,21 @@
+Thread ID: 1i2r37q
+Subreddit: Cardiology
+Title: ECG Source vs. O'Keefe
+Author: Pequalmd
+Created UTC: 2025-01-16T08:13:36
+Score: 5
+Num Comments: 9
+URL: https://reddit.com/r/Cardiology/comments/1i2r37q/ecg_source_vs_okeefe/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1i2r37q/ecg_source_vs_okeefe/
+Collected: 2025-11-15T08:31:45.833457
+===============================================================================
+
+I've heard conflicting things about which one is better to buy to prepare for cardiology boards. anyone have experience or strong opinions on the difference between them?
+
+---
+## Comments
+1. u/br0mer [score=14, created=2025-01-16T09:23:18]: Both suck. O'Keefes drastically overcodes to the point where it's not worth it as a learning tool. Ecgsource probably undercodes. There's also a lot of mistakes and borderline ekgs. Multiple ekgs were HR right at 55-60 and would inconsistently be coded as sinus Brady or sinus rhythm, which is 4 points. LAE would be coded or not and it was random. At least ecgsource hits the highlights. I'd stick to ecgsource as undercoding is probably better than overcoding.
+2. u/kgeurink [score=3, created=2025-01-16T09:45:42]: ECG source
+3. u/docamok81 [score=3, created=2025-01-16T22:51:48]: I used both. Used Okeefe’s online ECG bank (accessed via the Mayo course) for coding practice - felt their coding answers was more consistent and helpful for the test. ECG source has too many ECGs and oftentimes their coding is inconsistent. They do have a subsection on high yield ECGs which was actually very helpful to review the day prior. I did watch the coding videos from Mayo lectures as well and got good insight on what the examiners are looking for and such. Wish you the best.
+4. u/waxfantastix [score=2, created=2025-01-17T08:31:36]: I also used both and have equal amounts of contempt for both. I just got a little shudder of PTSD. Good luck!!!
+5. u/bullsdoc [score=2, created=2025-01-18T20:50:19]: Use both

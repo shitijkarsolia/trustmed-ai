@@ -1,0 +1,21 @@
+Thread ID: 1our7lb
+Subreddit: diabetes_t2
+Title: I got a Dexcom Stelo
+Author: ratsrule67
+Created UTC: 2025-11-11T17:57:58
+Score: 2
+Num Comments: 10
+URL: https://reddit.com/r/diabetes_t2/comments/1our7lb/i_got_a_dexcom_stelo/
+Canonical URL: https://reddit.com/r/diabetes_t2/comments/1our7lb/i_got_a_dexcom_stelo/
+Collected: 2025-11-15T02:19:26.160320
+===============================================================================
+
+Since this is a way to try out CGM without seeing a doc, I ordered the Stelo because it is available OTC. My initial impressions are positive. I now understand why the marketing says it is not for people on insulin. It cannot measure below 70mg/dl. It also doesn’t recognize above 250. I still thought it was worth a try. I will be seeing a doc to get a script for a G7. Yes, I still do finger pricks to see if the morning reading is really low, or if I ended up sleeping on it. If you especially are on insulin, I recommend getting a CGM. (Provided you can afford it, and your insurance covers it.) From what I understand of the G7, you can calibrate it to a finger stick reading if the reading seems off. I like the graph, so I can figure out what is triggering the spikes. My other understanding with G7 is it can transmit to a fitbit. Anyhow, thank you for reading. Stay strong and healthy.
+
+---
+## Comments
+1. u/rickPSnow [score=3, created=2025-11-11T23:26:40]: That’s not quite correct. Dexcom Stelo DOES measure and record blood sugar below 70 and above 250. It doesn’t give warning alarms and you don’t see these values on your phone interface or receiver if using. It just reports LOW or HI. It also doesn’t interface with an insulin pump. However you can see and track these highs and lows by using the Clarity app. It’s a separate download. It’s not medically approved for insulin use but you can work around the non-alarm issue.
+2. u/W_Roper [score=2, created=2025-11-11T20:02:05]: I have the G7 and it’s great. Really a game changer. I can’t imagine having to go back to poking my finger all the time. The calibration tool is nice as well.
+3. u/sodomygogo [score=2, created=2025-11-12T06:00:35]: I have found the stelo was just wrong a LOT. Without a way to calibrate the only useful thing I was able to get it of it was trends. Which definitely helped, but it wasn’t as useful as I was hoping. I’m now using G7s and I am finding it much more useful. However it is complete garbage without calibration.
+4. u/DefyingGeology [score=2, created=2025-11-12T19:19:36]: If you get the Zukka app, you’ll be able to get the readings below 70 and over 250, and also to get the updates at 5 minute increments, as well as alarms for fast rises and fast drops. It feels like a little bit of overkill, 3 apps (Stelo, Zukka, and Clarity) but the amount of information you get using all of them is invaluable.
+5. u/SweetieLoveBug [score=1, created=2025-11-11T20:08:22]: Aha! So that’s how they keep you from buying the cheaper model. Bless their hearts for being so clever.❤️

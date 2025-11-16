@@ -1,0 +1,18 @@
+Thread ID: 1cwg2rs
+Subreddit: Cardiology
+Title: What is the natural history of complete heart block?
+Author: Richardcavell
+Created UTC: 2024-05-20T06:50:27
+Score: 6
+Num Comments: 4
+URL: https://reddit.com/r/Cardiology/comments/1cwg2rs/what_is_the_natural_history_of_complete_heart/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1cwg2rs/what_is_the_natural_history_of_complete_heart/
+Collected: 2025-11-15T08:35:02.678768
+===============================================================================
+
+I know that when a person goes into complete heart block, there is a ventricular escape rhythm. The escape rhythm keeps the patient alive. The typical treatment is to give them a permanent pacemaker. I was told when I was a junior doctor twenty years ago that the ventricular escape rhythm doesn't last very long - that after a while, the ventricles will stop producing cardiac output entirely, and the patient will die. Therefore, giving the patient a pacemaker will save their life. A corollary of this is that if a pacemaker that has been in for a while is switched off, the patient will die. I'm unable to find any discussion of this in my textbook. So what's the natural history of someone with complete heart block, who doesn't get a pacemaker?
+
+---
+## Comments
+1. u/[deleted] [score=5, created=2024-05-20T17:33:22]: Depends. Patients with congenital heart block can go decades on their escape as it’s a junctional rhythm that provides adequate hemodynamic support. On the other hand, a sick ventricle won’t last long as it cannot handle dys-synchronous contraction for long without hemodynamic collapse. In general, the more narrow the escape rhythm, the longer the patient can go with the back-up rhythm.
+2. u/shahtavacko [score=2, created=2024-05-20T20:47:51]: I agree with the answer that’s been given already, but thought to point out that your statement about “a pacemaker that has been for a while…” isn’t necessarily correct. People will often have an underlying escape rhythm even when I replace their device (ten years of more after the original implant); one also cannot “turn off a pacemaker”, you can turn the rate down very low, but you can’t turn them off really (you can disable the defibrillator function of an ICD, but the pacing function will continue).

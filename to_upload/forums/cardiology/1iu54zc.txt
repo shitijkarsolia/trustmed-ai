@@ -1,0 +1,21 @@
+Thread ID: 1iu54zc
+Subreddit: Cardiology
+Title: CIEs
+Author: Last_Requirement918
+Created UTC: 2025-02-20T11:13:28
+Score: 7
+Num Comments: 9
+URL: https://reddit.com/r/Cardiology/comments/1iu54zc/cies/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1iu54zc/cies/
+Collected: 2025-11-15T08:31:22.401038
+===============================================================================
+
+Thoughts on EKG Computerized Interpreters (CIEs)? I personally have some issues with them, and I’ve noticed them more and more in the past few months especially with my pediatric and “skinny” (I say this really meaning low chest wall thickness) patients, the EKGs will frequently say left ventricular hypertrophy, when there is no LVH whatsoever (during my interpretation). I feel like the algorithm, while pretty accurate for most, it doesn’t seem to be very good at recommending an echo for LVH for pediatric/“skinny” patients. Just wondering if anyone else has seen this.
+
+---
+## Comments
+1. u/sibun_rath [score=4, created=2025-02-20T11:32:10]: CIEs often misinterpret LVH in pediatric/thin patients—voltage criteria alone isn't always reliable.
+2. u/Tank_Just_Tank [score=3, created=2025-02-20T11:49:31]: The way I see it is that the CIE is just a guide to double check certain leads to see if what it's saying is actually correct. It's not a diagnostic tool in its own right but can assist sometimes. 9/10 times it's wrong. Old Infarct is another fun one it usually makes up.
+3. u/[deleted] [score=2, created=2025-02-20T12:39:03]: I’ve lost count of how many times the computer thinks flutter is sinus tach.
+4. u/Creepysarcasticgeek [score=1, created=2025-02-20T14:01:08]: Though not useless, I think it’s garbage and unreliable. In my old training hospital they were disabled from all the ecg machines. The flip side is that we would get tons of consults for ECGs, but apparently that was the reason they turned them off.
+5. u/[deleted] [score=1, created=2025-02-23T13:04:47]: When it's straightforward or obvious, they're fine. The more convoluted the trace, or out of the ordinary the more outlandish the reports come.

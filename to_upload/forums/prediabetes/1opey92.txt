@@ -1,0 +1,19 @@
+Thread ID: 1opey92
+Subreddit: prediabetes
+Title: hypoglycemia
+Author: PuzzledPersonality63
+Created UTC: 2025-11-05T13:56:23
+Score: 5
+Num Comments: 7
+URL: https://reddit.com/r/prediabetes/comments/1opey92/hypoglycemia/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1opey92/hypoglycemia/
+Collected: 2025-11-15T08:25:03.639556
+===============================================================================
+
+do you guys ever experience hypoglycemia? if you do how do you determine it? i feel shaky and weird and anxious like my hands are stumbling, my stomach feels jittery, when i stand up i have to sit back down. idk not to be a hypochondriac or anything. i've experienced this before plenty of times but i didn't think anything of it really.
+
+---
+## Comments
+1. u/hotheadnchickn [score=2, created=2025-11-05T14:08:58]: Reactive hypoglycemia maybe? How are you treating your prediabetes? If it is RH, imrpoving insulin sensitivity should help prevent episodes.
+2. u/ARandomMutant [score=2, created=2025-11-06T00:48:33]: Hi. Hypoglycaemia can have multiple causes which should be considered but in the setting of (pre)diabetes this most commonly will be postprandial (reactive) hypoglycaemia which occurs as a result of insulin resistance. This is diagnosed clinically by documentation of Whipple’s triad: 1. Onset of symptoms after eating (typically \~2-3 hours but it can vary depending on the individual and the meal) 2. Documentation of low blood sugar (such as by fingerstick glucose readings) 3. Resolution of symptoms with eating OP, if you suspect you are experiencing episodes of hypoglycaemia, the best thing you can do to help your doctor (and to have your concerns be taken seriously) is to purchase a simple fingerstick glucometer and check your levels when you are having symptoms. If your suspicions are confirmed, you can take a picture of the glucometer reading and show this to your doctor. If you are able to make a note of whether there is a relationship to when you last ate, it may be possible to confirm Whipple’s triad/reactive hypoglycaemia as well. I took these steps after documenting BGs as low as 45 and was diagnosed with RH without issue. If RH is not your problem, this info will still be helpful to have in order to figure out what might be causing it.
+3. u/Alextricity [score=1, created=2025-11-05T14:20:31]: I get it rarely. I had it a few weeks ago several hours after eating tomato soup of all things. I quickly got pretty hungry, light headed, and sweaty. I checked my blood and sure enough, 62. Definitely scary but easily fixable if you have some simple carbs on you.

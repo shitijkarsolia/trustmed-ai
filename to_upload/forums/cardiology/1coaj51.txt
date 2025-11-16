@@ -1,0 +1,21 @@
+Thread ID: 1coaj51
+Subreddit: Cardiology
+Title: What are the best textbooks out there to study cardiology physiology/pathology? 
+Author: freezermold1
+Created UTC: 2024-05-09T15:55:02
+Score: 2
+Num Comments: 7
+URL: https://reddit.com/r/Cardiology/comments/1coaj51/what_are_the_best_textbooks_out_there_to_study/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1coaj51/what_are_the_best_textbooks_out_there_to_study/
+Collected: 2025-11-15T08:35:11.310961
+===============================================================================
+
+IM resident interested in reading some more. Also, I read somewhere that cardiac output is solely determined by venous return? Is that true?
+
+---
+## Comments
+1. u/N0RedDays [score=6, created=2024-05-09T17:53:01]: PA student here. I don’t know as much as you guys but I really liked the Harrison’s IM chapters on Cardiology. NCBI Statpearls is also a great resource for an overview with adequate detail. AFAIK cardiac output is the product of stroke volume x beats per minute, so venous return would be a large part of that in terms of preload plus contractile forces of the myocardium and then afterload. So it wouldn’t be solely venous return (at least I don’t think so). If peripheral vascular resistance is super high or your myocardium is impaired then you can get diminished cardiac output. Same thing with preload being decreased which can be a result of distension. That gets into HFpEF vs HFrEF I could be wrong, I’m mainly interested in the kidneys haha. I hope this helps and hope you find what you’re looking for.
+2. u/SynbiosVyse [score=2, created=2024-05-10T07:54:48]: &gt; Also, I read somewhere that cardiac output is solely determined by venous return? Is that true? No. Venous return can be a limiting factor of cardiac output but it isn't the sole factor. HR directly affects CO, also there are many other variables that contribute to SV other than preload (e.g. contractility, inotropy, lusitropy).
+3. u/dayinthewarmsun [score=2, created=2024-05-12T09:21:15]: CO is determined by venous return in the sense that “what comes in must go out” but it’s incorrect to think that CO is “determined” solely by venous return.
+4. u/EnergyMobile4400 [score=1, created=2024-05-10T04:47:19]: It's partialy true because heart cannot pump more than it gets... but it's a bad expression I think
+5. u/fruityuv [score=1, created=2024-07-20T10:02:26]: .

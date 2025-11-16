@@ -1,0 +1,71 @@
+Title: From painkillers to antibiotics: Five medicines that could harm your hearing
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-07-painkillers-antibiotics-medicines.html
+Canonical URL: https://medicalxpress.com/news/2025-07-painkillers-antibiotics-medicines.html
+Filename: Medical_Xpress_From_painkillers_to_antibiotics_Five_medicines_that_could_harm_your_hearing.txt
+Collected: 2025-11-15T17:12:09.068411
+===============================================================================
+
+Title: From painkillers to antibiotics: Five medicines that could harm your hearing
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-07-painkillers-antibiotics-medicines.html
+Collected: 2025-11-15T17:12:09.068245
+
+================================================================================
+
+From painkillers to antibiotics: Five medicines that could harm your hearing
+
+by Dipa Kamdar,The Conversation
+
+edited byLisa Lock, 																								reviewed byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+written by researcher(s)
+
+When we think about the side effects of medicines, we might think of nausea, fatigue or dizziness. But there's another, lesser-known risk that can have lasting—and sometimes permanent—consequences: hearing loss. A wide range of prescription and over-the-counter drugs are known to be ototoxic, meaning they can damage the inner ear and affect hearing or balance.
+
+Ototoxicity refers to drug or chemical-related damage to thecochlea, which affects hearing, and thevestibular system, which controls balance. Symptoms can include tinnitus (ringing in the ears),hearing loss(often starting with high-frequency sounds), dizziness or balance problems or a sensation of fullness in the ears.
+
+These effects can be temporary or permanent, depending on the drug involved, the dose and duration and a person's susceptibility.
+
+Theinner earis highly sensitive, and most experts believe ototoxic drugs cause damage by harming the tiny hair cells in the cochlea or disrupting the fluid balance in the inner ear. Once these hair cells are damaged, they don't regenerate—making hearing loss irreversible in many cases.
+
+Around200 medicinesare known to have ototoxic effects. Here are some of the most commonly used drugs to watch out for:
+
+Aminoglycoside antibiotics likegentamicin, tobramycin and streptomycinare typically prescribed for serious infections such as sepsis, meningitis, or tuberculosis—conditions where prompt, aggressive treatment can be lifesaving. In these cases, the benefits often outweigh the potential risk of hearing loss.
+
+These drugs, usually given intravenously, are among the most well-documented ototoxic medications. They can cause irreversible hearing loss, particularly when used in high doses or over extended periods. Some people may also begenetically more vulnerableto these effects.
+
+These drugslinger in the inner earfor weeks or even months, meaning damage can continue after treatment has ended.
+
+Other antibiotics to be aware of includemacrolides(such as erythromycin and azithromycin) andvancomycin, which have also been linked to hearing problems, particularly in older adults or people with kidney issues.
+
+Loop diuretics likefurosemide and bumetanideare commonly used to manageheart failureorhigh blood pressure. When given in high doses or intravenously, they can cause temporary hearing loss by disrupting the fluid and electrolyte balance in the inner ear. Around3% of usersmay experience ototoxicity.
+
+Someblood pressure medicationshave also been linked to tinnitus.
+
+These includeACE inhibitors—drugs like ramiprilthat help relaxblood vesselsby blocking a hormone called angiotensin, making it easier for the heart to pump blood—andcalcium-channel blockers like amlodipine, which reduce blood pressure by preventing calcium from entering the cells of the heart and blood vessel walls. While these associations have been observed, more research is needed to fully understand the extent of their effect on hearing.
+
+Certain chemotherapy drugs, especially those containing platinum—likecisplatin and carboplatin—are known to be highly ototoxic. Cisplatin, often used to treat testicular, ovarian, breast, head and neck cancers, carries a significant risk of permanent hearing loss. Thatrisk increases when radiationis also directed near the head or neck.
+
+Up to60% of patientstreated with cisplatin experience some degree of hearing loss.Researchers are exploring waysto reduce risk by adjusting dosage or frequency without compromising the drug's effectiveness.
+
+High doses of common pain relievers, including aspirin, NSAIDs—non-steroidal anti-inflammatory drugs such as ibuprofen and naproxen, commonly used to relieve pain, inflammation and fever—and even paracetamol, have been linked to tinnitus and hearing loss.
+
+Alarge studyfound that women under 60 who regularly took moderate-dose aspirin (325 mg or more, six to seven times per week) had a 16% higher risk of developing tinnitus. This link was not seen with low-dose aspirin (100 mg or less). Frequent use of NSAIDs as well as paracetamol was also associated with a nearly 20% increased risk of tinnitus, particularly in women who used these medications often.
+
+Another studylinked long-term use of these painkillers to a higher risk of hearing loss, especially in men under 60. In most cases, tinnitus and hearing changes resolve once the medication is stopped—but these side effects typically occur after prolonged, high-dose use.
+
+5. Antimalarial drugs
+
+Drugs likechloroquine and quinine—used to treat malaria and leg cramps—can cause reversible hearing loss and tinnitus.One studyfound that 25%–33% of people with hearing loss had previously taken one of these drugs.
+
+Hydroxychloroquine, used to treat lupus and rheumatoid arthritis, has a similar chemical structure and poses a similar risk. Whilesome people recoverafter stopping the drug, others may experience permanent damage, particularly after long-term or high-dose use.
+
+People with pre-existing hearing loss, kidney disease, or genetic susceptibilityface higher risks—as do those taking multiple ototoxic drugs at once. Children andolder adultsmay also be more vulnerable.
+
+If you're prescribed one of these medications for a serious condition like cancer, sepsis or tuberculosis, the benefits usually outweigh the risks. But it's still wise to be informed. Ask your doctor or pharmacist if your medicine carries a risk to hearing or balance. If you experience ringing in your ears, dizziness, or muffled hearing, report it promptly.
+
+This article is republished fromThe Conversationunder a Creative Commons license. Read theoriginal article.

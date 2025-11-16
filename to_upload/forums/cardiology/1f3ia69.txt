@@ -1,0 +1,21 @@
+Thread ID: 1f3ia69
+Subreddit: Cardiology
+Title: AI in Cardiology: what works and what doesn't?
+Author: slmrma
+Created UTC: 2024-08-28T11:57:59
+Score: 7
+Num Comments: 8
+URL: https://reddit.com/r/Cardiology/comments/1f3ia69/ai_in_cardiology_what_works_and_what_doesnt/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1f3ia69/ai_in_cardiology_what_works_and_what_doesnt/
+Collected: 2025-11-15T08:33:40.285215
+===============================================================================
+
+So there's been quite some AI talk, AI predicting AF based on ECG, catching subtle STEMIs, predicting HF based on X-rays and what not. But come to real world, have you guys tried anything that works and has improved your clinical practice?
+
+---
+## Comments
+1. u/babar001 [score=5, created=2024-08-29T15:11:11]: CMR semi auto segmentation Auto EF, auto measurements for echo Auto image contrast adjustment for echo Pre sorting of qrs complex on holters (wish we had the good ones) There is pattern here. It helps do my job faster, but does not try to replace me at my job.
+2. u/ememtix [score=3, created=2024-08-29T18:32:44]: My clinic is starting the process of implementing AI into holter scanning and assisting with echocardiography reports. I haven’t seen it much myself but I’ll report back once I get opinions
+3. u/SlapBassGuy [score=2, created=2024-08-29T07:18:59]: Following
+4. u/cardsguy2018 [score=1, created=2024-08-30T15:36:36]: I used chatgpt to write a letter once. There was some discussion about this a few months ago. [Link](https://old.reddit.com/r/Cardiology/comments/1c8da2d/how_will_ai_change_cardiology/). Personally I'm not confident AI (used in the way mentioned) will be all that helpful in my day to day practice and it may in fact create even more work for me.
+5. u/AssemblerGuy [score=1, created=2024-09-03T08:45:21]: I improved the CMRR of an ECG patient module by deriving device-specific digital filters through convex optimization. That might be called machine learning, but unlike AI, I can prove mathematically that the approach works and will not do anything wonky.

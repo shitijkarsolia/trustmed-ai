@@ -1,0 +1,25 @@
+Thread ID: 1ljygxv
+Subreddit: Cardiology
+Title: AVNRT or Flutter?
+Author: BarbDart
+Created UTC: 2025-06-24T23:31:36
+Score: 13
+Num Comments: 12
+URL: https://reddit.com/r/Cardiology/comments/1ljygxv/avnrt_or_flutter/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1ljygxv/avnrt_or_flutter/
+Collected: 2025-11-15T08:29:05.060276
+===============================================================================
+
+93 yo F known fib, some palpitations but stable and comfortable in RA, I actually thought this was avnrt with retrograde p despite her age.. thoughts?
+
+---
+## Comments
+1. u/Gideon511 [score=17, created=2025-06-25T00:24:22]: Favor short rp tachycardia likely avnrt
+2. u/[deleted] [score=7, created=2025-06-25T01:54:25]: Difficult to see the p axis but appears to be inferior. Atrial tachycardia with 1st degree AV block can also cause short RP tachycardia. However less likely if this person is in permanent AFib. So I’d go for an AV(N)RT.
+3. u/ConstantBreak6241 [score=3, created=2025-06-25T15:16:56]: Retrograde P waves at the end of QRS and short PR re entrant circuit. Would give adenosine
+4. u/[deleted] [score=1, created=2025-06-25T16:02:35]: Looks like svt, but Can’t say if HR is high could be both, if unstable just cardiovert
+5. u/lobeams [score=1, created=2025-06-25T16:56:47]: Adenosine.
+6. u/GuidanceClassic5951 [score=1, created=2025-06-26T07:00:40]: Wpw in a nutshell
+7. u/RaBu6 [score=1, created=2025-06-26T09:08:54]: Give adenosine challenge.
+8. u/harveyvesalius [score=1, created=2025-06-29T14:31:12]: Can you show us v1? It may be flutter 2:1, one wave hidden in ST. For me this is Flutter.
+9. u/Anonymousmedstudnt [score=0, created=2025-06-25T04:41:05]: Normal exactly 150 I'd favor AFL but those p waves don't hide under the qrs

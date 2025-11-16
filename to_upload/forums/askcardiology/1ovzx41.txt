@@ -1,0 +1,18 @@
+Thread ID: 1ovzx41
+Subreddit: askCardiology
+Title: Need help understanding this, this ECG report is of my father aged 61.
+Author: Admirable-Web4855
+Created UTC: 2025-11-13T05:35:48
+Score: 1
+Num Comments: 5
+URL: https://reddit.com/r/askCardiology/comments/1ovzx41/need_help_understanding_this_this_ecg_report_is/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1ovzx41/need_help_understanding_this_this_ecg_report_is/
+Collected: 2025-11-15T08:38:32.932068
+===============================================================================
+
+(No selftext provided.)
+
+---
+## Comments
+1. u/---root-- [score=3, created=2025-11-13T05:44:39]: They might as well have not taken an ECG... That tracing is completely useless due to severe artefact and thus ill suited for interpretation.
+2. u/These-Dog9684 [score=-1, created=2025-11-14T09:37:15]: Looks to be a positive reading of a heart attack to me

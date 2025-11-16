@@ -1,0 +1,20 @@
+Thread ID: 1hac2zp
+Subreddit: Cardiology
+Title: Different pulse wave? Intern question 
+Author: Gingerbread_Toe
+Created UTC: 2024-12-09T08:21:01
+Score: 3
+Num Comments: 7
+URL: https://reddit.com/r/Cardiology/comments/1hac2zp/different_pulse_wave_intern_question/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1hac2zp/different_pulse_wave_intern_question/
+Collected: 2025-11-15T08:32:20.297982
+===============================================================================
+
+Hi! I'm an intern from Ukraine and i have maybe a stupid question. I'm not familiar with the terminology in English, so excuse me if I'm not making myself very clear. I've examined a patient (F, 70 yo) and when i measured her BP the pulse "strength" was different, although it was rhythmical. One beat was stronger the other almost indistinguishable. EKG foundings (i didn't take a picture unfortunately) were RBBB paired with AV 1 block, but sinus without any premature beats. My question is what could be the reasons for the pulse being so different? I know it's probably a dumb question, but i would like to hear your view on the subject. Thanks in advance! P.s. Echo was also without any significant changes
+
+---
+## Comments
+1. u/LegendOfKhaos [score=2, created=2024-12-09T09:17:22]: Did it change during inspiration or expiration?
+2. u/astrofuzzics [score=2, created=2024-12-09T09:39:49]: Was it every second pulse that was weak, or was it less frequent? My first guess is that it has to do with her breathing. Some people have an exaggerated pulsus paradoxus at rest, even without tamponade, e.g. those with chronic lung disease. If it was every second pulse (pulsus alternans), that’s quite unusual in the absence of some serious cardiac pathology. If you do some reading on pulsus paradoxus and pulsus alternans, maybe you will be able to figure out which one better matches what you’re describing, and then you can understand your physical exam finding.
+3. u/2toneSound [score=1, created=2024-12-09T08:37:31]: Yes you want to hear a strong first beat and diffuse second beat
+4. u/Greenheartdoc29 [score=1, created=2024-12-09T23:47:32]: The difference was “rhythmical” in what way? I suggest you look up bigeminal rhythm and bisfiriens pulse and figure out what you observed.

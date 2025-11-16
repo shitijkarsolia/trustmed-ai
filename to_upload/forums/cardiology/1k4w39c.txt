@@ -1,0 +1,17 @@
+Thread ID: 1k4w39c
+Subreddit: Cardiology
+Title: What are the must read review articles in intervention cardiology?
+Author: TheCVascularGuy
+Created UTC: 2025-04-21T19:55:54
+Score: 15
+Num Comments: 8
+URL: https://reddit.com/r/Cardiology/comments/1k4w39c/what_are_the_must_read_review_articles_in/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1k4w39c/what_are_the_must_read_review_articles_in/
+Collected: 2025-11-15T08:30:13.951306
+===============================================================================
+
+(No selftext provided.)
+
+---
+## Comments
+1. u/RealMurse [score=10, created=2025-04-21T22:20:27]: There’s a great App you can download called Journal Club (think an annual fee) but you can pull up pretty much all of the must reads in chronological order - for instance REDUCE-AMI, EMPEROR, PARAGON-HF, and ISCHEMIA (2020), etc are all in there. Though i prefer to read, in a pinch when met new things/considerations can augment with an AI app - OpenEvidence - which is far superior and accurately summarizes up to date evidence, lit reviews and pertinent RCT reviews/guideline updates. Just a measly NP here, but your role plays a crucial part in advanced HF, best wishes!

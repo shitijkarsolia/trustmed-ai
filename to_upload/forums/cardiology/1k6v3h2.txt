@@ -1,0 +1,22 @@
+Thread ID: 1k6v3h2
+Subreddit: Cardiology
+Title: Any advice for an incoming fellow?
+Author: Cardiologythrow1234
+Created UTC: 2025-04-24T08:29:19
+Score: 23
+Num Comments: 13
+URL: https://reddit.com/r/Cardiology/comments/1k6v3h2/any_advice_for_an_incoming_fellow/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1k6v3h2/any_advice_for_an_incoming_fellow/
+Collected: 2025-11-15T08:30:07.510295
+===============================================================================
+
+About to start in July. Interested in general non-invasive cards. Any advice from how to learn, study for boards, financial planning, or work life balance is appreciated!
+
+---
+## Comments
+1. u/slmrma [score=36, created=2025-04-24T09:06:43]: Just copying a response from another thread. First and foremost, the cliche that to be a good cardiologist you need to be a good hospitalist/internist has proved itself true so many times. Good command of nephro/gastro/lung dsx is so important for your heart failure patients. To get to your question, for general cardiology knowledge base - I'd get access to ACCSAP and Mayo ASAP. The cardiology literature is vast and updating quickly. Textbooks in today's cardiology, although good for forming a strong base, are just too much. Hence, condense ACCSAP and Mayo review courses have everything you need for now and 1-2 years within your cardiology fellowship. If you're an ANKI fan, there's a deck based on ACCSAP and Mayo (send an email to [salemsanki@gmail.com](mailto:salemsanki@gmail.com) "[ACCSAP DECK](https://ankicardio.substack.com/p/comprehensive-anki-deck-based-on?r=3ksag3&amp;utm_campaign=post&amp;utm_medium=web&amp;triedRedirect=true)") * for ECG you will probably need an extra source; O'Keefe ECG online course is what people usually recommend and assuming that you have your basics covered you should give it a go and solve as many cases as you can in the first few months of your fellowship. * echocardiography and cath lab; university of Toronto has a website that helps you better understand echo windows and having a basic understanding of what we're looking at from each window should be enough until you start your fellowship. Same goes for the Cath lab; Elias Hanna has a great youtube channel that takes you through the basics (again, you can dm me if you have trouble finding these). I believe these should take care of your cardiology needs for your time in residency. There's amazing resources waiting for you once you get to the fellowship. Good luck!
+2. u/KtoTheShow [score=12, created=2025-04-24T10:44:58]: This is a broad question. Here is general advice How to learn: attend your fellowship conferences and ask senior fellows/junior faculty (they tend to be 'board fresh') lots of questions Study for boards: Can get ACCSap and flip through questions on topics that come up Financial planning: Start investing if you haven't already. Brokerage account and dollar cost average in to S&amp;P 500. Work life balance: Don't compare yourself to other fellows. Compare yourself to where you were the year before.
+3. u/CCsoccer18 [score=12, created=2025-04-24T08:36:51]: Study for and pass your ABIM boards. There’s nothing worse than first year of fellowship with ABIM still hanging over your head
+4. u/Gideon511 [score=4, created=2025-04-24T09:53:11]: Another recommendation would be drugs for the heart if you have time to read it
+5. u/jiklkfd578 [score=5, created=2025-04-24T12:22:15]: You’ll turn out fine on the doctor stuff. Take care of your health. Don’t neglect sleep, exercise, mental health, relationships.
+6. u/Doomwarrior67 [score=1, created=2025-05-05T07:56:11]: Good luck

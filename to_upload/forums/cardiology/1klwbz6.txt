@@ -1,0 +1,18 @@
+Thread ID: 1klwbz6
+Subreddit: Cardiology
+Title: California fluoroscopy license/permit
+Author: caffeineismysavior
+Created UTC: 2025-05-13T13:22:10
+Score: 4
+Num Comments: 9
+URL: https://reddit.com/r/Cardiology/comments/1klwbz6/california_fluoroscopy_licensepermit/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1klwbz6/california_fluoroscopy_licensepermit/
+Collected: 2025-11-15T08:29:42.218866
+===============================================================================
+
+One of the hospitals I will be rounding told me that I need a fluoroscopy permit to perform TEE. Doesn't make sense since I will not be using fluoroscopy so I am inquiring more about their privilege criteria. I will be doing non-invasive cardiology. Anyhow, if I ultimately need to get this permit per the hospital's requirements, what recommendations do you have in terms of 1) how to study for the exam, 2) how long to expect before I get the actual permit, and 3) any temporary licenses for physicians I could use while waiting for the license?
+
+---
+## Comments
+1. u/KtoTheShow [score=3, created=2025-05-13T20:25:46]: This seems like a legitimate misunderstanding. I would go "up the chain" and have them clarify why fluoroscopy is needed for TEE (obviously it's not). Perhaps there is a non invasive cardiologist who does structural work in the cath lab and they are assuming everyone in the cath lab uses fluoroscopy? Regardless, the test itself is painful. There is an old PDF on the CA public health website that is the main review source. There are some flash cards online if you google as well. Good luck
+2. u/redicalschool [score=6, created=2025-05-13T15:29:04]: I have no insight into this, but sounds like typical California red tape garbage. There HAS to be someone in admin at your hospital that could get around this...right? Right? Holy shit, we are truly beyond the point of no return when it comes to being told what to do by people who know nothing about what we do.

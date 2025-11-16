@@ -1,0 +1,17 @@
+Thread ID: 1owigxc
+Subreddit: askCardiology
+Title: When is medication necessary for PAT's?
+Author: Haunting-Way-00
+Created UTC: 2025-11-13T17:53:41
+Score: 1
+Num Comments: 4
+URL: https://reddit.com/r/askCardiology/comments/1owigxc/when_is_medication_necessary_for_pats/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1owigxc/when_is_medication_necessary_for_pats/
+Collected: 2025-11-15T08:38:10.568420
+===============================================================================
+
+My holter results came back and said I had 2 episodes of PAT's in a 9 day period. Longest was 13 beats, 155-180bpm. It was reported that I was asymptomatic so I'm guessing I didn't hit the button during this time. Wondering if this is a cause for concern?
+
+---
+## Comments
+1. u/PetroVenus [score=3, created=2025-11-13T19:34:48]: Often don’t need medication unless episodes become frequent, sustained, or cause symptoms, your doctor can confirm based on your overall risk.

@@ -1,0 +1,25 @@
+Thread ID: 1o6fiv3
+Subreddit: Cardiology
+Title: Number of stents
+Author: RedFormanEMS
+Created UTC: 2025-10-14T06:28:34
+Score: 23
+Num Comments: 17
+URL: https://reddit.com/r/Cardiology/comments/1o6fiv3/number_of_stents/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1o6fiv3/number_of_stents/
+Collected: 2025-11-15T08:26:55.700520
+===============================================================================
+
+This question was Mod approved. I work as a nurse on a cardiac unit. We have outside cardiologists who also have privileges at our hospital. One of them does a lot of stents. Our hospital cardiologists and their APRNs talk shit about him quite frequently because of how many stents he puts in his patients. So I asked them one day, "How many is the cut off and they need to get a CABG?". They couldn't give me an answer. This cardiologist is always very polite to us, very professional, and his patients love him. Is there an industry standard for the number of stents? How many is too many?
+
+---
+## Comments
+1. u/TheyCallMeDaHamma [score=58, created=2025-10-14T06:41:53]: IC here. The answer to your question is not a straightforward number. The consideration has more to do with patients comorbidities, where the stents are, and patient selection and preference. The data of CABG versus stents is complicated. Despite guideline recommendations, some patients just don't want surgery. However, if you work in a fee for service model hospital, inevitably the physicians may decide to lean toward PCI in cases where it does not appear to be malpractice to place a stent or to decline to get a heart tema/surgery consult. Physician ethics are not universal. Rude doctors get sued, not incompetent ones.
+2. u/Typical-Eye-8017 [score=15, created=2025-10-14T08:34:33]: Cath lab nurse here. One of our frequents has 67 stents. Not saying thats the correct treatment. Also take into consideration CTS needs targets for their grafts and patient has to be a suitable candidate for cabg. If the vessel is stented where they like to tie in their graft, then theres not much they can do to bypass.
+3. u/T-WrecksArms [score=8, created=2025-10-14T07:00:54]: I have seen 12+ in a complex patient before with well-supporting documentation in the EMR. The IC docs I’ve known always said everyone is different and there is no singular upper limit. I have also seen stent in stent in a graft as well.
+4. u/ranuvin [score=5, created=2025-10-14T15:09:35]: You might be interested to read about the SYNTAX score.
+5. u/Gideon511 [score=4, created=2025-10-14T07:17:37]: Shorter blockages are easier fixed with stents, very long blockages and multiple blockages may be better fixed with surgery, it truly depends on the location and the quality of the blockages, there are clear cut cases where one strategy would be favored over another and there are also grey areas. A heart team discussion if unclear with a CT surgeon, IC, and disinterested general cardiology may help make unbiased decisions. Patient preferences, ability to rehab also matters. Many patients are scared of bypass surgery and would rather be stented if at all possible.
+6. u/dayinthewarmsun [score=5, created=2025-10-14T22:58:54]: Also worth keeping in mind that, for stents, there is a big difference between placing 7 at once and placing 7 over 20 years. If someone presents with an LAD STEMI, that may take a couple of stents to fix. If they have severe circumflex and RCA lesions, they may get a stent in each of those shortly after the LAD stent. It’s very possible that, over the years, the patient could come back to the lab a few times and have 9th one lesions to fix each time…overall, 7 stents, but surgery (in this case) would not have been appropriate at any point along the way. If the same patient came in except that the LAD was not thrombosed, but just a severe stenosis (not a STEMI), CABG would likely have been the best choice (and subsequent stents may have been avoided).
+7. u/ErlingHaHaland [score=4, created=2025-10-14T08:28:33]: MS3 interested in cardiology so my experience is zilch in comparison to everyone here, but the way I was taught is it’s not so much about the number of stents but about the number of arteries blocked. If &gt;=3 then ask for a CT surgery consult, and if CT surgery declines CABG candidacy, then you proceed with whatever management needed (including number of stents needed to salvage arterial supply). Correct me if I’m wrong please, would love to continue learning.
+8. u/[deleted] [score=2, created=2025-10-14T19:16:10]: [deleted]
+9. u/cardsguy2018 [score=1, created=2025-10-15T08:06:40]: To answer the question you want to ask, yeah this guy sounds suspect.

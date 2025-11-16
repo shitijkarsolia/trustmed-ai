@@ -1,0 +1,26 @@
+Thread ID: 1iaf9bi
+Subreddit: Cardiology
+Title: Foundational trials for EP
+Author: [deleted]
+Created UTC: 2025-01-26T07:01:37
+Score: 40
+Num Comments: 24
+URL: https://reddit.com/r/Cardiology/comments/1iaf9bi/foundational_trials_for_ep/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1iaf9bi/foundational_trials_for_ep/
+Collected: 2025-11-15T08:31:41.718442
+===============================================================================
+
+Hey guys on my EP rotation and would like to see what recs everyone has for foundational trials for the field. My attendings also always pimp me on the trials and I've been caught saying "uhh idk" way too many times. I know the OPTION TRIAL (okay just kidding, calm down John Mandrola) So far I got MUSTT, MADIT-I, MADIT-II, MADIT-CRT, SCD-HeFT, Castle-AF. Anything else? New-ish trials are okay but mainly looking for older more established trials that are considered to be dogma for the EP field. Thank you everyone!
+
+---
+## Comments
+1. u/shahtavacko [score=24, created=2025-01-26T07:25:43]: CAST and the misinterpretation (and what could be thought of as mis-extrapolation) of CAST that is so rampant in the world of cardiology that is now even mistakenly part of the guidelines (hopefully to be addressed in the near future). Briefly, what I mean is that CAST studied patients post-MI, in one sense it has nothing to do with CAD and especially stable CAD. Yet, you are not "supposed to" use flecainide or propafenone in patients with CAD; based on what? There are now studies that show this is incorrect and when you consider how safe these drugs are and how problematic the alternatives are, how potentially detrimental this inappropriate extrapolation can be (also think beta blockers in CAD, haphazard use of beta blockers for hypertension, aspirin without a clear reason, beta blockers for diastolic CHF, etc.), you realize why inappropriate extrapolation is dangerous.
+2. u/ConnerVetro [score=10, created=2025-01-26T07:07:06]: Block-HF
+3. u/Novel_Chip9652 [score=8, created=2025-01-26T07:28:35]: Understand the progression of the primary prevention ICD trials you included above. You will be pimped on this and it will be impressive if you know them
+4. u/ConnerVetro [score=6, created=2025-01-26T09:22:40]: East AF net.
+5. u/astrofuzzics [score=6, created=2025-01-26T10:23:24]: Keep in mind the vast majority of this data, especially the data studying EP interventions in HFrEF, was acquired prior to the use of sacubitril/valsartan and SGLT2 inhibitors as part of standard GDMT. I have no doubt that there is still a population of patients with HFrEF that benefits from primary prevention ICDs and all sorts of ablations, but that population is going to shrink with time as medical therapy gets better - just wait until we see what the GLP-1s do for these patients. More on topic to your question, though: you can check out Wiki Journal Club for some nice summaries of high-yield trials.
+6. u/PNW-heart-dad-5678 [score=5, created=2025-01-26T08:48:31]: Few negative trials worth mentioning, VEST, CABG PATCH, and DANISH
+7. u/Austros_QRS [score=3, created=2025-01-26T08:05:22]: Hey! I like the EP too, I would like to be able to go deeper into the topic, so I will take notes from those mentioned here. I am in my last year of my residence and I would like to have a good experience in a hospital with EP, the truth is I don't know how many good options there are for a 2-month fellowship before finishing my residence. I remembered this ones: AFFIRM RAISE PARTNER CABANA
+8. u/[deleted] [score=3, created=2025-01-26T11:21:41]: Chat gpt is really good at summarizing in a timeline the major trials of specific topics
+9. u/pharmladynerd [score=3, created=2025-01-26T17:02:42]: Can't forget BRUISE CONTROL and BRUISE CONTROL 2 - to bridge or not to bridge prior to device insertion?
+10. u/Icy-Watercress-7403 [score=1, created=2025-01-27T03:46:09]: Yes

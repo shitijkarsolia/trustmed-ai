@@ -1,0 +1,18 @@
+Thread ID: 1oxasur
+Subreddit: askCardiology
+Title: Ramipril did not improve EF
+Author: skinny123456789
+Created UTC: 2025-11-14T15:35:20
+Score: 1
+Num Comments: 10
+URL: https://reddit.com/r/askCardiology/comments/1oxasur/ramipril_did_not_improve_ef/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1oxasur/ramipril_did_not_improve_ef/
+Collected: 2025-11-15T08:37:38.217136
+===============================================================================
+
+(No selftext provided.)
+
+---
+## Comments
+1. u/PetroVenus [score=2, created=2025-11-14T15:48:01]: An improved EF would not have confirmed the diagnosis. The situation is complex and the medication's lack of effect does not rule DCM in or out.
+2. u/LeadTheWayOMI [score=1, created=2025-11-14T17:18:26]: An ejection fraction around 45% with a clean cardiac MRI (no scar) can still be either physiologic athletic remodeling or early/non-scar dilated cardiomyopathy. A rise in EF after an ACE inhibitor would not, by itself, prove you “had DCM”; EF is load-dependent and varies with hydration, heart rate, blood pressure, and training status. Did you get your ejection fraction done by a echocardiogram or cardiac MRI?

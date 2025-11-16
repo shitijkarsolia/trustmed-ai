@@ -1,0 +1,17 @@
+Thread ID: 1owokdh
+Subreddit: askCardiology
+Title: What is this?
+Author: Take_Me_To_Eden
+Created UTC: 2025-11-13T22:53:52
+Score: 4
+Num Comments: 2
+URL: https://reddit.com/r/askCardiology/comments/1owokdh/what_is_this/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1owokdh/what_is_this/
+Collected: 2025-11-15T08:37:48.192551
+===============================================================================
+
+(No selftext provided.)
+
+---
+## Comments
+1. u/Wrong-Increase-6127 [score=-1, created=2025-11-14T10:25:15]: It’s a 30-second ECG recording from your smartwatch that came back “inconclusive” because it picked up **ectopic beats** — extra or early heartbeats. The tracing shows a mostly normal pattern with some beats coming sooner than they should, which matches that. Your average heart rate during this recording is 112 bpm, which is on the higher side but, on its own, doesn’t prove anything serious. This strip does **not** diagnose AFib, VT, or any specific heart disease; it just shows that your rhythm was a bit irregular at that moment. A proper interpretation and any real conclusion need to come from a doctor looking at the ECG in context with your symptoms and history.

@@ -1,0 +1,18 @@
+Thread ID: 1owi6am
+Subreddit: diabetes
+Title: Need help comparing two pumps
+Author: dozen_gardens
+Created UTC: 2025-11-13T17:39:55
+Score: 1
+Num Comments: 4
+URL: https://reddit.com/r/diabetes/comments/1owi6am/need_help_comparing_two_pumps/
+Canonical URL: https://reddit.com/r/diabetes/comments/1owi6am/need_help_comparing_two_pumps/
+Collected: 2025-11-15T02:16:32.326085
+===============================================================================
+
+Im a t1d and I’m going to have to upgrade my insulin pump before I go to college. I’ve had t1d since I was 4 and I’ve had my current insulin pump for 6 years, a tandem t:slim. I’m either getting a new tandem pump or another one, and I’m heavily considering the Medtronic with their new libre 3 disguised under another name sensor. Does anyone have any experience or knowledge on BOTH to compare them? Or anything notable one does the other doesn’t and how it might be good/bad? Same with dexcom (what I use now) versus libre (what I’d have to use if I switched)? Edit: typo
+
+---
+## Comments
+1. u/Wcked_Production [score=1, created=2025-11-13T19:56:54]: Have you considered the Twiist? I know they'll support the Eversense 365 CGM implant soon and that sensor is probably better than all the other ones that have the filament that sticks inside you. I would consider that pump with the Eversense 365 since it's such a better CGM in my opinion.
+2. u/iaumpqc [score=1, created=2025-11-14T06:05:08]: I am not familiar with those but have to ask why not the Omnipod/G7?

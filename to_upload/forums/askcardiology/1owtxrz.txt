@@ -1,0 +1,17 @@
+Thread ID: 1owtxrz
+Subreddit: askCardiology
+Title: AVA index low
+Author: Most_Public2696
+Created UTC: 2025-11-14T04:24:36
+Score: 1
+Num Comments: 2
+URL: https://reddit.com/r/askCardiology/comments/1owtxrz/ava_index_low/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1owtxrz/ava_index_low/
+Collected: 2025-11-15T08:37:52.006389
+===============================================================================
+
+Late 30’s F. Recent echo for persistent low oxygen sats. Result summary indicated essentially normal study “Left ventricular size, systolic function is normal. LV ejection fraction is approximately 64% by Simpson's Method. No regional wall motion abnormality. Indeterminate diastolic function. RV size and function are normal. Both atria are normal. No hemodynamically significant abnormality detected. Aorta and IVC are normal. No previous study available for comparison.” However when looking at the listed measurements:values, it indicated AVA index of 0.63 cm2/m2 and AVA 1.43 cm2 which are significantly low and look like they would indicate severe stenosis? So I’m wondering if someone can help reassure me this isn’t the case if the summary said no stenosis? I’ve had a number of medical things get missed/errors happen in the past 2 years (including a leukemia diagnosis missed and a tumor misdiagnosed as a cyst 🙃) so I don’t trust things to not be missed. Wondering if I should be asking for a repeat or different echo? Would appreciate any insights. I am seeing a respirologist/pulmonologist in a few weeks but also wonder if I should see cardiology?
+
+---
+## Comments
+1. u/PetroVenus [score=2, created=2025-11-14T12:21:25]: Severe aortic stenosis is typically defined by an AVA of less than 1.0 cm², along with other echocardiographic measures like a peak velocity greater than 4 m/s or a mean pressure gradient greater than 40 mmHg. Your peak velocity is 1.84 m/s. Your mean pressure gradient is not listed, but based on your peak gradient of 14 mmHg, it is estimated to be low, likely around 8-10 mmHg. Both values are normal and do not indicate stenosis.

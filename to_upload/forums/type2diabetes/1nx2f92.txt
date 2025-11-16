@@ -1,0 +1,17 @@
+Thread ID: 1nx2f92
+Subreddit: type2diabetes
+Title: Newly diagnosed
+Author: Amigone2515
+Created UTC: 2025-10-03T08:34:17
+Score: 3
+Num Comments: 1
+URL: https://reddit.com/r/type2diabetes/comments/1nx2f92/newly_diagnosed/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1nx2f92/newly_diagnosed/
+Collected: 2025-11-15T08:15:21.323301
+===============================================================================
+
+Hi! I am newly diagnosed and waiting for insurance to kick in so I can use ozempic with the metformin. I have some knowledge because I'm a RN but I struggle with obesity, ADHD, and impulsivity especially around food. I see the word "spike" here a lot. How do you define a spike? In a non-diabetic, after eating, we expect BGL to be less than 11.1, what do we expect for a diabetic?
+
+---
+## Comments
+1. u/moronmonday526 [score=3, created=2025-10-04T10:28:13]: I try not to exceed 180 mg/dl after eating and aim to get back below 140 within an hour, two hours at most. I don't just look at the peak and recovery time, though. I also consider the slope. I think a sharp rise and fall are worse than a slow rise and fall, even if both episodes peak at the same value. I didn't realize how high steel-cut oats spiked my numbers until I started using a CGM. I avoided them for nine months before trying again. It turns out the blueberries I was adding made the meal far worse for me than just the oats themselves. Check out the charts comparing my typical performance after breakfast to days when I tried steel-cut oats by themselves, with a few blueberries, and with way too many blueberries. https://imgur.com/a/steel-cut-oats-vs-eggs-turkey-bacon-qTnTHmW

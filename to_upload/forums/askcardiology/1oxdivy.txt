@@ -1,0 +1,17 @@
+Thread ID: 1oxdivy
+Subreddit: askCardiology
+Title: SVT and future steps
+Author: quinntongs
+Created UTC: 2025-11-14T17:31:44
+Score: 1
+Num Comments: 1
+URL: https://reddit.com/r/askCardiology/comments/1oxdivy/svt_and_future_steps/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1oxdivy/svt_and_future_steps/
+Collected: 2025-11-15T08:37:36.291110
+===============================================================================
+
+I recently got diagnosed with SVT, unsure what exact type, after wearing a Zio patch for a few weeks. I feel as though it's gotten worse since the diagnosis, though I've been assured that I'm not at high risk for anything dangerous. I have a few hundred episodes a day, usually only lasting 10 to 30 seconds. The problem is that I can't get prescribed beta blockers because my resting heart rate is already pretty low – 35-45 bpm, I'm relatively active. I've noticed on my 'bad' days with high episode frequency, I get anxious which triggers more episodes, more anxiety, etc. I've fainted during an episode once, though I'm fairly confident this was a vasovagal response and not a sinus one since I felt onset of syncope symptoms and was able to avoid getting hurt. Is cardiac ablation my only option? Could this resolve on its own? The episodes have lasted a few months now, but it was so weird that it came out of nowhere. A little more context, I regularly see a cardiologist since I have a congenital heart defect (TGV, corrected at birth), but I've been told this issue is unrelated since I was totally healthy otherwise. Right before the SVT episodes started I had an echocardiogram, CT scan, MRI, and bloodwork done and everything was totally fine.
+
+---
+## Comments
+1. u/Initial-Net-7519 [score=3, created=2025-11-14T17:46:31]: It’s not likely to resolve on its own. If you can’t take medications, you can try figuring out what your triggers are and avoid them. If you’ve never had a sustained episode, I’m not sure ablation would even be an option, because it has to be sustained for so long in order to map and ablate — NAD, though. I can’t say with certainty that it wouldn’t be an option. What about anti-arrhythmics? They can affect your BP and HR, but not quite as much as beta blockers or calcium channel blockers.

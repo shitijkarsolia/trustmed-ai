@@ -1,0 +1,22 @@
+Thread ID: 1kc6ayg
+Subreddit: Cardiology
+Title: EP fellowship preparation
+Author: Austros_QRS
+Created UTC: 2025-05-01T04:23:13
+Score: 20
+Num Comments: 18
+URL: https://reddit.com/r/Cardiology/comments/1kc6ayg/ep_fellowship_preparation/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1kc6ayg/ep_fellowship_preparation/
+Collected: 2025-11-15T08:29:55.685392
+===============================================================================
+
+Hi everyone! I'm currently in my final year of cardiology residency and planning to pursue a career in electrophysiology. As part of my training, I’ll be spending two months in an EP unit in a huge hospital. To make the most of this opportunity, I'd like to arrive with a stronger foundation than what residency alone has provided. I’m looking for book or resource recommendations (textbooks, courses, podcasts, etc.) to help deepen my understanding of EP before I start. Note: I’m fluent in English, but Spanish is my native language. Thanks in advance for your help!
+
+---
+## Comments
+1. u/slmrma [score=10, created=2025-05-01T05:27:41]: 1. Joshua Cooper on YouTube 2. Boston Educare website, register as if you're from US and look for EP 101 video lecture package - there should be 2, try the one from 2023 (its free and perfect for entry level EP) edit: also look for any lecture by Samuel Asirvatham, theyre pure gold
+2. u/[deleted] [score=6, created=2025-05-01T05:11:57]: There are two easy to digest fundamental “handbooks” one by Murgatroyd. Another by Andrade. Good reads for first year EPs starting out Edit: sorry forgot to say these are a bit better for the EP lab. For clinical on the floor stuff I agree with others who mentioned EP SAP
+3. u/ConnerVetro [score=3, created=2025-05-01T05:40:26]: Reginald Ho book.
+4. u/rads2riches [score=5, created=2025-05-01T10:00:03]: 1. https://www.epfellowssummit.com/ 2. https://www.aphrs.org/attachments/Warren-Jackman-Art-of-War.pdf Free and awesome book on how Dr Jackman (one of the founders on modern EP) approaches EP. 3. Second the Josh Cooper YT training.
+5. u/Mitchthe2nd [score=2, created=2025-05-01T16:52:16]: Hi there This website has a full EP course. 140 lectures and quizzes. Can provide to you for free if you DM me. Normally $3k. https://cardiacphysinpractice.com/ep-in-practice/
+6. u/Gideon511 [score=2, created=2025-05-01T05:27:01]: I recommend going to cardiotext.com and browsing the EP section, there are a ton of resources there. EP SAP is also a good resource, as are HRS board reviews.

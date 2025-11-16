@@ -1,0 +1,21 @@
+Thread ID: 1o7xb3a
+Subreddit: type2diabetes
+Title: Blood sugar lower after eating?
+Author: Ok-Constant7291
+Created UTC: 2025-10-15T21:53:11
+Score: 7
+Num Comments: 8
+URL: https://reddit.com/r/type2diabetes/comments/1o7xb3a/blood_sugar_lower_after_eating/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1o7xb3a/blood_sugar_lower_after_eating/
+Collected: 2025-11-15T08:13:55.992904
+===============================================================================
+
+Hi all! I am fairly new to this, got my diagnosis just last month on the 10th or 11th. I started checking my blood sugar every morning when I woke up, changed my diet, am on metformin 1000 mg a day, and just took my third dose of mounjaro 2.5 this morning. I haven’t been checking my blood sugar levels during the night very often, but decided I should do so tonight. I ended up with my lowest level I’ve ever seen, which was 104. This was about 2-3 hours after dinner and I had a few bites of ribs probably an hour before this as well. My blood sugar levels in the morning (so fasting levels) have been in the 118-130 range for the last 10 days or so. When I was diagnosed, I had been in the 170s. I am just wondering if it’s normal to see a lower number at night even after eating? I am super happy to see 104 since it’s by far the lowest I have seen, but was just incredibly surprised and expecting it to be much higher. Thanks for any thoughts or comments helping a newbie out!
+
+---
+## Comments
+1. u/Snoozinsioux [score=3, created=2025-10-18T14:27:26]: You should be testing 2 hours after the first bite of food.
+2. u/Infinite-Lychee-182 [score=2, created=2025-10-17T21:41:39]: Check with your insurance company and see if they'll cover continuous glucose monitors. If they don't, maybe pick one up anyway. I think they're like $30 and last 15 days. It is fascinating! Oh, look up the Dawn Effect.
+3. u/alan_s [score=3, created=2025-10-16T14:47:53]: &gt; I ended up with my lowest level I’ve ever seen, which was 104. This was about 2-3 hours after dinner You are missing your peak. Test a bit earlier at 60 to 90 minutes after eating: [When To Test](http://loraldiabetes.blogspot.com/2006/11/when-to-test-one-hour-or-two-hour.html)
+4. u/slowcarbmornings [score=3, created=2025-10-16T00:40:34]: yeah that’s actually pretty common. your body can process food differently in the evening, plus metformin and mounjaro can both flatten your spikes a bit. mornings tend to be higher ‘cause of that liver glucose dump thing.
+5. u/anonymiam [score=3, created=2025-10-15T22:05:01]: Yeh it is! Or more accurately it's normal to have a higher fasting level in the morning than what your level was before bed... it's called the dawn effect and as I understand around 4 in the morning or something your liver will start to release glucose into the blood... it's normal but with folks like us initially it can be a little more than you need! Metformin helps control that and of course all the changes you make going forward will also improve that.

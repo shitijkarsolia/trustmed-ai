@@ -1,0 +1,24 @@
+Thread ID: 1n3pvyu
+Subreddit: Cardiology
+Title: Resources for determining surgical risk for procedure/surgery for pre-op evaluation
+Author: Accomplished-Push-14
+Created UTC: 2025-08-29T19:07:43
+Score: 13
+Num Comments: 15
+URL: https://reddit.com/r/Cardiology/comments/1n3pvyu/resources_for_determining_surgical_risk_for/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1n3pvyu/resources_for_determining_surgical_risk_for/
+Collected: 2025-11-15T08:28:04.401240
+===============================================================================
+
+Anyone have a good resource that helps you determine how risky a surgery is when you are optimizing a patient for pre-op? I use the UCLA risk stratification website, but it is not comprehensive. For instance, I don't know what the surgical risk is for a laser or shockwave lithotripsy for kidney stone removal - it's definitely not high, but is it low or intermediate? Another question - Not relevant to this but what is the difference between LAFB and left axis deviation?
+
+---
+## Comments
+1. u/HellHathNoFury18 [score=13, created=2025-08-29T19:24:51]: Run an NSQIP.
+2. u/Ambitious-Problem-24 [score=5, created=2025-08-29T20:10:00]: The answer to your second question is a square is a rectangle but a rectangle is not a square. LAFb is a differential but other things can shift your vector
+3. u/dayinthewarmsun [score=2, created=2025-08-30T01:04:54]: In general, if you are using a tool, [I would stick to one of the ones listed in table 4 here](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001285#sec-6). If you are accepting liability (which is often part of the reason for pre-op visits) and are using a tool, you should use one that is validated and widely accepted. I like the NSQIP tools. The bigger ACS one is more nuanced. For procedures that are not listed, the older and simpler Gupta tool is still useful IMO. You can just select "urology" for the procedures that you describe.
+4. u/BibliotecarioDeBabel [score=2, created=2025-08-30T10:24:59]: The only low risk surgeries that typically obviate any form of cardiac risk stratification or those that involve the tegmentum or eyes (e.g. LASIK, Skin surgeries, cataract removal). Most surgeries above that are typically considered intermediate risk or above (at least from my institutional practice). With that being said, I am very careful in my language with documentation and provide only risk stratification (acceptable or not). I never ever document that someone is "cleared" for surgery.
+5. u/theguywearingpants [score=2, created=2025-08-30T12:37:36]: I just don’t understand why roping in a cardiologist and making them liable as well is helpful. Anesthesia does this job. I’ve never seen them ask pulm or nephro.
+6. u/Comfortable_Bank9644 [score=2, created=2025-08-30T17:26:12]: ACC/AHA preop guidelines are a good place to start. Uptodate also has a summary table of surgical risk by procedure. ESC/ESA guidelines have a chart that’s slightly more granular than UCLA’s tool. Lithotripsy falls into the low-risk bucket from what I can see. LAFB = block of the anterior fascicle, LAD = the ECG axis deviation that can be due to LAFB but also LVH, inferior MI, etc.
+7. u/Feverdreams6616 [score=2, created=2025-08-31T17:36:33]: Guide to Preoperative Evaluation https://share.google/SkUgxEuWmhX0pXAol
+8. u/Guidewire_ [score=2, created=2025-09-02T23:04:20]: Use whatever, it’s a complete waste of time and nonsense. Grandma has a hip fracture, unless she has ACS/Overt CHF/Arrythmia uncontrolled she and everyone else under the sun can go on to get surgery, anyone including AI can plug and play into NSQIP/Gupta/RCRI/Woo perioperative calculators to let the patient and whoever else wants to know if it’s low high or medium risk.

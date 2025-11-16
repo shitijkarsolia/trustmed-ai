@@ -1,0 +1,22 @@
+Thread ID: 1ioq6qy
+Subreddit: Cardiology
+Title: Question on the use of TEE to exclude clot prior to rhythm control.
+Author: Foreign-Road4355
+Created UTC: 2025-02-13T11:42:55
+Score: 21
+Num Comments: 26
+URL: https://reddit.com/r/Cardiology/comments/1ioq6qy/question_on_the_use_of_tee_to_exclude_clot_prior/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1ioq6qy/question_on_the_use_of_tee_to_exclude_clot_prior/
+Collected: 2025-11-15T08:31:25.345802
+===============================================================================
+
+Hello, As I understand it is mandatory that in a patient in A-Fib longer than 48 hours or for an unknown amount of time must receive either 3 weeks of anticoagulation or TEE can be performed to rule out formation of clot in areas such as the left atrial appendage prior to rhythm control. My question is as follows: Is there ever a situation in which a patient may be too high of a clot risk for TEE to effectively rule out clot burden and if so what are the parameters for this? Thank you. -Physician Assistant Student
+
+---
+## Comments
+1. u/ConnerVetro [score=36, created=2025-02-13T11:50:06]: This will be clearer after you’ve see some TEE images with and without clot. Patients may be a very high risk of a clot, but this is just a risk of a potential clot. TEE is used to visualize where a clot would be, if at all. If it’s not there, then they don’t have a clot. Then there is virtually no risk in cardioversion.
+2. u/redicalschool [score=26, created=2025-02-13T12:13:23]: One thing I learned early in fellowship was how unpredictable LAA thrombus formation really is. Tons of people I would expect to have thrombus had none and were safely cardioverted. A handful of patients I have had, I thought "there's no shot we will find anything, maybe they don't even need a TEE" because they had just missed a couple non-contiguous doses of DOAC or had one single subtherapeutic INR or were just in plain old atrial tachycardia...and boom, thrombus.
+3. u/Foreign-Road4355 [score=10, created=2025-02-13T12:15:08]: But generally you would also feel that if TEE is clear I'm safe to control rhythm?
+4. u/confoundedarab [score=6, created=2025-02-13T21:37:43]: Just a reminder that CT heart can also be used to exclude LAA thrombus and is a wonderful option especially for your higher risk patients that you’d rather not sedate to put a probe down.
+5. u/astrofuzzics [score=5, created=2025-02-15T21:55:03]: A couple comments on CT being used to rule out LAA thrombus. Yes, it’s quite good, but please keep in mind the technique with which the CT was acquired is very important. You can’t just take any CTA chest to look at the appendage. Contrast timing is important. Gating of acquisition (synchronization of image capture with the ECG to mitigate motion/step artifact) is important. Some patients with atrial fibrillation have poor left atrial contractility, resulting in slow opacification of the left atrial appendage. As a result, the contrast may “swirl” in the appendage or incompletely fill it, which can produce a filling defect that looks like a clot. A good technologist/physician team must recognize this when it occurs and, if needed, wait another 90 seconds or so for the contrast to circulate + distribute, then acquire another set of images to see if a filling defect persists in the appendage. As a corollary, poor atrial contractility can also affect the appearance of the appendage on TEE. There maybe “smoke” (spontaneous echo contrast) or “sludge” (amorphous gelatinous-appearing material suggestive of incomplete clot formation but not definitive for organized thrombus). Sometimes it’s necessary to administer something like isoproterenol to stimulate atrial contractility a little bit, to see if the smoke/sludge disappears or not. Sometimes intravenous definity contrast is necessary to see if there is a filling defect in the appendage. It can get to be a bit subjective, it’s not always “big clot” or “totally clear.”
+6. u/nalsnals [score=3, created=2025-02-13T23:22:14]: +1 on this - ECG gated cardiac CT can rule out thrombus in all cardiac chambers.

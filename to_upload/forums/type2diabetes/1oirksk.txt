@@ -1,0 +1,21 @@
+Thread ID: 1oirksk
+Subreddit: type2diabetes
+Title: What inspires you?
+Author: davebrutusbrown
+Created UTC: 2025-10-28T18:22:43
+Score: 4
+Num Comments: 15
+URL: https://reddit.com/r/type2diabetes/comments/1oirksk/what_inspires_you/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1oirksk/what_inspires_you/
+Collected: 2025-11-15T08:12:52.786671
+===============================================================================
+
+Hey all, there are countless apps for calorie counting and tracking exercise. Dexcom and Abbott are also adding features in their companion apps that go beyond just tracking blood sugar. Have any of you found a “magic metric” or combination of metrics that help motivate you to keep up the daily battle?
+
+---
+## Comments
+1. u/ioannisthemistocles [score=2, created=2025-10-29T21:54:39]: The magic metric for me was watching the spikes on my new cgm. That was enough of a scare to keep me carb free. Now its watching the improvement in my glucose.
+2. u/Professional_Tip_867 [score=2, created=2025-10-29T13:02:50]: I don’t count calories and I don’t track exercise. I count carbs. that’s all.if you get your carbs in line, your weight will fall in line. if you are active that day, you can have 5-30 more carbs than usual…. if you are not, don’t have the extra carbs. test.
+3. u/JEngErik [score=3, created=2025-10-29T05:41:30]: My CGM, looking great and feeling as healthy as I did in my 20s. Every day is a blessing
+4. u/deacc [score=3, created=2025-10-29T03:48:17]: Having my BG at a level I like when I do my tests daily is all I need.
+5. u/Frosty-Prune-206 [score=2, created=2025-10-28T21:52:58]: Currently pretty jazzed about having a step counter widget on my phone’s lock screen so I am always thinking about whether I’ve hit my step goal yet. It’s been shockingly effective at getting me to do it (and often exceed by quite a bit). I feel way better in every conceivable way when I walk a lot, and my BG is better of course. My glucose meter uses the mySugr app, and I like the DMI feature in it that (allegedly) equates roughly to A1C. I just switched to it recently due to a change in insurance coverage so I’m curious to see whether its DMI calculation actually matches my next A1C in January. Regardless, it’s motivating to see a good number. I have also been tracking my food on and off in the LoseIt app since like 2021, well before I was diagnosed (2024), and that is sommmmmetimes motivating and sometimes tedious (currently tedious lol).

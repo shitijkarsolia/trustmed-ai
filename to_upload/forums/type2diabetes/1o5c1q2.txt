@@ -1,0 +1,20 @@
+Thread ID: 1o5c1q2
+Subreddit: type2diabetes
+Title: CGM recommendations
+Author: angeleyes0410
+Created UTC: 2025-10-12T23:16:36
+Score: 5
+Num Comments: 6
+URL: https://reddit.com/r/type2diabetes/comments/1o5c1q2/cgm_recommendations/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1o5c1q2/cgm_recommendations/
+Collected: 2025-11-15T08:14:22.543756
+===============================================================================
+
+I have Type 2 diabetes (of course) and its been controlled with Ozempic so far (A1c started at 13.2 and is now down to just under 7.0). However I'm having surgery next week so my husband and I can try for a baby, and I'll be starting insulin because you cant be on Ozempic and be/get pregnant. Im awful with doing the finger sticks. My fingers bruise so easily, and I frequently forgot to do them. So I want to get a real time CGM. I'm looking for recommendations on which ones work best. I dont think my insurance will pay so I'll have to pay out of pocket. If I'm going to get one I want to make sure its great. Or at bare minimum barely any issues. Thank you in advance.
+
+---
+## Comments
+1. u/moronmonday526 [score=1, created=2025-10-13T07:41:49]: Your expectations may need adjusting if you're looking for a CGM that has "barely any issues" at a bare minimum. As the saying goes, "No one goes online to say everything is perfect." That is very true in the world of CGMs. That said, congratulations on the progress you've made so far. My A1c dropped from 13.4 to 7.3 on 2,000 mg/day of Metformin. I got it down to 6.8 after consulting with a nutritionist. Once I started using a CGM, I was able to get off my meds and drop my A1c down to 5.8. Has it been perfect? Of course not. Has it changed my life for the better? Absolutely. I calibrate my G7 with one fingerstick 12 hours after installation, or once every 10 days. Oh, and the Stelo is not for you once you start taking insulin. It is for non-insulin-dependent diabetics.
+2. u/starzela [score=2, created=2025-10-13T03:25:37]: If you start taking insulin, it will increase the odds of your insurance covering a CGM. I was actually surprised that mine covered mine without being on insulin, so it’s worth a try either way. Edit: You also can a free trial of Dexcom G7 and the Freestyle Libre, but you will need a prescription.
+3. u/Zeus783 [score=1, created=2025-10-13T00:30:47]: If you're in the States get the Stelo as it should be the cheapest... It should be enough for your short time need (it's very basic and doesn't have alarms).
+4. u/Still-Bee3805 [score=1, created=2025-10-12T23:31:08]: They all work the same.

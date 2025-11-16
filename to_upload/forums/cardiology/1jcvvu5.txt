@@ -1,0 +1,24 @@
+Thread ID: 1jcvvu5
+Subreddit: Cardiology
+Title: ESC 2024 CCS Guidelines: Is Invasive Coronary Angiography Ever a First-Line Test?
+Author: nofireanymore
+Created UTC: 2025-03-16T14:12:25
+Score: 38
+Num Comments: 16
+URL: https://reddit.com/r/Cardiology/comments/1jcvvu5/esc_2024_ccs_guidelines_is_invasive_coronary/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1jcvvu5/esc_2024_ccs_guidelines_is_invasive_coronary/
+Collected: 2025-11-15T08:30:50.690985
+===============================================================================
+
+The ESC 2024 CCS guidelines for calculating the pre-test likelihood of CAD only classify patients as Very Low, Low, or Moderate. There is no scenario where the likelihood is categorized as High (&gt;50–85%) or Very High (&gt;85%). Does this mean that, regardless of the patient's condition, invasive coronary angiography is never the first-line test and must always be preceded by non-invasive testing? And if that is tha case, why would the guidelines include specific thresholds like 50% and 85% if there's no algorithm that actually leads to those results?
+
+---
+## Comments
+1. u/Oxford___comma [score=13, created=2025-03-16T18:15:37]: Yes, the way I think about it: after you create a clinical likelihood score using symptoms and risk factors, it gets augmented using additional clinical factors (eg cardiomyopathy), which can then give you high or very high likelihood of obstructive CAD. Some people will use the formal scoring system but my guess is most will still mostly go off of gestalt of low/medium/high risk of obstructive CAD based on symptoms and clinical risk factors, where high risk patients typically are sent for ICA. Another way to think about it: if somebody is high enough risk that you would have doubts about whether a negative noninvasive test represents the truth, they should go for invasive angiography. Disclaimer: haven't read the ESC guidelines other than looking at your attached figure.
+2. u/dayinthewarmsun [score=13, created=2025-03-17T02:19:49]: This is where guidelines become unhelpful. This looks like the Frankenstein's monster of bottom line results from clinical studies. Written by (and for) people that don't really understand what it's like to practice clinical cardiology. Although I generally find clinical guidelines useful (I know some don't think they should have recommendations at all) this is a bridge too far. It is valid for guidelines to discuss symptom evaluation and even to present scoring systems to assess those symptoms. It is valid to discuss different types of testing to reevaluate risk or to diagnose CAD. However, to imply that these concepts can be distilled to an extremely simple (and definitive) algorithm like this is just wrong. It's misleading.
+3. u/Ok_Atmosphere0909 [score=3, created=2025-03-16T15:24:49]: Remindme! 2 days
+4. u/Ornery_Jell0 [score=3, created=2025-03-16T19:03:30]: I haven’t read this document but just by looking at the figures I would guess you are slightly misinterpreting. Figure 5 refers to pretest assessment but THEN you have to also factor in ECG, EF, arrhythmia, CAC, etc listed in #2. This somehow gives you a “risk factor weighted” percent for Figure 6. So conceivably - adding in additional clinical factors can increase this to high or very high risk.
+5. u/jiklkfd578 [score=2, created=2025-03-16T18:03:15]: Not sure. Little too complicated for me. But obviously in the real world straight to cath happens all the time.. but this is also someone who thinks functional imaging (spect especially) is mostly dumb/pointless, especially if you have a decent pretest probability, though even then I would prefer ccta over stressing .
+6. u/PNW-heart-dad-5678 [score=2, created=2025-03-16T21:45:06]: There is some historical context that one should consider. If you go back to the original Diamond-Forrester clinical likelihood paper (NEJM ‘79?) at a time when the prevalence of obstructive CAD in the population was much greater - there were people who often fell into the PTP of &gt;85%. Nowadays that prevalence is much much lower and alternative causes of “angina” are more likely. Also this is for people with “stable angina” those with symptoms lasting for a few months. Patients with acute onset of typical angina consistent with “unstable angina” aren’t included in this criteria therefore they can get cathed without noninvasive evaluation.
+7. u/Medic2Murse [score=1, created=2025-03-16T17:24:54]: Remindme! 2 days
+8. u/kttrphc [score=1, created=2025-03-16T18:01:35]: There are indications for invasive cag apart from pretest likelihood score. But as you said you cannot get to high or very high category without a calcium score.

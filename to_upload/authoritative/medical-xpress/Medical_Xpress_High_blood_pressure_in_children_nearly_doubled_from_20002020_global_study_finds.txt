@@ -1,0 +1,69 @@
+Title: High blood pressure in children nearly doubled from 2000–2020, global study finds
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-high-blood-pressure-children-global.html
+Canonical URL: https://medicalxpress.com/news/2025-11-high-blood-pressure-children-global.html
+Filename: Medical_Xpress_High_blood_pressure_in_children_nearly_doubled_from_20002020_global_study_finds.txt
+Collected: 2025-11-15T16:59:28.240153
+===============================================================================
+
+Title: High blood pressure in children nearly doubled from 2000–2020, global study finds
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-high-blood-pressure-children-global.html
+Collected: 2025-11-15T16:59:28.239993
+
+================================================================================
+
+High blood pressure in children nearly doubled from 2000–2020, global study finds
+
+edited bySadie Harley, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+The rate of children and adolescents experiencing high blood pressure worldwide nearly doubled between 2000 and 2020, according to a new meta-analysis published inThe Lancet Child & Adolescent Healthjournal.
+
+In 2000, approximately 3.2% ofchildrenhadhypertension, but by 2020, the prevalence had increased to more than 6.2% of children and adolescents under age 19, affecting 114 million young people around the world. The study suggests that obesity is a substantial driver of the increase in childhood hypertension, with nearly 19% of children and adolescents living with obesity affected by hypertension, compared to less than 3% in children and adolescents considered a healthy weight.
+
+"The nearly two-fold increase in childhood high blood pressure over 20 years should raise alarm bells for health care providers and caregivers," said study author Prof Igor Rudan, Director of the Center for Global Health Research at The Usher Institute, University of Edinburgh (UK).
+
+"But the good news is that we can take steps now, such as improving screening and prevention efforts, to help control high blood pressure in children and reduce the risks of additional health complications in the future."
+
+How blood pressure is measured matters
+
+Based on a meta-analysis of data from 96 large studies involving more than 443,000 children across 21 countries, the researchers found that how blood pressure is measured in children and adolescents can affect prevalence estimates. When hypertension is confirmed by a health care provider over at least three in-office visits, the prevalence was estimated to be approximately 4.3%.
+
+However, when the researchers also included out-of-office assessments such as ambulatory or home blood pressure monitoring, the prevalence of sustained hypertension climbed to about 6.7%.
+
+The research highlighted that conditions like masked hypertension—where hypertension is not detected during routine checkups—affect nearly 9.2% of children and adolescents globally, indicating potential underdiagnosis.
+
+Simultaneously, the prevalence of white-coat hypertension (a condition where a person's blood pressure is elevated only when they are in a medical setting, such as a doctor's office, but is normal at home or when measured with a home blood pressure monitor) was estimated at 5.2%, which suggests that a notable proportion of children might be misclassified.
+
+"Childhood high blood pressure is more common than previously thought, and relying solely on traditional in-office blood pressure readings likely underestimates the true prevalence or leads to misdiagnosis of hypertension in children and adolescents," said study author Dr. Peige Song, of the Zhejiang University School of Medicine (China).
+
+"Early detection and improved access to prevention and treatment options are more critical than ever to identify children experiencing or at-risk for hypertension. Addressing childhood hypertension is now vital to prevent future health complications as children transition to adulthood."
+
+Obesity and prehypertension trends in youth
+
+The analysis suggests that children and adolescents with obesity are at a nearly eight times higher risk of developinghigh blood pressure, with approximately 19% of children with obesity having hypertension, compared to 2.4% of children and adolescents considered to be within a healthy weight range. This happens because obesity can cause other health problems, such asinsulin resistanceand changes inblood vessels, which make it harder to keep blood pressure within a healthy range.
+
+The study also suggests that an additional 8.2% of children and adolescents have prehypertension, meaning blood pressure levels are higher than normal but do not yet meet the criteria for hypertension. Prehypertension is especially prevalent during adolescence, with rates reaching around 11.8% among teenagers, compared to about 7% in younger children.
+
+Blood pressure levels also tend to increase sharply during early adolescence, peaking around age 14, especially among boys. This pattern emphasizes the importance of regular blood pressure screening during these critical years. Children and adolescents with prehypertension are more likely to progress to full hypertension.
+
+Study limitations and future directions
+
+The authors acknowledge some limitations of the study, including data variability due to differences in measurement methods, study designs, and regional health care practices.
+
+Many of the articles included originated from low- andmiddle-income countries, which may influence the overall estimates' applicability globally. Additionally, some specific hypertension phenotypes and out-of-office assessments had limited data.
+
+Lastly, practical barriers such as lack of access to advanced blood pressure monitoring tools in some areas could hamper widespread adoption of recommended diagnostic procedures.
+
+Calls for global action and awareness
+
+Writing in a linked Comment, lead author Rahul Chanchlani of McMaster University (Canada), who was not involved in the study, said, "Harmonized diagnostic criteria, expanded out-of-office monitoring, and context-sensitive surveillance are essential next steps. Education of health care providers, families, and policymakers is also crucial.
+
+"The integration and implementation of childhood hypertension into broader non-communicable disease prevention strategies is a priority, recognizing that cardiovascular risk begins not in middle age, but in childhood. The task ahead is straightforward: to ensure that no child's elevated blood pressure goes undetected, unrecognized, or untreated."
+
+More information:Global prevalence of hypertension among children and adolescents aged 19 years or younger: an updated systematic review and meta-analysis,The Lancet Child & Adolescent Health(2025).DOI: 10.1016/S2352-4642(25)00281-0Rahul Chanchlani et al, Childhood hypertension: a growing global concern in need of harmonised solutions,The Lancet Child & Adolescent Health(2025). DOI: 10.1016/s2352-4642(25)00309-8
+
+Rahul Chanchlani et al, Childhood hypertension: a growing global concern in need of harmonised solutions,The Lancet Child & Adolescent Health(2025). DOI: 10.1016/s2352-4642(25)00309-8

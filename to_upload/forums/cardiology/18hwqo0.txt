@@ -1,0 +1,27 @@
+Thread ID: 18hwqo0
+Subreddit: Cardiology
+Title: Still combating advice posts.
+Author: Smilin-_-Joe
+Created UTC: 2023-12-13T18:16:06
+Score: 17
+Num Comments: 18
+URL: https://reddit.com/r/Cardiology/comments/18hwqo0/still_combating_advice_posts/
+Canonical URL: https://reddit.com/r/Cardiology/comments/18hwqo0/still_combating_advice_posts/
+Collected: 2025-11-15T08:26:05.699359
+===============================================================================
+
+The community continues to get inundated with requests for help/advice from lay people. I had recently added a message to new members about advice posts, but apparently one can post text posts without being a member. I've adjusted the community settings to be more restrictive,, but it may mean all text posts require mod approval. We can try to stay on top of that, but feel free to offer feedback or suggestions. Thanks again for all that yall do to keep the community a resource for professional discussion!
+
+---
+## Comments
+1. u/Smilin-_-Joe [score=1, created=2023-12-13T19:17:58]: From what I read there might be a "request to post" button/option. But it seems inconsistent on mobile and/or between different versions.
+2. u/[deleted] [score=5, created=2023-12-13T19:13:00]: [deleted]
+3. u/dayinthewarmsun [score=5, created=2024-01-18T01:17:43]: Sadly, it looks like r/Cardiology is on life support after these changes. No one is posting anymore!
+4. u/Smilin-_-Joe [score=5, created=2023-12-13T19:00:32]: Follow up to the rule change. It appears with current setting we'd have to whitelist approved posters. I haven't found a way yet to allow only community members to post, or to require mod approval for text or specific post types.
+5. u/cullywilliams [score=4, created=2023-12-14T07:43:35]: EKGs set the spam filter to block everything. Mod tools on mobile are better now and it's easy enough to approve good posts and kill bad ones. Even making approved users is easy now. That's about the only way to handle this. We get about 10/day that I'm deleting.
+6. u/N0RedDays [score=3, created=2023-12-13T18:49:10]: Thank you for all your hard work in keeping this a great community!
+7. u/Feynization [score=2, created=2023-12-13T18:43:45]: I support the suggestion that all post would require a moderator approval, at least for a month or two. People get involved in subs when there is a history of good content. That content is buried so far deep on this sub. Perhaps a future less burdensome way of managing the sub afterwards would be to require a certain number of comments/interaction before you can post.
+8. u/Smilin-_-Joe [score=2, created=2023-12-13T19:38:27]: For now I think we go with an approved poster list. Message mods for posting privileges.
+9. u/[deleted] [score=2, created=2024-03-29T06:41:39]: Why can't I post?
+10. u/bigmuffinluv [score=2, created=2024-04-16T16:18:59]: If only there were a general advice / discussion Reddit available for people to share their concerns and thoughts...
+11. u/g11ling [score=1, created=2023-12-16T08:12:37]: I read your policy. Maybe you can advice me where to ask my question. In short: I don't have cardiac difficulties so I can't ask my docter because I haven't got one. Is there a deffinative way to distinguish Tako tsubo syndrome from cardiomyopathy? Or is this diagnose (the cardiomyopathy) one of excluding all other possibilities? I'm a layman (and not a native speaker), so I know that I'm not the targeted audience here. Sorry, I'm a little desperate for information. I can provide some background to my question if needed.

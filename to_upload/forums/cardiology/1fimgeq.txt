@@ -1,0 +1,18 @@
+Thread ID: 1fimgeq
+Subreddit: Cardiology
+Title: What are the highest yield and best resources to study from? 
+Author: Smooth_Solution_9869
+Created UTC: 2024-09-16T18:41:49
+Score: 5
+Num Comments: 2
+URL: https://reddit.com/r/Cardiology/comments/1fimgeq/what_are_the_highest_yield_and_best_resources_to/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1fimgeq/what_are_the_highest_yield_and_best_resources_to/
+Collected: 2025-11-15T08:33:24.999591
+===============================================================================
+
+First year gen fellow with a little time on their hands
+
+---
+## Comments
+1. u/supercoolsmoth [score=6, created=2024-09-16T18:50:17]: Read the guidelines and when you want to understand something more, look up references they cite or look for reviews on the big journals (circ, jacc, NEJM, etc…). This will help you clinically and for boards in the future
+2. u/AdventureIsOutThere3 [score=5, created=2024-09-17T13:48:19]: Practical Cardiovascular Medicine by Elias Hanna is a really good book that provides a good foundation but not overly difficult to read. If your program has access to Mayo Clinic Board Review videos those would be a good resource as well as they do a good job incorporating guidelines which are important to know clinically and for boards.

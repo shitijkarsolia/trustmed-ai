@@ -1,0 +1,24 @@
+Thread ID: 1ou9b6z
+Subreddit: diabetes
+Title: Anyone have issues with the insulin not coming out of your insulin pen when using certain size pen needles?
+Author: SenileTomato
+Created UTC: 2025-11-11T06:22:16
+Score: 3
+Num Comments: 16
+URL: https://reddit.com/r/diabetes/comments/1ou9b6z/anyone_have_issues_with_the_insulin_not_coming/
+Canonical URL: https://reddit.com/r/diabetes/comments/1ou9b6z/anyone_have_issues_with_the_insulin_not_coming/
+Collected: 2025-11-15T02:17:31.492066
+===============================================================================
+
+I only use insulin pens as a backup currently, but I have noticed a tendency for the insulin to not come out of the pen, and with every pen. Therefore, I can only assume that it's due to the gauge of the pen needle. Has anyone else had this issue? What is everyone's go to for pen needles?
+
+---
+## Comments
+1. u/RandomThyme [score=7, created=2025-11-11T07:07:52]: Are you clearing the needle first? You should advance one or two clicks on your pen and depress the plunger to confirm the needle isn't occluded. When injecting make sure to stay perpendicular to the skin and go straight in and out to avoid bending the needle. I use the exact same gauge just a shorter version and don't really have any issues. Very occasionally there will be a manufacturing flaw but not that often.
+2. u/bryanindiana [score=3, created=2025-11-11T07:54:14]: Earlier this year I did encounter a box of defective BD pen needles (green label). Not every needle in the box was defective but it was a significant number. I believe that was before the ownership change. I contacted BD and they sent me something to give my local pharmacy so that I could be given a complementary box. You might want to reach out to the company if you notice more than a couple of defective needles. Most likely problem is silicone causing blockage. It is a known problem that can occur in bad batches of needles.
+3. u/orion2342 [score=3, created=2025-11-11T10:43:17]: Are you shooting a unit or 2 out before you inject? Important to watch the stream of liquid come out to verify this needle is good. And no, I prefer the 6mm so that larger doses of insulin doesn’t leak back out.
+4. u/Trc_Rhubarb [score=2, created=2025-11-11T07:26:02]: I find somewhere between 5-10% of my needles are bent or overly long and curled on the inner side. When I need one, I take 3 just in case. Worse since BD changed ownership. I use 4mmx32.
+5. u/Viperbunny [score=2, created=2025-11-11T06:27:23]: Are you accidentally bending the needle? I have 4mm and they sometimes bend. A few times, the metal part of the inside of the needle has gotten stuck and broken off in the pen.
+6. u/[deleted] [score=1, created=2025-11-11T06:41:31]: [deleted]
+7. u/OhSixTJ [score=1, created=2025-11-11T08:28:57]: Never. I use 31g 8mm relion from Walmart.
+8. u/AbleTime5905 [score=0, created=2025-11-11T07:49:53]: If you have struggle I advice going to 4mm depending on your morphology. I am very skinny so I use 4 and it helps a lot, you don’t have to pinch the skin when using 4mm Try it out

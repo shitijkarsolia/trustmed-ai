@@ -1,0 +1,28 @@
+Thread ID: 1idr0gr
+Subreddit: Cardiology
+Title: RN - is this SVT? If not, what is it?
+Author: bree272
+Created UTC: 2025-01-30T09:35:04
+Score: 21
+Num Comments: 37
+URL: https://reddit.com/r/Cardiology/comments/1idr0gr/rn_is_this_svt_if_not_what_is_it/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1idr0gr/rn_is_this_svt_if_not_what_is_it/
+Collected: 2025-11-15T08:31:35.195751
+===============================================================================
+
+I am an RN on a stepdown unit and am really trying to get a better understanding of EKGs/heart rhythms/telemetry strips. They really don’t teach much about interpreting EKGs and rhythms at all in school, just the bare minimum. To preface this, the pt was completely fine (vitals stable, asleep in bed). The monitor alerted for Vtach. It looks too narrow to me to be Vtach, but it’s also clearly not the pt’s baseline NSR (you can see their normal rhythm to the left and right of the four unusual beats). Is this SVT? That’s my best guess. But I thought SVT would be a longer run than just four beats. Is it possible to have such a short run of SVT? And if not, what are these four beats? Just a random run of sinus tachycardia? Finally, how can I learn more about this stuff as an RN? Does anyone have suggestions of classes or material for medical professionals? It would be immensely helpful and I really want to know more so I can be a better nurse for my patients but I don’t know where to start.
+
+---
+## Comments
+1. u/jchen14 [score=27, created=2025-01-30T10:31:36]: Looks like PAC after the last initial sinus impulse which triggers AVNRT as others have mentioned.
+2. u/brixlayer [score=16, created=2025-01-30T09:54:47]: Sorry at work and trying to type this. To answer more of your questions. Yes svt can be this short. All svt is a bunch of PACs in a row. A lot of times svt with have the same narrow qrs morphology. With this little burst of svt the BBB was still in a refractory period so the impulse had to take a “detour” that why you have the rbbb morphology with the svt.
+3. u/FLCardio [score=7, created=2025-01-30T16:36:03]: *sigh* “Just put in the consult, we will try and come see today”
+4. u/Gotterdammerung4 [score=3, created=2025-02-01T13:34:29]: It’s a salvo of PACs
+5. u/coffeemarkandinkblot [score=3, created=2025-02-04T09:53:16]: Im a cardiac monitor technician... This is NSR (borderline with Sinus tach, HR is 80-100 using 3 second marker multiplied by 20) with PSVT...(paroxysmal supraventricular tachycardia) and PVC. Paroxysmal means sudden start and sudden stop. Paroxysmal SVT because of the atrial rate. 1500 ÷ approx 9 = 166 BPM.
+6. u/FriendlyAd3972 [score=1, created=2025-01-31T09:35:05]: Short af
+7. u/iamyung [score=1, created=2025-02-01T22:44:07]: SVE multiplet with RBBB aberrancy
+8. u/R10L31 [score=1, created=2025-02-02T02:46:50]: See how the machine misinterpreted this as “V Tach”. The machines are improving but a well trained eye remains better. The only thing to add to other comments is the single VPB / ectopic seen just as sinus rhythm is reestablishing. ECGs are fun!
+9. u/brixlayer [score=1, created=2025-01-30T09:41:34]: Short answer. Yes
+10. u/2toneSound [score=-6, created=2025-01-30T09:52:30]: Small run (4beat) of A-tach
+11. u/Defiant_Ad_5505 [score=-17, created=2025-01-30T09:53:13]: It's a salvo of PVCs. There are arbitrary rules about what VT, non sustained VT and salvos are. You also have doubles, triplets ect. It's not narrow at all. This is something you seem confused about. It's the duration from the first to the last positive of negative deflection from the baseline that matters. Not the width of the tallest/lowest single deflection. BTW you can have narrow complex VT as well. But that's advaced level stuff. For now take any ECG book and focus on the chapter explaining supraventricular vs. ventricular contractions. And then practice a lot.
+12. u/ThickBloodyDischarge [score=-10, created=2025-01-30T10:57:42]: Looks like VT to me. Wide complex, no P waves. Other comments calling AVNRT, however again no P waves (I only see T waves that may be mistaken). AVNRT morphology should also be similar to the sinus rhythm morphology that comes before it. I know it can be slurred by the embedded P waves, but not going the complete opposite direction as it is going in this strip.

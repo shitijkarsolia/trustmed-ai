@@ -1,0 +1,63 @@
+Title: After a heart attack, women shown to have worse prognosis when treated with beta-blockers
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-08-heart-women-shown-worse-prognosis.html
+Canonical URL: https://medicalxpress.com/news/2025-08-heart-women-shown-worse-prognosis.html
+Filename: Medical_Xpress_After_a_heart_attack_women_shown_to_have_worse_prognosis_when_treated_with_beta_blockers.txt
+Collected: 2025-11-15T17:12:07.723011
+===============================================================================
+
+Title: After a heart attack, women shown to have worse prognosis when treated with beta-blockers
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-08-heart-women-shown-worse-prognosis.html
+Collected: 2025-11-15T17:12:07.722839
+
+================================================================================
+
+After a heart attack, women shown to have worse prognosis when treated with beta-blockers
+
+byCentro Nacional de Investigaciones Cardiovasculares
+
+edited bySadie Harley, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+A major new analysis from the REBOOT (Treatment with Beta-blockers after Myocardial Infarction without Reduced Ejection Fraction) clinical trial, an international study coordinated by the Centro Nacional de Investigaciones Cardiovasculares (CNIC),publishedin theEuropean Heart Journalhas revealed important sex-specific differences in the effects of beta-blockers following heart attacks, raising questions about long-standing treatment practices.
+
+REBOOT, presented in a Hotline session of the ESC congress in Madrid, is the largest contemporaneous trial testing the effect of beta-blockers in patients who survivemyocardial infarctionwithout a moderate or severe deterioration of their cardiac function (i.e. left ventricularejection fractiongreater than 40%). 8,505 patients were included across 109 hospitals in Spain and Italy.
+
+While the proportion of women in the trial was not high (something common in most myocardial infarction trials), the total number of women is the largest ever included in a trial testing beta-blockers after infarction, providing high power to the analysis performed.
+
+Patients were randomly assigned to receive beta-blockers—a commonly prescribed drug—or nobeta-blocker, while continuing to receive standard post-heart attack care. Patients were followed for a median of nearly four years.
+
+The analysis uncovers notable sex-specific differences: while men experienced no benefit or risk when treated with beta-blockers, women treated with beta-blockers had a significant increased risk of death, reinfarction, or hospitalization for heart failure compared to women not receiving the drug.
+
+Women treated with beta-blockers had a 2.7% higher absolute risk of mortality than those not treated with beta-blockers during the 3.7 years of follow-up of the study.
+
+The elevated risk when treated with beta-blockers was restricted to women with a complete normal cardiac function after infarction (i.e. left ventricular ejection fraction of 50% or higher).
+
+Those with a mild deterioration in cardiac function did not have an excess risk of adverse outcomes when treated with beta-blockers.
+
+Another important finding from this pre-specified analysis of the REBOOT trial is that women presenting with infarction had a worse cardiovascular profile. They were older, had more comorbidities (including higher prevalence of hypertension, diabetes and dyslipidemia), and more frequently experienced heart attacks without obstructive coronary arteries (6% vs. 2% in men).
+
+In addition, while overall prescription rates of secondary prevention interventions were high for all patients in the trial, women were less often prescribed some guideline-recommended therapies such as antiplatelets, statins, angiotensin-converting enzyme inhibitors (ACE), angiotensin receptor blockers (ARBs) or cardiac rehabilitation.
+
+Of note, overall, women had a significantly worse prognosis than men (mortality across study duration was 4.3% in women vs. 3.6% in men).
+
+The Principal Investigator of the REBOOT trial, Dr. Borja Ibáñez, CNIC Scientific Director, cardiologist at Hospital Universitario Fundación Jiménez Díaz, and member of the CIBERCV, says, "These findings confirm previous observational data, but in a rigorous prospective trial: women presenting with infarction have worse cardiovascular profile and, more importantly, have worse prognosis than men. Our data also shows that they respond differently to a commonly prescribed intervention, beta-blockers in this case."
+
+Xavier Rosselló, scientist at CNIC, cardiologist at University Hospital Son Espases in Mallorca and another leader of the REBOOT trial emphasizes, "Our findings suggest that a one-size-fits-all approach may not be appropriate and that sex-specific considerations are crucial for cardiovascular interventions prescriptions."
+
+The REBOOT trial was coordinated by the CNIC, in collaboration with the Mario Negri Institute for Pharmacological Research in Milan, Italy. As the largest independent study of its kind, it provides critical insights into how modern post-heart attack treatments should consider patient sex, heart function, and dosing strategies.
+
+"In many cases, prescribing beta-blockers to women after uncomplicated heart attack may do more harm than good," Dr. Ibáñez added. "Clinicians should carefully weigh the risks and benefits, and consider dose adjustments or alternative therapies when treating female patients."
+
+The trial's results underscore the importance of personalizing post-heart attack therapy. By highlighting how sex-specific factors influence the safety and effectiveness of commonly used drugs, REBOOT could reshape guidelines and improve outcomes for women worldwide.
+
+Dr. Valentín Fuster, CNIC General Director, President of Mount Sinai Fuster Heart Hospital, and another investigator of the REBOOT trial, notes, "We have been investigating sex-differences in cardiovascular disease for a long time.
+
+"We already knew that cardiovascular disease presentation is different in women and men, and this study significantly adds to this knowledge by showing that response to medications is not necessarily equal in women and men. This study should spark the much-needed sex-specific approach to cardiovascular disease."
+
+More information:Borja Ibanez et al, Beta-blockers after myocardial infarction: effects according to sex in the REBOOT trial,European Heart Journal(2025).DOI: 10.1093/eurheartj/ehaf673Journal information:European Heart Journal

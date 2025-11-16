@@ -1,0 +1,17 @@
+Thread ID: 1otoon2
+Subreddit: prediabetes
+Title: Interpreting CGM data post meal
+Author: yourrable
+Created UTC: 2025-11-10T13:16:50
+Score: 2
+Num Comments: 3
+URL: https://reddit.com/r/prediabetes/comments/1otoon2/interpreting_cgm_data_post_meal/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1otoon2/interpreting_cgm_data_post_meal/
+Collected: 2025-11-15T08:23:37.410126
+===============================================================================
+
+Hi y'all, I just got FreeStyle Libre 2 sensor and I am trying to interpret my data after meal. I was told CGM would not match accuracy of finger stick when it comes to absolute numbers. I an trying to understand what this curve tells me. For reference I had lunch at 12:30PM (chicken sandwhich and coleslaw) with some fiber gummies before lunch. Then peak was at 2PM and now at 3PM its almost what it was before lunch. I usually walk like 15-20 minutes after meal but it started snowing ffs so I will need to get creative now. For reference my A1C was 6.4% earlier this summer and came down to 5.9% last week. Fasting glucose hovers around 75-85. Any insights would be appreciated. Thanks!
+
+---
+## Comments
+1. u/NotDiabeticDad [score=1, created=2025-11-10T14:00:30]: Just by itself it's not telling you much other than that you're prediabetic. Which you already know. I joined a diabetes reversal program and the nutritionist there was able to help me make sense of the data. Some of the things we paid attention to were, comparing food combinations, meal timing, amount of sleep, impact of exercise. The program I joined is called Heald and I don't know if they're trying to train their AI to do all those or costs in India are just very cheap but they are 50 bucks a month out of pocket. So worth checking out but you may have some nutritionist support covered with your insurance and that might be a better option. I highly recommend working with someone that can interpret the data for you. The CGM is more expensive than the support. When I started my fasting was around 110 and food would cause a 25 point spike. Now fasting is closer to 98 and I get a 10 point spike from food. Although I really avoid bread. So I can't say what would happen if I had a sandwich.

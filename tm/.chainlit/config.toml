@@ -7,6 +7,11 @@ show_prompt_playground = false
 upload_max_size_mb = 10
 upload_max_files = 20
 
+[features]
+# Process and display HTML in messages. This can be a security risk
+# Only enable if you trust the HTML content (like in chainlit.md)
+unsafe_allow_html = true
+
 [UI]
 # Name of the app and chatbot.
 name = "TrustMed AI"

@@ -1,0 +1,21 @@
+Thread ID: 1ot1bxl
+Subreddit: prediabetes
+Title: Kinda obsessing about the label
+Author: Jade_Star23
+Created UTC: 2025-11-09T18:50:36
+Score: 4
+Num Comments: 14
+URL: https://reddit.com/r/prediabetes/comments/1ot1bxl/kinda_obsessing_about_the_label/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1ot1bxl/kinda_obsessing_about_the_label/
+Collected: 2025-11-15T08:23:47.129872
+===============================================================================
+
+Im a 40f, about a month or so ago I had my bloodwork done. HbA1c 5.7, glucose 96, insulin 13. My doctor wanted to put me on metformin and said even if my numbers improve ill need to stay on it for life (due to my mom being prediabetic). I decided that wasn't an option for me as I had already started making lifestyle changes and lost 10 lbs. I asked if we could retest in February and see what I can do with lifestyle. She agreed. Then I did research and found out low ferritin can cause a false reading and my ferritin was at 18! Im kinda pissed she was going to put me on medication now. Anyway im still keeping with my high fiber/high protein/only complex carb (beans, fruit, veggies) diet and exercise (hiking, walking after meals, strength training)and im losing about 2 lbs a week and my waist is smaller. I plan on keeping this up as Im sure I was at the start of insulin resistance...however, I dont think its fair to label me prediabetic based on this one borderline reading with low ferritin. Im just looking for some insight from those of you who know more than me.
+
+---
+## Comments
+1. u/Effective-Hunter-911 [score=3, created=2025-11-09T19:44:34]: Youre correct. Thats why the ada doesnt classify diabetes until theres 2 separate tests done. Bc lots of fluctuations.
+2. u/East_Collection_5672 [score=3, created=2025-11-09T19:46:27]: Yes, it’s true that ferritin can affect your HbA1c, so getting a second opinion is a good idea. For now, I’d try not to worry too much about the doctor's label and instead focus on understanding your own body. Pay attention to what signs or changes you’re noticing. You might find these early warning signs helpful: [https://glucospike.ai/blog/early-warning-signs-of-prediabetes-what-to-watch-for-especially-if-it-runs-in-your-family](https://glucospike.ai/blog/early-warning-signs-of-prediabetes-what-to-watch-for-especially-if-it-runs-in-your-family). It’s great that you’re staying on track with your lifestyle changes! Just a heads-up: hiking can sometimes raise blood sugar, especially if you do it on an empty stomach or with very little food, since your body may start producing more glucose for energy. You could try using a CGM or do a finger-prick test while hiking to see what happens. Also, I personally use the glucospike AI app to check if my meal is balanced or likely to spike my glucose, and it really helps me stay aware.
+3. u/emi_lgr [score=1, created=2025-11-10T01:08:44]: Doesn’t really matter what the label is, can’t hurt to make lifestyle changes when you have family history of high blood sugar. Even if A1c is off, fasting blood glucose at 96 is a little too close to prediabetic levels for comfort. Low ferritin also only *sometimes* causes a falsely high A1c reading, and even then only slightly elevates it.
+4. u/Sufficient_Beach_445 [score=1, created=2025-11-10T05:34:09]: It may be a bad a1c reading because of iron, BUT your fasting glucose is getting close to pre-diabetic. How much sugar are you eating, as in sucrose and added sugars that appear on food labels as such, and high fructose corn syrup? IF you eat "average" amounts of sugar carb, that would be the FIRST place I would make adjustments. And yeah, hold off on the metformin until you get better confirmation would we reasonable.
+5. u/usafmd [score=0, created=2025-11-09T19:55:03]: Idk. I calculated for you a moderate-to-severe level of insulin resistance, even though your A1c probably will correct lower. IR is way under diagnosed and many ignore the person in the mirror.

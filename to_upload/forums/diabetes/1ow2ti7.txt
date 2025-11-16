@@ -1,0 +1,24 @@
+Thread ID: 1ow2ti7
+Subreddit: diabetes
+Title: 5 month expired test strips
+Author: Green_Economy_850
+Created UTC: 2025-11-13T07:41:20
+Score: 8
+Num Comments: 10
+URL: https://reddit.com/r/diabetes/comments/1ow2ti7/5_month_expired_test_strips/
+Canonical URL: https://reddit.com/r/diabetes/comments/1ow2ti7/5_month_expired_test_strips/
+Collected: 2025-11-15T02:16:31.481920
+===============================================================================
+
+burned through my first supply of test strips due to faulty CGM (Libre 2) always showing 60-50 when it’s actually &gt;140 and had to get one from the pharmacy. Does it still give accurate numbers?
+
+---
+## Comments
+1. u/mystisai [score=10, created=2025-11-13T07:44:58]: It might give accurate numbers but the accuracy is compromised. You have no way of knowing without comparing it to one not expired.
+2. u/Wooptay [score=8, created=2025-11-13T07:50:32]: Unless they were exposed to some weird enviromental conditions, they should be just fine.
+3. u/bmoreRavens1995 [score=7, created=2025-11-13T07:49:02]: Perfectly fine....lol I used 7 month old insulin...llol
+4. u/GenghisCoen [score=2, created=2025-11-13T09:56:17]: I went through a long phase of barely testing, but I kept getting my prescriptions refilled. So I built up a pretty big surplus of test strips. I've used test strips that were "expired" two or three years ago. I compared them to new test strips once in a while, and never found the readings were very far off. Just like a lot of shelf stable food and medications, the ONLY reasons they print expiration dates on them are to get you to buy more. And possibly some small liability issues. I'm not saying things never expire, but the real expiration date is orders of magnitude longer than what they print.
+5. u/Educational-Guard408 [score=1, created=2025-11-13T08:21:37]: $40 for new meter and 100 strips on Amazon. Doesn’t pay to buy strips imho
+6. u/ExperienceShot8822 [score=1, created=2025-11-13T13:04:50]: Genuinely I have never looked at the expiration date 😅
+7. u/TheySilentButDeadly [score=1, created=2025-11-13T17:45:49]: Still good. Do you have the Accu check test solution that the pharmacy should have given you??
+8. u/Spirited_Refuse9265 [score=1, created=2025-11-14T01:42:02]: I have experienced both results where expired strips were proven wrong and also had expired strips proven accurate when tested against unexpired strips. The only way to be certain is to test against unexpired strips. Personally, I would only be worried if the results did not match how I felt.

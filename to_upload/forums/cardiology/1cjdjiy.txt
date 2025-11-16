@@ -1,0 +1,19 @@
+Thread ID: 1cjdjiy
+Subreddit: Cardiology
+Title: retrograde aortic dissection into coronary artery?
+Author: Natural-Confusion-55
+Created UTC: 2024-05-03T09:54:35
+Score: 4
+Num Comments: 10
+URL: https://reddit.com/r/Cardiology/comments/1cjdjiy/retrograde_aortic_dissection_into_coronary_artery/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1cjdjiy/retrograde_aortic_dissection_into_coronary_artery/
+Collected: 2025-11-15T08:35:18.373142
+===============================================================================
+
+I need help on how to classify an aortic dissection that I observed at an autopsy. There is a tear in the intima about 0.5 cm above the aortic valve and the right coronary artery is dissected. Would that be considered retrograde because the coronary ostia is proximal to the tear, or is it considered antegrade because the tear is in the ascending aorta and the coronary ostia is also in the ascending aorta? I understand the Stanford and DeBakey classifications, but don't know if those are used to determine retrograde and antegrade. Thanks!
+
+---
+## Comments
+1. u/dayinthewarmsun [score=2, created=2024-05-03T23:10:57]: If he had instrumentation of the RCA (angiography) than it could have started in the RCA. Otherwise, the overwhelming probability is that it started in the aorta and the dissection was retrograde to the RCA. RCA STEMI is the most common coronary finding in acute aortic dissection.
+2. u/Witty-Cantaloupe-947 [score=1, created=2024-05-03T10:28:42]: Was it spontaneous? Was he subjected to a coronary angiography?
+3. u/Rudy_Cadobus [score=1, created=2024-05-03T15:47:16]: If I find out my cardiac care team is taking so long to come up with a diagnosis because they’re waiting on a Reddit reply, I’m going to have a Myocardial Rupture.

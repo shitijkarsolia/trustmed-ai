@@ -1,0 +1,21 @@
+Thread ID: 1orrrbp
+Subreddit: diabetes_t2
+Title: Low Heart Rate Metformin
+Author: Girllikethat33
+Created UTC: 2025-11-08T08:10:13
+Score: 2
+Num Comments: 9
+URL: https://reddit.com/r/diabetes_t2/comments/1orrrbp/low_heart_rate_metformin/
+Canonical URL: https://reddit.com/r/diabetes_t2/comments/1orrrbp/low_heart_rate_metformin/
+Collected: 2025-11-15T02:20:08.855293
+===============================================================================
+
+So I started on metformin 500 mg ER about a week ago. No GI side effects and honestly felt really good the first days - like my body was finally getting energy. However as the week went on my resting heart rate - normally 60-68 bpm lowered eventually reaching 53 beats per day and I started feeling like I was going to pass out. Blood glucose and pressure were fine, eating didn’t help, electrolytes helped a little but not a lot. Also although I felt better, blood glucose higher on metformin than not, tracked by CGM. Spoke to a pharmacist and he said to stop the medication which I did and 24 hours later resting heart rate is back up to 60 and I no longer feel faint. Has anyone else experienced anything like this? I’m a bit bummed out as I was excited to feel better those first few days. It seems to be a weird reaction to have higher blood glucose and lower resting heart rate.
+
+---
+## Comments
+1. u/Top_Cow4091 [score=2, created=2025-11-08T08:27:00]: My heartrate is always around 40-53 only goes up when i workout. Metformin didnt do anything to my heartrate
+2. u/Ok_Tomorrow_7065 [score=2, created=2025-11-08T08:36:20]: Yes I have had drops in heart rate and blood pressure while using metformin. The first 3 months with 2 x 500 mg then the following four months with a single dose of 500 mg per day. I regained my blood pressure and a classic heart rate when I completely stopped taking metformin. On the other hand, I also lost 27% of my weight at the same time so I don't know which of these parameters was the cause.
+3. u/anonymommmmm [score=2, created=2025-11-08T10:02:25]: My mom is allergic to metformin and found out/had this symptom while she was hospitalized.
+4. u/SuspiciouslyDullGuy [score=2, created=2025-11-08T10:57:18]: I haven't experienced this due to Metformin but I have seen it when losing weight quickly. If you go into calorie deficit for an extended period your body will try to hold onto fat reserves through metabolic adaptation. One of the effects I observed via Fitbit and Garmin fitness trackers is reduced resting heart rate. Heartbeats burn some calories. I also experienced cold hands and feet sometimes, which is apparently the body trying to save on calories burned to keep your body warm, and while I only felt truly faint once or twice I did regularly feel drained of energy, sluggish, on days when I was actively trying to lose weight fast. Also constipated, which is apparently the body slowing down digestion to try to extract as much energy from food in the gut as possible. Around an hour after even one big meal and I'd feel fine again and my resting heart rate would go back up after being well fed for a couple of days. Did you set out to lose weight at around the same time you started Metformin by any chance?
+5. u/Old_Independence5166 [score=2, created=2025-11-10T20:45:26]: If you are also doing aerobic exercise your HR will drop naturally.

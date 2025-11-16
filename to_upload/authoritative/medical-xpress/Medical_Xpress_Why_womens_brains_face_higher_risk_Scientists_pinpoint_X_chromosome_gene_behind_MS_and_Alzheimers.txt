@@ -1,0 +1,53 @@
+Title: Why women's brains face higher risk: Scientists pinpoint X-chromosome gene behind MS and Alzheimer's
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-10-women-brains-higher-scientists-chromosome.html
+Canonical URL: https://medicalxpress.com/news/2025-10-women-brains-higher-scientists-chromosome.html
+Filename: Medical_Xpress_Why_womens_brains_face_higher_risk_Scientists_pinpoint_X_chromosome_gene_behind_MS_and_Alzheimers.txt
+Collected: 2025-11-15T17:10:55.977629
+===============================================================================
+
+Title: Why women's brains face higher risk: Scientists pinpoint X-chromosome gene behind MS and Alzheimer's
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-10-women-brains-higher-scientists-chromosome.html
+Collected: 2025-11-15T17:10:55.977479
+
+================================================================================
+
+Why women's brains face higher risk: Scientists pinpoint X-chromosome gene behind MS and Alzheimer's
+
+byUniversity of California, Los Angeles
+
+edited bySadie Harley, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+New research by UCLA Health has identified a sex-chromosome linked gene that drives inflammation in the female brain, offering insight into why women are disproportionately affected by conditions such as Alzheimer's disease and multiple sclerosis as well as offering a potential target for intervention.
+
+The study,publishedin the journalScience Translational Medicine, used a mouse model of multiple sclerosis to identify a gene on the X chromosome that drives inflammation in brain immune cells, known as microglia. Because females have two X chromosomes, as opposed to only one in males, they get a "double dose" of inflammation, which plays a major role in aging, Alzheimer's disease and multiple sclerosis.
+
+When the gene, known as Kdm6a, and its associated protein were deactivated, the multiple sclerosis-like disease and neuropathology were both ameliorated with high significance infemale mice.
+
+"It has long been known that there are sex differences in the brain. These can impact both health andneurological diseases," said study lead author Dr. Rhonda Voskuhl, director of the Multiple Sclerosis Program at UCLA Health and lead neurologist for the UCLA Comprehensive Menopause Program.
+
+"Multiplesclerosisand Alzheimer's disease each affect women more often than men, about two to three times as often. Also, two-thirds of healthy women have 'brain fog' during menopause. These new findings explain why and point to a new treatment to target this."
+
+When first author Dr. Yuichiro Itoh of the Voskuhl lab genetically "knocked out" the gene Kdm6a in brain immune cells, the inflammatory molecules shifted from being activated to a resting state. Additionally, the Voskuhl team performed a pharmacologic "knock down" of the protein made by this gene using metformin. Metformin is widely used as a treatment for diabetes but is currently being researched for potential anti-aging properties.
+
+While these interventions were highly significant in female mice, their effect was almost undetectable in males, Voskuhl said.
+
+"This is consistent with there being 'more to block' in females due to having two copies of the X-linked gene," said Voskuhl, who is also a professor of neurology at UCLA Health.
+
+"It's also why females are more likely to get MS and AD than males. This has implications for the clinic. Women may respond differently to metformin treatment than men."
+
+Voskuhl said the findings may also have implications for explaining a connection to brain fog in healthy women during menopause.
+
+"Sex chromosomes and sex hormones achieve a balance through evolution," Voskuhl said.
+
+"There is a selection bias to do so. Females have a balance between X chromosome-driven inflammation that can be good to fight infections at child-bearing ages. This is held in check by estrogen, which is anti-inflammatory and neuroprotective. Aswomenage, menopause causes loss of estrogen, unleashing the proinflammatory and neurodegenerative effects of this X chromosome in brain immune cells."
+
+Voskuhl says together, these findings may support the use of estrogens that target the brain to keep the balance, and thereby protect the brain, during menopause.
+
+More information:Yuichiro Itoh et al, Microglia-specific deletion of the X-chromosomal gene Kdm6a reverses the disease-associated microglia translatome in female mice,Science Translational Medicine(2025).DOI: 10.1126/scitranslmed.adq3401.www.science.org/doi/10.1126/scitranslmed.adq3401Journal information:Science Translational Medicine

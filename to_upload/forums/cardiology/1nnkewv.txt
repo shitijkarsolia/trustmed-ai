@@ -1,0 +1,26 @@
+Thread ID: 1nnkewv
+Subreddit: Cardiology
+Title: Is this fair compensation?
+Author: Content_Flatworm_898
+Created UTC: 2025-09-22T04:55:18
+Score: 8
+Num Comments: 22
+URL: https://reddit.com/r/Cardiology/comments/1nnkewv/is_this_fair_compensation/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1nnkewv/is_this_fair_compensation/
+Collected: 2025-11-15T08:27:34.612827
+===============================================================================
+
+Outpatient General Cardiology Practice location: Virginia I am 60% FTE (work 3 days a week: Monday, Tuesday, Wednesday), part of a large group, and do not take any call or cover any inpatient services. I read my own echoes and nuclear stress tests. Had to take a part time job for personal reasons. I signed a job fresh out of fellowship before I really understood what RVUs and RVU threshold were. I am thinking about increasing my workdays to 4 days a week and so will be renegotiating my contract soon. Out of curiosity, I decided to look up on MGMA what the regional average RVU threshold and compensation were for my area and am worried I am being severely underpaid based on what I read. I am currently being compensated $39 per RVU and my RVU threshold is 5025. This is for 60% FTE. Base pay: $215,000 I am seeing average per RVU is 65-70 in this area, for 7000-7500 RVUs for a full time cardiologist, but does that include bonus only or bonus + base? Can someone give me some perspective on where I fall in terms of what I’m being offered? Does this sound fair? I feel like my RVU threshold should be lower around 4260 and pay per RVU should be around 60-70 for a 60% FTE. I would love any insight/perspective on if this is fair and guidance for negotiating for a more fair base pay/RVUs. Thank you so much
+
+---
+## Comments
+1. u/imtocardio [score=19, created=2025-09-22T06:19:27]: The RVU compensation is lower and comparable to primary care. A lot of outpatient practices consider 4 days as full time so you're actually 80% FTE considering it. Looks like they've taken advantage of you
+2. u/blkholsun [score=11, created=2025-09-22T08:21:24]: There’s no way to sugarcoat this, $39 is horrible unless there are some wild extenuating circumstances or fabulous perks.
+3. u/one_plain_slice [score=3, created=2025-09-22T06:17:52]: On a 100% FTE your contract equates to ~360K base and wRVU threshold 8375. Not great, particularly with the $39/wRVU conversion rate on bonuses. Though having no call (or weekends?) is a huge perk (not common in cardiology). Do the other cardiologists take call? Are you on some partnership track in which this compensation structure changes after 2-3 years?
+4. u/jiklkfd578 [score=3, created=2025-09-22T10:34:14]: Your RVU rate is NP territory. Ridiculously low.
+5. u/cardsguy2018 [score=2, created=2025-09-22T10:03:32]: Let's hold on here, you mention the average rvu data for your area then elsewhere you mention the average salary is $350k-400k, that math doesn't add up. The latter is low but aligns with your pay at 60% FTE, which includes no call, no inpatient and presumably full benefits. Seems about fair to me. If you want more pay, move.
+6. u/SoundslikeA_Uproblem [score=2, created=2025-09-22T19:32:27]: Hi, seriously underpaid , just shop around. Rvu rate in Midwest is 70-75 depending on the city
+7. u/dayinthewarmsun [score=2, created=2025-09-22T19:38:53]: That is low pay for sure. That does not mean that they will be willing to pay you much more. It depends on what the needs of the group are. I don't think we would add someone to our group at any FTE, even for low pay, if they were not willing to participate in inpatient and call.
+8. u/ganadara000 [score=1, created=2025-09-22T09:28:45]: Not good. I would ask for at least average RVU and lower RVU threshold for the same base pay (based on comp information alone). Just for easy calculation, divide your base by your threshold and that would be the comp you get per RVU for those first half.
+9. u/Brilliant_Hamster870 [score=1, created=2025-09-23T20:33:27]: Wow, extremely low wRVU conversion.
+10. u/br0mer [score=1, created=2025-09-25T03:48:40]: As I said in the other thread Seems about right for a part-time gig without any of the real responsibilities that justify the high salary. You're a liability to the group, not an asset. They have to cover your call, your patients, and you don't offload work for the group. The salary might be a low ball in pure numbers, but you are getting a lifestyle subsidy instead of money. I'm full time general cardiology and did about 13k RVUs last year. This results in about 800k after adding in call and quality bonuses. If you're making a 3rd of the RVUs, you'll be getting a 3rd of the pay.

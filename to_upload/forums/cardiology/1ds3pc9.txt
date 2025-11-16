@@ -1,0 +1,17 @@
+Thread ID: 1ds3pc9
+Subreddit: Cardiology
+Title: My brother and I put together a tool for locum tenens providers to keep track of all their licenses and credentials
+Author: friendlyepsilon
+Created UTC: 2024-06-30T08:12:40
+Score: 2
+Num Comments: 2
+URL: https://reddit.com/r/Cardiology/comments/1ds3pc9/my_brother_and_i_put_together_a_tool_for_locum/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1ds3pc9/my_brother_and_i_put_together_a_tool_for_locum/
+Collected: 2025-11-15T08:34:13.104641
+===============================================================================
+
+https://reddit.com/link/1ds3pc9/video/7jvsii386q9d1/player My brother is a locum doc, and he got to telling me how he has to keep track of everything in spreadsheets. We thought we could make it easier, so we made a free tool with automated reminders. We wanted to share what we made in case someone finds it helpful. [https://portal.clericalapp.com](https://portal.clericalapp.com)
+
+---
+## Comments
+1. u/caboossee [score=1, created=2024-06-30T13:06:47]: Yeah no thanks. I’m not giving you my sensitive info

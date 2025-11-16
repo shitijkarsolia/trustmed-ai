@@ -1,0 +1,18 @@
+Thread ID: 1ov9pwv
+Subreddit: diabetes
+Title: Does anyone else find that OP5 Automated Mode skyrockets their risk of hypos during exercise?
+Author: DISAPPOINTING_FAIRY
+Created UTC: 2025-11-12T09:24:59
+Score: 1
+Num Comments: 2
+URL: https://reddit.com/r/diabetes/comments/1ov9pwv/does_anyone_else_find_that_op5_automated_mode/
+Canonical URL: https://reddit.com/r/diabetes/comments/1ov9pwv/does_anyone_else_find_that_op5_automated_mode/
+Collected: 2025-11-15T02:17:02.698665
+===============================================================================
+
+I really don't know what it is, but sustained cardio of pretty much any intensity will cause a huge, day-interrupting low if I don't watch my CGM like a hawk. Even something as light as walking the dog or raking leaves will cause a single down-arrow within 20 minutes. This doesn't seem to happen the same way when I put it in manual mode, there is still a drop from the exercise but it doesn't seem anywhere near as steep and it also doesn't seem to carry the same momentum. If I don't catch an Automated Mode low before the graph turns red, I'll be out of commission for an hour or more, but the Manual Mode exercise lows seem much easier to fix. Also yes, I have tried Activity Mode and honestly I can't see an improvement. Also, a more general exercise-related question: is it normal to have your BG drop so fast during intense cardio that you literally cannot consume glucose fast enough to offset it? I've had experiences while running where I start absolutely chugging grape juice or gatorade when my BG is 150 and there is absolutely nothing that can keep it out of the red other than stopping running.
+
+---
+## Comments
+1. u/___Dan___ [score=1, created=2025-11-12T10:04:58]: Yes. I found that the pump automations for exercise all completely suck. I have custom profiles with reduced basal and increased sensitivity for exercise. Depending on the intensity of the exercise I need the reduced basal for hours after I’m done. It’s taken over a decade of tinkering to figure this out and make it better. I learned that, at least for me, issues you describe like rapidly falling blood glucose during exercise are nearly always caused by too much basal insulin.
+2. u/Due_Citron6089 [score=1, created=2025-11-12T10:05:01]: It doesn’t happen the same way in manual mode coz you’re [probably] using a much lower basal rate in manual mode. You might want to consider suspending delivery completely while doing strenuous exercise. Is it possible to not get carbs quickly enough? Depends on the person, but yes for me [too]. If I don’t get a ~1/2-hour head-start on my carb requirement, it’s a low for me. Stopping to recover for sure for me too - cycling while woozy isn’t recommended…

@@ -1,0 +1,18 @@
+Thread ID: 1ee6a8y
+Subreddit: Cardiology
+Title: Book recommendation for mechanism discussions
+Author: According_Tourist_69
+Created UTC: 2024-07-28T05:26:18
+Score: 5
+Num Comments: 4
+URL: https://reddit.com/r/Cardiology/comments/1ee6a8y/book_recommendation_for_mechanism_discussions/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1ee6a8y/book_recommendation_for_mechanism_discussions/
+Collected: 2025-11-15T08:33:59.957892
+===============================================================================
+
+I'm interested in the mechanisms of volume and pressure changes in heart pathologies but am unable to find an exhaustive source for the same. Tried Harrison but wasn't satisfied. Could anyone suggest a good book from which i can even quote as a reference in case anyone questions it and also deals with all mechanisms in detail?
+
+---
+## Comments
+1. u/Anonymousmedstudnt [score=1, created=2024-08-21T16:13:06]: Also, deranged physiology
+2. u/dayinthewarmsun [score=1, created=2024-07-28T23:30:42]: Maybe you should make one.

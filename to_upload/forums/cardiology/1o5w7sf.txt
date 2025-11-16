@@ -1,0 +1,26 @@
+Thread ID: 1o5w7sf
+Subreddit: Cardiology
+Title: Clopidogrel + PPI interaction
+Author: goose_30
+Created UTC: 2025-10-13T14:04:33
+Score: 22
+Num Comments: 11
+URL: https://reddit.com/r/Cardiology/comments/1o5w7sf/clopidogrel_ppi_interaction/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1o5w7sf/clopidogrel_ppi_interaction/
+Collected: 2025-11-15T08:26:57.457546
+===============================================================================
+
+Hi cardio friends! I am a clinical pharmacist who works in a primary care clinic. I do a lot of work with transitions of care and patients recently discharged from the hospital. I often see patients newly prescribed Clopidogrel as part of DAPT post-stent who are already taking a PPI such as omeprazole. Lexicomp and other drug databases consider this an X-interaction due to decreased efficacy of Clopidogrel, so I always send a message to the pcp recommending a switch to another PPI such as pantoprazole or to an h2ra. Unfortunately, these recommendations often end up being ignored or declined. I’m curious from a cardiologist perspective on this - am I making a big deal out of nothing or should I continue bringing this up each time?
+
+---
+## Comments
+1. u/buffnfurious [score=53, created=2025-10-13T14:24:42]: Cogent trial didn’t show a clear decrease in efficacy. The question is never does something happen, it is always to what extent? 100% platelet inhibition is neither needed nor desired clinically. Same thing with zofran and qtc checking in most patients - FDA study showed no difference in qtc with under 8mg IV. The question is always how significant and relevant is something.
+2. u/shahtavacko [score=20, created=2025-10-13T16:10:46]: I have had patients on clopidogrel and omeprazole for twenty years, never once have I seen any evidence of what I consider BS interaction. I have however come close to throwing my computer (epic) out the window because of the many many many irrelevant alarms that I get on a daily basis. Things like this and others like interactions between spiro and ARB/ACEI/ARNI; you know, two of the GDMT pillars for heart failure? Or amiodarone loading dose which apparently epic has never heard of; or combination of amiodarone and digoxin; or digoxin in many many subset of patients for whom there’s really no risk at all if you know what you’re doing, etc. Crap is infuriating really.
+3. u/redicalschool [score=10, created=2025-10-13T16:00:57]: We have pantoprazole as our PPI on formulary in the hospital largely for this reason, but if we are starting Plavix and they are on Prilosec we usually switch them to Protonix. But I definitely get alarm fatigue with these automated epic alerts, so I can understand someone just clicking through to get them out of their inbox. We get amio/statin, amio/dilt/verapamil, colchicine/statin, colchicine/amio, Omeprazole/clopidogrel alerts all day long
+4. u/redslet [score=3, created=2025-10-13T14:14:53]: I feel like if there is increased risk of a GI bleed (vulnerable groups) cardiologists tend to ignore the cyp interaction and prescribe a PPI since there have been trials that show decreased risk of GI bleeds with no significant increase in CVS incidents. In regards to not choosing pantoprazole I’m not sure, maybe habits for some and/or availability
+5. u/Internal-Kick-2775 [score=3, created=2025-10-14T05:20:41]: We usually give Lanso and careful to switch patients from Ome to Lanso when starting Clopi. Something that we do inherently. I personally would do anything possible in my capacity if I can prevent at least 1 ISR. I think that should be the attitude as well
+6. u/Oxford___comma [score=2, created=2025-10-13T16:29:01]: Since there's no big deal in switching PPIs and a possible interaction with clopidogrel, I usually rec switch to dexlanaoprazole/lansoprazole
+7. u/DisposableServant [score=1, created=2025-10-14T13:08:42]: Have never seen this to be a major concerning interaction. My previous institution would routinely protocolize PPI initiation on all post pci patients regardless of P2Y12 choice.
+8. u/spicypac [score=1, created=2025-10-15T14:54:08]: I feel like it’s hard to know for sure how much it impacts the likelihood of ISR in real life. However, in my patients who are vasculopaths and have all the risk factors, i switch from omeprazole to pantoprazole every time. If I can do anything in my power to reduce the chances of ISR I’m gonna especially since there really isn’t any issue in switching from one PPI to another
+9. u/No-Region8878 [score=1, created=2025-10-16T12:45:09]: I was working with a well respected GI doc recently and asked him about this and he said he doesn't believe in the interaction
+10. u/ChattyCapybara [score=1, created=2025-10-24T16:54:31]: what is this absolute risk of interaction between ppi and plavix? … probably 0.5% or some kind asinine %. I don’t worry about it, if the stent is well placed/apposed, DAPT should be fine regardless of ppi

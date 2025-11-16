@@ -1,0 +1,19 @@
+Thread ID: 1h78dpp
+Subreddit: Cardiology
+Title: Why there is 'STEEP/PROMINENT' x descent in Constrictive Pericarditis and Tamponade?
+Author: TheDevilBroly
+Created UTC: 2024-12-05T05:46:46
+Score: 8
+Num Comments: 3
+URL: https://reddit.com/r/Cardiology/comments/1h78dpp/why_there_is_steepprominent_x_descent_in/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1h78dpp/why_there_is_steepprominent_x_descent_in/
+Collected: 2025-11-15T08:32:25.844150
+===============================================================================
+
+I'm having trouble understanding why Constrictive Pericarditis and Cardiac Tamponade have prominent/steep x descent in JVP. As, x descent is due to atrial relaxation, but in these cases there will be some obstruction which will not allow atria to completely relax and x descent shouldn't be steep. So, if anyone can explain it then it would be helpful.
+
+---
+## Comments
+1. u/GolgiApparatus88 [score=1, created=2024-12-13T07:58:11]: Constriction - the non-compliant pericardium prevents normal filling of the ventricle leading to exaggerated longitudinal annular/atrial motion and rapid but incomplete filling of the ventricle. Think of the blood entering the ventricle as hitting a brick wall aka the square root sign. Tamponade - equalization of RA/RV diastolic pressures and a pericardial pressure that is higher than RVd leads in impaired RV filling, aka RA isn’t able to empty leading to a loss of the Y descent. “Lose your y before you die.” The X wave isn’t the issue in this scenario.
+2. u/Libyanforma [score=0, created=2024-12-05T07:37:29]: The constriction of pericarditis is more prominent on the ventricles than atria, and the atrial walls generally retain a great deal of compliance in both of these conditions. And another thing to keep in mind is that the x descent is interrupted by a notch of the closure of tricuspid valve, which divides the descent in to parts, one (X1) that is filling the native atrial volume, and a second one (X2) is filling the space that the atrium gains when the RV contracts and losses spacs. Most clinicians miss that exchange of spaces between the right champers.
+3. u/WSUMED2022 [score=0, created=2024-12-05T07:33:54]: My understanding is that it is mostly a byproduct of those conditions producing massive a waves due to fluid backup from increased RVP, so the pressure has to drop faster to return to early diastolic levels.

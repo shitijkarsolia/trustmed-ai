@@ -1,0 +1,34 @@
+Thread ID: 1koqb1f
+Subreddit: Cardiology
+Title: Troponin &gt;20x normal limit, no chest pain, would you cath?
+Author: slmrma
+Created UTC: 2025-05-17T04:01:02
+Score: 102
+Num Comments: 71
+URL: https://reddit.com/r/Cardiology/comments/1koqb1f/troponin_20x_normal_limit_no_chest_pain_would_you/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1koqb1f/troponin_20x_normal_limit_no_chest_pain_would_you/
+Collected: 2025-11-15T08:29:37.252171
+===============================================================================
+
+Male in the 70ies, in-hospital consult due to troponin progression (normal ref &lt;20, patients trop:15k&gt;18k), no obvious secondary cause, control ecg similar
+
+---
+## Comments
+1. u/Key-Government-3157 [score=230, created=2025-05-17T04:29:17]: Call someone who knows what they are doing
+2. u/Intelligent_Year3975 [score=160, created=2025-05-17T04:15:20]: Yes… why would you not?
+3. u/shutthechuckup1 [score=192, created=2025-05-17T04:23:58]: I would wait till morning rounds and personally show ecg to IC attending. Make sure you maintain eye contact as you present case/ecg. Record their reaction; maybe do a TikTok video with that automated voice.
+4. u/Accidently_Genius [score=135, created=2025-05-17T04:49:42]: Definitely would cath emergently though pattern looks more like pericarditis. But missing a STEMI is far worse than doing an unnecessary cath. Given normal coronaries, my guess would be myopericarditis unless there is a reason to suspect vasospasm or echocardiographic evidence of Takotsubos.
+5. u/litali [score=76, created=2025-05-17T04:16:15]: Is this a troll post?
+6. u/dayinthewarmsun [score=29, created=2025-05-17T08:39:50]: The ECG is abnormal, but you need more information to make a decision. There is no such thing as a random 70ish male who just happens to be admitted to the hospital and then happens to have a troponin. Why is he there? Why was troponin being checked? What other significant history? You need to know pretest probability to correctly utilize this ECG and troponin.
+7. u/shahtavacko [score=21, created=2025-05-17T04:58:46]: It’d be interesting to see what his echo looks like. Stress-induced cmp can present like this, but you absolutely should’ve taken him and celebrated when you saw his cors were clean.
+8. u/Potential_Car_9277 [score=18, created=2025-05-17T15:43:37]: patients name is on the ECG.
+9. u/oldcrobuzon [score=7, created=2025-05-17T08:17:54]: I once almost talked my doctors out of cathing me, with troponin at 100 and spotless ecg and echo. I am glad they did cath me, the whole right side was blocked, the next day my troponin was 40.000. I could run up the stairs and was not tired at all btw. Better cath than be sorry.
+10. u/tchocktchock [score=21, created=2025-05-17T04:22:34]: Let’s cath and then discuss
+11. u/[deleted] [score=12, created=2025-05-17T06:05:45]: [deleted]
+12. u/crumplechicken [score=6, created=2025-05-17T10:37:40]: Yes. Although it's probably myopericarditis.
+13. u/Ali507o [score=10, created=2025-05-17T04:52:39]: I hope you called the IC and your now on reddit until they come
+14. u/leonidasturtle [score=5, created=2025-05-17T09:53:04]: Yes. At least you would exclude an occlusive MI with the Cath and you can chase other ddx like myopericarditis
+15. u/krion1x [score=4, created=2025-05-17T14:50:51]: *Sees a stemi* “chat, should i activate stemi”
+16. u/DufflesBNA [score=3, created=2025-05-17T06:05:19]: Stat echo then urgent Cath.
+17. u/dek21896 [score=3, created=2025-05-17T13:51:00]: This is myopericarditis most likely given trop elevation and based on largely diffuse ST changes with PR depression. TTE likely show diffuse hypokinesis with possible mild pericardial effusion, but maybe he has a gross WMA and it’s hard to know. Given his age though, I think it definitely is not unreasonable to cath and r/o coronary disease first as you did. A cardiac MRI (not necessary) will likely show myopericarditis. Now the question is why does he have this? Is it all just viral or something else like cancer etc.
+18. u/Palaiologos77 [score=3, created=2025-05-18T11:40:16]: Idk what the laws are like where you’re at but the patient’s name is on the EKG. Don’t lost your job over a Reddit post.

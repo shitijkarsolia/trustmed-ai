@@ -1,0 +1,17 @@
+Thread ID: 1dfwoon
+Subreddit: Cardiology
+Title: Why is the st segment concave upwards in pericarditis?
+Author: According_Tourist_69
+Created UTC: 2024-06-14T10:43:49
+Score: 8
+Num Comments: 1
+URL: https://reddit.com/r/Cardiology/comments/1dfwoon/why_is_the_st_segment_concave_upwards_in/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1dfwoon/why_is_the_st_segment_concave_upwards_in/
+Collected: 2025-11-15T08:34:29.687430
+===============================================================================
+
+Learnt about the mechanism as to how the increasing pressure on the epicardial myocytes causes slight ischemia in the region leading to high pottasium outside, which leads to a positive current away from leads leading to a negative drop in the entire waveform except the elevated st segment. But why is the st segment concave shapped in pericarditis and convex in MI?
+
+---
+## Comments
+1. u/According_Tourist_69 [score=1, created=2024-06-14T11:20:51]: Damn I might have a reason for it after thinking more about it. So pericarditis also has depressed pr segment cus the atrial epicardial myocytes are also going crazy and sending a positive current towards the leads. So initially the atrial are resting, sending a good amount of positive current towards the leads, opposing the negative current of ventricular myocytes. And as the atrial starts to depolarise and moves towards the electrically silent part of PR segment, the positive current gradually diminshes and the negative current of ventricles takes over gradually leading to a downwards moving pr segment. And during the st segment, the atrial positive current somehow makes the segment concave? I think I might be going terribly wrong somewhere, however I strongly feel the concavity has something to do with the atrial current

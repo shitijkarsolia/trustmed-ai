@@ -1,0 +1,21 @@
+Thread ID: 1odbx0c
+Subreddit: Cardiology
+Title: Question about coding for the ECG portion of the boards
+Author: Hyddr_o
+Created UTC: 2025-10-22T08:46:31
+Score: 10
+Num Comments: 10
+URL: https://reddit.com/r/Cardiology/comments/1odbx0c/question_about_coding_for_the_ecg_portion_of_the/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1odbx0c/question_about_coding_for_the_ecg_portion_of_the/
+Collected: 2025-11-15T08:26:43.098497
+===============================================================================
+
+For board purposes, when should we be coding for LAFB/LPFB? I understand the general definition and appearance of the either but what i dont get is when to code. My understanding is that we code for either when there is NO other reason for the axis change AND the QRS &lt; 120ms. However, on some of these board prep courses, despite there being an old MI, LVH or RVH I see them being coded and the RAD/LAD not getting scored. I am planning to give up on trying to code these as I dont see any good strategy for when to code these over LAD/RAD. Any advice is appreciated! Thanks
+
+---
+## Comments
+1. u/Soggy_Freedom [score=7, created=2025-10-22T13:02:50]: It is very confusing and sometimes I felt it's over coded on board prep as you mentioned with variable criteria, on one occasion it was solely based on little Q in lead I and left axis without other associated finding. I don't think it's worth coding for it and risk losing a point unless otherwise the ekg is normal and as you mentioned no LVH or MI present.
+2. u/br0mer [score=5, created=2025-10-23T12:09:17]: I didn't code that shit at all. Honestly, the ekg portion is less on how well you read EKGs and how much you know the game. It's a dumb test. Code the big stuff (rhythm, ischemia, axis, lvh) and ignore the rest. Coding wrong is worth -4 points while omitting is only -1.
+3. u/iReadECGs [score=3, created=2025-10-24T10:21:51]: My approach to the ECG portion was to give myself no more than five seconds per ECG. Anything I thought of within that five seconds, I coded. Anything else, I didn’t. It dramatically increased my score on the ECG portion and prevented me from over coding. I ended up with one of the highest scores on ECGs among people I know. You have to be decent at reading ECGs to make this approach work, but presumably you are at this point.
+4. u/ChattyCapybara [score=3, created=2025-10-24T16:46:43]: Never… click 3 no more no less unless normal
+5. u/chummybears [score=3, created=2025-10-22T16:32:03]: Don't overcode. If it's the only thing you see then I would code for it. I avoided EVER coding for LAE, RAE, LVH even if obvious. I would sometimes code LAFB/LAPB if clear Q waves. And you're right if there is another reason for the deviation don't code the axis of deviation ( don't code LAFB + Left axis) Good luck!

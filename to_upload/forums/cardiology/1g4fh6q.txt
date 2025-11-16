@@ -1,0 +1,20 @@
+Thread ID: 1g4fh6q
+Subreddit: Cardiology
+Title: Good resources for cardiac imaging 
+Author: Fluffy-Race-2968
+Created UTC: 2024-10-15T12:00:45
+Score: 8
+Num Comments: 7
+URL: https://reddit.com/r/Cardiology/comments/1g4fh6q/good_resources_for_cardiac_imaging/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1g4fh6q/good_resources_for_cardiac_imaging/
+Collected: 2025-11-15T08:33:03.795152
+===============================================================================
+
+Hi, I’m a PGY 2 IM resident interested in cardiology. I was wondering if anyone knew good/free resources to learn cardiac imaging modalities including echo, ct , mri and nuclear tests
+
+---
+## Comments
+1. u/[deleted] [score=8, created=2024-10-15T15:30:07]: [deleted]
+2. u/Creative_Event4963 [score=2, created=2024-10-16T08:33:16]: https://www.edx.org/ has good courses from Hong Kong university on cardiac CT and CMR that get you started.
+3. u/Psychological-Ruin27 [score=1, created=2024-12-29T21:44:33]: Can someone share the list again?
+4. u/Accomplished_Law8376 [score=0, created=2024-10-19T06:27:49]: clinical practice

@@ -1,0 +1,18 @@
+Thread ID: 1oxugcr
+Subreddit: askCardiology
+Title: Diagnosed symptomatic Mobitz 1 in July 2023 after 24 hour holter. Symptoms worsening since then (although no more full syncope thankfully) and pulse ox regularly showing similar values several times a day every day. Is it worth getting a new cardiologist or am i being paranoid?
+Author: brixtonbaby
+Created UTC: 2025-11-15T08:27:06
+Score: 1
+Num Comments: 0
+URL: https://reddit.com/r/askCardiology/comments/1oxugcr/diagnosed_symptomatic_mobitz_1_in_july_2023_after/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1oxugcr/diagnosed_symptomatic_mobitz_1_in_july_2023_after/
+Collected: 2025-11-15T08:37:11.138568
+===============================================================================
+
+fainted twice for the first time in my whole life in 2023. second time i fell to my knees whited out and fainted from the ground and apparently looked like a corpse i was so white. i was not referred to cardio because the nurse at the ER saw something “funny” on the monitor. i routinely get bloods and im not anaemic and have no abnormal results. i was only given a 24 hour holter and was diagnosed mobitz 1 but not to worry since thats the benign one, as well as episodes of PACS and PVS. the pulse ox was given to me by my doctor and isn’t just a cheap device from a drug store. BPM matches my apple watch always too. these events happen after i get presyncope and a few chest palps which when i sit/lat down to prevent full syncope turn into a buzzy feeling in my chest where i assume im tachycardic then i feel my neck or check the oximeter and it’s slow. batteries are brand new by the way. usually these numbers are consistent they don’t change erratically like artifact and over a minute i’ll see see the bpm climb, the SpO2 climbs slower but once bpm is at about 140+ it’ll be back at 98+. I lost my medical insurance at the beginning of the year which is why im on the fence about going and getting checked again since the doc was pretty dismissive before, but my quality of life has really been deteriorating. i can’t do anything in the heat anymore and my psych had to up my vyvanse dosage to 140 (max 2 days a week i am allowed this dose so like exams etc) because i am still chronically exhausted on 70. this was recorded on a day i got barely any sleep the night before and had taken 140 vyvanse for my final exam the following morning
+
+---
+## Comments
+1. u/PetroVenus [score=1, created=2025-11-15T08:36:27]: It is absolutely reasonable to seek a new cardiologist or urgent evaluation. Mobitz I is usually benign, but your symptoms are not.
+2. u/MATTAYELE [score=1, created=2025-11-15T09:04:12]: This kind of intermittent epesodes can be difficult to catch on holter. The best thing to do would be to buy your own home ecg. Kardia or wellue (about $200). Or if you have apple watch do ecg on that. That way you can show your cardiologist what your heart is doing

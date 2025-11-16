@@ -1,0 +1,18 @@
+Thread ID: 1oviy5a
+Subreddit: askCardiology
+Title: PVC Or PAC? Scared
+Author: Nervous_Weekend307
+Created UTC: 2025-11-12T15:00:37
+Score: 0
+Num Comments: 2
+URL: https://reddit.com/r/askCardiology/comments/1oviy5a/pvc_or_pac_scared/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1oviy5a/pvc_or_pac_scared/
+Collected: 2025-11-15T08:38:53.866082
+===============================================================================
+
+Please check this ECG
+
+---
+## Comments
+1. u/Initial-Net-7519 [score=2, created=2025-11-12T16:13:16]: Probably a PVC. Why are you scared from a single ectopic beat?
+2. u/RT_456 [score=1, created=2025-11-12T18:56:39]: Possibly a PVC. Both are considered benign anyway.

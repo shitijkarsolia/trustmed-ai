@@ -1,0 +1,19 @@
+Thread ID: 1orbpsq
+Subreddit: Cardiology
+Title: Changes in practice/policies with OMI/NOMI?
+Author: benjediman
+Created UTC: 2025-11-07T17:52:39
+Score: 4
+Num Comments: 9
+URL: https://reddit.com/r/Cardiology/comments/1orbpsq/changes_in_practicepolicies_with_ominomi/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1orbpsq/changes_in_practicepolicies_with_ominomi/
+Collected: 2025-11-15T08:26:29.061947
+===============================================================================
+
+Hi, cardiology fellow here in a developing country. We're fixing our hospital pathways and policies for our STEMI program. Just curious if the growing literature of OMI/NOMI has in any way changed practice or policies for you guys 1) Has your practice or hospital adopted concepts on OMI/NOMI? 2) Do you send patients with "OMI" pattern for immediate cath? (rather than wait for troponin) 3) If the above two don't apply to you, why not? Are there arguments against OMI/NOMI? Will appreciate input. Thanks!
+
+---
+## Comments
+1. u/themuaddib [score=9, created=2025-11-07T18:16:08]: I mean I think the biggest question for this would be what is concerned “OMI” criteria? The whole point of STEMI criteria is it has easy, quick, definitive definition for what requires immediate cath. Is there validated “OMI” criteria that is similarly definitive, quick, and simple enough for someone to decide who hasn’t done a cardiology fellowship?
+2. u/blues441677 [score=6, created=2025-11-07T18:20:04]: I have never heard of anyone using OMI/NOMI in my practice
+3. u/dayinthewarmsun [score=9, created=2025-11-07T20:06:32]: Whatever you want to call it, you should generally send patients whom you suspect have occluded arteries to the cath lab immediately. This includes STEMI/STEMI-equivalent ECGs as well as high-risk NSTE-ACS (ongoing chest pain, instability, etc.).

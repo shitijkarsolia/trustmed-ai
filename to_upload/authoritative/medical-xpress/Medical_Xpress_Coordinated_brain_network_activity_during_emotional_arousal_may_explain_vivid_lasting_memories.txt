@@ -1,0 +1,76 @@
+Title: Coordinated brain network activity during emotional arousal may explain vivid, lasting memories
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-brain-network-emotional-arousal-vivid.html
+Canonical URL: https://medicalxpress.com/news/2025-11-brain-network-emotional-arousal-vivid.html
+Filename: Medical_Xpress_Coordinated_brain_network_activity_during_emotional_arousal_may_explain_vivid_lasting_memories.txt
+Collected: 2025-11-15T17:12:22.776885
+===============================================================================
+
+Title: Coordinated brain network activity during emotional arousal may explain vivid, lasting memories
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-brain-network-emotional-arousal-vivid.html
+Collected: 2025-11-15T17:12:22.776738
+
+================================================================================
+
+November 7, 2025feature
+
+Coordinated brain network activity during emotional arousal may explain vivid, lasting memories
+
+byIngrid Fadelli, Medical Xpress
+
+edited bySadie Harley, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+Past psychology studies suggest that people tend to remember emotional events, such as their wedding, the birth of a child or traumatic experiences, more vividly than neutral events, such as a routine professional meeting. While this link between emotion and the recollection of past events is well-established, the neural mechanisms via which emotional states strengthen memories remain poorly understood.
+
+Researchers at the University of Chicago and other institutes carried out a study aimed at better understanding these mechanisms. Their findings,publishedinNature Human Behaviour, suggest that emotional states facilitate the encoding of memories by increasing communication between networks of brain regions.
+
+"Emotional experiences tend to be 'sticky,' meaning that they endure in our memories and shape how we interpret the past, engage with the present, and anticipate the future," Yuan Chang Leong, senior author of the paper, told Medical Xpress.
+
+"We wanted to understand what makes these emotional experiences so memorable. Movies and stories offered an ideal framework for this, because they weave together characters, sensory cues, and rich emotional arcs; much like many real-world emotional experiences."
+
+Emotional arousal as a catalyst for memory
+
+The primary objective of the recent study by Leong and his colleagues was to study the neural processes that make emotional memories become more persistent. To do this, they used brain imaging techniques combined with computational models that can analyze and generate texts, known asnatural languageprocessing (NLP) models.
+
+Instead of conducting a new experiment, the researchers analyzed publicly available datasets collected by other teams as part of earlier studies. During these studies, participants were asked to watch movies or listen to stories while experiments recorded theirbrain activityusingfunctional magnetic resonanceimaging (fMRI).
+
+"Participants were then asked to verbally recount what they had seen or heard," said Jadyn Park, first author of the paper. "Some scenes were more emotionally arousing than others, such as when a character tries to hide a dead body and gets caught in the act. We used behavioral ratings, pupil size, and ratings from AI models to measure how arousing each scene was."
+
+The analyses carried out by the researchers revealed that when participants were emotionally aroused, the activity of various brain networks was more coordinated than when they were in neutral or mildemotional states. Notably, this greater coordination between brain networks was found to predict how well participants remembered the scenes that they viewed during the experiment.
+
+A new interpretation of emotional memory
+
+Overall, the results of this research team's analyses suggest that emotions strengthen the synchronization between brain networks, which in turn supports the encoding of memories. Their paper thus introduces a new way of thinking about emotional memories, suggesting that it is supported by the coordinated activity of various brain regions.
+
+"Rather than viewing it as the product of individual brain regions acting in isolation, our findings suggest that emotional memory emerges from the coordinated interaction of multiple systems," explained Leong.
+
+"It is more like an orchestra, where different sections work together to create a unified performance, with arousal serving as a conductor that coordinates their activity. This perspective suggests that whether we remember an emotional memory depends not only on the strength of activity in any single region, but also on how effectively different systems communicate and share information."
+
+These researchers' new way of framing emotional memory and the coordination between brain networks that they uncovered could soon be validated in further studies. Eventually, their work could guide the development of psychological interventions designed to improve people's memory of past events.
+
+"Our study could, for example, inspire the introduction of interventions aimed at strengthening or weakeningnetworkcommunication to influence howemotional eventsare encoded and maintained," said Leong.
+
+Informing new research and psychological interventions
+
+In addition to shedding new light on the neural processes via which emotions could influence the encoding of memories, the researchers' recent efforts led to the development of new computational tools for psychology research.
+
+In the future, the NLP models they used could prove useful for studying other memory processes, such as personally meaningful autobiographical memories.
+
+"Ultimately, our study could pave the way for studies focusing on how emotional experiences shape our life stories and could help to design interventions that directly target these functional brain networks," added Park.
+
+"For example, we could actively change their functional organization using neurostimulation such as TMS, or pharmacologically through agents like beta blockers. Our goal is to further test the relationship between network integration andmemory, and, in the long run, explore ways this could help individuals with trauma or negative memories."
+
+Written for you by our authorIngrid Fadelli, edited bySadie Harley, and fact-checked and reviewed byRobert Egan—this article is the result of careful human work. We rely on readers like you to keep independent science journalism alive.
+    If this reporting matters to you,
+    please consider adonation(especially monthly).
+    You'll get anad-freeaccount as a thank-you.
+
+More information:Jadyn S. Park et al, Emotional arousal enhances narrative memories through functional integration of large-scale brain networks,Nature Human Behaviour(2025).DOI: 10.1038/s41562-025-02315-1.Journal information:Nature Human Behaviour
+
+© 2025 Science X Network

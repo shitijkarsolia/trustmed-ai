@@ -1,0 +1,21 @@
+Thread ID: 1cre48j
+Subreddit: Cardiology
+Title: Why females have a longer baseline QTI?
+Author: rosh_anak
+Created UTC: 2024-05-13T16:45:07
+Score: 5
+Num Comments: 5
+URL: https://reddit.com/r/Cardiology/comments/1cre48j/why_females_have_a_longer_baseline_qti/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1cre48j/why_females_have_a_longer_baseline_qti/
+Collected: 2025-11-15T08:35:04.978973
+===============================================================================
+
+(No selftext provided.)
+
+---
+## Comments
+1. u/Significant_Bit_1683 [score=6, created=2024-05-13T18:06:05]: One proposed mechanism is due to different hormone (estrogen, progesterone, testosterone) levels affecting activity of different ion channels in the heart. The overall net effect is why females have longer qt intervals than males. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3430484/#:~:text=Estrogen%20decreases%20potassium%20channel%20current,QT%20interval%20through%20this%20mechanism.
+2. u/Equivalent_Earth8608 [score=1, created=2024-05-16T20:36:10]: Is that on a formula? Like a QT of a man = b QT of a woman, a,b being decimal numbers
+3. u/haevyndesign [score=1, created=2024-06-08T09:05:33]: What would you say about this 32 year old female patient? May 2024: 354 qt 459 qtc February 2024: 354 qt 431 qtc November 2023 368 qt 454 qtc June 2023 374 qt 450 qtc May 2023: 324 qt 465 qtc May 2023: 362 qt 478 qtc Sept 2022: 340 qt 463 qtc
+4. u/haevyndesign [score=1, created=2024-06-08T09:06:57]: Is this cause for concern? 32 year old female patient 5/2024: 354 qt 459 qtc 2/2024: 354 qt 431 qtc 11/ 2023 368 qt 454 qtc 6/2023 374 qt 450 qtc 5/2023: 324 qt 465 qtc 5/2023: 362 qt 478 qtc 9/2022: 340 qt 463 qtc
+5. u/haevyndesign [score=1, created=2024-06-08T09:06:57]: Is this cause for concern? 32 year old female patient 5/2024: 354 qt 459 qtc 2/2024: 354 qt 431 qtc 11/ 2023 368 qt 454 qtc 6/2023 374 qt 450 qtc 5/2023: 324 qt 465 qtc 5/2023: 362 qt 478 qtc 9/2022: 340 qt 463 qtc

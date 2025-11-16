@@ -1,0 +1,22 @@
+Thread ID: 1hjcm8j
+Subreddit: Cardiology
+Title: PDF apps for ECG analysis/research
+Author: JustAnotherNerd12
+Created UTC: 2024-12-21T08:55:21
+Score: 13
+Num Comments: 7
+URL: https://reddit.com/r/Cardiology/comments/1hjcm8j/pdf_apps_for_ecg_analysisresearch/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1hjcm8j/pdf_apps_for_ecg_analysisresearch/
+Collected: 2025-11-15T08:32:09.800360
+===============================================================================
+
+Starting to do a bunch of cardiology/EP research (IM resident), curious what apps people here use to mark up, annotate or analyze ECGS on both macbook and iPad. Thanks in advance!
+
+---
+## Comments
+1. u/CardiologistCapital [score=7, created=2024-12-21T09:01:37]: EP Calipers on the Apple App Store
+2. u/eagle2k13 [score=1, created=2024-12-21T20:34:09]: What are you looking to do? There's a free caliper tool from Stanford for making measurements on your Mac (DFR Calipers)
+3. u/Remote-Status-3066 [score=1, created=2024-12-22T09:12:08]: While studying I personally uploaded/saved to OneNote because I could type or draw over images. Auto saves and translates between devices.
+4. u/fruityuv [score=1, created=2024-12-24T00:57:11]: .
+5. u/astralradianz [score=-5, created=2024-12-23T00:38:21]: Ik this is off-topic but I’m an aspiring interventional cardiologist in middle school. - currently in science Olympiad. What can I do to achieve my goal
+6. u/sitgespain [score=-11, created=2024-12-21T10:40:37]: How are you able to be approved as a poster here?

@@ -1,0 +1,22 @@
+Thread ID: 1kxzo63
+Subreddit: Cardiology
+Title: Fluid restriction practices
+Author: yhezov
+Created UTC: 2025-05-28T19:30:34
+Score: 21
+Num Comments: 11
+URL: https://reddit.com/r/Cardiology/comments/1kxzo63/fluid_restriction_practices/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1kxzo63/fluid_restriction_practices/
+Collected: 2025-11-15T08:29:19.783633
+===============================================================================
+
+After the FRESH-UP trial, have any cardiologists been able to stop putting their patients on fluid restrictions? Are they still doing it? I’m curious how fast/slow practice changes to new high quality information
+
+---
+## Comments
+1. u/Onion01 [score=41, created=2025-05-28T19:32:15]: I’ve literally never fluid restricted outside those very advanced HF patients who are profoundly hyponatremic. Getting water off is easy, keeping salt off is hard.
+2. u/Sibidi [score=38, created=2025-05-28T20:36:12]: 1764 mL vs 1483 mL between the two groups, a good conclusion from FRESH-UP is that 1 glass of water doesn't change outcomes and gets you less thirsty. At least the cardiologists from my hospital read it like that, not truly a practice changing trial.
+3. u/Less-Organization-25 [score=20, created=2025-05-28T22:17:34]: I never fluid restrict my heart failure patients, but may be the most aggressive sodium restricter in the country. Nothing makes me more angry than a nephrologist or hospitalist giving a patient salt tabs for hyponatremia.
+4. u/dan10016 [score=7, created=2025-05-30T02:43:55]: Just to be clear for those that may not have read the trial, it studied chronic HF patients in OP setting, not acute decompensated HF in inpatients, where fluid restriction, while very unpleasant, is still thought essential. I don't tell my chronic HF patients to restrict fluid at home, only to drink when thirsty and not out of habit.
+5. u/PerspectiveDue1443 [score=3, created=2025-05-29T01:01:27]: Restricting all patients to the Same fixed amount/quantum doesn‘t really make Sense in my opinion. I rather tell them to drink roughly the same amount every day (maybe except for Hot days), which usually allows adequate Volume Management (with diuretics)
+6. u/Guidewire_ [score=2, created=2025-06-13T20:54:33]: I never order fluid restriction. My program is garbage at heart failure anyways and 80% of the HF players are on BID diuretic so if they like their water cup too much I take make it TID lol

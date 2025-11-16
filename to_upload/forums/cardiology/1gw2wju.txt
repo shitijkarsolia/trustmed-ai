@@ -1,0 +1,29 @@
+Thread ID: 1gw2wju
+Subreddit: Cardiology
+Title: Radiation Safety - Lead Caps
+Author: MDSCFL3
+Created UTC: 2024-11-20T17:23:10
+Score: 15
+Num Comments: 25
+URL: https://reddit.com/r/Cardiology/comments/1gw2wju/radiation_safety_lead_caps/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1gw2wju/radiation_safety_lead_caps/
+Collected: 2025-11-15T08:32:38.957741
+===============================================================================
+
+IC currently practicing, wanted to get the feel of who uses lead caps in the Cath lab. Some basic studies out there I’ve seen using detectors in and outside the cap with the use of the shield show negligible radiation. Pro/against caps wanted to see if anyone had further insight. Been using one since getting out of fellowship almost every case.
+
+---
+## Comments
+1. u/[deleted] [score=3, created=2024-11-20T18:13:15]: I’m EP- we use them. The data is poor but they had them- predating me- and so I figure why not.
+2. u/JuniorSquirrel3323 [score=5, created=2024-11-20T18:20:05]: No benefit. Take a look at where shield is on Zero Gravity, below your face. That’s where the scatter is coming from. Would ask your lab for a new lead-free system.
+3. u/diffferentday [score=3, created=2024-11-21T16:15:45]: EP here. Zero grav sucks ass. It's cumbersome and constantly makes me concerned for sterility. Learned to be zero flouro for ablations instead. Pacers just learn to be faster and use half and quarter frame flouro. Head caps don't help
+4. u/Onion01 [score=3, created=2024-11-20T17:38:43]: Against. Like 3% decreased exposure IF you get the ridiculous one with the side folds. Most exposure is from scatter coming from below.
+5. u/Angiotensin [score=3, created=2024-11-24T15:11:34]: Im a current IC fellow -- our program bought them for us and I use it. It doesn't look like they make a huge difference in exposure but mine is lightweight so I figure why not. I think the reason the program got them was partially related to an interventionalist friend of our PD developing a left-sided GBM.
+6. u/KtoTheShow [score=2, created=2024-11-20T19:26:44]: I don't use them. Minimize my 'hat hair' ;)
+7. u/pumpman246 [score=2, created=2024-11-24T11:55:26]: Radiation safety is so important and I am really happy it's being taken more seriously with all the scatter protection devices coming to market and being adapted like eggnest, Rampart and Protego. There is also bunch of flouro-less technology coming down the pipeline integrated with CT similar to ablation technology of EP This is an excellent video for understanding scatter sources better and how to minimize your dose: [https://youtu.be/QX\_EbJFr87k?si=fRZHFsHMceqSWaTD](https://youtu.be/QX_EbJFr87k?si=fRZHFsHMceqSWaTD)
+8. u/dayinthewarmsun [score=1, created=2024-11-21T22:40:29]: I don't use. 99% of radiation (if you don't put yourself in the beam) radiates in a straight line from where the X-ray beam passes through the patient. The lead cap doesn't intersect any significant amount of that.
+9. u/Individual-Ad-2327 [score=1, created=2024-11-23T06:53:26]: Try the No Brainer from Radpad if you really think there's a need.
+10. u/ryouf-ingkiddingme [score=1, created=2024-11-23T11:49:38]: A lab I worked in used rampart and it was ammmmazijg not to have to wear lead!
+11. u/Creepysarcasticgeek [score=1, created=2024-11-24T22:28:05]: Negligible radiation reduction, more importantly it makes my head warm and sweaty. I don’t wear them. I’m convincing our hospital to get rampart instead.
+12. u/Broad_QRS [score=1, created=2025-10-14T16:04:23]: There are a fair few phantom studies with detectors placed within the cranium that give good data regarding how much protection the caps provide. Main takeaways are: - Standard cap provides very minimal brain protection, especially for procedures where you are closer to the primary beam (eg device implants). As the distance from beam increases, the degree of protection rises slightly (eg up to 20% for some regions of the brain at femoral location). - Cap with ear flaps are SUPER effective, particularly in LAO where you are receiving the majority of your scatter radiation. Studies show anywhere from 70-85% reduction in left temporal lobe dose when you have a flap on your left side in the radial/femoral position. Unfortunately, they are less effective in AP (30-40%) and less effective when positioned for device implants. - Ceiling suspended lead shields are your no. 1 protection and placing these optimally (ie minimal gap between patient and the bottom of the shield) will make the most difference. - 65% of the radiation that reaches your brain enters between the level of your eyes and mouth ipsilateral to tube side, 20% at the level of your jaw/chin tube side and only 5% at forehead level. That is why standard caps are minimally effective. For device implants, unfortunately many labs don’t have set up for ceiling suspended lead shields. So I use lead cap with lateral flaps on both sides (right side more exposed during access and left side more exposed when manipulating lead) and for CRT cases, I also wear a panoramic half-length lead visor that is tilted down so as to intercept scatter.
+13. u/redux173 [score=0, created=2024-11-21T05:29:07]: They’re pointless. Your brain/skull isn’t even particularly radiosensitive. Plus to echo what everyone else said, there’s no radiation coming from the ceiling.

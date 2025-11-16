@@ -1,0 +1,57 @@
+Title: Big sex differences found in how diet and insulin rewire muscle for better blood sugar
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-big-sex-differences-diet-insulin.html
+Canonical URL: https://medicalxpress.com/news/2025-11-big-sex-differences-diet-insulin.html
+Filename: Medical_Xpress_Big_sex_differences_found_in_how_diet_and_insulin_rewire_muscle_for_better_blood_sugar.txt
+Collected: 2025-11-15T16:58:32.765270
+===============================================================================
+
+Title: Big sex differences found in how diet and insulin rewire muscle for better blood sugar
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-big-sex-differences-diet-insulin.html
+Collected: 2025-11-15T16:58:32.765136
+
+================================================================================
+
+Big sex differences found in how diet and insulin rewire muscle for better blood sugar
+
+byUniversity of Michigan
+
+edited byGaby Clark, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+New research found that restricting calories dramatically rewires proteins in rat skeletal muscle, causing molecular changes that boost insulin sensitivity—crucial for blood sugar control in older adults, say scientists at the University of Michigan and the University of Sydney.
+
+Surprisingly, roughly 70% of themolecular changesthat the muscles used to adapt were sex-dependent. The study also identified two key proteins, Lmod1 and Ehbp1l1, that were associated with greater muscleglucose uptakeand which are known to have strong genetic associations with regulating human blood sugar.
+
+The study is important because its sex-specific findings underscore the need for tailored strategies to develop interventions that combat age-related diabetes and diabetes in general. The identified proteins could serve as therapeutic targets for conditions such as type 2 diabetes, the researchers say.
+
+Sex differences in muscle adaptation
+
+"I think now we agree that we need to study men and women; you can't study one and assume it means the truth for the other," said principal investigator Greg Cartee, professor of movement science at the U-M School of Kinesiology. "And even when the outcome is quite similar, the pathways to getting to that outcome can be different."
+
+Cartee said the "discovery study,"publishedin theJournal of Gerontology, Series A: Biological Sciences and Medical Sciences, aimed to identify the specific changes in muscle protein phosphorylation that explain why calorie restriction enhances insulin-stimulatedglucoseuptake in theskeletal muscleof aged rats of both sexes. Phosphorylation acts like a chemical switch on a protein that can either dim or enhance a function, or turns it on or off.
+
+The 24-month-old rats were fed 35% less food for eight weeks. Researchers found that calorie restriction enhanced insulin-stimulated glucose uptake in both sexes, but glucose uptake was greater in females, regardless of diet.
+
+Different molecular pathways, same results
+
+Insulin caused altered phosphorylation on more than twice as many protein sites in females compared to males, with 60 overlapping sites. However, calorie restriction caused altered phosphorylation on about 30% more protein sites of males compared to females, Cartee said. In other words, males and females don't use identical internal strategies to adapt to the low-calorie diet, but both strategies lead to the same positive result: better muscle sugar metabolism.
+
+"The key functional outcome that we studied––insulin-stimulated glucose uptake––was similarly increased by calorie restriction in each sex even though the two sexes differed considerably in their protein phosphorylation patterns," Cartee said.
+
+"An imperfect analogy is that when you use Google Maps, you typically are given multiple routes to reach the destination. Males and females don't use completely separate 'roads' to achieve increased glucose uptake; they may travel the same roads but use different lanes or drive at different speeds along the way."
+
+Key proteins and future directions
+
+Two proteins, Ehbp1l1 and Lmod1, were identified as having insulin-responsive phosphorylation sites that correlated directly with insulin-stimulated glucose uptake across individuals. Both proteins have known genetic associations with glycemic traits in humans.
+
+Cartee said researchers recently performed a parallel experiment using a similar design, but instead analyzed the levels of a large number of metabolites—chemicals in the body that originate from the diet or from the body's metabolism.
+
+"Of the approximately 1,000 different metabolites that we measured, the levels of about 40% were altered bycalorie restrictionwithin each sex," he said. "A number of the metabolites were altered in both sexes, but significant numbers of these CR-responsive metabolites were altered in only one sex."
+
+Co-authors include Haiyan Wang, Amy Zheng and Edward Arias, University of Michigan; Søren Madsen, Jacqueline Stöckli, Harry Cutler and David James, University of Sydney; Elise Needham, University of Sydney and University of Cambridge; and Sean Humphrey, University of Sydney and Royal Children's Hospital.
+
+More information:Haiyan Wang et al, Sex-specific phosphoproteome responses to calorie restriction and insulin in skeletal muscle from older rats,The Journals of Gerontology, Series A: Biological Sciences and Medical Sciences(2025).DOI: 10.1093/gerona/glaf231

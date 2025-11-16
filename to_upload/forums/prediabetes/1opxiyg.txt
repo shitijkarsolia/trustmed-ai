@@ -1,0 +1,19 @@
+Thread ID: 1opxiyg
+Subreddit: prediabetes
+Title: I’m I prediabetic?
+Author: Ancient_Site5678
+Created UTC: 2025-11-06T05:25:26
+Score: 3
+Num Comments: 14
+URL: https://reddit.com/r/prediabetes/comments/1opxiyg/im_i_prediabetic/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1opxiyg/im_i_prediabetic/
+Collected: 2025-11-15T08:24:46.651298
+===============================================================================
+
+Hi everyone, I’m a 30-year-old woman, healthy, eat clean, and lift weights regularly. I used to have PCOS when I was younger and my periods were irregular, but things are normal now. Recently, I noticed that my fasting blood glucose is usually around 102 mg/dL in the morning. I read online that this could be considered prediabetic, and it’s making me a bit anxious. I also have a strong family history of type 2 diabetes, my dad and most of his siblings are diabetic. Should I be concerned or is this within a normal variation? Are there any tests or steps I should take to stay on top of it?
+
+---
+## Comments
+1. u/millymoobella36 [score=11, created=2025-11-06T05:34:34]: Just because periods are back doesn’t mean the pcos is gone. It’s a metabolic disorder. It affects our body’s in so many different ways.
+2. u/JoulSauron [score=2, created=2025-11-06T07:07:19]: To know if you are pre-diabetic, get a blood test for A1C, anything else is irrelevant.
+3. u/CapriKitzinger [score=2, created=2025-11-06T08:05:46]: I’ve always disliked morning blood glucose measures. That’s when cortisol is at its highest. Just grab a Stelo or another CGM and you see a much bigger picture. Post meal glucose spikes are the biggest contributor to cardiovascular damage. https://pmc.ncbi.nlm.nih.gov/articles/PMC7530333/ Importance of Continuity to Glycemic Control: Postprandial Glucose Concentrations May Cause the Most Harm in Diabetes. Epidemiological research now suggests that postprandial high glucose “spikes” as opposed to high average glucose levels are a more important determinant in CVD development in diabetes. Therefore, we argue that new glucose lowering strategies should be more directed against the reduction of postprandial spikes, than of HbA1c and/or average glucose, as such a strategy should avoid concomitant episodes of hypoglycemia. The extent to which HbA1c captures transient hyperglycemic episodes seems to be highly dependent on the type of diabetes, and degree of overall glycemic control.

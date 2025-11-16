@@ -1,0 +1,17 @@
+Thread ID: 1otwbo1
+Subreddit: askCardiology
+Title: Awaiting CCTA
+Author: 436irish
+Created UTC: 2025-11-10T18:25:52
+Score: 3
+Num Comments: 2
+URL: https://reddit.com/r/askCardiology/comments/1otwbo1/awaiting_ccta/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1otwbo1/awaiting_ccta/
+Collected: 2025-11-15T08:39:55.427835
+===============================================================================
+
+Hi. 30F with 13 year history of chest pain, SOB, and dizziness during running. After the worst half marathon of my life (it was number 6 or 7 for me, I walk for most of the mileage), I finally decided to see my dr about my symptoms again. They were previously written off as asthma even though daily inhalers showed no improvement and albuterol did not curb symptoms when exercising nor did it show a difference on PFTs. The following is a summary of my cardio appointment: “Exam is completely unremarkable. EKG today is sinus at 90 bpm with a borderline right axis. The chest discomfort is unusual and that it is extremely reproducible with running. And it never occurs at rest. I am concerned that she may have a congenital coronary anomaly such as anomalous origin of the right coronary artery which may be getting trapped and causing the problem.” Of course, off to Dr. Google I went and alas, scary information. Cardio felt CCTA will probably come back normal due to rarity of condition, but obviously until then I have no other ideas. Cardio won’t discuss other options until he gets these results back but the soonest I can be seen (so far) is January. Any other ideas on what this could be?
+
+---
+## Comments
+1. u/Impressive_Donut3122 [score=2, created=2025-11-10T19:29:34]: Possible causes could include coronary artery spasms, microvascular angina, or another form of non-obstructive coronary disease. It could also be related to an electrical issue like an arrhythmia that is only triggered by intense exercise.

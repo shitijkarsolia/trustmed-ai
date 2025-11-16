@@ -1,0 +1,19 @@
+Thread ID: 1m4zmcn
+Subreddit: Cardiology
+Title: General Board Prep
+Author: lagniappe-
+Created UTC: 2025-07-20T13:45:56
+Score: 10
+Num Comments: 14
+URL: https://reddit.com/r/Cardiology/comments/1m4zmcn/general_board_prep/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1m4zmcn/general_board_prep/
+Collected: 2025-11-15T08:28:43.219308
+===============================================================================
+
+Has anyone used board vitals? How were the questions compared to the exam? I went through ACCSAP a couple times during fellowship and found it was much more helpful for the ACC run ITE questions than the ABIM ITE’s, which were a lot more random questions and more similar to real boards I’m assuming.
+
+---
+## Comments
+1. u/doc2025 [score=4, created=2025-07-20T15:13:24]: Focus on day 2 if you've done one qbank already, you only need mayo clinic videos plus ACCSAP for day 1. Day 2 is most often the day people fail.
+2. u/UnhappyWater4285 [score=2, created=2025-07-20T18:42:14]: What is the ABIM ITE ? Isn’t it all ACC run ?
+3. u/Popular_Jeweler [score=1, created=2025-07-31T10:59:24]: What resources do you think you could use for day 2? ECG Source and minimal coding for the EKG portion, but what to use for the echo and cath coding sections? I've heard CathED has been recommended before for the cath coding section but what is the strategy? Do you code everything you see unless the EKG section where one only codes the main 1-2 things?

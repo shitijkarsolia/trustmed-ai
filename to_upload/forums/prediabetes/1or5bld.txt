@@ -1,0 +1,20 @@
+Thread ID: 1or5bld
+Subreddit: prediabetes
+Title: Glucose reading very high ~140 in the morning
+Author: WinnarlysMistress
+Created UTC: 2025-11-07T13:27:57
+Score: 2
+Num Comments: 11
+URL: https://reddit.com/r/prediabetes/comments/1or5bld/glucose_reading_very_high_140_in_the_morning/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1or5bld/glucose_reading_very_high_140_in_the_morning/
+Collected: 2025-11-15T08:24:25.988899
+===============================================================================
+
+I had an A1C of 6.4 and Fasting BG of 124 in August. Since then I’ve gone from 208lb to 180lb (I’m 6’3”,) started running, lifting some, eating good (I’ve been eating worse the past couple weeks) and everything has improved for the most part. My blood sugar doesnt spike high even after eating like nachos or chipotle. The only thing I don’t understand is that every time I test my glucose in the morning within 30 minutes of waking up, it is like 140. If I check after like an hour of waking up it’s closer to 120-130 and after about 3-4 hours it’s 100 or lower. I’m really worried about why it’s so high in the morning when it rarely spikes that high after eating. Does anyone have any insight on why this may be happening?
+
+---
+## Comments
+1. u/PHL1365 [score=4, created=2025-11-07T13:36:50]: Dawn phenomenon. Pretty common, from what I understand.
+2. u/SleepyKoalaBear4812 [score=1, created=2025-11-07T13:40:44]: You should check with your PCP. Mine explained that glucose is always high first thing in the morning because while you are sleeping your pancreas is doing its thing correctly. My highest spikes while wearing a CGM were from 11pm to 2am, and my highest readings and FSBS were right after waking up, and all considered completely normal functioning.
+3. u/ShinyBeetle0023 [score=1, created=2025-11-07T13:42:02]: I had similar patterns. Great postprandial glucose numbers but higher fasting glucose. A1C was borderline. Basically, my understanding is that it’s caused by persistent insulin resistance and chronic cortisol levels. I am treating my insulin resistance with low glycemic index eating habits, exercise, and meds and am working to lower my chronic cortisol with better sleep and resting habits. Better sleep and rest habit also improves insulin sensitivity. Good luck and congrats on losing nearly 30 lbs!
+4. u/ctbdp02 [score=1, created=2025-11-08T19:12:51]: If your fasting blood sugar is consistently over 120 I would suggest rather see an endocrinologist.

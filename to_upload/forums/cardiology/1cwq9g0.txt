@@ -1,0 +1,17 @@
+Thread ID: 1cwq9g0
+Subreddit: Cardiology
+Title: Invasive coronary artery function testing
+Author: caffeineismysavior
+Created UTC: 2024-05-20T13:58:25
+Score: 2
+Num Comments: 1
+URL: https://reddit.com/r/Cardiology/comments/1cwq9g0/invasive_coronary_artery_function_testing/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1cwq9g0/invasive_coronary_artery_function_testing/
+Collected: 2025-11-15T08:35:01.445633
+===============================================================================
+
+Hey cardiology experts, Does your institution perform invasive coronary function testing? If not, why not? My hospital does not, and one reason is that we don't have the materials for it yet. The other thing is that many of my colleagues feel that it's too much of a burden to do more testing when you can just do trial and error to see which anti-anginals work for the patient. Is there a list of institutions that perform invasive CFTs? Would like to get this for reference.
+
+---
+## Comments
+1. u/dayinthewarmsun [score=2, created=2024-05-26T23:07:56]: Yes we do. Mostly used for research. I’m not aware of an institution lost, but most places in the US use the Coroventis/CoroFlow system, so if you want to know who does it, it might be a good idea to reach out to your Abbott coronary rep and ask them.

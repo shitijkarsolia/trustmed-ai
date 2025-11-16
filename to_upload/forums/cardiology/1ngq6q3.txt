@@ -1,0 +1,23 @@
+Thread ID: 1ngq6q3
+Subreddit: Cardiology
+Title: Office holter monitors
+Author: VermicelliSimilar315
+Created UTC: 2025-09-14T05:35:50
+Score: 3
+Num Comments: 17
+URL: https://reddit.com/r/Cardiology/comments/1ngq6q3/office_holter_monitors/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1ngq6q3/office_holter_monitors/
+Collected: 2025-11-15T08:27:43.045670
+===============================================================================
+
+Hi Everyone. I a Family Medicine solo doctor. I send patients out for a holter monitor. I would like to offer this in my office. Any suggestions as to what brand I should look for? I want something that is very easy to apply and hook up to the patient. And is not complicated for the patient to interact with when they are using it. There was a post about this, but it was 5 years ago. The office I send my patients to uses Zio. Is this considered in your expert opinion a good option? It really from what I heard does not reimburse all that well. Thanks in advance for your time and help.
+
+---
+## Comments
+1. u/DisposableServant [score=15, created=2025-09-14T06:34:56]: Our office uses bardy, zio, and Boston sci/preventice. Cant go wrong with any but Boston scientific is the best imo. I guess the bigger question is, who will be generating the reports, interpreting the rhythm strips/events, and taking overnight calls for emergency results? Keep in mind that rhythm interpretations generated in the reports are frequently erroneous and need ordering MD interpretation/verification.
+2. u/noltey22 [score=3, created=2025-09-14T19:05:40]: Holters are for the dinosaurs, go with something longer and wearable like a Zio patch or Kardia monitor
+3. u/---root-- [score=3, created=2025-09-14T05:53:43]: If you do not want to rely on external services, there are plenty of holter monitors available from all major medical equipment manufacturers, none of which you can go wrong with. The question is whether such an investment is economical for you, especially as holters are usually more of a cardiology territory. I personally quite like the Schiller medilog devices, but if you prefer more of a reusable patch type system for your patients, the Cardioline Walk Free is a fairly interesting alternative to Zio. Edit: typo
+4. u/one_plain_slice [score=3, created=2025-09-14T06:00:53]: We use Zio and Philips. All should be easy to hook up. I would choose whatever is most accessible for you, likely to be covered by your payors, and whoever’s rep is most responsive. Curious on the logistics. Will you bill for application/instructions (eg 93246) and then partner w a local cardiology group for the interpretation piece?
+5. u/Gideon511 [score=3, created=2025-09-14T06:54:49]: I like Bardy Dx personally, it allows you to see the p wave more clearly which can help in terms of differentiating arrhythmias
+6. u/spyda24 [score=3, created=2025-09-14T09:43:12]: They all have their plus and minuses. I’ve worked with all the companies there are and no longer there. For a true short term holter(24 or 48 hours), Boston scientific/preventice is ideal since they are waterproof and small, patients can shower with it on. We work with many patients who are pilots(FAA require more than one lead monitor for them) for a true 24 or 48 hour holter, if you decide to go with Boston Scientific, request the 3 leads cable set instead of strips. For 7-14 days, zio’s are great but they have the tendency to fall of early and patients get multiple replacements and chance of being accidentally double billed. Also some patients are allergic to the zio adhesive.
+7. u/Oxford___comma [score=2, created=2025-09-14T05:49:06]: I prefer Bardy to Zio --- interested in others' opinions

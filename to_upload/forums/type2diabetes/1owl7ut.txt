@@ -1,0 +1,19 @@
+Thread ID: 1owl7ut
+Subreddit: type2diabetes
+Title: Counting carbs
+Author: Infinite_List_6163
+Created UTC: 2025-11-13T20:01:13
+Score: 2
+Num Comments: 6
+URL: https://reddit.com/r/type2diabetes/comments/1owl7ut/counting_carbs/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1owl7ut/counting_carbs/
+Collected: 2025-11-15T08:11:04.692213
+===============================================================================
+
+When I’m counting carbs and aiming for below 40g per day is that net carbs or total carbs?
+
+---
+## Comments
+1. u/SJgunguy24 [score=1, created=2025-11-14T16:58:20]: I stick to total carbs. No messing around with math or trying to be funny. Look up, Dr. Eric Westman on YouTube. He runs the obesity clinic at Duke University and is a treasure trove of information about metabolic disorders. So is Dr Tony Hampton. They fix people like us for a living and give straight answers. Ken D Barry is excellent as well. Everyone is different, and like said earlier, what spikes someone else may have no effect on you at all.
+2. u/anneg1312 [score=1, created=2025-11-14T12:50:25]: I went by net and it worked but took a bit longer. Going by total is the strictest and will work faster.
+3. u/hu_gnew [score=3, created=2025-11-14T00:52:55]: The net vs total carb thing can stir up a storm. The problem is some things that count as fiber on a nutrition label can in fact make your blood glucose rise depending on how your body reacts to them. Two of such are modified starches and resistant starches. In my case modified starches will give me a very large spike while resistant starches don't have that affect if consumed in appropriate amounts. A lot of products that tout zero or low net carbs use these ingredients and they'll be listed 1st or 2nd. The way I deal with this is by avoiding modified starches entirely and making sure I deduct the total carbs in things with resistant starches from my daily carb budget. When listed I do deduct non-soluable fiber to calculate a figure for net carbs. The details on nutrition labels can be very helpful when eating mindfully and with purpose.

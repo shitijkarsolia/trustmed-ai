@@ -1,0 +1,21 @@
+Thread ID: 1g5zvz3
+Subreddit: Cardiology
+Title: IABP question
+Author: perfusiongirl
+Created UTC: 2024-10-17T12:59:00
+Score: 11
+Num Comments: 8
+URL: https://reddit.com/r/Cardiology/comments/1g5zvz3/iabp_question/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1g5zvz3/iabp_question/
+Collected: 2025-11-15T08:33:02.496281
+===============================================================================
+
+Hello, I am a perfusionist and trying to better understand the IABP wave form. I understand the basics but I just want to have a better grip on the cause and effect. Here is one example waveform and if someone could help me understand what would be the difference between lack of trigger and no augmentation that would be great. I assume early inflation and late inflation are incorrect assumptions based of the position of dicrotic notch? The Arterial wave seems to been unaltered so i would assume there is simply no augmentation occurring? if there is, i'm not sure what would cause this appearance besides lack of trigger possibly from failed to open balloon. Any explanations are welcomed and appreciated thank you! *I am NOT looking for abcd answers, I have a key.* Just want to understand because there's no explanations.
+
+---
+## Comments
+1. u/astrofuzzics [score=4, created=2024-10-19T04:53:53]: Top waveform is ECG. Middle waveform is blood pressure tracing (I assume this is from the balloon and not from a separate arterial line). Third waveform is pressure inside the balloon (I.e. the mechanism moving helium gas in and out of the balloon to inflate and deflate it). Looking at the top waveform and the bottom waveform, the balloon is inflating on the T-wave and deflating just before the QRS - the timing of deflation seems a bit early but not dramatically; overall the timing is probably fine. The arterial waveform, however, has a normal dicrotic notch with absolutely no augmentation whatsoever. So the balloon is in an artery (it’s transducing arterial pressure), and the gas pressure inside it is rising and falling appropriately, but it’s not having any hemodynamic effect. Based on this, I’d say there’s no augmentation, the balloon failed to unwrap, and blood gases aren’t useful (the balloon is in an artery, you’re going to get an arterial gas from both samples). Balloon malposition is common in that these things tend to migrate up and down the aorta after they’re put in, but that would result in suboptimal augmentation, not complete absence of augmentation. The alternate scenario which comes to mind is that the middle tracing is from a separate arterial line, not from the balloon itself. This changes things. The timing and trigger are still fine, and there’s still no augmentation. But if that is a radial arterial line tracing, and we don’t have a tracing from the balloon, there is a possibility that the balloon was placed in a vein rather than an artery, and that’s why there’s no augmentation in the artery. In that case, a blood gas from the IABP would show venous blood and would be useful in diagnosing the problem, and I’d say status alarms are least useful. Curious to know what the correct answers are.
+2. u/ImmediateJicama2496 [score=2, created=2024-10-19T01:35:47]: IABP is not triggering based on EKG (some beats you can clearly see it going up in systole, i.e during QRS). Also, its not augmenting the BP at all, the arterial form is not showing any augmentation when balloon is inflating.
+3. u/TourSweaty [score=2, created=2024-10-21T07:57:05]: I think the answer is D because the balloon is triggering inflate/deflate based on 3rd waveform but there is no meaningful effect in the arterial waveform (2nd waveform), as in there is no sign of augmented or assisted diastolic or systolic pressures. IABP is functioning as it’s programmed (unclear details other than 1:1) but there’s no augmentation. Would like to see what answer is as well
+4. u/dandruff-free [score=1, created=2024-10-17T17:45:20]: Following and can I have the answer key please
+5. u/matchrute [score=1, created=2024-10-19T06:01:30]: Didn‘t know that IABPs still exist? What country is it? Here in Germany first choice is Impella in this case

@@ -1,0 +1,19 @@
+Thread ID: 1odqcw9
+Subreddit: Cardiology
+Title: Level 3 echo certification
+Author: GoldCategory3501
+Created UTC: 2025-10-22T18:22:21
+Score: 12
+Num Comments: 5
+URL: https://reddit.com/r/Cardiology/comments/1odqcw9/level_3_echo_certification/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1odqcw9/level_3_echo_certification/
+Collected: 2025-11-15T08:26:41.479982
+===============================================================================
+
+Hey everyone, Currently a fellow and looking towards job hunting and graduation, what is the process for proving that you're level 3 in echo? I looked at the NBE website and through the ASCeXAM Certification process and all it asks for is proof that you've completed enough for level 2. Is there a specific process you have to go through to become level 3 certified? Thanks Edit: I have the numbers and requirements for level 3. I'm applying to all academic jobs and some of the positions require level 3 echo so I just wanted to know the actual physical steps to prove to them that I'm level 3 and wasn't sure whether that was something that came from NBE or just from my program
+
+---
+## Comments
+1. u/dayinthewarmsun [score=8, created=2025-10-22T18:37:16]: Letter from program director.
+2. u/FoolYa [score=6, created=2025-10-22T20:06:02]: Three requirements to achieve level III: 1) Time—minimum 9 months of echo. This is achievable in many clinical cardiology programs and possibly some community programs or academic programs that allow elective time instead of research time. Otherwise youd need to do some type of extra dedicated ”imaging” year where they usually give you additional training in ct/mri and nuc. If you cant achieve the time requirement in your program you should really consider if the juice is worth the squeeze. 2) Case requirements—i believe its 150 TEE’s; perform, like do the scanning for 150 TTE’s; read over 750 TTE; read 200 DSE’s, then there are some other things like 50 or so strain studies, 100 contrast studies, some interventional tee studies, and some ice studies. Those are just minimum numbers but in reality youd want to be well above those bench marks. 3) Scholarly activity—usually people do some type of QA/QI type thing. Once you have completed all that you then have to have a letter from the director of your echo lab stating that you achieved all that stuff. Understand though that you do not need level 3 to perform tee’s or interpret ttes etc. level 3 provides you the ability to run an echo lab. If you are not pursuing a career in academics its probably not worth it
+3. u/UnhappyWater4285 [score=1, created=2025-10-31T11:46:20]: Are you comfortable with structural TEE ? then you are level III ,that’s how academic jobs see it

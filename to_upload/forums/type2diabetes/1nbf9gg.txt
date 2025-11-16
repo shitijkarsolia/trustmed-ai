@@ -1,0 +1,18 @@
+Thread ID: 1nbf9gg
+Subreddit: type2diabetes
+Title: Dexcom G7 is wildly inaccurate and has a critical defect
+Author: Equivalent-Yoghurt38
+Created UTC: 2025-09-07T22:23:12
+Score: 4
+Num Comments: 4
+URL: https://reddit.com/r/type2diabetes/comments/1nbf9gg/dexcom_g7_is_wildly_inaccurate_and_has_a_critical/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1nbf9gg/dexcom_g7_is_wildly_inaccurate_and_has_a_critical/
+Collected: 2025-11-15T08:18:06.410648
+===============================================================================
+
+I’ve been using the G7 for 12 days now. The first sensor I now believe was reading very high. When I changed the sensor the original sensor was reading 160ish. 30 minutes later new sensor read 110. I suppose it’s possible I dropped that fast, but highly unlikely. Additionally the new sensor has not had me at above 155. The first sensor never had me below 150. Now the new sensor is triggering as critically low and after it does it displays an error. This happened once last night and now twice tonight. Because it said I was at 55 I ate some Lifesavers. Then I realized I didn’t feel low and quickly took a reading with the new manual meter I bought. Manual meter says 119, G7 says 55. I recalibrated and now the G7 says 114. I think I’ve been prescribed too much long acting insulin because I keep going very low. The doctor is basing their dosing on the numbers they’re seeing from the CGM despite it being very inaccurate. I’m calling Dexcom tomorrow and if you’ve had problems with the G7 I hope you’ll call them too. I work in tech and have some name recognition in my discipline. I’m hoping to leverage that to force them the fix their quality issues. Since my insurance company won’t cover the Freestyle despite it being a significantly better CGM I figure my only option is to force them into fixing their product. The inaccurate readings are likely a hardware issue, the sensor failures after a low are most likely a software issue. No matter the root cause, I consider this to be a dangerous product I’m angry I wasn’t warned by my doctor that it can’t be trusted.
+
+---
+## Comments
+1. u/GamerMommyToTwoToo [score=2, created=2025-09-08T07:10:14]: I used a G6 for about a year and a half and then switched to a G7 about 6 months ago. The first 24 hours are wildly off by about 30 points but usually get pretty accurate after 2 finger stick calibrations over the 24 hours. ( I also wear mine on my abdomen) when I was wearing it on my arm, I would get false lows all the time from compression in my sleep.
+2. u/erietech [score=2, created=2025-09-08T06:50:26]: I loved the Dexcom G6, not a fan of the G7, the numbers just seemed off up to 30 points compared to a finger prick.

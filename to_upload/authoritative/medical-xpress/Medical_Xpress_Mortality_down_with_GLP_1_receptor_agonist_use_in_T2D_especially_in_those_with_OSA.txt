@@ -1,0 +1,37 @@
+Title: Mortality down with GLP-1 receptor agonist use in T2D, especially in those with OSA
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-10-mortality-glp-receptor-agonist-t2d.html
+Canonical URL: https://medicalxpress.com/news/2025-10-mortality-glp-receptor-agonist-t2d.html
+Filename: Medical_Xpress_Mortality_down_with_GLP_1_receptor_agonist_use_in_T2D_especially_in_those_with_OSA.txt
+Collected: 2025-11-15T17:10:54.286815
+===============================================================================
+
+Title: Mortality down with GLP-1 receptor agonist use in T2D, especially in those with OSA
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-10-mortality-glp-receptor-agonist-t2d.html
+Collected: 2025-11-15T17:10:54.286641
+
+================================================================================
+
+Mortality down with GLP-1 receptor agonist use in T2D, especially in those with OSA
+
+edited byStephanie Baum, 																								reviewed byAlexander Pol
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+reputable news agency
+
+Patients with type 2 diabetes mellitus (T2DM) prescribed glucagon-like peptide-1 receptor agonists (GLP-1 RAs) have significantly lower one-year mortality, especially those also diagnosed with obstructive sleep apnea (OSA), according to a studypresentedatCHEST 2025, the annual meeting of the American College of Chest Physicians, held from Oct. 19 to 22 in Chicago.
+
+Cosmo Fowler, M.D., from Emory University in Atlanta, and colleagues examined data from the TriNetX U.S. Collaborative Network to examine whether OSA modifies outcomes in patients with T2DM receiving GLP-1 RAs.
+
+A total of 1,799,261 patients with T2DM who were prescribed metformin were identified and stratified into T2DM without OSA prescribed metformin without GLP-1 RAs (60.2%); T2DM without OSA prescribed metformin and GLP-1 RAs (20.1%); T2DM with OSA prescribed metformin without GLP-1 RAs (11.6%); and T2DM with OSA prescribedmetforminand GLP-1 RAs (8.1%). The groups without GLP-1 RA prescriptions were compared to those with prescriptions.
+
+The researchers found that following propensity score matching, GLP-1 RA-prescribed groups had lower one-year mortality, both those without and with OSA (relative risks, 2.04 and 2.45, respectively). Between non-OSA and OSA cohorts, the ratio of relative risks was 1.20, indicating a 20% greater mortality benefit in the OSA population, with a significant Cochran-Mantel-Haenszel statistic.
+
+"This large-scale analysis suggests that OSA status may act as an effect modifier in the association between GLP-1 RA prescription and mortality," Fowler said in a statement.
+
+More information:Abstract
+
+2025 HealthDay. All rights reserved.

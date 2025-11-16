@@ -1,0 +1,49 @@
+Title: Why do some people with depression struggle to get better?
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-people-depression-struggle.html
+Canonical URL: https://medicalxpress.com/news/2025-11-people-depression-struggle.html
+Filename: Medical_Xpress_Why_do_some_people_with_depression_struggle_to_get_better.txt
+Collected: 2025-11-15T16:59:15.071301
+===============================================================================
+
+Title: Why do some people with depression struggle to get better?
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-people-depression-struggle.html
+Collected: 2025-11-15T16:59:15.071144
+
+================================================================================
+
+Why do some people with depression struggle to get better?
+
+by Gunilla Sonnebring,Karolinska Institutet
+
+edited byGaby Clark, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+Depression is one of the most common mental health conditions, and some people recover with medications or therapies. However, for some individuals, treatment does not work, even after several attempts. This harder-to-treat form of depression is known as treatment-resistant depression (TRD). People affected by TRD often experience more severe and long-lasting symptoms, lower quality of life, and more physical health problems than other depression cases without TRD.
+
+Little is still known about why some people develop TRD while others improve with standard treatments. In anew thesisfrom Karolinska Institutet, Ph.D. student Ying Xiong at the Department of Medical Epidemiology and Biostatistics, has explored TRD by combining data from genetics, national health registers, and surveys onadverse childhood experiences. Her goal was to better understand the genetic and environmental factors that contribute to TRD, and how we might identify and support these patients earlier.
+
+What are the most important results in your thesis?
+
+"We found that genetics play a role, where people with TRD carried moregenetic riskfor severe mental illnesses (likebipolar disorderand schizophrenia), suggesting TRD has a stronger genetic basis than generaldepression. We also saw that TRD and other health problems run in families.
+
+People with TRD had more psychiatric problems (like anxiety,attention deficit hyperactivity disorder[ADHD]) and physical health issues (like diabetes,cardiovascular disease) than both non-depressed individuals and those with non-TRD depression. Their relatives were also more likely to have TRD or other mental and cardiometabolic conditions, suggesting the role of shared genetic or environmental factors.
+
+And finally, childhood trauma matters, childhood adverse experiences like abuse or neglect were significantly associated with a higher risk of TRD, even after accounting for family background, indicating that early-life trauma is associated with vulnerability for TRD independently from shared familial factors.
+
+Overall, my thesis shows that TRD is not just a more stubborn form of depression; instead, it may be a distinct condition with its own genetic and environmental factors. Recognizing this can help us improve diagnosis and early detection as well as make more personalized treatment plans based on genetic and clinical profiles, and develop prevention and intervention strategies that focus on childhood adversity and other co-existing conditions.
+
+Why did you become interested in this topic?
+
+I have been interested in psychiatric disorders for a long time, especially depression, because it affects so many people and yet remains difficult to understand fully. During my early research training, I realized that even with multiple treatment strategies available, many patients do not experience sufficient symptom improvement or recovery.
+
+This made me wonder whether this difficult-to-treat form of depression might be linked to specific biological or clinical factors. That question led me to studytreatment-resistant depression, where I could combine my interest in genetics and epidemiology to explore why some people struggle to get better and how we might identify them earlier and support them better.
+
+What do you think should be done in future research?
+
+We see already that the future of depression care is moving towards precision psychiatry, an approach that uses genetics, medical history, and life experiences to guide treatment. Astechnology advancesandgenetic testingbecomes more accessible, I hope that it may be possible to predict who is at risk for TRD at the time of MDD diagnosis and offer better-targeted therapies from the start.
+
+More information:Ying Xiong, Genetic epidemiology of treatment-resistant depression,Karolinska Institutet(2025).DOI: 10.69622/29922452.v1

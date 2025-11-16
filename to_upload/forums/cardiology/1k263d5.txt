@@ -1,0 +1,30 @@
+Thread ID: 1k263d5
+Subreddit: Cardiology
+Title: Statistical and Methodological Reviews of Cardiology Papers
+Author: longrob604
+Created UTC: 2025-04-18T07:20:21
+Score: 88
+Num Comments: 23
+URL: https://reddit.com/r/Cardiology/comments/1k263d5/statistical_and_methodological_reviews_of/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1k263d5/statistical_and_methodological_reviews_of/
+Collected: 2025-11-15T08:30:18.051593
+===============================================================================
+
+Greetings all :) I am a statistician with an interest in cardiology and I have co-authored some papers with clinical colleagues. As a way for me to stay on top of the latest developments and news, I sometimes write reviews of cardiology papers, focussing on statistical and methodological issues. I am wondering if it is appropriate to post such reviews in this subreddit, or perhaps just a link to where it can be read or downloaded If it is, then I would be happy for anyone to suggest papers for review, perhaps using this thread to do so ? Otherwise I tend to just look for interesting ones in JACC, NEJM, EuroHeart, Circ. Best wishes RL
+
+---
+## Comments
+1. u/hasniii321 [score=12, created=2025-04-18T07:29:58]: I would love to. I need to get deeper understanding of the statistical side to understand complexities and subtleties of how much to trust data.
+2. u/Oxford___comma [score=8, created=2025-04-18T08:07:38]: I would be very interested in this
+3. u/FlyNeurologist [score=6, created=2025-04-18T09:04:16]: Please do! This will do wonders in med Ed
+4. u/CaramelImpossible406 [score=6, created=2025-04-18T10:21:17]: We hastily approve you
+5. u/lanttro [score=5, created=2025-04-18T08:08:57]: Please do! Tks!
+6. u/Lanky_College9750 [score=4, created=2025-04-18T08:36:36]: Yes please
+7. u/KtoTheShow [score=3, created=2025-04-18T08:49:41]: Would be well received
+8. u/nameulcon [score=2, created=2025-04-18T11:29:53]: This would be nice! I would in particular be interested in your opinion on survival analysis.
+9. u/Key-Measurement5196 [score=2, created=2025-04-18T15:43:44]: Do it
+10. u/dayinthewarmsun [score=2, created=2025-04-18T19:52:12]: Would be interesting. Please do!
+11. u/babar001 [score=2, created=2025-04-19T01:35:14]: Capricorn study in the lancet. How was that thing even published
+12. u/bekks95 [score=1, created=2025-04-19T18:08:30]: Yes sir!
+13. u/GolgiApparatus88 [score=1, created=2025-04-20T18:55:23]: How about the Excel trial (PCI vs CABG for LM disease) controversy? There are already a ton of op-eds and author rebuttals but would be cool to see your interpretation.
+14. u/IllustriousJob9813 [score=1, created=2025-04-23T11:42:14]: I would be very interested!

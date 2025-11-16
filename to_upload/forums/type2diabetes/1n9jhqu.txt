@@ -1,0 +1,20 @@
+Thread ID: 1n9jhqu
+Subreddit: type2diabetes
+Title: Cgms
+Author: Defiant_Good9427
+Created UTC: 2025-09-05T15:47:50
+Score: 3
+Num Comments: 5
+URL: https://reddit.com/r/type2diabetes/comments/1n9jhqu/cgms/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1n9jhqu/cgms/
+Collected: 2025-11-15T08:18:22.106907
+===============================================================================
+
+Has anyone actually used this new 1 year cgm I keep seeing called eversense with the removable transmitter?
+
+---
+## Comments
+1. u/jon20001 [score=2, created=2025-09-07T03:37:20]: I think it is only available for T1s, at least in the US. As a T2, I would seriously consider one for the convenience.
+2. u/Equalizer6338 [score=5, created=2025-09-05T22:56:21]: Name of the sensor is Eversense. Yes, I tried 2 units of their 180-days model 2 years back when that got tested in Europe. Know couple of folks that have gone on to get their newest 1 year sensor model. It has not yet been released in the country I live, but will definitely try it when it does come here probably within the next 9-12 months. The insertion is really very minor. Just few millimeters long and not even stitches are required for it to close up after insertion. The principle and insertion place is similar to what many women have been using for years also for long-term birth control (1 to 3 years!), which is a small "stick" like the Nexplanon. That is a small, flexible rod that is inserted in under the skin of the upper arm by a healthcare professional. That implant steadily releases a hormone that prevents pregnancy for up to three years. The Eversense was super accurate after the initial period of daily calibrations vs fingerprick. And these days its just 1 per week. It is not really going off the rails anyway, but that is the routine you need to comply with. I expect as more long-term trial data gets in, that this will be further lax going forward (fewer to no requirements for calibrations after initial run-in). As the sensor tech is not really degrading over time as it is with the bio-chemical enzyme the existing short-term BG sensors like Dexcom and Libre relies on today. Pressure lows during sleep are also not an issue with Eversense.
+3. u/alan_s [score=1, created=2025-09-05T20:02:56]: It looks very interesting but not available yet in Australia.
+4. u/ashern94 [score=0, created=2025-09-05T17:19:17]: minor surgery once a year that can leave scars. No thanks.

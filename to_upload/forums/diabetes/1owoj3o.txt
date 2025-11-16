@@ -1,0 +1,22 @@
+Thread ID: 1owoj3o
+Subreddit: diabetes
+Title: Eversense 365 CGM procedure
+Author: Wcked_Production
+Created UTC: 2025-11-13T22:51:51
+Score: 14
+Num Comments: 12
+URL: https://reddit.com/r/diabetes/comments/1owoj3o/eversense_365_cgm_procedure/
+Canonical URL: https://reddit.com/r/diabetes/comments/1owoj3o/eversense_365_cgm_procedure/
+Collected: 2025-11-15T02:16:10.130285
+===============================================================================
+
+I had the Eversense 365 CGM procedure done 16 days ago and the device has been incredible. I went through their PASS program since it wasn’t covered by my insurance which ended being $2400 but if it’s covered by your insurance then it should be $350 plus $200 for the insertion so $550. Cheaper than a year’s worth of CGM supplies. The surgery literally was about 30 seconds and painless. The first 24 hours you don’t calibrate the sensor but the next day you calibrate it 4 times every 2 hours in total 8 hours with a glucose meter which I used the Contour NeXT. After that you calibrate it once a day for 2 weeks preferably within 1-2 hours of the chosen time. Then it becomes once a week for the remainder of the year. The phone app will notify you when to calibrate it. The accuracy is great in my opinion since calibrating it, I’ve been getting glucose meter readings such as 125 and 124 on the sensor. The transmitter will vibrate on your body when you go low and doesn’t have the loud alarm on the Dexcom. You can also go for a run without bringing your phone and it’ll vibrate when you go low which means a lot to me because I don’t bring my phone when I run. Recommend anyone with the means to get it if you want better hypoglycemia detection, comfort, sensitive skin, less waste, and possibly cheaper than CGM supplies. TLDR: Recommend the Eversense 365 implant because it’ll last a year, less pain because no filament poking, less waste, cheaper, body vibrations instead of alarm. Any questions feel free to ask.
+
+---
+## Comments
+1. u/babbleon5 [score=7, created=2025-11-14T12:12:05]: it seems like a lot of blood for an insert...i guess it's fine now. Definitely takes the hassle out of CGM, but doesn't look like there's compatibility for the Omnipod 5.
+2. u/SmewD22 [score=11, created=2025-11-14T10:34:30]: I’d be worried about eventually getting phantom vibrations like when you feel your phone vibrate in your pocket but nothing happened.
+3. u/dabesdiabetic [score=4, created=2025-11-14T11:22:35]: Ya I’m all set with that dawg
+4. u/bicycle_ninja [score=2, created=2025-11-14T16:38:45]: what was the procedure like? I thought this was going to be a horror story from the picture.
+5. u/alexmbrennan [score=1, created=2025-11-14T19:32:29]: &gt; You can also go for a run without bringing your phone and it’ll vibrate when you go low which means a lot to me because I don’t bring my phone when I run Was this written by AI? I cannot imagine being willing to carry several pounds of water, glucose, etc but refusing to use an Apple Watch that can connect to the CGM.
+6. u/phletch [score=1, created=2025-11-14T20:40:33]: Will your surgeon also remove the implant? Or do you plan to leave it in?

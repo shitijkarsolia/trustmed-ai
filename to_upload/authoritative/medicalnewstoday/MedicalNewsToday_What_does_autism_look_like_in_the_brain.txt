@@ -1,0 +1,50 @@
+Title: What does autism look like in the brain?
+Source: MedicalNewsToday
+URL: https://www.medicalnewstoday.com/articles/323741
+Canonical URL: https://www.medicalnewstoday.com/articles/323741
+Filename: MedicalNewsToday_What_does_autism_look_like_in_the_brain.txt
+Collected: 2025-11-15T17:07:49.343706
+===============================================================================
+
+Title: What does autism look like in the brain?
+Source: MedicalNewsToday
+URL: https://www.medicalnewstoday.com/articles/323741
+Collected: 2025-11-15T17:07:49.343511
+
+================================================================================
+
+People on the autism spectrum often dislike exposure to unexpected stimuli, but why is that? New research takes a look at what happens in the brain, and how that relates to a person’s ability to tolerate exposure to various stimuli.
+
+“People withautismdo not like unexpected stimuli, and it may be because brains are not as efficient at rapidly shifting between ideas or thoughts,” notes Dr. Jeff Anderson, a professor in Radiology at the University of Utah Health in Salt Lake City.
+
+Recently, Dr. Anderson and colleagues decided to try and gain a better understanding as to why individuals with autism may experience some of their symptoms.
+
+To do so, they directed their attention to the complex circuitry of the human brain. “We wondered if we could see how local circuits in the brain react in patients with autism,” explains the researcher.
+
+The research team reports thefindingsof their study in the journalJAMA Network Open. The full study paper is available online.
+
+Overly persistent brain connections
+
+First, the researchers conducted functionalMRI(fMRI) scans on 90 male participants, of which 52 had a diagnosis of autism and 38 did not. The participants with autism were aged between 19 and 34, while the rest of the volunteers — who acted as the control group — had ages ranging between 20 and 34.
+
+Then, to confirm the initial findings, the specialists compared their data with that collected from a further 1,402 people who participated in theAutism Brain Imaging Data Exchange(ABIDE) study. Of these, 579 participants (80 female and 499 male) had autism. The remaining 823 participants (211 female and 612 male) did not have autism and acted as the control group.
+
+Dr. Anderson and team used a novel fMRI method to explore brain activity in the participants on the current study. More specifically, they looked at the duration of connections established across brain regions.
+
+“We don’t have good methods for looking at the brain on these timescales. It’s been a blind spot because it falls in between typical MRI and [electroencephalogram] studies,” explains Dr. Anderson.
+
+Thanks to the fMRI scans, the researchers were able to confirm that in the brains of people with autism, connections persist for more extended periods than they do in the brains of neurotypical individuals. In other words, in autism, the brain finds it harder to switch between processes.
+
+In those with autism, brain connections remained synchronized for up 20 seconds, while they disappeared faster in individuals without this condition. Moreover, in those with autism, symptom severity appeared to increase with connectivity duration.
+
+‘A whole new perspective’
+
+These findings, which were consistent with data from the ABIDE study, may explain why people with autism can experience distress when exposed to numerous stimuli at once, the research team believes.
+
+“Individuals with autism who have greater social dysfunction have an increase in synched activity in their scans,” notes postdoctoral researcher Jace King, first author of the study paper.
+
+“Now that we are looking at finer timescales, we’ve found a consistent story. It provides us with new tools to figure out the mechanisms that may underlie autism,” King adds.
+
+Nevertheless, the researchers note that their study faced one fundamental limitation — namely that it worked with male participants only, which may not offer the full picture of what characterizes autism in the brain. Still, they will not stop at this study and hope to expand this research.
+
+“We want to compare the results from this analysis to more traditional methods. This is a whole new perspective into how autism works in the brain and can help us develop strategies for treatment and finding medications that might be more effective to ease the symptoms of the disorder.”

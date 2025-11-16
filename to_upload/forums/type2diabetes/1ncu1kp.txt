@@ -1,0 +1,30 @@
+Thread ID: 1ncu1kp
+Subreddit: type2diabetes
+Title: What do you do to blunt dawn phenomenon?
+Author: AggravatingPipe2305
+Created UTC: 2025-09-09T13:24:16
+Score: 4
+Num Comments: 18
+URL: https://reddit.com/r/type2diabetes/comments/1ncu1kp/what_do_you_do_to_blunt_dawn_phenomenon/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1ncu1kp/what_do_you_do_to_blunt_dawn_phenomenon/
+Collected: 2025-11-15T08:17:55.717860
+===============================================================================
+
+Any advice for blunting that dreaded morning rise? What snacks? What time? Exercise or no? It’s frustrating because I have conquered my bg levels except for the morning! I have typically not eaten breakfast, but if it helps I will try.
+
+---
+## Comments
+1. u/throwawayaccount931A [score=1, created=2025-09-18T11:21:40]: I've been IF for about two years now, and have rarely had a morning spike -- they happen, but it's very rare. I do 16:8 and stop eating around 7am but ensure that my last meal is not carb heavy (carbs can also be from fruit/vegetables). This morning, for example, my sugars were between 5.5 mmol/l to 5.8 mmol/l and right now they are at 7.1 mmol/l. All I've had this morning is black coffee, and water.
+2. u/Anthropogenic12 [score=2, created=2025-09-14T04:41:27]: Sorry if this is unhelpful, but I just ignore it. As in. I don't measure my blood sugar in the morning. It used to just frustrate me to see a number which was higher than I wanted to see. It was demoralising, so I stopped looking at it. It works for me.
+3. u/AssistanceNo4648 [score=1, created=2025-09-13T17:01:50]: I used to have Dawn Phenomenon but since I lost 73lbs, and continued exercising daily, I no longer have it and wake up in the morning with my blood sugars between 3.9 mmol (70) to 5.2 mmol (93). They are stable all night in this range until I eat.
+4. u/DDOSSEDbyRussia [score=2, created=2025-09-11T10:48:02]: More Metformin is supposed to help but for me it was only giving an improvement of .5 mmol/L, so I was 9 instead of 9.5 even though I was \~6.5 before I got in the shower. It is your liver trying to be helpful by releasing its stores of glucose when it senses that you need it because you're now doing things that require energy but because you were fasting you don't have any glucose in your system to use. The liver glucose storage is what Metformin controls. So the trick is to use up that glucose store as well before going to bed as fasting won't touch it, you need some exercise to force your body to use it. Drugs like more Metformin, or GLP-1 can help as well. Long Lasting insulin doesn't really help with this.
+5. u/[deleted] [score=2, created=2025-09-10T20:23:06]: My doctor said there's nothing you can do. It's just your livers natural process of flooding your body with glucose in the middle of the night because your glucose drops and it thinks you're dying.
+6. u/anneg1312 [score=2, created=2025-09-10T16:27:21]: Fast every day
+7. u/True-Ad1190 [score=3, created=2025-09-10T12:30:09]: I have a tablespoon of peanut butter before bed, around 12:30+1:00 and totally noticed, totally helped. Full fat full sugar Skippy peanut butter. No spike from pb or the dawn effect.
+8. u/Right_Independent_71 [score=3, created=2025-09-10T01:25:44]: “It’s frustrating because I have conquered my bg levels except for the morning!” Same here. I have it, but it’s mild and quick so I don’t really worry about it. it’s really just a challenge, but I can’t figure it out…yet. Weirdly, some mornings every so often it doesn't happen and I can’t figure out why.
+9. u/catsandplants424 [score=2, created=2025-09-09T20:29:06]: Do you only test when you first wake up? If so try testing again like 30 minutes later see if it's gone down. It was explained to me that your body releases glucose when waking to give you the energy to get up and get moving.
+10. u/alan_s [score=1, created=2025-09-09T19:08:44]: I offer a few ideas as part of this post: [I Ate Nothing! Why Are My BGs high?](http://loraldiabetes.blogspot.com.au/2009/02/i-ate-nothing-why-are-my-bgs-high.html)
+11. u/jailtheorange1 [score=2, created=2025-09-09T18:43:30]: I just accept it.
+12. u/vape-o [score=1, created=2025-09-09T15:50:26]: I have recently started eating overnight oats for breakfast and I previously never had breakfast. Second, I am taking a 400 mg berberine supplement just before eating, I eat breakfast and dinner. My morning sugars have gone from the 160-170 range on waking to 120-130 range.
+13. u/SuspiciouslyDullGuy [score=5, created=2025-09-09T14:04:43]: There's a relatively recently discovered hormone called asprosin, the 'fasting hormone', which is known to raise blood glucose levels. In combination with other hormones it may be partly responsible for Dawn Phenomenon, though that's just a guess as nobody knows for certain what causes it. Many people report that their blood glucose levels a few hours after breakfast are lower than their levels before breakfast. I've read one report from a person who eats a few walnuts with their morning coffee and uses double cream in their coffee, and he claimed that this is enough to end Dawn Phenomenon for him and bring his levels back down. I've read another report from a person who prepares small snacks of meat and cheese, puts them beside the bed, and eats one immediately after waking up. They too claim that this does the trick. If these reports are true then that fits with asprosin being part of the cause of Dawn Phenomenon, and the solution might be to get out of the 'fasted state' when you wake up. Eating a low-carb breakfast might do the trick but as nobody actually knows for certain what causes Dawn Phenomenon (very probably hormones, but unproven) then you might need to experiment to see what works for you. I note that both of these solutions I read about involve fatty foods (cream, nuts, cheese, meat) but I have no idea if there's some magic there, or if perhaps a few morsels of any type of food might do the trick.
+14. u/SixStringGuyUK [score=1, created=2025-09-09T13:47:19]: I eat some protein as a quick breakfast then go for a walk as soon as possible, definitely helps

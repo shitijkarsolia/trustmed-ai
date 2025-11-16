@@ -1,0 +1,18 @@
+Thread ID: 1iiciyb
+Subreddit: Cardiology
+Title: Why do inferior leads show Q waves if the initial septal vector points towards them?
+Author: lalalolamaserola
+Created UTC: 2025-02-05T08:27:08
+Score: 10
+Num Comments: 4
+URL: https://reddit.com/r/Cardiology/comments/1iiciyb/why_do_inferior_leads_show_q_waves_if_the_initial/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1iiciyb/why_do_inferior_leads_show_q_waves_if_the_initial/
+Collected: 2025-11-15T08:31:31.067678
+===============================================================================
+
+Hello! I've got a question for cardiologists. I'm studying for the MIR and I encountered this question while studying the EKG. We're taught that the initial septal depolarization vector points downward and rightward. Following basic ECG principles, when a vector points toward a lead, it should produce a positive deflection (R wave). So why do the inferior leads (II, III, aVF), which "look up" at the heart, typically show small Q waves instead of an initial R wave?
+
+---
+## Comments
+1. u/Onion01 [score=12, created=2025-02-05T08:33:25]: The “perfect” inferior lead won’t show a septal Q wave because the depolarization vector is perpendicular to the lead. But the truth is that most hearts are a little rotated and you may capture some septal forces heading towards the inferior leads.
+2. u/Timely-Bit458 [score=1, created=2025-02-07T14:13:27]: It depends on the main axis. If the heart has a vertical axis small q waves (less than 0,04s) are normal in inferior leads. If the heart has a horizontal axis than the small q waves are normal in lead I, aVL, V5, V6

@@ -1,0 +1,18 @@
+Thread ID: 1ovdefl
+Subreddit: askCardiology
+Title: RV Dilation and technician error
+Author: Psychological-News87
+Created UTC: 2025-11-12T11:36:25
+Score: 2
+Num Comments: 6
+URL: https://reddit.com/r/askCardiology/comments/1ovdefl/rv_dilation_and_technician_error/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1ovdefl/rv_dilation_and_technician_error/
+Collected: 2025-11-15T08:38:52.266187
+===============================================================================
+
+I recently had an echo that showed right ventricular dilation, but last year’s echo didn’t show that. My right ventricle measured 1.0 cm last year and 3.0 cm this year. That seems like a big jump, even though it’s only 0.7 cm above the upper normal limit of 2.3cm. Could this be an error on the technician’s part?
+
+---
+## Comments
+1. u/Impressive_Donut3122 [score=1, created=2025-11-12T12:14:45]: That kind of rapid change is unusual without another clear finding, often it reflects measurement variability rather than true dilation. If the right ventricle were truly dilated, you’d usually also see changes in numbers like RV systolic pressure, TAPSE, RA area, or IVC size. Since those look mostly normal here, it supports that the RV size difference may be a measurement variation rather than real enlargement.
+2. u/nothingtoogreat [score=1, created=2025-11-12T17:08:22]: It also depends on where it’s measured. Where I work- we do 3 linear measurements of the RV- we measure the base above the annulus, mid ventricle, and then ventricular length. Normal size for RV base (the widest part usually) is anything less than 4.1 cm and mid is less than 3.5 cm. But that’s ASE guidelines- are you in the US?

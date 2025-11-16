@@ -1,0 +1,29 @@
+Thread ID: 1op9nd9
+Subreddit: type2diabetes
+Title: How soon after eating something can you prick your finger to try narrow down what foods cause me the most trouble. I don’t have access to a CGM
+Author: parrothedds
+Created UTC: 2025-11-05T10:44:41
+Score: 6
+Num Comments: 14
+URL: https://reddit.com/r/type2diabetes/comments/1op9nd9/how_soon_after_eating_something_can_you_prick/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1op9nd9/how_soon_after_eating_something_can_you_prick/
+Collected: 2025-11-15T08:12:10.456826
+===============================================================================
+
+(No selftext provided.)
+
+---
+## Comments
+1. u/tbbarton [score=1, created=2025-11-10T17:11:31]: Libre 3 will give you a coupon for a free sensor. Get a prescription and the coupon will make 1 zero cost. Then you have 14 days to assess every food you typically eat
+2. u/gkelly782 [score=1, created=2025-11-10T13:37:30]: Two hours is rule of thumb. If you can, I highly recommend trying to get an OTC cgm, they have some by Stelo and Lingo. I like stelo better, but you have to buy 2 sensors at a time, lingo you can do one at a time.
+3. u/yamahamama61 [score=1, created=2025-11-07T13:53:08]: I think the general rule is 2 hours. But I'm obsessed I do it about 1 hours. Then 2 hours.
+4. u/alan_s [score=1, created=2025-11-06T21:08:24]: Based on my experience before CGMs existed: [When To Test](http://loraldiabetes.blogspot.com/2006/11/when-to-test-one-hour-or-two-hour.html)
+5. u/KerryBoehm [score=1, created=2025-11-06T17:11:27]: I just set an alarm for 2 hrs after beginning eating then test.
+6. u/Subject_Singer_4514 [score=1, created=2025-11-05T20:07:05]: To test a new food, I test every 15 minutes after eating that food by itself. I do this for 2 or 3 hours. That gives me the picture of the spike. I don't eat foods that spike as much as 10 points. I don't like the lack of success that people are having with CGMs. They appear not to be accurate. I use a contour and get consistent readings. There are new products on the shelves that claim to be very low carb. Often this is simply not true and labeling is a lie. My meter tells me the truth.
+7. u/MacTableSmoke [score=3, created=2025-11-05T12:41:21]: You can do your own blood glucose test at home to see what affects you. I did 30 min before eating, 30min after eating, 60 min, 2 hours. The reason I did it this way was to see how high sugar and high carb meals affect me. It takes some finger pricking but, it helps you understand a lot about your body. For me doing this showed that sugar is my Achilles heel even in moderation but, carbs not so much.
+8. u/SuspiciouslyDullGuy [score=2, created=2025-11-05T12:30:52]: The peak of the spike happens anywhere from 40 or so minutes to around two hours after you begin eating, depending on what you eat. Around an hour would be about average. The more rapidly digested the carbs the quicker the glucose hits the bloodstream. Everything in the meal that's not carbs slows digestion to varying degrees, basically. If you eat a feast of carbs like a whole pizza you might still have high levels three or four hours later. Testing before eating and two hours later is a reasonable way to compare meals with one another without doing a whole lot of finger sticking. It's not perfect, you're typically seeing the falling level after the spike and you might miss a high fast spike from eating something very sweet, but for most meals the two hour mark is a good indicator of whether the meal is reasonably okay. Being consistent with the timing lets you compare meals and (probably) find the most troublesome foods. It's worth bearing in mind though that the blood glucose response after breakfast, lunch and dinner is different due to the second meal phenomenon. You might find for example that you can get away with eating more carbs for lunch than for breakfast, even if the foods eaten are identical. You might not have to rule out some foods or portion sizes completely if they only cause problems if eaten as the first meal of the day. The same portion might be fine for lunch. Best of luck!
+9. u/Zeus783 [score=1, created=2025-11-05T11:51:07]: Rule of thumb is 2 hours after eating.. However : - 60/90 mins from the moment you eat it could be the peak, so useful to check that too - the more fat your meal has the slower your digestion, which means your peak could be even two hours after your meal, meaning you should check after 3/4 hours as well to have an idea of the impact of that meal. Fat from diary and fat from avocado /olive oil don't have same impact for me. Fat from nuts is different too. Pizza : might have to check 3/4 hours later. If you just start testing you may want to check every hour up to 3/4/5 times depending on what you eating. Salads with olive oil dressing will do nothing or nit much...add other dressing and you'll need to check It may sound overwhelming, but you'll learn with practice. 👍
+10. u/StLOriginalGinger [score=3, created=2025-11-05T11:03:03]: I always do 2 hours after eating.
+11. u/parrothedds [score=1, created=2025-11-05T10:55:00]: Thanks
+12. u/Right_Independent_71 [score=2, created=2025-11-05T10:54:02]: I think on average it's about an hour or so most times. If it were me (and it was once) I'd test right before eating and then thirty minutes after my last bite. I'd test again after another thirty and then another thirty after that. Do that a few dinners and I think you'll catch the peak. Some foods might be delayed even more, but you can adjust to find it.
+13. u/BackItUpWithLinks [score=1, created=2025-11-05T10:51:09]: 30 min and 2 hours

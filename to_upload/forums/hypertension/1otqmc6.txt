@@ -1,0 +1,17 @@
+Thread ID: 1otqmc6
+Subreddit: hypertension
+Title: New Free Hypertension App, HealthNest
+Author: adamadam49
+Created UTC: 2025-11-10T14:29:43
+Score: 7
+Num Comments: 2
+URL: https://reddit.com/r/hypertension/comments/1otqmc6/new_free_hypertension_app_healthnest/
+Canonical URL: https://reddit.com/r/hypertension/comments/1otqmc6/new_free_hypertension_app_healthnest/
+Collected: 2025-11-15T02:22:22.045591
+===============================================================================
+
+Hi everyone, I am an NHS GP in the UK with a big interest in blood pressure. Over the years I have noticed how many people struggle not because they lack motivation, but because tracking and understanding their readings is made far more confusing than it needs to be. I have been working on a simple, free app to help people keep their readings in one place and understand the basics without any noise. No cost, no ads, no push for anything at all. It is just something I wanted to build after seeing so many people feel lost or stressed about their numbers. I am sharing it here because I would genuinely value honest feedback from people who actually live with hypertension every day. If something is helpful, great. If something is annoying or pointless, I want to hear that too. The whole point is to make it more useful over time. If anyone wants to share thoughts on what makes tracking easier or harder, I would really appreciate it. I am also happy to answer general questions about blood pressure if that helps. Here is our download link on the apple app store, android coming soon :) [https://apple.co/4nPKN2D](https://apple.co/4nPKN2D) Dr Adam, GP in the UK!
+
+---
+## Comments
+1. u/OrangeJews_Simpson [score=2, created=2025-11-11T17:28:33]: Seems like a good idea. But of course it's apple only 🙃

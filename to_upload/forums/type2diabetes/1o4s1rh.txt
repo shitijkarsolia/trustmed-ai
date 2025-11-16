@@ -1,0 +1,17 @@
+Thread ID: 1o4s1rh
+Subreddit: type2diabetes
+Title: Insurance problems
+Author: Kind_Resist8915
+Created UTC: 2025-10-12T08:30:30
+Score: 2
+Num Comments: 1
+URL: https://reddit.com/r/type2diabetes/comments/1o4s1rh/insurance_problems/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1o4s1rh/insurance_problems/
+Collected: 2025-11-15T08:14:29.217913
+===============================================================================
+
+(No selftext provided.)
+
+---
+## Comments
+1. u/RandomThyme [score=1, created=2025-10-13T03:30:19]: Unfortunately it isn't uncommon for insurance companies to require extra hoops for certain medications. I'm not in the US but my insurance requires at 6 month course of either Metformin or sulphonyureas (contraindicated for me asnim overweight) and having that failed before covering what they consider second line meds like Synjardy (which I'm currently on) and the GLP1s. From comments I have seen in various diabetes communities, the insurance companies (mainly US ones from what I see) have a tendency to revoke coverage for GLP1s once A1c reaches a certain threshold. This probably highly dependent on who your insurance provider is.

@@ -1,0 +1,17 @@
+Thread ID: 1ox92x9
+Subreddit: prediabetes
+Title: Does low MCV and MCH elevate my HbA1c
+Author: randomchickibum
+Created UTC: 2025-11-14T14:26:55
+Score: 1
+Num Comments: 1
+URL: https://reddit.com/r/prediabetes/comments/1ox92x9/does_low_mcv_and_mch_elevate_my_hba1c/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1ox92x9/does_low_mcv_and_mch_elevate_my_hba1c/
+Collected: 2025-11-15T08:22:16.078733
+===============================================================================
+
+Hi I'm a 31M who recently did my annual health checkup and found that my HbA1c was 6.0 and was marked pre diabetic. MCV 75 Low fL 79-97 MCH 23.6 Low pg 26.6-33.0 MCHC 31.3 Low g/dL 31.5-35.7 Hemoglobin 12.9 Low g/dL 13.0-17.7
+
+---
+## Comments
+1. u/BlissCrafter [score=2, created=2025-11-14T15:25:15]: Yes. Anything affecting the replenishment rate of red blood cells can cause high hba1c. Usually this is a result of iron deficiency anemia.

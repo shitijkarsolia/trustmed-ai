@@ -1,0 +1,22 @@
+Thread ID: 1osg9hv
+Subreddit: prediabetes
+Title: Just diagnosed, is sleep really that critical?
+Author: Kersplusion
+Created UTC: 2025-11-09T03:40:33
+Score: 10
+Num Comments: 6
+URL: https://reddit.com/r/prediabetes/comments/1osg9hv/just_diagnosed_is_sleep_really_that_critical/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1osg9hv/just_diagnosed_is_sleep_really_that_critical/
+Collected: 2025-11-15T08:23:56.819157
+===============================================================================
+
+Just got the results back from my labs, my A1c is 6.1. I weigh about 194 and I’m 5’8, male. I’m definitely trying to get serious about losing weight and exercising more. It’s just tough cause I work two jobs, one an overnight stocking job and another pharmacy job. I’m always on my feet and moving, I’m getting back into biking to my overnight job to get that daily cardio. So as you can see, I can’t do much about my sleep. I’m not gonna be able to regularly get 8 hours of sleep. Am I really not going to be able to fix this without fixing my sleep too? My doctor didn’t even believe that I NEEDED an A1c test because my glucose has always been “so beautiful” in her words. I regularly get blood tested and donated because of other reasons so it’s well tracked. I only asked for the A1c test cause the Red Cross told me I was prediabetic, and then they were right. The biggest change in my life has been this second job, and my even worse sleep because of it. Is it possible that this ONE thing tipped me over the edge?
+
+---
+## Comments
+1. u/East_Collection_5672 [score=6, created=2025-11-09T04:10:45]: Yeah, sleep disruption alone can push A1c into prediabetic range, especially with shift work and stress. Poor sleep messes with insulin sensitivity and keeps cortisol elevated, which raises fasting glucose over time. Even if your daytime glucose looks fine, A1c reflects your average over months, so chronic stress and irregular rhythms can tip things. The good news is you’re already doing a lot right with an active job, biking, and awareness. With your schedule, focus on meal timing and balance (protein, fiber, fat to slow carbs), and get in short post-meal walks when you can. Even 10 to 15 minutes helps. Sleep quality matters more than perfect quantity here, so blackout curtains, cool temps, and limiting caffeine near sleep can make a difference, if time limited try with nsdr. These are some good habits to start: https://glucospike.ai/blog/just-found-out-you-re-borderline-pre-diabetic-start-with-these-7-golden-rules
+2. u/neatgeek83 [score=4, created=2025-11-09T08:52:51]: Sleep is essential for your overall health. It’s the foundation. If you don’t fix that you’re putting yourself at risk for more than diabetes.
+3. u/ctbdp02 [score=3, created=2025-11-09T07:05:45]: Yeah sleep is really that important!!
+4. u/Chellanthe [score=2, created=2025-11-09T10:39:40]: Sleep is essential. If that's the only thing wrong here, yeah, that needs to be a priority to correct.
+5. u/Even_Situation_1576 [score=1, created=2025-11-09T19:25:20]: Can tell you now, after being prediabetic I purchased a CGM, blood glucose was much worse the days after I’d had less sleep. Also it confused your rhythm and the dawn phenomenon(body producing glucose for when you’re waking up) causes higher levels to start the day. It’s as if your body senses you’ll need more energy today.
+6. u/emi_lgr [score=1, created=2025-11-10T00:58:27]: Yes, it really is. A good night’s sleep can lower my average blood glucose levels up to 10 mg/dL over an entire day and a bad night can increase it by just as much. For some people activity at night can raise cortisol and with it blood glucose, so even getting eight hours during the day might not work for you.

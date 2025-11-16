@@ -1,0 +1,18 @@
+Thread ID: 1oujjpm
+Subreddit: askCardiology
+Title: Eliquis after Watchman implant?
+Author: Rough-Mango8233
+Created UTC: 2025-11-11T12:51:58
+Score: 1
+Num Comments: 6
+URL: https://reddit.com/r/askCardiology/comments/1oujjpm/eliquis_after_watchman_implant/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1oujjpm/eliquis_after_watchman_implant/
+Collected: 2025-11-15T08:39:51.513642
+===============================================================================
+
+My 80yo MIL has persistent reoccurring afib. It started about 5y ago or so and they put her on Eliquis. She began falling frequently and we were running to the ER every 5 minutes. Not sure if the afib, her general recovery level (the afib started during a difficult hospital stay) or the Eliquis was causing the fall but her Dr recommended the Watchman to get her off the medicine. She had it implanted, went off Eliquis and the falls stopped. The afib did not. After the watchman she transferred care to a different cardiologist because of his location. A year or so ago, they put her on baby aspirin. I questioned her about it since she had the watchman but she didn't seem to know the answer and I figured baby aspirin was harmless. She started getting large red splotches on her arms anytime she touched something and the dr said it was the aspirin and put her back on Eliquis. She now has a pace maker and still enters afib frequently. The real kicker is the falls are back and we are in the er getting checked out multiple times a week again. I cannot find anything online about continuing blood thinners after having a watchman implanted - in fact, the internet tells me the opposite. Can anyone enlighten me? Is there a reason she would be on them again? I'd like to know what I am talking about at her next cardiology appointment.
+
+---
+## Comments
+1. u/Impressive_Donut3122 [score=3, created=2025-11-11T13:20:57]: There are a couple of reasons why someone might be put back on Eliquis after a Watchman implant. One possibility is that the Watchman hasn’t sealed completely yet. But more likely in her case, her cardiologist may have decided that her stroke risk from persistent AFib is still high enough to warrant long-term anticoagulation, even with the device. The Watchman protects the left atrial appendage, but in patients with very high stroke risk, they might still need blood thinners. It’s worth asking the cardiologist if the blood thinners are primarily for stroke prevention or if there's another concern, like heart function or clotting.
+2. u/daniel32433 [score=1, created=2025-11-11T14:47:11]: No joke, make grandma wear a helmet before she gets a subdural

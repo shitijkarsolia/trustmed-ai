@@ -1,0 +1,23 @@
+Thread ID: 1oucah6
+Subreddit: Cardiology
+Title: Please share your techniques in engaging coronary ostia with 5 F TIG/JR and EBU catheters?
+Author: S1S2presentsir
+Created UTC: 2025-11-11T08:26:00
+Score: 0
+Num Comments: 13
+URL: https://reddit.com/r/Cardiology/comments/1oucah6/please_share_your_techniques_in_engaging_coronary/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1oucah6/please_share_your_techniques_in_engaging_coronary/
+Collected: 2025-11-15T08:26:14.050041
+===============================================================================
+
+IC trainee here and looking to improve my skills in engaging coronaries. Can you share your techniques and practical tips for the same? Specifically transradial Thanks in advance
+
+---
+## Comments
+1. u/justified_education [score=12, created=2025-11-11T09:05:43]: Please dont as an IR
+2. u/ChinitoIncognito [score=12, created=2025-11-11T09:39:30]: Just watch Elias Hanna’s videos on YouTube. He goes over all of that in great detail.
+3. u/Grandbrother [score=3, created=2025-11-11T12:31:38]: Elias Hanna's videos
+4. u/GenerativeMDnote [score=2, created=2025-11-11T20:33:23]: I find JL3.0 works very well on smaller patients. For the RCA smaller JR 3.0 or 3.5 work well. TIG is the first choice, cross into LV, then pull back to cannulate LM. If you have problems rotating the catheter, you may leave the J wire inside the catheter to rotate, be sure it never sticks out when trying to cannulate. EBU, XBLAD guides are very similar. My to go guide is XBLAD for the left. Always have your guideliner handy to give you support. FL3.0 guide works but no support.
+5. u/dayinthewarmsun [score=2, created=2025-11-11T22:23:49]: Have you asked your attending for help on this? I don't mean to offend, so please don't take this the wrong way, but we usually expect that IC fellows have already learned how to reliably use JR catheters. Your attendings may assume that you are comfortable and might not be teaching on this topic because of this. I would ask one or more of your attendings when you are in a case: "Hey, I think I could improve my technique with a JR. Would you mind walking me through exactly what you think the best way to do that is?" You are a fellow, so plenty of time to learn, but you have to let your attending know where you are at. For the TIG, my main advice is that you should treat it just like a JR. Even if it doesn't look like it will behave similarly, it usually will. When it doesn't, it is usually time to switch it for a JR or WR.
+6. u/FielderXT [score=2, created=2025-11-12T07:07:09]: IC attending here. 95% radial. Honestly, repetition and reflection. That and patience. Use your same angle and field for engagement (I use LAO 15). One hand up front on catheter by sheath, another by hub, and taut. Connect up before complete engagement. Fine back and forth movements while torquing and patience. Let the JR kind of … find its way after a little torque. And hey, if it’s not working out, just shoot a puff of contrast. If anterior take off switch to a 3drc and if low anterior consider an AR Cath. For JL, have good wire looped in the right coronary cusp before bringing down JL to just below RCC — will help orient the catheter. Pull back wire to secondary curve and gently torque &gt;&gt; gently pull til you see the jump into left. Take wire up, connect pressure / con, and then can tweak. Low threshold to go to JL4 if tall, old, or obviously catheter is poorly engaging. Eventually you won’t feel “pressured” or think you can’t engage bc you’re deficient (the anatomy can be a pain in the ass sometimes - switch your goddamn catheter). and that’s when it’ll click. Be safe and don’t rush in the meantime
+7. u/Docdad30 [score=1, created=2025-11-11T12:14:47]: Videos are always helpful for me what works the best is making sure you are all the way down to the right cusp and work your way up by clocking slowly. Most people I have seen fail when they start clocking randomly in the root.

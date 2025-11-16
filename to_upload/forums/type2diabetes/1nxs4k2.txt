@@ -1,0 +1,27 @@
+Thread ID: 1nxs4k2
+Subreddit: type2diabetes
+Title: What does everyone put as their “range” for their CGM
+Author: ECorp_ITSupport
+Created UTC: 2025-10-04T05:02:02
+Score: 6
+Num Comments: 19
+URL: https://reddit.com/r/type2diabetes/comments/1nxs4k2/what_does_everyone_put_as_their_range_for_their/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1nxs4k2/what_does_everyone_put_as_their_range_for_their/
+Collected: 2025-11-15T08:15:15.341307
+===============================================================================
+
+I’m using the Stelo and it’s set at 70-140. I then downloaded the Dexcom Clarity app as I’d eventually like to print out reports for my endocrinologist. But within that app the range is 70-180. Which range is everyone using?
+
+---
+## Comments
+1. u/Potential-Ostrich862 [score=3, created=2025-10-05T05:18:43]: 70-160. I started out with 200, then 180, then 160. I could probably move it down to 140 at this point, but my blood sugar is well-controlled lately and I don’t want my CGM to yell at me if I've eaten something carbier than normal when I'm at a social dinner.
+2. u/anneg1312 [score=2, created=2025-10-04T17:16:12]: 70-130
+3. u/JustCallMeNorma [score=2, created=2025-10-04T15:48:47]: Side question: Why print the reports for your endo? Mine just downloads the reports.
+4. u/rckblykitn14 [score=3, created=2025-10-04T09:32:43]: I didn't even realize until right now that I could change it 😂
+5. u/SuspiciouslyDullGuy [score=3, created=2025-10-04T08:54:02]: 70 to 180 mg/dL (roughly 3.9 to 10 mmol/L) is the range used by Type 1 diabetics. Chronic levels above 180 are associated with organ damage. 70 to 140 is the typical range of a healthy person, and is increasingly used by Type 1s as a more desirable target, known as 'tight range'. The Stelo and Lingo sensors are marketed at non-diabetics who are interested in their health, and are available over the counter in the US as they are not regulated medical devices considered suitable for informing people who are on insulin therapy. The medical-grade models such as Dexcom's G7 and Abbott's Freestyle Libre sensors, and the reporting websites that go with them such as the Clarity site, use the 70 to 180 range by default. I personally aim for at least 95% of the time in tight range (below 140) and almost 100% of the time below 180, as this is a pattern that a non-diabetic who eats a lot of carbs might see. Fairly conservative in my view but others might aim for tighter numbers. It's worth noting that a recently-diagnosed person might not be able to achieve this target range, but through diet, weight loss, exercise and medications they might soon find that it gets much easier.
+6. u/moronmonday526 [score=3, created=2025-10-04T07:43:14]: The old standard for Time in Range was 70% between 70 and 180. The up and coming standard is 70% between 70 and 140. I use 70-140. I have never dipped below 99% between 70 and 180, and I'm currently running 89% between 70 and 140. https://www.reddit.com/r/stelo/comments/1nq5trk/can_i_trust_stelo/ngbda0m/
+7. u/Right_Independent_71 [score=2, created=2025-10-04T06:38:52]: 70-140 but always try and keep my highs no higher than 120 or so.
+8. u/JohnK68 [score=2, created=2025-10-04T06:27:13]: I use 74 to 144 just to help keep my A1C down. I am for 75% time in range.
+9. u/Cute_Hovercraft7629 [score=3, created=2025-10-04T06:01:48]: I keep my range 70 to 180, diabetics we’re supposed to be within that range 70% of the time. I set my alarm at 140. This gives me an opportunity to shut down spikes with physical activity.
+10. u/One-Second2557 [score=5, created=2025-10-04T06:01:42]: I use 70-180
+11. u/Ok_Tomorrow_7065 [score=5, created=2025-10-04T05:12:25]: This is the big question I ask myself. After an hba1c of 13 which has gone down to 5.6 for six months I wonder what “the right range” is to stay healthy and not just eat vegetables! So like you I ask myself the question. A priori for non-diabetics their peaks are 120 or even maximum 140, but for diabetics the tolerated range rises to 180.

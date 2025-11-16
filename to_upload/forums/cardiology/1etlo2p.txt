@@ -1,0 +1,20 @@
+Thread ID: 1etlo2p
+Subreddit: Cardiology
+Title: I want to read a clinical cardiology book that also comprises recommended drug doses
+Author: miruntel
+Created UTC: 2024-08-16T03:53:21
+Score: 3
+Num Comments: 10
+URL: https://reddit.com/r/Cardiology/comments/1etlo2p/i_want_to_read_a_clinical_cardiology_book_that/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1etlo2p/i_want_to_read_a_clinical_cardiology_book_that/
+Collected: 2025-11-15T08:33:46.710116
+===============================================================================
+
+Hello, I'm a first year resident in cardiology and many recommended me to read Braunwald's, but I' m a little disappointed since it focuses on a lot of studies instead of real relevant stuff for me as a beginner in this field. What book comprises reccommended drug doses according to ESC guidelines but also some relevant pathophysiology? I don't want to read only recommendations (i.e. guidelines), but also an up-to-date textbook in detail, but no in such detail as braunwald's. Let's say I would want to read something that forms a solid base that I could build on further. It wasn't only once when nurses asked me about dose adjustments and I had to ask older residents what to do and it's annoying. Thank you!
+
+---
+## Comments
+1. u/strikex2 [score=5, created=2024-08-16T08:48:56]: Review articles are usually good, short read, succinct and to the point. you just have to find the right ones. JACC "state of the art review" topics I've found are always wonderful. research by topic that you want to learn more about. [Management of ventricular electrical storm: a contemporary appraisal - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/32984880/) this for example is an ESC Europace review article on VT storm. On page 4 you'll find the common drugs, common dosing ranges and toxicities to watch out for.
+2. u/Austros_QRS [score=2, created=2024-08-16T06:32:43]: I understand your concern, after a while you will realize that the cardiologist studies everything by "studies" and "meta-analysis", of course at the beginning you are used to reading the doses of books but in cardiology it is a little different lol My recommendation is that you read the updated guides for each pathology you are looking for and there you will be able to read the doses Cardiology is constantly changing so it is difficult to recommend a book that next year may have incorrect dosages or outdated drugs.
+3. u/Remarkable_Club8940 [score=2, created=2024-08-17T11:28:56]: "Drugs for the heart", Lionel Opie
+4. u/dayinthewarmsun [score=1, created=2024-08-23T23:55:14]: If you want somewhat comprehensive and applicable cardiology knowledge, I wouldn’t really recommend a textbook. - If you can get access to the Mayo Clinic Cardiology Board Review videos, they are excellent, practical and focused enough to review “what every cardiologist should know at a minimum”. I recommend fellows to view them a couple of times throughout fellowship. They might be a little tough if you don’t have a good grasp of cardiac imaging and hemodynamics. - The ACC/AHA guidelines actually have a lot of practical information in them if you take the time to read them (don’t just look at boxes and charts or the exec summary). - Review articles. Google Scholar is, in my opinion, a great way to search for these, especially since you can filter by publication date to avoid old stuff.

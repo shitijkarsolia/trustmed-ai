@@ -1,0 +1,17 @@
+Thread ID: 1ovcpoc
+Subreddit: askCardiology
+Title: TOF clarification
+Author: paralleluniversecr
+Created UTC: 2025-11-12T11:12:02
+Score: 1
+Num Comments: 0
+URL: https://reddit.com/r/askCardiology/comments/1ovcpoc/tof_clarification/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1ovcpoc/tof_clarification/
+Collected: 2025-11-15T08:38:59.711621
+===============================================================================
+
+Hi everyone! 👋 I’m working on a school project where I need to 3D print a heart with **Tetralogy of Fallot (TOF)**. I’m an engineering student, but I don’t have a medical background, so I’m struggling to identify the specific defects in the model. I’m using a heart model that’s licensed for **educational use**, but before moving forward, I’d like to confirm whether it accurately represents the four characteristic defects of TOF. Could someone help me identify or verify the **four defects** in the model? Thanks in advance! 🙏 https://preview.redd.it/86frvdfkav0g1.png?width=600&amp;format=png&amp;auto=webp&amp;s=27630daacc58fbefaa2d2f066d7819bde4cc4604 https://preview.redd.it/s3rpodfkav0g1.png?width=600&amp;format=png&amp;auto=webp&amp;s=5076249f3df958ae868f5ac093fb35409234a014 https://preview.redd.it/v9e9m4hkav0g1.png?width=600&amp;format=png&amp;auto=webp&amp;s=9bdc3e224f847cedc666978e15be38537fb32924 https://preview.redd.it/3g18sefkav0g1.png?width=600&amp;format=png&amp;auto=webp&amp;s=5a4e54ec47c2cd7638d4a26118323f7eb4f6d77d https://preview.redd.it/ndwinefkav0g1.png?width=600&amp;format=png&amp;auto=webp&amp;s=42be4e2b5eed8e08e38565990cf0b705c07481b0 https://preview.redd.it/90o8refkav0g1.png?width=600&amp;format=png&amp;auto=webp&amp;s=74c266527db08a046daaf34061a9ede63195d8a5 https://preview.redd.it/h09drefkav0g1.png?width=600&amp;format=png&amp;auto=webp&amp;s=a498588d7031d05af792d80ebcd34d04ea0f83f6 https://preview.redd.it/eoivudfkav0g1.png?width=600&amp;format=png&amp;auto=webp&amp;s=f05469b6418a39ec0deaf51dae278abd1a05488a https://preview.redd.it/14tfnefkav0g1.png?width=600&amp;format=png&amp;auto=webp&amp;s=85e7814f1a68c5b2cf63fa438999e2546a845636 https://preview.redd.it/qorg5efkav0g1.png?width=600&amp;format=png&amp;auto=webp&amp;s=1e81a656de22e5952e2c87b364797e09958692a9
+
+---
+## Comments
+No comments captured.

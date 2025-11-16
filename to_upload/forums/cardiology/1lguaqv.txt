@@ -1,0 +1,23 @@
+Thread ID: 1lguaqv
+Subreddit: Cardiology
+Title: LVF a case discussion
+Author: prairydogs
+Created UTC: 2025-06-21T04:24:38
+Score: 9
+Num Comments: 22
+URL: https://reddit.com/r/Cardiology/comments/1lguaqv/lvf_a_case_discussion/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1lguaqv/lvf_a_case_discussion/
+Collected: 2025-11-15T08:29:07.619797
+===============================================================================
+
+Recently I attended a young pt who presented with sense of doom and cold sweaty peripheries. He had been refused cabg and had EF 20%. There were no crepts or pedal edema and he was maintaining vitals, ekg had no new changes. I have seen my attending start dobuta infusion with lasix in such patients. In theory this combo makes sense but starting inotrope with systolic above 100 seems little off. What do you guys think about this? Edit: I want to clarify that I am talking about a limited resource setup. And thank you everyone for all the answers.
+
+---
+## Comments
+1. u/supercoolsmoth [score=27, created=2025-06-21T04:30:57]: You don’t provide details as to whether there was hypoperfusion or not apart from extremities. It’s not about blood pressure, it’s about perfusion.
+2. u/docmahi [score=11, created=2025-06-21T06:24:17]: not many details but lets talk about blood pressure MAP = CO x SVR CO = (SV) Stroke volume X Heart Rate SV = preload x contractility In the case where LVEF is 20% you know that stroke volume is going to be low. Your patient is flooded by your description so in a high preload state. You are describing cardiogenic shock so if your MAP is elevated (blood pressure over 100 systolic guessing your diastolic is high up as well) that means your systemic vascular resistance is high. A weak heart has a hard time with high systemic vascular resistance its like going to the gym and trying to bench press a couple hundred pounds - easiest thing you can do is take weight off the bar In that case assuming you wanted to do medical therapy and are ignore revascularization/mechanical options etc. Your options are to either increase contractility (inotrope) or decrease SVR. If MAP is high you can use something like nipride whatever vasodilator, if MAP isn't high then you try inotrope (dobutamine, milrinone, dopamine whatever your system uses) That is an overly simplified approach to it - if you want a good reference lecture [https://www.amazon.com/Teaching-Hospital-Medicine-Jeff-Wiese-ebook/dp/B003WUY2TK](https://www.amazon.com/Teaching-Hospital-Medicine-Jeff-Wiese-ebook/dp/B003WUY2TK) Jeff Wiese has a teaching in the hospital book that covers lectures to give trainees, he has an exact shock lecture using MAP = CO x SVR that I give to residents almost every year Edit As others pointed out it’s actually CO = SV x HR and stroke volume = preload x contractility
+3. u/ceelo71 [score=6, created=2025-06-21T05:49:42]: In theory he could be really clamped down because his cardiac output is so poor. Generally, when deciding about starting inotropes in a patient like this, you want to see if there is evidence of end organ hypoperfusion. Does he have kidney or liver injury, is the lactate elevated, etc. in addition, it also is important to understand if they are volume overloaded before hitting them with a bunch of diuretics. Sometimes, especially if the blood pressure allows, after load reduction can be a better therapy.
+4. u/WantToBeItalian [score=4, created=2025-06-21T06:41:20]: repeat echo and if indicated, impella/IABP bridge to PCI imo
+5. u/WantToBeItalian [score=3, created=2025-06-21T04:49:30]: why was he refused cabg?
+6. u/KtoTheShow [score=2, created=2025-06-21T08:30:50]: Usually I would like for more objective evidence of shock (e.g. lactate elevated, Swan hemos) before starting an inotrope.
+7. u/Academic-Ant-3955 [score=2, created=2025-06-22T16:45:23]: Since dobutamine is primarily beta- 1 stimulating, I would focus on the dobuta in relation to the need for inotropic support needed to crank up the cardiac output/index versus the effect on systolic pressure. Diuretics to help the after load since we’re not convinced of septic shock. Personally wouldn’t rely on physical exam to determine fluid status. Ideally would have a CVP reading or at least a BNP level.

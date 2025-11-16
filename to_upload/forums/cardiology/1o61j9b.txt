@@ -1,0 +1,17 @@
+Thread ID: 1o61j9b
+Subreddit: Cardiology
+Title: Heart Transplant
+Author: bekks95
+Created UTC: 2025-10-13T17:50:01
+Score: 2
+Num Comments: 3
+URL: https://reddit.com/r/Cardiology/comments/1o61j9b/heart_transplant/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1o61j9b/heart_transplant/
+Collected: 2025-11-15T08:27:00.273089
+===============================================================================
+
+Any specific resources (videos or articles) for postoperative care of heart transplant pts? Specifically immunosuppression, what can be given what not etc
+
+---
+## Comments
+1. u/KtoTheShow [score=7, created=2025-10-13T17:54:16]: These tend to be institution specific protocols regarding immunosuppression dosing, management of rejection, etc. Would ask your team if they have a hand book

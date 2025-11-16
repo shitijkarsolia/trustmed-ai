@@ -1,0 +1,20 @@
+Thread ID: 1ovyzg4
+Subreddit: diabetes_t2
+Title: Has anyone got this b4
+Author: Michellegratton
+Created UTC: 2025-11-13T04:47:23
+Score: 1
+Num Comments: 4
+URL: https://reddit.com/r/diabetes_t2/comments/1ovyzg4/has_anyone_got_this_b4/
+Canonical URL: https://reddit.com/r/diabetes_t2/comments/1ovyzg4/has_anyone_got_this_b4/
+Collected: 2025-11-15T02:19:08.007852
+===============================================================================
+
+(No selftext provided.)
+
+---
+## Comments
+1. u/darthaxis [score=4, created=2025-11-13T07:36:39]: You should verify with a blood meter. Libre's go wacky more often then id like. If the two are more then 20% off contract the libre support line and they will send you a new one. Remember the libre is 5-15 minutes delayed from a blood meter. So take two blood measurements about 10 minutes apart to compare with the libre. Good luck. Remember, I'm just some rando on the internet.
+2. u/psoriasaurus_rex [score=2, created=2025-11-13T09:37:23]: That looks like a bad sensor.
+3. u/ShivanTom [score=1, created=2025-11-13T08:52:18]: if it's unusual then it might be a bad sensor - verity with a test strip!
+4. u/Bot-avenger [score=0, created=2025-11-13T06:11:20]: I have. I eat something sweet, and it comes back up. SOMETIMES, it can be a faulty sensor. I usually run in the high ranges...

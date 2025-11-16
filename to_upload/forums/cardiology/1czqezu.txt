@@ -1,0 +1,18 @@
+Thread ID: 1czqezu
+Subreddit: Cardiology
+Title: What is the proportion of ICD implantations that are performed for the indication of primary prevention in HF with LVEF &lt; 35%
+Author: Sea_Resolution3936
+Created UTC: 2024-05-24T10:34:42
+Score: 8
+Num Comments: 3
+URL: https://reddit.com/r/Cardiology/comments/1czqezu/what_is_the_proportion_of_icd_implantations_that/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1czqezu/what_is_the_proportion_of_icd_implantations_that/
+Collected: 2025-11-15T08:34:58.820141
+===============================================================================
+
+(...+ symptoms + optimal medical therapy for at least 3 months + good functional status etc) Not a cardiologist but I'm a UK doctor preparing a talk on cardiac devices and I can't find a source for this anywhere. Ideally, would like a table or graph of some sort. I'm guessing the majority of ICD implantations are for this indication (as opposed to high risk inherited conditions or secondary prevention) but would like to know an actual rough percentage or statistical breakdown of indications. Can anyone help me find a source? Don't mind US or UK (or basically any country) as long as it's actual data. Failing this, I'll gladly take anecdotal data/estimations. Thanks in advance!
+
+---
+## Comments
+1. u/The-Sparow [score=3, created=2024-05-26T15:17:43]: I don‘t know of any concrete data, but after the fantastic 4 and after the DANISH study the numbers for primary preventions are dropping .
+2. u/Ornery_Jell0 [score=2, created=2024-05-24T18:54:51]: Older data but I see [this](https://www.ahajournals.org/doi/full/10.1161/CIRCOUTCOMES.111.000054) cited a lot. Looks like ~75-80% implanted for primary prevention. *typo

@@ -1,0 +1,17 @@
+Thread ID: 1nlb25w
+Subreddit: type2diabetes
+Title: Another Dexcom rant
+Author: Equivalent-Yoghurt38
+Created UTC: 2025-09-19T11:13:32
+Score: 3
+Num Comments: 2
+URL: https://reddit.com/r/type2diabetes/comments/1nlb25w/another_dexcom_rant/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1nlb25w/another_dexcom_rant/
+Collected: 2025-11-15T08:17:03.203506
+===============================================================================
+
+I’ve been tracking everything in Dexcom (meals, medication times, workouts, etc). I stupidly assumed when I upgraded my phone the data would carry over, but it doesn’t. It’s now lost. Also, the sensor that had 9 days on it wouldn’t pair with the new phone so they’re sending me yet another replacement. I was told to download the Clarity app for history, but all it has is average readings and the data in the Clarity app doesn’t match the data from the G7 app. I’m honestly floored that this data is stored on the device instead of synced. I feel like I’m dealing with software built in 2010.
+
+---
+## Comments
+1. u/SuspiciouslyDullGuy [score=1, created=2025-09-19T14:17:55]: A G7 is a medical device, subject to regulated approval by the likes of the FDA. The Dexcom official app is considered part of the system. Developing and testing new features and getting approval is a very expensive process, and as a result app development moves at a snails pace and they like to keep it as simple as possible to avoid potential bugs. If you're okay with using an unofficial app look into the likes of XDrip+ (on Android) and setup synching to the likes of Tidepool for the purpose of generating reports for your doctor, if required. XDrip enables backup of the data in the app. At one time there was an iOS version of xDrip but I'm not sure what the status of this is at present. Edit - you can export your readings from the Clarity website to a CSV file, though I'm unsure it will contain meal and exercise data. Probably not.

@@ -1,0 +1,23 @@
+Thread ID: 1kequ4s
+Subreddit: Cardiology
+Title: How do you/should we assess/manage possible hypertension beyond the established practise?
+Author: RoronoaZorro
+Created UTC: 2025-05-04T11:32:16
+Score: 7
+Num Comments: 18
+URL: https://reddit.com/r/Cardiology/comments/1kequ4s/how_do_youshould_we_assessmanage_possible/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1kequ4s/how_do_youshould_we_assessmanage_possible/
+Collected: 2025-11-15T08:29:51.659151
+===============================================================================
+
+For example - say you manage a patient whose readings at rest are normal-ish, but pre-hypertensive (say 130/80 or 135/85; our guidelines still use 140/90 as the cut-off where I live) but skyrocket during the slightest activity (say 160/100 after standing up, walking a few meters + sitting down a couple of minutes). Going after guidelines and established practise, that patient would not require any treatment according to their readings at rest, especially if healthy otherwise. But should we assess patients otherwise if we find that their blood pressure is this reactive, and that they realistically will be in a hypertensive state for most of their day since even minor activity/stress seem to affect them this much? Do you have any established practise for cases like these? Is there any evidence at all that covers the impact of hypertension at mild activity levels? What's your take on managing them beyond strongly reaffirming the recommendations we'd already give them in pre-hypertension, particularly regular exercise?
+
+---
+## Comments
+1. u/doc2025 [score=15, created=2025-05-04T11:58:06]: I always tell my patients to check their BPs only at rest when they are most relaxed (i.e. not when stressed, in pain, angry/frustrated and certainly not immediately after exercise or going up a flight of stairs especially if deconditioned). The BP is going to be transiently elevated in those states. If going to use those readings to determine whether to treat or not it can bring down their resting BPs to the point where they can become symptomatic (lightheaded, dizzy, syncopal). You want to use the average of their baseline blood pressure to get most accurate readings. Of course have to put all this within the context of their overall cardiovascular risk (ASCVD score) or if they have certain conditions like aneurysms that require lower BP thresholds to determine when to be aggressive with medication. Lifestyle modification for all.
+2. u/zeey1 [score=9, created=2025-05-04T12:27:53]: Guidelines doesn't say 140/90..its 130/80 We disagree with internal medicine guidelines based upon randomized trial data from Sprint trial
+3. u/babar001 [score=9, created=2025-05-04T14:46:31]: 24h monitoring or multiple ambulatory measurements. If in doubt, low dose sartan for exemple and check for tolerance. We treat too little , too slow, and don't upgrade enough. Hypertension kills.
+4. u/Gideon511 [score=3, created=2025-05-04T11:58:27]: Therapeutic lifestyle changes, treating comorbidities like sleep apnea, if resistant HTN looking for secondary causes, I treat with CV disease to less than 130/80, you can get a 24h BP monitor if you think you are underestimating the BP
+5. u/Gideon511 [score=2, created=2025-05-04T12:20:21]: If 24h BP monitor elevated then would treat
+6. u/CaramelImpossible406 [score=1, created=2025-05-04T11:59:01]: Following
+7. u/yhezov [score=1, created=2025-05-05T19:07:29]: Def don’t restrict liquid intake. See recent large study

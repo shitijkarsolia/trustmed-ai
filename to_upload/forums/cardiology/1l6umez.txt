@@ -1,0 +1,26 @@
+Thread ID: 1l6umez
+Subreddit: Cardiology
+Title: Anyone discharge their Watchman cases same day?
+Author: Onion01
+Created UTC: 2025-06-08T20:20:36
+Score: 18
+Num Comments: 13
+URL: https://reddit.com/r/Cardiology/comments/1l6umez/anyone_discharge_their_watchman_cases_same_day/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1l6umez/anyone_discharge_their_watchman_cases_same_day/
+Collected: 2025-11-15T08:29:14.815669
+===============================================================================
+
+I know some programs discharge Watchman cases same day. I do mine under general anesthesia, with a limited TTE the next day for effusion check. But it feels like a waste to keep them 24 hours when I could potentially get an echo later that day and discharge. Thoughts? Experiences?
+
+---
+## Comments
+1. u/Prestigious-Bug5555 [score=21, created=2025-06-08T20:38:19]: Cath lab prep/recovery nurse. If they get hemostasis by 2 pm and no post-op complications, yes. One of our docs has two procedure rooms and teams going all day and he just goes back and forth and does 8 in one day. They get a CXR, EKG in PACU and TTE right before their 4 hr bed rest is done. We try to schedule the patients requiring admission at the end of the day
+2. u/your_star_arr [score=6, created=2025-06-08T20:49:59]: We do 4 cases and discharge the first three.
+3. u/ceelo71 [score=5, created=2025-06-08T22:33:39]: We started working on discharging our first 2-3 (of five scheduled) over the last few months. Two hours of bedrest, echo at four hours, make sure there are no groin issues, they can eat and pee, etc. Have found about 1/4 end up staying because something comes up, esp when you consider it’s a pretty frail population. We’ve started adjusting the order of patients based on their frailty to try to increase the chance of same day discharge.
+4. u/hfs2 [score=5, created=2025-06-09T03:24:15]: yes, discharge almost all pts same day, 2hr bedrest (perclose) and 2hr obs, with limited TTE to check for effusion.
+5. u/asoutherner33 [score=4, created=2025-06-08T21:50:38]: If done by 5pm and 8pm TTE ok, home before 9pm
+6. u/ApolloIV [score=7, created=2025-06-08T21:39:07]: EP nurse- most of our Watchman have no issues afterwards, but our attendings insist it's an insurance requirement for them to stay overnight (this is how they explain it to families at least). General anesthesia cases in my shop as well, I don't believe they do a TTE the next day.
+7. u/spicypac [score=3, created=2025-06-09T07:07:46]: We do them same day even though we do them under general anesthesia. We do a TTE about 3 hours post op to recheck. Barring complications we send em home. The attending that does the Watchman’s at my place will do at least half a dozen in a day and just busts through them 😅
+8. u/FLCardio [score=3, created=2025-06-09T09:05:20]: Moderate sedation with intracardiac echo. Groins closed with perclose. If no issues during the case then home same day. I don’t do post TTEs.
+9. u/Ayriam23 [score=2, created=2025-06-09T04:20:43]: Yeah typically in my experience if they get their echo and everything is looking good then they discharge same day. Usually the last patient of the day is considered the most high risk and is done at the end with the intent of an overnight stay, but otherwise most are gone same day unless something pops up.
+10. u/tarbinator [score=1, created=2025-06-09T15:10:33]: LAAO coordinator, and I wish we could do same day. We do most with ICE guidance and general, then admit for one overnight. No follow up TTE. We do a TEE at 45 days.

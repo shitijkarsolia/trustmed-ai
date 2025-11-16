@@ -1,0 +1,31 @@
+Thread ID: 1nl32cu
+Subreddit: Cardiology
+Title: VT or SVT with Aberrancy
+Author: JimMorrison420
+Created UTC: 2025-09-19T06:06:11
+Score: 20
+Num Comments: 33
+URL: https://reddit.com/r/Cardiology/comments/1nl32cu/vt_or_svt_with_aberrancy/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1nl32cu/vt_or_svt_with_aberrancy/
+Collected: 2025-11-15T08:27:37.286616
+===============================================================================
+
+75yr male, preexisting lbbb, unstable, treated as VT and all is well, but in hindsight i’m not sure.
+
+---
+## Comments
+1. u/Russell_Sprouts_ [score=43, created=2025-09-19T06:25:39]: Looks more likely to be AF RVR with aberrancy. Baseline EKG? Any cardiac hx?
+2. u/EphesusKing [score=8, created=2025-09-19T08:01:04]: While the pretest probability is most likely VT, I do agree that there is some question about whether this is SVT with aberrancy. Seeing his prior 12 lead while he was in flutter as well as a 12 lead rhythm strip of his current rhythm would be useful. There is clear AV conduction intermittently seen in lead V1. Can’t call that a capture beat because the QRS morphology doesn’t change and that beat comes in later than the prior RR intervals. It would be very unusual but you could have bundle branch re-entry or VT around the exit site of the RBB with a lot of wobble and during extreme wobble you see atrial activity - far too unlikely to make sense. I have a suspicion this is flutter (based on the fact that you mention prior flutter) with a Wenkebach type conduction with aberrancy but more data as mentioned above would be useful. Cardioversion was the right choice regardless
+3. u/ceelo71 [score=6, created=2025-09-19T08:33:09]: As others have pointed out, there appear to be periods of longer R-R intervals where there is an atrial activation. The QRSs are very similar, and consistent with the known LBBB. Differential would be an irregular VT, sinus with really frequent non-sustained atrial tach, or sustained AT or flutter with baseline aberrancy. If he converted out of this with cardioversion, then unlikely to be frequent non-sustained AT. In the heat of the moment; cardioversion is the correct call because he isn’t going to be conscious for much longer with an EF of 25% regardless of the arrhythmia mechanism. Would be pretty unusual to have an irregular VT, so atrial arrhythmia is probably the diagnosis.
+4. u/witty_and_new [score=6, created=2025-09-19T06:35:14]: It is a typical LBBB pattern with a normal axis and irregular which would typically argue for afib with LBBB. However there is clear AV dissociation and if unstable with those demographics would argue for VT so agree treating it as such.
+5. u/Gideon511 [score=3, created=2025-09-19T11:45:18]: Favor afib with rvr and lbbb, compare ecg when not in tachycardia to ext when in tachycardia
+6. u/H_is_for_Human [score=2, created=2025-09-19T06:26:22]: Meets basel algorithm criteria for VT
+7. u/JimMorrison420 [score=2, created=2025-09-19T06:46:50]: Cardiac hx dilated cmp EF22%, no ischemia on recent MRI. No further hx. I can’t add an other picture but ekg earlier in the day was atrial flutter 2:1 108/min, 182ms qrs with lbbb
+8. u/njeryes [score=2, created=2025-09-19T11:36:51]: It's atrial flutter with abberant variable conduction. There are atrial depolarization waves visible on v1. Note that it's regular and when it's not regular the RR interval is double that of the regular rhythm: consistent with atrial flutter.
+9. u/Fleebird3322 [score=2, created=2025-09-20T03:53:07]: Pre-excitation AF
+10. u/shahtavacko [score=2, created=2025-09-19T06:59:10]: VT, 99%
+11. u/omolap [score=2, created=2025-09-19T06:31:27]: VT there’s signs of AV dissociation and capture beats with P waves you see 4th, 8, and 13tg beat
+12. u/BibliotecarioDeBabel [score=1, created=2025-09-19T13:06:15]: Looks too irregular to be VT, it's probably AFRVR with aberrancy.
+13. u/BibliotecarioDeBabel [score=1, created=2025-09-19T13:06:31]: Looks too irregular to be VT, it's probably AFRVR with aberrancy.
+14. u/Dr_Nin [score=1, created=2025-10-24T06:43:44]: In V1 you can see a repeating sequence of regularly irregular beats and a P wave that has constant PR when is present. Could be a supraventricular tach with Wenckebach conduction. LBBB looks typical, doesnt look like VT.
+15. u/No_Paramedic_2039 [score=-1, created=2025-09-19T07:57:58]: The first thing to do at a cardiac arrest is to take your own pulse. Some of you may know that reference. It’s almost certainly a fib with RVR but if the patient is stable and you really have concerns that it could be VT I suppose you could give them some adenosine for diagnostic purposes. If they’re unstable, obviously just shock the patient. This really isn’t that hard people.

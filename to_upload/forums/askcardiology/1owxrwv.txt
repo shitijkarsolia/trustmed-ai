@@ -1,0 +1,17 @@
+Thread ID: 1owxrwv
+Subreddit: askCardiology
+Title: Questions on Acenocoumarol (Sintrom) Dose Adjustment
+Author: IceSafe9793
+Created UTC: 2025-11-14T07:21:41
+Score: 1
+Num Comments: 0
+URL: https://reddit.com/r/askCardiology/comments/1owxrwv/questions_on_acenocoumarol_sintrom_dose_adjustment/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1owxrwv/questions_on_acenocoumarol_sintrom_dose_adjustment/
+Collected: 2025-11-15T08:37:45.732857
+===============================================================================
+
+Hi everyone, I’m a new familly medecine resident and I have some questions about adjusting acenocoumarol (Sintrom 4 mg) doses. I’ve searched online but couldn’t find clear information (only found about warfarine ). Here are my questions : 1. When adjusting the dose based on INR (aiming for 2–3 for example ), do we calculate the change as a percentage? 2. Should adjustments be based on the weekly dose or the daily dose? 3. How often should we check INR after changing the dose? 4. When and how should we alternate different doses across the week ( exemple : 3/4 tablet for a day and 1/4 tablet the day after )? Any practical advice, resources, or protocols would be really helpful. Thanks!
+
+---
+## Comments
+No comments captured.

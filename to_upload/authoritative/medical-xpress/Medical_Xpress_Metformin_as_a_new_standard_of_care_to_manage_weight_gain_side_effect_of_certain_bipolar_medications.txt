@@ -1,0 +1,57 @@
+Title: Metformin as a new standard of care to manage weight gain side effect of certain bipolar medications
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-metformin-standard-weight-gain-side.html
+Canonical URL: https://medicalxpress.com/news/2025-11-metformin-standard-weight-gain-side.html
+Filename: Medical_Xpress_Metformin_as_a_new_standard_of_care_to_manage_weight_gain_side_effect_of_certain_bipolar_medications.txt
+Collected: 2025-11-15T16:58:46.729491
+===============================================================================
+
+Title: Metformin as a new standard of care to manage weight gain side effect of certain bipolar medications
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-metformin-standard-weight-gain-side.html
+Collected: 2025-11-15T16:58:46.729305
+
+================================================================================
+
+Metformin as a new standard of care to manage weight gain side effect of certain bipolar medications
+
+byUniversity of Cincinnati
+
+edited byStephanie Baum, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+Results from the largest and longest study of its kind have found that the drug metformin can help manage weight gain in overweight or obese youth taking medication to treat bipolar disorder, and should be adopted as a standard of care treatment.
+
+The work ispublishedinThe Lancet Psychiatryjournal. The project was led by University of Cincinnati and Cincinnati Children's Hospital researchers.
+
+Medications to treatbipolar disorder, known as second-generation antipsychotics (SGAs), are often effective at helping young patients' mental health improve, but can have significant side effects, including elevated appetite and weight gain. The side effects can lead to patients not taking their medications, and the weight gain can lead to lifelong harmful health outcomes.
+
+"So you're not just looking at the mental health, but you're looking at the physical health of the whole person," said Christina Klein, Ph.D., an assistant professor in UC's Department of Psychiatry and Behavioral Neuroscience in the College of Medicine.
+
+The MOBILITY study examined the use ofmetformin, a medication typically used for Type 2 diabetes that is also known to prevent weight gain. Klein said the study had a pragmatic design, meaning it had broad enrollment criteria and was conducted at a wide variety of clinics, even those without prior participation in research studies, such as community mental health clinics.
+
+A total of 1,565 patients aged 8–19 with bipolar disorder taking SGAs were enrolled in the study. Everyone enrolled in the trial received a brief healthy lifestyle intervention with recommendations for healthy eating and exercise. Half of the youth were randomized to receive metformin in addition to the healthy lifestyle intervention.
+
+Six- and 24-month follow-up data found patients in the metformin plus healthy lifestyle group had a greater change in their body mass index z-score compared to participants who did not receive metformin.
+
+"The interpretation of this is that the effect on weight is modest, but for most patients the benefits of metformin outweigh the risks," Klein said. "The suggestion is that clinicians prescribe metformin for youths who have bipolar spectrum disorders who are overweight or obese and are treated with a second-generation antipsychotic."
+
+Metformin was also found to be well tolerated with no major adverse events reported. The most common side effects reported were gastrointestinal issues, with some of these addressed by taking the medication with food or switching to an extended-release dosing.
+
+Coinciding with the trial's results, several national and international guidelines have been published supporting the use of metformin for the prevention ofweight gainin both pediatric and adult populations taking SGAs for mental health disorders.
+
+"The results of MOBILITY are consistent with recent practice guidelines and support the new standard of care—youth with overweight or obesity should be started on metformin at the same time a second-generation antipsychotic is initiated," said Melissa DelBello, MD, study principal investigator and Dr. Stanley and Mickey Kaplan endowed chair and professor of the Department of Psychiatry and Behavioral Neuroscience in UC's College of Medicine.
+
+DelBello noted that even as GLP-1 agonist weight-loss drugs like Ozempic have become more popular, they have not been sufficiently studied for long-term safety and efficacy in youth with mental health disorders. Additionally, metformin is much more affordable and accessible compared to GLP-1 medications, potentially making it a more feasible option.
+
+Conducting a long-term trial like MOBILITY can be challenging in perfect conditions, and it was partially conducted at the height of the COVID-19 pandemic. Klein said engaging stakeholders, identifying "champions" at each trial site and including patients and caregivers on the trial team helped lead to the trial's completion and success.
+
+DelBello additionally credited the success of MOBILITY to the collaborations among UC, Cincinnati Children's, Northwell Health, the mental health clinics at community and academic sites throughout the US and all trial stakeholders.
+
+"This embodies everything good about Children's and UC's collaboration, and clinic, for research into evidence-based practices," said Suzanne Sampang, MD, interim division director of child and adolescent psychiatry at Cincinnati Children's and a professor in UC's Department of Psychiatry and Behavioral Neuroscience.
+
+More information:Melissa P DelBello et al, Metformin for overweight and obese children and adolescents with bipolar spectrum and related mood disorders treated with second-generation antipsychotics: a randomised, pragmatic trial,The Lancet Psychiatry(2025).DOI: 10.1016/s2215-0366(25)00273-1Journal information:The Lancet Psychiatry

@@ -1,0 +1,63 @@
+Title: Research shows pharmacists can help people with cancer and diabetes better manage their blood sugar
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-10-pharmacists-people-cancer-diabetes-blood.html
+Canonical URL: https://medicalxpress.com/news/2025-10-pharmacists-people-cancer-diabetes-blood.html
+Filename: Medical_Xpress_Research_shows_pharmacists_can_help_people_with_cancer_and_diabetes_better_manage_their_blood_sugar.txt
+Collected: 2025-11-15T17:11:02.799385
+===============================================================================
+
+Title: Research shows pharmacists can help people with cancer and diabetes better manage their blood sugar
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-10-pharmacists-people-cancer-diabetes-blood.html
+Collected: 2025-11-15T17:11:02.799164
+
+================================================================================
+
+Research shows pharmacists can help people with cancer and diabetes better manage their blood sugar
+
+byUniversity of California - San Diego
+
+edited bySadie Harley, 																								reviewed byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+People with cancer who received diabetes care from clinical pharmacists achieved significantly better blood sugar control, according to new research from the University of California San Diego.
+
+The study,publishedinDiabetes Spectrum,found that patients referred to adiabetes managementand education clinic led by pharmacists saw meaningful improvements inblood sugar levelsover time, underscoring the critical role pharmacists can play in supporting this high-risk group.
+
+"Cancer and hyperglycemia can be a harmful combination," said Christina Mnatzaganian, Pharm.D., health sciences clinical professor at UC San Diego Skaggs School of Pharmacy and Pharmaceutical Sciences and lead author of the study.
+
+"Our findings show that pharmacists can bridge a major care gap by helping patients manage their blood sugar more effectively during cancer treatment, when fluctuations can be especially harmful."
+
+High blood sugar, or hyperglycemia, is a common and often overlooked complication among people with cancer. Roughly one in fivecancer patientsalso have diabetes, and cancer therapies such as chemotherapy, immunotherapy and corticosteroids—a class of anti-inflammatory and immunosuppressive drugs—can raise blood sugar even further.
+
+Poorly controlled glucose can weaken the immune system, increase the risk of infection and even reduce the effectiveness of cancer treatment. Yet despite these risks, few studies have examined how to best manage blood sugar in this population—or what role pharmacists might play.
+
+To address this gap, UC San Diego researchers evaluated outcomes for 79 adults with cancer and diabetes or hyperglycemia who were referred to the university's Diabetes Management and Education Clinic (DMEC) between 2019 and 2024. The clinic is staffed by pharmacists who provide individualizeddiabetes care, including education, medication adjustments and close follow-up through both in-person and telehealth visits.
+
+Over the four-year study period, patients with cancer who received pharmacist-led diabetes care experienced significant and sustained improvements in blood sugar control over three, six and nine months.
+
+Data from individuals who used continuous glucose monitors also showed patients were spending more time in a healthy range and experiencing fewer fluctuations.
+
+Patients' average hemoglobin A1c—a measure of long-term blood sugar control—fell by roughly one percentage point within three to nine months of entering the program. On average, patients had just over two scheduled visits with a DMEC pharmacist and more than six follow-up contacts, underscoring the sustained engagement provided by the clinic's model.
+
+"These improvements were achieved with relatively few visits and largely through remote follow-up, which makes the results especially encouraging," said Mnatzaganian.
+
+"It suggests that pharmacist-led interventions can be both effective and scalable—an important consideration as the number of people living with cancer and diabetes continues to rise."
+
+While previous research has shown that pharmacists can improve blood sugar control in people with type 2 diabetes, this is one of the first studies to evaluate their impact specifically in patients with cancer.
+
+The researchers noted that managing blood sugar in this group is uniquely challenging because many cancer treatments can cause wide swings in glucose levels. In some cases, hemoglobin A1c—commonly used to assess diabetes control—can be unreliable due to cancer-related anemia, making continuous glucose monitoring particularly valuable for real-time monitoring.
+
+The findings also highlight a need for more integrated care between oncology and diabetes teams. In the study, most patients were referred to the DMEC from oncology or primary care clinics, often weeks after starting cancer treatment. The authors suggest that earlier referral, or embedding diabetes-trained pharmacists directly into oncology clinics, could further improve outcomes.
+
+"Pharmacists bring a unique expertise to the care team," Mnatzaganian said. "They have the training to optimize complex medication regimens, interpret glucose data and provide practical, day-to-day guidance to patients. Partnering more closely with oncology teams could allow for quicker interventions and better continuity of care."
+
+The study was retrospective and did not include a control group, so additional research will be needed to confirm the results and measure other important outcomes such as emergency visits, hospitalizations, infection rates and treatment delays. The authors also recommend future studies assess long-term cancer outcomes, including recurrence and survival.
+
+"Managing blood sugar is just one piece of the puzzle, but it's a piece that can have ripple effects across a patient's overall health andcancer treatmentjourney," Mnatzaganian said.
+
+"Our goal is to make sure no patient falls through the cracks simply because their care teams are focused on separate conditions. Pharmacists are in an ideal position to help close that gap."
+
+More information:Christina Louise Mnatzaganian et al, Evaluation of a Pharmacist-Led Diabetes Management and Education Clinic on Glycemic Outcomes in Patients With Cancer,Diabetes Spectrum(2025).DOI: 10.2337/ds25-0059

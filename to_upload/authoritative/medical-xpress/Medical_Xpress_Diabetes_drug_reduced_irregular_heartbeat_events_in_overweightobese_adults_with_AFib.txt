@@ -1,0 +1,79 @@
+Title: Diabetes drug reduced irregular heartbeat events in overweight/obese adults with AFib
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-diabetes-drug-irregular-heartbeat-events.html
+Canonical URL: https://medicalxpress.com/news/2025-11-diabetes-drug-irregular-heartbeat-events.html
+Filename: Medical_Xpress_Diabetes_drug_reduced_irregular_heartbeat_events_in_overweightobese_adults_with_AFib.txt
+Collected: 2025-11-15T17:10:43.764736
+===============================================================================
+
+Title: Diabetes drug reduced irregular heartbeat events in overweight/obese adults with AFib
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-diabetes-drug-irregular-heartbeat-events.html
+Collected: 2025-11-15T17:10:43.764522
+
+================================================================================
+
+Diabetes drug reduced irregular heartbeat events in overweight/obese adults with AFib
+
+byAmerican Heart Association
+
+edited byLisa Lock, 																								reviewed byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+People with atrial fibrillation (AFib) and obesity may have fewer episodes of AFib after ablation if they take the diabetes medication metformin in addition to standard care, according to a preliminary, late-breaking science presentation Sunday at the American Heart Association'sScientific Sessions 2025. The meeting, held Nov. 7–10 in New Orleans, is a premier global exchange of the latest scientific advancements, research and evidence-based clinical practice updates in cardiovascular science.
+
+"Lifestyle and risk factor modification efforts are essential to treating AFib and according to the results of our study could be aided by taking metformin," said Amish Deshmukh, M.D., lead author of the study and clinical assistant professor of medicine at the University of Michigan in Ann Arbor.
+
+According to the American Heart Association, AFib, marked by episodes of irregular and rapid heartbeat, is the most common heart rhythm disorder and can lead toblood clots, stroke,heart failureor other heart-related conditions.
+
+Metformin is a widely prescribed generic medication that helps controlblood sugarlevels, primarily in people with Type 2 diabetes. It is often used as an initial treatment due to its effectiveness, long history of use and relatively low cost.
+
+In previous research on adults with diabetes and obesity, those taking metformin to manage blood sugar and weight had a lower risk of AFib as compared to other antidiabetic agents. In studies of laboratory models (for example, cells or animals), metformin directly affected heart cells and reduced irregular heart rhythms. Researchers wanted to find out if metformin could help lower the chances of AFib returning in people treated for AFib who are overweight or obese.
+
+The Metformin as an Adjunctive Therapy to Catheter Ablation of Atrial Fibrillation (META-AF) study analyzed 99 adults with AFib and obesity or overweight to determine whether adding metformin to standard care after a catheterablationprocedure would be beneficial. All participants received ablation and then were randomly selected to receive either usual care (lifestyle education about physical activity, healthy eating, sleep and managing other medical conditions) or usual care plus metformin.
+
+During the year after ablation, the analysis found:
+
+78% of the metformin group versus 58% of the usual-care group had no episodes of AFib lasting 30 seconds or more.
+
+The metformin group had fewer patients who needed a repeat ablation or electric shock to restore a normal heart rhythm during an AFib episode (6% versus 16%, respectively).
+
+The metformin group had less frequent AFib episodes during heart rhythm monitoring compared to the usual care group (8% versus 16%, respectively).
+
+Antiarrhythmia medications were used after ablation in 8% of patients in the metformin group and 18% in usual care.
+
+Weight changes were minimal in all participants, consistent with prior studies of metformin use in people without diabetes.
+
+"Treatment with metformin in people with obesity who do not have diabetes and are undergoing AFib ablation seems to lower the likelihood of recurrent AFib or atrial arrhythmias after a single procedure. While most people tolerated the medication well, a significant number stopped taking it due to side effects or because they felt well and did not want to add another medication to their regimen," Deshmukh said.
+
+The results raise the question of whether other medications for diabetes andweight loss, such as GLP-1 receptor agonists, may have similar benefits and side effects in adults without diabetes with AFib and obesity.
+
+Obesity is a common risk factor for AFib, and recurrent episodes of irregular heartbeats are more common in obese and overweight patients after catheter ablation, a procedure to eliminate small areas of tissue generating abnormal heartbeats. According to theAmerican Heart Association's 2025 Heart Disease and Stroke Statistics, AFib currently affects more than 6 million people in the U.S.
+
+"I would suggest conducting a larger study to investigate metformin and other diabetes treatments. We know that many of these medications offer cardiovascular benefits, and we are starting to gain a better understanding of how they might specifically benefit patients with arrhythmias. A study comparing various medications would be valuable to confirm our findings and also to address questions about tolerability, the feasibility of long-term use and costs," Deshmukh said.
+
+The study is limited by being small and conducted at one medical center. In addition, the findings may not be generalizable to centers with different populations or different techniques for performing catheter ablation.
+
+Study details, background or design:
+
+The study included 99 adults (average age of 63 years; 70% men, mostly white adults) with AFib. 70% of participants were categorized as obese, and the rest were categorized as overweight. 22% of participants had undergone a previous ablation. 46% had AFib that stopped without treatment within a week.
+
+Participants were excluded from the study if they had Type 1 or Type 2 diabetes, although 40% had blood sugar levels that met the criteria for prediabetes (A1C results of between 5.7%–6.4%).
+
+Additionally, people who were taking other medications to treat diabetes or those for whom metformin would be harmful were also excluded from this study.
+
+All participants were taking blood thinners to help lower the risk of stroke.
+
+The ablation procedure was performed in the pulmonary veins, which is known to be a common possible trigger area for AFib.
+
+No placebo was used, and the participants knew which treatment group they were in (49 were randomized to metformin and 50 to usual care).
+
+After a 3-month period to allow for healing after ablation and increasing metformin to the maximum dose, patients were monitored for recurrence of AFib lasting at least 30 seconds.
+
+Researchers calculated the AFib burden (percent of monitored time spent in AFib based on information from clinical monitoring, handheld monitors, pacemakers and defibrillators) over the one year (at 3-months and at 12-months).
+
+A significant number of study participants (12 of 49) stopped takingmetformindue to side effects or because they felt better or didn't want to add a medication to their regimen.
+
+The study was conducted at the University of Michigan between 2021 and 2025.

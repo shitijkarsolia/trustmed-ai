@@ -49,3 +49,5 @@ data_collection/logs/*.log
 # OS
 .DS_Store
 Thumbs.db
+aws*
+*.zip

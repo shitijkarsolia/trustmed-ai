@@ -1,0 +1,17 @@
+Thread ID: 1co6wij
+Subreddit: Cardiology
+Title: Heparinization during cath/ Doppler during TEE
+Author: Larjmarj55
+Created UTC: 2024-05-09T13:19:44
+Score: 2
+Num Comments: 5
+URL: https://reddit.com/r/Cardiology/comments/1co6wij/heparinization_during_cath_doppler_during_tee/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1co6wij/heparinization_during_cath_doppler_during_tee/
+Collected: 2025-11-15T08:35:13.297016
+===============================================================================
+
+I am not a physician. Is it standard procedure to use heparin or other anti-coag's during a cardiac cath or is it only used in certain circumstances? Pulsed wave doppler during a TEE. What is being measured and what terms/descriptors would you use to specify that it's used during the TEE?
+
+---
+## Comments
+1. u/one_plain_slice [score=8, created=2024-05-09T14:19:29]: Heparin is used during *diagnostic* caths only when going radial in an effort to prevent radial artery occlusion. Usually no heparin is used during diagnostics via femoral. But during interventional procedures, anticoagulation is always used. Much of the specifics here are institution/operator dependent. For the completely unrelated question on TEE (lol), pulsed wave doppler can be used in many ways so it’s hard to give you a clear answer on this (eg, left atrial appendage emptying velocity, LVOT &amp; RVOT VTI for QpQs, MR volume assessment by continuity). But in some cases, PW is not technically needed at all during TEE (eg, assessing for a left atrial thrombus or for a vegetation)

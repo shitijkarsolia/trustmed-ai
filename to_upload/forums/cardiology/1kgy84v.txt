@@ -1,0 +1,20 @@
+Thread ID: 1kgy84v
+Subreddit: Cardiology
+Title: Chance of successful PTCA
+Author: Phil_the_knocker
+Created UTC: 2025-05-07T07:06:31
+Score: 7
+Num Comments: 7
+URL: https://reddit.com/r/Cardiology/comments/1kgy84v/chance_of_successful_ptca/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1kgy84v/chance_of_successful_ptca/
+Collected: 2025-11-15T08:29:48.235437
+===============================================================================
+
+Hi all, I was wondering if there is a correlation or causation between the onset of symptoms of ACS (incl. EKG-Changes), and how difficult it is to reperfuse the culprit vessel? As in, does the amount of elapsed time between the first chest pain or STEMI/OMI-Pattern negatively affect the chance of reopening the vessel? I get that we have to be fast if theres occlusion because tissue is dying, but i would be curious to know if theres anecdotic (or even scientific, couldnt find any) evidence that an occlusion is harder to wire if its 90 Minutes "old", rather than 60, or 200 mins rather than 120. Or what other time-related-obstacles there are, if any. Excuse me if its poorly understandable, english is not my first language, and im excited to hear your experiences.
+
+---
+## Comments
+1. u/GolgiApparatus88 [score=5, created=2025-05-07T07:54:51]: Anecdotally yes, late presenting MI culprit lesions can be harder to wire.
+2. u/seanmigo [score=2, created=2025-05-07T18:51:01]: Harder to wire? Slightly? Maybe? But the bigger issue with late presentation is flow. The thrombus that is there is more organized, and more of it, which makes it slightly harder to wire, but not that big a deal in the scheme of things. However, all the tissue downstream is deader, so more issues with no reflow/microvascular dysfunction. And higher thrombus burden just makes everything a pain. So yeah, later is worse, but the wiring of the lesion usually isn’t why.
+3. u/nalsnals [score=1, created=2025-05-08T03:44:46]: Yes, but wiring and restoring good flow is more difficult when the presentation is delayed by 1 or 2 days rather than 1 or 2 hours.
+4. u/BadonkaDonkies [score=1, created=2025-05-07T08:18:39]: Depends on the lesion, less likely on time per SE. Calcified lesions are tough to cross

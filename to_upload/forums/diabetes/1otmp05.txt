@@ -1,0 +1,21 @@
+Thread ID: 1otmp05
+Subreddit: diabetes
+Title: Anyone have a problem with DEXCOM G7 Glucose monitoring?
+Author: BlackFish42c
+Created UTC: 2025-11-10T12:03:44
+Score: 2
+Num Comments: 10
+URL: https://reddit.com/r/diabetes/comments/1otmp05/anyone_have_a_problem_with_dexcom_g7_glucose/
+Canonical URL: https://reddit.com/r/diabetes/comments/1otmp05/anyone_have_a_problem_with_dexcom_g7_glucose/
+Collected: 2025-11-15T08:07:09.517176
+===============================================================================
+
+My doctor started me on the Dexcom G7 glucose monitor but it doesn’t stay connected to Bluetooth. I’ve tried multiple times and it will not connect to the Bluetooth. When it does it’s only for a few seconds then off. Plus I have been noticing that the monitors are not lasting as long as they say they will.
+
+---
+## Comments
+1. u/sammijo235 [score=3, created=2025-11-10T13:36:11]: What are you using as a receiver? I haven't had any problems with the G7 in years of use that isn't resolved by replacing the sensor. It can greatly vary from sensor to sensor. Generally speaking, if you didn't have problems with the sensor insertion, there's no way to know if it's an issue with your receiving device (pda or phone) or the sensor itself. But, if you document the errors and inaccuracies, Dexcom will usually replace your sensor for free. You just need to report it. I hope you don't get discouraged, it can take some time to acclimate to new devices and therapies, so give it at least 3 sensors before you make any decisions.
+2. u/SnowmanTS1 [score=2, created=2025-11-10T19:45:35]: You don't do anything in Bluetooth settings for dexcom, just use the app, it takes care of it.
+3. u/No_Lie_8954 [score=2, created=2025-11-10T13:34:20]: In the Bluetooth section on the phone the sensor will only show connected when it recieve a reading. Once every 5 minutes. And yes, we have had so many bad G7 sensors last 12 months since we started recieving Malaysian made sensors only, we rarely get a sensor lasting full 10 days.
+4. u/chasetwisters [score=1, created=2025-11-10T13:23:58]: Are you using the Dexcom provided reciever or your phone? Could be an issue with your phone's Bluetooth. Or it could be a faulty sensor. I would contact their customer support. They are helpful and will send you a new sensor if it is determined the sensor is bad. When you say they're not lasting as long, what do you mean? Are they coming off before 10 days?
+5. u/BlackFish42c [score=1, created=2025-11-10T17:59:54]: I’m just using the Dexcom App and trying to connect by Bluetooth to my iPhone 12 but it’s just not connecting period!!!

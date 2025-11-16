@@ -1,0 +1,21 @@
+Thread ID: 1j9gbx6
+Subreddit: Cardiology
+Title: Can someone please recommend cardiology books to me.
+Author: choi_wut26
+Created UTC: 2025-03-12T02:43:49
+Score: 10
+Num Comments: 12
+URL: https://reddit.com/r/Cardiology/comments/1j9gbx6/can_someone_please_recommend_cardiology_books_to/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1j9gbx6/can_someone_please_recommend_cardiology_books_to/
+Collected: 2025-11-15T08:30:59.512728
+===============================================================================
+
+I am a 3rd year med student and while i know it may be early for me to even think about a speciality because many people change there preferences, i would still like to know what books i can read and other resources i can use to set myself up to become a cardiologist. I would greatly appreciate if you could also mention the order in which i should read these books.
+
+---
+## Comments
+1. u/BadonkaDonkies [score=15, created=2025-03-12T03:20:36]: https://pre-med.jumedicine.com/wp-content/uploads/sites/7/2020/10/The-ECG-Made-Easy-9th-Edition.pdf Start with basics like learning EKGs
+2. u/BigAorta [score=11, created=2025-03-13T11:38:18]: Great that you’re passionate about cards and want to do your homework before residency. A few suggestions/recommendations below: - be a good internist before thinking about cardiology. Seriously though: card PDs don’t care how good you are in cards they will teach you that. They want the best internal medicine doc in their program bc they can’t teach the basics. It’s a cliche but it’s true - ECG made easy by Dubin is great - Pathophysiology of the heart by Lilly - clinical textbook of hemodynamics by ragosta - some sort of manual or quick reference book (I personally prefer manual of cardiovascular medicine by Cleveland Clinic) - keep it simple: better to know a few resources well than have too many options and be paralyzed. General rule of thumb: if you need 2 hands to count the number of resources you’re using, you need to simplify Best of luck and have fun!
+3. u/nalsnals [score=5, created=2025-03-12T04:03:03]: Katz - Physiology of The Heart. Great foundation to build an understanding of cardiac physiology and disease
+4. u/Queasy-Cell-9623 [score=1, created=2025-09-09T13:18:11]: Hi, 1) Manual of Cardiovascular medicine, Griffin is perfect
+5. u/GyanMaximus [score=0, created=2025-03-12T10:45:56]: Heart Healers by Dr Forrester a must read for anyone in or going into Cardiology. The book is a biography of the field that is a fantastic read.

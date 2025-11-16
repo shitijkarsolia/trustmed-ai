@@ -1,0 +1,19 @@
+Thread ID: 1fw2qxg
+Subreddit: Cardiology
+Title: Temp transvenous pacer
+Author: [deleted]
+Created UTC: 2024-10-04T09:03:17
+Score: 4
+Num Comments: 7
+URL: https://reddit.com/r/Cardiology/comments/1fw2qxg/temp_transvenous_pacer/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1fw2qxg/temp_transvenous_pacer/
+Collected: 2025-11-15T08:33:08.337990
+===============================================================================
+
+Looking to get a consensus here on when to remove these. Got into a little debate with a coworker. Lets say you place one for 3rd degree block in the setting of sepsis or some other reversible cause. Do you pull after 24 hours with no pacing? Do you pull sooner? Do you leave it in and just upgrade to a permanent pacer?
+
+---
+## Comments
+1. u/jiklkfd578 [score=5, created=2024-10-04T10:06:43]: Pull once reversible driver adequately being treated with no pacing required- definitely within 24 hours of no pacing. Often just later that day
+2. u/[deleted] [score=4, created=2024-10-04T14:56:09]: EP fellow here. Lots should go into this decision. What’s the native rhythm look like? Wide vs narrow native QRS, recent CTS? How long was CHB? What’s reversible: recent CTS/TAVR? How long do we wait? Underlying functional status and risk of infection?
+3. u/dayinthewarmsun [score=1, created=2024-10-06T21:46:42]: I agree that you wait a little while after the cause has been reversed. I also agree that you have to look at the overall clinical picture. In general, I get them out ASAP. If I think conduction has improved, I typically pull the wire that day (unless already late in day). They are not benign. Aside from the possibility of a cardiac complication, in many patients the requisite prolonged bed rest can lead to very significant morbidity. Isn’t sepsis a fairly unusual reason to put a temp wire in?

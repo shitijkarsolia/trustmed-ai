@@ -1,0 +1,55 @@
+Title: Why type 1 diabetes is more aggressive in young children
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-diabetes-aggressive-young-children.html
+Canonical URL: https://medicalxpress.com/news/2025-11-diabetes-aggressive-young-children.html
+Filename: Medical_Xpress_Why_type_1_diabetes_is_more_aggressive_in_young_children.txt
+Collected: 2025-11-15T16:59:08.859729
+===============================================================================
+
+Title: Why type 1 diabetes is more aggressive in young children
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-diabetes-aggressive-young-children.html
+Collected: 2025-11-15T16:59:08.859563
+
+================================================================================
+
+Why type 1 diabetes is more aggressive in young children
+
+by Louise Vennells,University of Exeter
+
+edited byLisa Lock, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+Scientists have made a major breakthrough in understanding why type 1 diabetes is more aggressive in young children, offering the clearest explanation to date of why the condition is particularly difficult to manage when diagnosed early in life.
+
+The study,publishedinScience Advances, could pave the way for new strategies to prevent or delay type 1 diabetes and, in time, contribute to a cure.
+
+Type 1 diabetes—which affects about 400,000 people in the U.K.—is an autoimmune condition, where the immune system attacks and destroys theinsulin-producing cellsin the pancreas. In young children—typically under the age of 7—type 1 diabetes often progresses more rapidly, increasing the likelihood of medical emergencies and requiring higher doses of insulin than those diagnosed at an older age.
+
+Until now, scientists had limited tools to study the early development of insulin-producing cells. These cells are found in clusters in the pancreas. In young children, these clusters are small and still forming, and only contain a few insulin-producing cells.
+
+The new study, led by Professor Sarah Richardson at the University of Exeter, used cutting-edge scientific techniques to study these small clusters in unprecedented detail. The team analyzed rare pancreas samples from more than 250 people of varying ages, both with and without type 1 diabetes. They looked at how these clusters change as we age and how they are affected by the immune system.
+
+Why young children are more vulnerable
+
+The findings confirm that inearly childhood, people without type 1 diabetes have many small clusters of insulin-producing cells, which normally increase in size and mature with age, with the most rapid development occurring in the first few years of life.
+
+For the first time, the researchers showed that in people with type 1 diabetes, these small clusters are almost completely absent, having been destroyed by the immune system. While some people with type 1 diabetes retained a few large clusters, allowing them to produce small amounts of insulin, this was not the case for those diagnosed at a young age.
+
+Together, the results suggest that the abundant small clusters found in young children are especially vulnerable to the type 1 diabetes immune attack. Their rapid destruction prevents them from maturing, leaving very few insulin-producing cells later in life. This explains why children diagnosed with type 1 diabetes at a young age typically are unable to produce any of their own insulin, making the condition particularly difficult to manage.
+
+Implications for treatment and early screening
+
+This research underscores the critical role of these small clusters in healthy pancreas development and opens the door for new treatments to protect children's small clusters of insulin-producing cells, giving them the chance to mature into large clusters that are less vulnerable to the immune attack. It also strengthens the case forearly type 1 diabetes screening—particularly inyoung children—essential for identifying those in the early stages of type 1 diabetes before these crucial cells are lost.
+
+Professor Richardson said, "These tiny insulin-producing beta cell clusters—once overlooked—hold big clues to understanding type 1 diabetes. This new perspective has the potential to reshape how we screen, treat, and even prevent type 1 diabetes. Protecting small beta cell clusters early could be key to stopping type 1 diabetes before it starts."
+
+Dr. Elizabeth Robertson, Director of Research and Clinical at Diabetes UK, said, "The Type 1 Diabetes Grand Challenge set out to fund bold, ambitious research with the potential to fundamentally shift progress toward new treatments and, ultimately, a cure for type 1 diabetes. This study delivers on that vision by challenging the foundations of previous understanding about the development of type 1diabetesin early childhood.
+
+"Uncovering whytype 1 diabetesis so aggressive in young children opens the door to developing newimmunotherapiesaimed at slowing or stopping the immune attack, potentially giving children more precious years without insulin therapy and, one day, preventing the need for it entirely."
+
+More information:Kathryn Murrall et al, Small things matter: Lack of extraislet β cells in type 1 diabetes,Science Advances(2025).DOI: 10.1126/sciadv.adz2251Journal information:Science Advances

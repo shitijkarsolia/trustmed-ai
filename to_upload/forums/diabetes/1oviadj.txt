@@ -1,0 +1,17 @@
+Thread ID: 1oviadj
+Subreddit: diabetes
+Title: Diabetes with LibreLink
+Author: crazy_yus
+Created UTC: 2025-11-12T14:36:00
+Score: 1
+Num Comments: 1
+URL: https://reddit.com/r/diabetes/comments/1oviadj/diabetes_with_librelink/
+Canonical URL: https://reddit.com/r/diabetes/comments/1oviadj/diabetes_with_librelink/
+Collected: 2025-11-15T02:16:59.482016
+===============================================================================
+
+(No selftext provided.)
+
+---
+## Comments
+1. u/alexmbrennan [score=1, created=2025-11-12T15:19:13]: That is precisely why I don't use the vendor app. Dexcom can display glucose on the lock screen so it's inexcusable that Abbot just doesn't bother.

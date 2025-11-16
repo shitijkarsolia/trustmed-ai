@@ -1,0 +1,18 @@
+Thread ID: 1ov8q4n
+Subreddit: askCardiology
+Title: Strange MRI
+Author: Rski765
+Created UTC: 2025-11-12T08:48:44
+Score: 3
+Num Comments: 6
+URL: https://reddit.com/r/askCardiology/comments/1ov8q4n/strange_mri/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1ov8q4n/strange_mri/
+Collected: 2025-11-15T08:38:55.176713
+===============================================================================
+
+Hi. I am a 49 year old male. I had an ablation done around 20 years ago as had a ventricular tachycardia. Since then I have had palpitations on and off so get this checked out every few years. I had some tests recently and all was ok, blood pressure was a little up, echocardiogram was ok. But slight thickening of heart wall which was noticed in my 20s as well. The doctor suggested I have an MRI as a precaution. To cut a long a long story short my MRI showed scarring on my heart. The doctor basically said I had a heart attack , which is something I am completely unaware of. He couldn’t tell me timing of it or much else. I’ve had a band of pain around my back and chest on and off over the years, but went to get this checked out a few times when it happened and was told it wasn’t heart related. I recently had a number of EKGs blood tests and nothing suggested a heart attack. Am am now going to have some tests done to check for heart decease etc. it’s lucky I had the MRI, I only got it because I am with private health in UK. I am in general good health so it’s all a bit strange. Was just wondering if anyone else has experienced something like this, being told they had a heart attack but being unaware of it, and no signs with medical checks or symptoms.
+
+---
+## Comments
+1. u/Wrong-Increase-6127 [score=2, created=2025-11-12T11:05:03]: Yes—this happens. “Silent” heart attacks are real, and MRI is far better at spotting old heart muscle scarring than ECGs or blood tests (those mainly catch a *current* attack). Also, scarring can come from other things too (old myocarditis, prior ablation), so the MRI pattern plus your history matters. What I’d do next: stick with the cardiology work-up, ask what the MRI’s “late gadolinium enhancement” pattern suggests, check risk factors hard (lipids, A1c, BP), and ask if you need a CT coronary angiogram or stress test. Depending on results, they may put you on prevention meds (e.g., statin ± aspirin), a monitor for palpitations, and a BP/fitness plan. Plenty of people discover old scar and do fine for decades—key is nailing risk factors and follow-up. You were smart to get the MRI. Keep pushing for clear answers and a plan.
+2. u/Impressive_Donut3122 [score=1, created=2025-11-12T12:28:03]: It occurs without the classic severe symptoms, and the damage is often only discovered later on tests like an MRI. Your previous back and chest pain could have been related.

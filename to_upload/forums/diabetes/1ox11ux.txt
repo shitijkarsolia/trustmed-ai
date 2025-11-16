@@ -1,0 +1,19 @@
+Thread ID: 1ox11ux
+Subreddit: diabetes
+Title: Why is 6.5 hba1c is considered the upper limit and cut off for detecting diabetes and not any other value ?
+Author: Sweet_Supermarket_32
+Created UTC: 2025-11-14T09:24:19
+Score: 0
+Num Comments: 14
+URL: https://reddit.com/r/diabetes/comments/1ox11ux/why_is_65_hba1c_is_considered_the_upper_limit_and/
+Canonical URL: https://reddit.com/r/diabetes/comments/1ox11ux/why_is_65_hba1c_is_considered_the_upper_limit_and/
+Collected: 2025-11-15T02:16:15.765540
+===============================================================================
+
+Just a normal query … Why only this digits
+
+---
+## Comments
+1. u/psoriasaurus_rex [score=15, created=2025-11-14T09:40:28]: I mean, they have to set the diagnostic criteria at some number and the evidence supports 6.5. You can also be diagnosed by failing a glucose tolerance test, but a1c is a lot simpler to measure.
+2. u/PhoneFresh7595 [score=18, created=2025-11-14T09:27:06]: It corresponds to a blood glucose level where diabetes complications start to rise sharply
+3. u/Faustian-BargainBin [score=1, created=2025-11-14T15:01:00]: What diagnostic criteria would you propose in addition to A1c%?

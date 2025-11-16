@@ -1,0 +1,21 @@
+Thread ID: 1ovmjhb
+Subreddit: prediabetes
+Title: Insulin resistance or prediabetes?
+Author: KeyResort2022
+Created UTC: 2025-11-12T17:25:36
+Score: 2
+Num Comments: 7
+URL: https://reddit.com/r/prediabetes/comments/1ovmjhb/insulin_resistance_or_prediabetes/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1ovmjhb/insulin_resistance_or_prediabetes/
+Collected: 2025-11-15T08:22:53.271370
+===============================================================================
+
+Hello guys ☺️ I have a question. Recently I got my blood sugar tests and fasting blood sugar was like 106 but average is around 95… Then another day my glucose was 153 after a big meal My A1C tested at the lab was 5.3 It has been 10 days and I have reduced drastically (around 50 net carbs a day)… Today, I decided to make oat pancakes with about 1.5 oz of oats. I combined it with salad, olive oil, mozzarella cheese and bacon According to chat gpt, the GL was 18(moderate) Baseline: 102 One hour after eating: 136 2 hours after eating: 126 So, I am wondering… aren’t these numbers too high? Chat gpt said that it should have been around 125 after one hour and it should return to baseline after two hours.. is that correct? Is it prediabetes or insulin resistance???
+
+---
+## Comments
+1. u/pinkflakes12 [score=6, created=2025-11-12T17:40:43]: Go see a medical professional such as an endocrinologist. Chapgpt is not a doctor.
+2. u/East_Collection_5672 [score=2, created=2025-11-12T19:27:59]: When you reduce carbs drastically for a while and then reintroduce them, it can have a big impact on insulin resistance. In fact, it might cause a bigger spike. The meal you had seems balanced, but it’s worth checking with a finger prick when you feel sluggish or drained; that often signals a spike. I see Glucospike Ai app to see which meals will spike.
+3. u/kclear123 [score=2, created=2025-11-13T04:14:58]: 126 2 hours after eating is perfectly normal. 5.3 Hba1c is also normal. Insulin resistance can be tested with a HOMA-IR test. If insulin resistance is advanced, it can normally manifest in elevated blood sugar levels but this would take a long time to show up.
+4. u/CliffsideJim [score=1, created=2025-11-13T10:02:19]: Get fasting insulin and fasting glucose on same blood sample. Plug results into any online HOMA-IR calculator.
+5. u/Sufficient_Beach_445 [score=1, created=2025-11-13T16:32:29]: If your a1c is 5.3 you are not prediabetic. U could be insulin resistant. Get your fasting insulin tested the next time u have bloodwork.

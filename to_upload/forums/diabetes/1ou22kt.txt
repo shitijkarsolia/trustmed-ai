@@ -1,0 +1,17 @@
+Thread ID: 1ou22kt
+Subreddit: diabetes
+Title: Planning to go change to insulin pump
+Author: Green_Economy_850
+Created UTC: 2025-11-10T23:16:05
+Score: 2
+Num Comments: 1
+URL: https://reddit.com/r/diabetes/comments/1ou22kt/planning_to_go_change_to_insulin_pump/
+Canonical URL: https://reddit.com/r/diabetes/comments/1ou22kt/planning_to_go_change_to_insulin_pump/
+Collected: 2025-11-15T02:17:39.530055
+===============================================================================
+
+I (17M) have been using MDI’s ever since i was diagnosed with T1D 13 years ago, then later in Jan 2020 I started using a CGM Sensor (freestyle libre) I talked to my doctor about the qualifications and he told me to tell the endo about it in the next appointment. I’ve watched many videos about various Insulin Pumps, how to use, etc… but still reluctant to get one. Im afraid that i dont meet the requirements to get the pump in the KSA yet im not sure if I will get adapted with it fast. My Hba1c is 7% since last appointment (27 days ago), Estimated 6.6 in LibreLink app (81% quartery active time),carbs / insulin ratio is 8 grams, correction factor is 30 mg/dL for each dose of insulin thats over 180 mg/dL. Anything else I need to clarify?
+
+---
+## Comments
+1. u/RaeofRats [score=1, created=2025-11-11T01:12:42]: Not sure what the requirements for a pump are the ksa, but you might have to change your correction factor because most pumps are set to a lower "when to give correction" settings standards than 180 if you want to use any of the automated features. Your Endo should help you figure that out, mine had a whole math formula based on my total insulin use in 24 hours. But also, you can give fractions of a unit to get you exactly where you need. I personally love the tandem algorithm, but plenty of people love the omnipod because of the lack of tubing, however the adhesive may be a problem in hotter climates.

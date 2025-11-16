@@ -1,0 +1,19 @@
+Thread ID: 1mvggm7
+Subreddit: type2diabetes
+Title: iPhone glucose apps
+Author: parrothedds
+Created UTC: 2025-08-20T07:32:28
+Score: 1
+Num Comments: 6
+URL: https://reddit.com/r/type2diabetes/comments/1mvggm7/iphone_glucose_apps/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1mvggm7/iphone_glucose_apps/
+Collected: 2025-11-15T08:20:08.903379
+===============================================================================
+
+Looking for Recommendations: Does anyone have any experience with any of the apps that are available in the App Store?
+
+---
+## Comments
+1. u/Digisticks [score=1, created=2025-08-24T20:51:06]: I use Libre by Abbott for my Libre 3 Plus CGM. Also use Sweet Dreams, though not like I used to. If you do their subscription, I think it unlocks widgets that include a Carplay widget, which is pretty neat. For my Apple Watch, I use Glucowatch. It syncs every 5 minutes, so I can get a decent read of where it is at all times, as it's on my main watch screen.
+2. u/rckblykitn14 [score=1, created=2025-08-20T19:03:09]: I use Juggluco simply because the number just sits there on the bar at the top of my phone at all times. I never really have to scan the sensor. I only do (on the actual Libre app) so my dietitian can see it on her linked app thing. ETA - I'm actually not sure if it's available on iPhone, I have an android
+3. u/325_WII4M [score=1, created=2025-08-20T07:55:20]: If your glucometer can connect to MySugr via Bluetooth, it's one of the better apps I've come across! Also, it’s worth checking with your insurance to see if they cover Continuous Glucose Monitors (CGMs). For instance, the Freestyle Libre wasn’t covered by my plan, but they do cover the Dexcom G7. CGM's give real-time updates of blood sugar numbers without those pesky finger pricks.

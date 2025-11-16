@@ -1,0 +1,18 @@
+Thread ID: 1n8gv3u
+Subreddit: Cardiology
+Title: Not exactly Cardiology related….
+Author: brixlayer
+Created UTC: 2025-09-04T10:41:07
+Score: 4
+Num Comments: 2
+URL: https://reddit.com/r/Cardiology/comments/1n8gv3u/not_exactly_cardiology_related/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1n8gv3u/not_exactly_cardiology_related/
+Collected: 2025-11-15T08:27:54.350938
+===============================================================================
+
+I’ve been working through the pacemaker related modules on Medtronic Academy website. I can get them to work fine on my desktop but for the life of me I can’t get them to work on my IPad. Anyone have luck with using an iPad and could give me some pointers. Or is the webpage just not compatible ?
+
+---
+## Comments
+1. u/Peas-Of-Wrath [score=5, created=2025-09-04T12:39:01]: Maybe your version of IOS isn’t compatible with Medtronic. You should check which versions are compatible and see if yours needs updating.
+2. u/SirDandyy [score=2, created=2025-09-06T16:40:03]: Medtronic academy does not work well for me either on IOS. Fine on the laptop though.

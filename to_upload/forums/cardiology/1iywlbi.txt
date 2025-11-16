@@ -1,0 +1,19 @@
+Thread ID: 1iywlbi
+Subreddit: Cardiology
+Title: How do you approach consults/curbsides for acquired prolonged QT in the setting of drug ingestion...
+Author: CoC-Enjoyer
+Created UTC: 2025-02-26T12:55:35
+Score: 26
+Num Comments: 5
+URL: https://reddit.com/r/Cardiology/comments/1iywlbi/how_do_you_approach_consultscurbsides_for/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1iywlbi/how_do_you_approach_consultscurbsides_for/
+Collected: 2025-11-15T08:31:15.432662
+===============================================================================
+
+... specifically as it relates to generally young healthy patients. I get the call semi regularly to "clear a patient for transfer to inpatient psych." Obviously, I never write the words "cleared" anywhere in the medical record, but instead I generally write something like: "If QTc has been below 480ms x2, the patient is no longer [having symptoms relevent to drug in question], and there is no family history of sudden cardiac death then the risk of TdP due to this acute intoxication is very low going forward" I then recommend follow up and repeat ECGs if starting any QT prolonging agent. Do you guys and girls think this is too much? Not enough? I havent been able to find any data or guidelines on this specific scenario.
+
+---
+## Comments
+1. u/LoudMouthPigs [score=10, created=2025-02-26T22:44:54]: Who the dickens is calling cardiology for this? An ER doc +/- poison control center call should be 100% independent. Cardiology would be smart overall about it and helpful if the patient is in Torsades, but what are they going to do for every patient who snarfs a few benadryl other than have their time wasted?
+2. u/Oxford___comma [score=5, created=2025-02-26T16:49:51]: Isn't this a poison control center issue? They're typically very helpful for acute ingestions and complications... I'd imagine they can give guidance on this to inpatient teams?
+3. u/Ant_Cardiologist [score=1, created=2025-03-07T20:10:09]: That's a reasonable approach.

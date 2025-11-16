@@ -1,0 +1,21 @@
+Thread ID: 1gcrrvj
+Subreddit: Cardiology
+Title: Pre-excited atrial fibrillation and amiodarone
+Author: [deleted]
+Created UTC: 2024-10-26T11:38:36
+Score: 6
+Num Comments: 5
+URL: https://reddit.com/r/Cardiology/comments/1gcrrvj/preexcited_atrial_fibrillation_and_amiodarone/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1gcrrvj/preexcited_atrial_fibrillation_and_amiodarone/
+Collected: 2025-11-15T08:32:55.581699
+===============================================================================
+
+Hi there. I have read that amiodarone should be avoided in pre-excited atrial fibrillation due to a potential AV nodal blocking effect which may excacerbate the problems causing even faster ventricular rate and possibly degeneration to VF, the same argument for not using other AV nodal blocking agents such as beta blockers. However, I have asked some of my older colleagues some of which are quite competent in arrhythmias and they do not show this concern and say amiodarone is OK. Do any of you have any thoughts / experience / input towards this? I know flecainide can be used, and often these patients are younger without concerns of structural heart disease but flecainide is more finicky than amiodarone. Of course, there is still DC cardio version but if we want to use drugs. I have never had such a patient in real life.
+
+---
+## Comments
+1. u/Groundbreaking-Sink1 [score=2, created=2024-10-26T14:46:04]: Amiodarone, especially during initial loading predominantly acts akin to a beta blocker and acts at the AV node to slow conduction. In somebody with an accessory pathway, this would theoretically encourage conduction through the accessory tract and potentially at 1:1 conduction precipitating VF like you mentioned. Now its not everyday that you come across pre-excited AF and hence everyone's experience varies and the characteristics of the accessory pathway vary as well. In someone who has an accessory pathway with decremental conduction, the use of these agents shouldn't pose as much of a risk versus those who don't. So in short, if you have a pathway proven to show decremental conduction, sure go ahead and use amio. In others I'd personally prefer not to risk VF.
+2. u/PNW-heart-dad-5678 [score=1, created=2024-10-26T21:54:13]: I’ve never had to tx in real life but procainamide is the aad of choice
+3. u/strikex2 [score=1, created=2024-10-27T10:08:49]: Only seen one case of VF from WPW, by the time the patient got to us, he was already loaded with amiodarone, defibrillated multiple times and on ECMO. We waited until decannulation and then did the pathway ablation. For stable pre-excited afib, ibutilide and procainamide should still be first line therapy. Be careful with hypotension with procainamide use and also for prolonged QT from NAPA build up in setting of renal dysfunction. I think amiodarone use in this situation comes from our comfort with amio in general and it's relative safety profile in the short term, plus also the fact that often you're not sure if its pre-excited afib vs irregular VT. Previous ESC and ACC afib guidelines in the early 200s had amiodarone as a IIb recommendation but the newer guidelines have amiodarone as III/potential to do harm, but I think generally you can get away with it given its Na and K channel affects affecting with both the AV node and bypass tract. You can always cardiovert if needed. Flecainide I would reserve for use in the chronic outpatient setting for patients with pathways that don't undergo ablation, though I think most of these we should be ablating. The peds people are certainly very aggressive with ablations. I'm not sure I would use flecainide in the acute setting for pre-excited afib if I don't know whether or not the patient has structural disease.
+4. u/paramac55 [score=1, created=2024-12-02T22:34:56]: I had a nasty reaction to Amiodaron in the ER due to Afib.
+5. u/LegalComfortable6238 [score=1, created=2024-12-22T10:07:02]: I don't understand why this is a class III recommendation. Amiodarone sure can have an modest effect on the Av node, but is a great anti arrhythmic drug. So while class I is the best choice, in my opinion Amiodarone should be a second choice.

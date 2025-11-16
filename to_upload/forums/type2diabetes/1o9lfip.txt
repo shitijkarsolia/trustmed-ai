@@ -1,0 +1,17 @@
+Thread ID: 1o9lfip
+Subreddit: type2diabetes
+Title: Oral glucose tolerance test
+Author: Domirexy
+Created UTC: 2025-10-17T20:32:08
+Score: 3
+Num Comments: 2
+URL: https://reddit.com/r/type2diabetes/comments/1o9lfip/oral_glucose_tolerance_test/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1o9lfip/oral_glucose_tolerance_test/
+Collected: 2025-11-15T08:13:50.478045
+===============================================================================
+
+(No selftext provided.)
+
+---
+## Comments
+1. u/alan_s [score=2, created=2025-10-18T15:13:23]: If it is a positive it will not be false. A person without diabetes would not fail the test regardless of the carb load. Unfortunately an A1c of 5.8% is already over the threshold of 5.7% for prediabetes.

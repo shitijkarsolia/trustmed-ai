@@ -1,0 +1,23 @@
+Thread ID: 1kre2bx
+Subreddit: Cardiology
+Title: When is a good time to start beta blockers on a Inf STEMI patient post-pci?
+Author: spicy_41
+Created UTC: 2025-05-20T12:38:25
+Score: 25
+Num Comments: 18
+URL: https://reddit.com/r/Cardiology/comments/1kre2bx/when_is_a_good_time_to_start_beta_blockers_on_a/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1kre2bx/when_is_a_good_time_to_start_beta_blockers_on_a/
+Collected: 2025-11-15T08:29:33.264939
+===============================================================================
+
+Patient comes in with inf stemi, but no av block. You activate cath lab, do successful pci, should you start him on a bb immediately after, to optimize his medical treatment, given his pulse tolerates the bb? And also what if the patient came in with inf stemi + av block. No sign of block on the post pci ecg. Then again should you start bb immediately? A question from a very junior resident on the field. Appreciate the patience
+
+---
+## Comments
+1. u/noltey22 [score=28, created=2025-05-20T12:54:18]: In your first scenario, I would probably wait until after the echocardiogram and then maybe the next morning start a low-dose beta blocker. A lot of our data in terms of beta blocker usage after MI comes from the pre-reperfusion era. In a patient with a preserved LVEF, multiple recent studies that showed little utility certainly in long-term beta blocker usage. So in my mind, there’s no rush, unless the LVEF is low, in which instance I would start beta blocker alongside your regular guideline director medical therapy (assuming of course they’re not shock-y). In your second scenario, I would be even more hesitant. let the patient rest and see how their rhythm plays out over the next 12 to 24 hours at a bare minimum before adding beta blockade
+2. u/Popular_Jeweler [score=6, created=2025-05-20T22:31:16]: The day of discharge, the survival benefit of BB is seen long-term and you can absolutely kill a patient by starting them too soon after primary PCI. We had patienta go into cardiogenic shock when an overzelous housestaff started metoprolol the morning after the patient's STEMI.
+3. u/RoDelPortillo [score=2, created=2025-05-20T16:01:51]: Maybe once You are sure there is no reperfusion side efectos, with an eco
+4. u/jiklkfd578 [score=1, created=2025-05-20T18:50:16]: Next am
+5. u/FriendlyAd3972 [score=1, created=2025-05-22T08:25:26]: Successful opened artery with timi 3 flow. Ecg normalised. Can start immediately
+6. u/leonidasturtle [score=1, created=2025-05-22T10:27:49]: There is no rush to start a BB post inferior MI. I would wait until the patient is stable and able to tolerate a BB -- that could be 1 day or longer. Should really be case by case.
+7. u/Curious_Lobster_4750 [score=1, created=2025-09-22T18:37:46]: Take a look at *BETAMI-DANBLOCK,* REDUCE-AMI, and REBOOT-CNIC - all largely the same conclusion. Take your time.

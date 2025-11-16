@@ -1,0 +1,19 @@
+Thread ID: zpwcxh
+Subreddit: HeartDisease
+Title: Alarm that goes off in case of heart stop
+Author: musser82
+Created UTC: 2022-12-19T09:36:52
+Score: 2
+Num Comments: 3
+URL: https://reddit.com/r/HeartDisease/comments/zpwcxh/alarm_that_goes_off_in_case_of_heart_stop/
+Canonical URL: https://reddit.com/r/HeartDisease/comments/zpwcxh/alarm_that_goes_off_in_case_of_heart_stop/
+Collected: 2025-11-15T02:26:00.601092
+===============================================================================
+
+Hi there. After searching the internet for some time, with little luck or unclear results - I figured it was time to post the question here. Short story, and motivation for this post: I'm 40 yo, and I recently had a hearth valve replacement through open chest surgery. Since the operation - which went well - I've been nervous of dying in my sleep. I had a buddy that died of an undiscovered heartdefect at age 38, and even though my heart is 'fixed', I still can't help to think, 'what if'.. I'm looking for some device that can monitor my heart in my sleep, and sound an alarm loud enough to wake up my spouse if i die, so that she can call the paramedics. I have an apple watch, which is great for ECG's and general health monitoring, and i also have an app that can call someone in case that my hearth rate falls below 40.. For 10 minutes! By that time I'd be dead, and it wouldn't matter. Hope someone knows of such a device, thanks in advance.
+
+---
+## Comments
+1. u/nithrean [score=2, created=2022-12-19T16:11:55]: Can the settings on your Apple watch be changed? Like time wise so it isn't 10 mins?
+2. u/iateyourbees [score=2, created=2022-12-19T19:39:05]: there's an owlet sock for babies.... not sure if they make an adult version though?
+3. u/Lillilegerdemain [score=1, created=2025-04-28T01:38:37]: How about a pacemaker?

@@ -1,0 +1,25 @@
+Thread ID: 1ikszct
+Subreddit: Cardiology
+Title: OMI or not?
+Author: BarbDart
+Created UTC: 2025-02-08T10:47:11
+Score: 26
+Num Comments: 25
+URL: https://reddit.com/r/Cardiology/comments/1ikszct/omi_or_not/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1ikszct/omi_or_not/
+Collected: 2025-11-15T08:31:28.026824
+===============================================================================
+
+Reuploaded OMI or not? 85 y/o M, pod 4-5 in gen surg (unsure which procedure he underwent), desat 85% on RA. Potassium is 6.0. No chest pain reported by intern. Lacking more clinical info unfortunately. Regardless of management plan, would you consider this EKG suspicious for OMI? or the hyperkalemia explains it? Thanks!
+
+---
+## Comments
+1. u/jiklkfd578 [score=17, created=2025-02-08T13:06:11]: Wouldn’t take to the lab at his age and lack of pain. Correct lytes, o2, serial enzymes and an echo then take it from there
+2. u/DisposableServant [score=10, created=2025-02-08T10:53:19]: Pericarditis
+3. u/d3vilguard [score=2, created=2025-02-08T13:20:48]: give us another EKG in a few hours, would be awesome to compare. Thanks!
+4. u/hughvr [score=2, created=2025-02-08T19:39:32]: Ive seen this changes in patients with diseases that could irritate the peritoneum that mimick pericarditis (Im thinking this because he's in the surgical ward). But still I would do serial trops and echo to check for wall motion abnormalities.
+5. u/[deleted] [score=1, created=2025-02-08T11:39:57]: [deleted]
+6. u/Grandbrother [score=1, created=2025-02-08T15:52:24]: no
+7. u/2toneSound [score=0, created=2025-02-08T14:26:04]: needs Trops but looks a clear Inferolateral MI
+8. u/hfs2 [score=-1, created=2025-02-08T15:10:09]: Is there any data that intervening early on "OMI"s changes clinical outcomes?
+9. u/Future_Awareness8419 [score=0, created=2025-02-08T15:26:50]: Pericarditis

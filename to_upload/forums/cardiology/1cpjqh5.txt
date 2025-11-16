@@ -1,0 +1,18 @@
+Thread ID: 1cpjqh5
+Subreddit: Cardiology
+Title: Exploring Non-ACGME Cardiology Fellowship Programs
+Author: Serious-Kitchen-1354
+Created UTC: 2024-05-11T08:16:07
+Score: 2
+Num Comments: 10
+URL: https://reddit.com/r/Cardiology/comments/1cpjqh5/exploring_nonacgme_cardiology_fellowship_programs/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1cpjqh5/exploring_nonacgme_cardiology_fellowship_programs/
+Collected: 2025-11-15T08:35:09.007671
+===============================================================================
+
+Hello! I am looking for non-ACGME fellowship programs. Does anyone know of any website similar to FREIDA that list such opportunities?
+
+---
+## Comments
+1. u/caffeineismysavior [score=2, created=2024-05-11T10:00:46]: Doesn't seem like there is a list for non-accredited fellowship programs. You'd have to do an individual search by subspecialty (e.g. heart failure, imaging etc) or state. More importantly, I'm not sure why you are looking for these non-accredited programs when you're only a PGY-1. You need to have completed residency first in order to have the clinical foundation and experience for the fellowship.
+2. u/dayinthewarmsun [score=1, created=2024-05-12T09:18:59]: If you plan to practice in the USA, I’m fairly certain a non-accredited cardiology fellowship is not what you actually want. Why would you be interested in this?

@@ -1,0 +1,21 @@
+Thread ID: 1muoy2m
+Subreddit: type2diabetes
+Title: I think I have Type 2 now
+Author: wrathofkwon
+Created UTC: 2025-08-19T10:25:52
+Score: 6
+Num Comments: 6
+URL: https://reddit.com/r/type2diabetes/comments/1muoy2m/i_think_i_have_type_2_now/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1muoy2m/i_think_i_have_type_2_now/
+Collected: 2025-11-15T08:20:10.325160
+===============================================================================
+
+* 55 y.o. male. 6'0". 195 lbs. * 15% body fat; 158.4 lbs of muscle mass; 54.9% skeletal muscle * Excercise 3-5 times per week; cardio + weight training * Home cooked meals just about every day, fresh veggies, fruit, complex carbohydrates 8 months ago, CMP showed glucose at 102. Glycated Hemo showed A1C a6 6.1. I started modifying my diet and then traveled for 3 weeks consuming a lot of white rice, simple carbs, sugar. This was a month ago. Back on normal diet this summer. My fingers have been tingling with some numbness which has not abated much. Some days are worse than others. I have had a couple of skin discolorations (small, one on face and one on neck). I feel a bit hotter than normal and more fatigue. I'm getting more bloodwork done tomorrow. Worried about the news.
+
+---
+## Comments
+1. u/alan_s [score=2, created=2025-08-21T15:45:07]: &gt;8 months ago, CMP showed glucose at 102. Glycated Hemo showed A1C a6 6.1. Did the doctor diagnose you as pre-diabetic? If not, ask the doctor why not because those numbers both indicate pre-diabetes. We cannot diagnose you, only a doctor can do that. While you wait for an appointment read this: [I Think I May Have Diabetes...](http://loraldiabetes.blogspot.com/2015/09/i-think-i-may-have-diabetes.html)
+2. u/smokinLobstah [score=1, created=2025-08-21T05:25:44]: A1C kits are available for at home testing, much like a blood sugar glucose test. Since your having blood work done tomorrow you can just wait to see what that says. "...fresh veggies, fruit..." can be a problem, depending on what they are. What might be healthy for a normal person may be very UNhealthy for someone with T2D.
+3. u/maec1123 [score=3, created=2025-08-19T13:27:42]: Usually, a high A1C with normal fasting glucose means that your spiking too high after eating, high stress, exercise induced high blood sugar, etc. I would get a glucose monitor and test after meals, after exercise and track it over a month's time. This should give you an idea of what's going on. Remember that only checking your BS once a day is a snippet in time. Checking your A1C is a good indication to dig deeper.
+4. u/PacRimRod [score=11, created=2025-08-19T10:57:15]: Too much unneeded data there. Get a blood test, see what your fasting blood glucose is as well as your A1C. Those are the numbers that matter.
+5. u/ephcee [score=5, created=2025-08-19T10:37:19]: Tingling and numbness is more likely a structural issue like carpal tunnel than neuropathy at this point. I suppose it’s always possible but it’s not a typical early symptom. Sometimes you can do everything right and your genes still have other plans. The good news is you’re already doing a lot of what you need to do. Do you consume pre-workout or a lot of caffeine? That can cause elevated numbers, really anything that raises cortisol/inflammation will affect insulin sensitivity.

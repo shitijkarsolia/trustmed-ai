@@ -1,0 +1,67 @@
+Title: Combo pill boosts heart function, symptoms, life quality
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-combo-pill-boosts-heart-function.html
+Canonical URL: https://medicalxpress.com/news/2025-11-combo-pill-boosts-heart-function.html
+Filename: Medical_Xpress_Combo_pill_boosts_heart_function_symptoms_life_quality.txt
+Collected: 2025-11-15T17:12:18.664888
+===============================================================================
+
+Title: Combo pill boosts heart function, symptoms, life quality
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-combo-pill-boosts-heart-function.html
+Collected: 2025-11-15T17:12:18.664721
+
+================================================================================
+
+Combo pill boosts heart function, symptoms, life quality
+
+byAmerican Heart Association
+
+edited byLisa Lock, 																								reviewed byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+Adults with heart failure with reduced ejection fraction (HFrEF) who took a "polypill" combining medications prescribed for the treatment of heart failure, had improved heart function and symptoms, better quality of life, fewer hospitalizations and greater medication adherence than those taking the medications individually, according to a late-breaking science presentation today at the American Heart Association'sScientific Sessions 2025. The meeting, held Nov. 7–10 in New Orleans, is a premier global exchange of the latest scientific advancements, research and evidence-based clinical practice updates in cardiovascular science.
+
+"In recent decades, there have been important, effective treatment advances for patients withheart failure, however, use of these treatments remains disappointingly low, with only 15% of patients receiving all guideline-recommended therapies at any dose for heart failure after hospitalization," said study author Ambarish Pandey, M.D., M.S., FAHA, an associate professor of internal medicine in the division of cardiology and geriatrics at UT Southwestern Medical Center in Dallas and medical director of the center's heart failure with preservedejection fractionprogram.
+
+"In our study, we focused on socially disadvantaged populations to demonstrate the positive impact of an easier-to-followmedicationregimen of only one pill vs. three pills daily, and we found significant improvements even after six months. Our findings provide the first evidence that a polypill approach could be effective for our patients with heart failure."
+
+The trial included 212 adults with HFrEF who were not receiving guideline-recommended treatment. Participants were randomly assigned to one of two groups: 108 participants were prescribed the polypill regimen, which included metoprolol succinate (a beta-blocker), spironolactone (a mineralocorticoid receptor antagonist) and empagliflozin (a SGLT2 inhibitor). The second group of 104 adults were assigned to enhanced standard care, taking guideline-recommended medications as individual pills. Everyone also took an angiotensin receptor-neprilysin inhibitor (ARNI), sacubitril-valsartan, which is dosed twice-daily and not well suited for a once-daily polypill.
+
+After six months, the study found:
+
+Measures of left ventricular ejection fraction (LVEF) improved among all participants, with a 3% higher absolute LVEF among the polypill group vs. the enhanced standard care group.
+
+The polypill reduced heart failure-related hospitalizations andemergency room visitsby 60%—meaning patients in the polypill group were less than half as likely to need emergency care.
+
+Patients in the polypill group reported higher quality of life scores than those in the enhanced standard care group (72 points vs. 63 points, on a 100-point scale). This approximate 9-point improvement means patients experienced less fatigue, fewer symptoms, and better overall well-being.
+
+Blood tests confirmed that 79% of polypill patients had detectable levels of the tested medications (metoprolol and/or spironolactone), compared to only 54% in the enhanced standard care group, with more than 4-fold greater odds of taking all tested medications with the polypill.
+
+The study group plans more research on how best to address heart failure in specific groups.
+
+"Moving forward, we are planning additional studies to evaluate broader implementation of thepolypillapproach in heart failure," Pandey said.
+
+Study details, background or design:
+
+212 adults with HFrEF (left ventricular ejection fraction of equal to or less than 40%) were enrolled. Participants were a median age of 54 years old; 22% were female; 54% self-identified as Black, and 33% were Hispanic; 68% of participants had nohealth insuranceor were receiving county-sponsored health coverage; 42% reportedfood insecurity; and 32% reported housing instability.
+
+Participants were recruited from Parkland Health and Hospital System, Dallas County's safety-net health care system, UT Southwestern Medical Center and the William F. Clements University Hospital, all in Dallas.
+
+The trial enrolled participants over approximately 3.5 years, and enrollment closed in May 2025.
+
+Nearly half of participants were prescribed all four medication types at enrollment, however, 73% had moderate-to-low medication adherence.
+
+When the study started, the participants' average left ventricular ejection fraction was 26%.
+
+Various health measures and data were collected at time of enrollment, one month, three months and the final patient data was collected at six months.
+
+All participants had their heart's left ventricular ejection fraction measured bycardiac magnetic resonanceimaging (MRI) at enrollment and at the six-month follow-up.
+
+Blood samples were collected at all study visits to measure levels of a protein hormone that is released by the heart in response to stress, such as heart failure. This is referred to as NT-proBNP testing.
+
+Health-related quality of life was assessed using the Kansas City Cardiomyopathy Questionnaire-12, a standard patient questionnaire.
+
+Medication adherence was assessed through multiple methods including the Morisky Medication Adherence Questionnaire-8, and therapeutic medication monitoring at six months looking at levels inblood samples.

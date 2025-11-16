@@ -1,0 +1,26 @@
+Thread ID: 1ougupf
+Subreddit: diabetes
+Title: Body mass (muscles) decreasing significantly
+Author: Lost_Wear_8765
+Created UTC: 2025-11-11T11:13:40
+Score: 10
+Num Comments: 45
+URL: https://reddit.com/r/diabetes/comments/1ougupf/body_mass_muscles_decreasing_significantly/
+Canonical URL: https://reddit.com/r/diabetes/comments/1ougupf/body_mass_muscles_decreasing_significantly/
+Collected: 2025-11-15T02:17:14.424122
+===============================================================================
+
+Hey guys, I'm not diabetic myself but my father (50+) is diabetic from almost 18-19 years but these days he has been losing a lot of muscles body mass. Idk I'm so worried, could you guys suggest something that would be good for his health or something we could add in his diet
+
+---
+## Comments
+1. u/psoriasaurus_rex [score=19, created=2025-11-11T11:16:20]: Exercise and eating a healthy diet with enough calories. Also, how are his glucose levels? If his glucose is too high and his diabetes is poorly controlled, he may have trouble keeping on weight.
+2. u/verd_nt [score=6, created=2025-11-11T11:57:42]: these sorts of concerns should really be addressed by his doctor and care team.
+3. u/uffdagal [score=3, created=2025-11-11T15:28:36]: What medication does he take? GLPs will often result in reduced muscle mass.
+4. u/__JDQ__ [score=3, created=2025-11-11T15:28:55]: Talk to the doc about this of course, but even as Type 2, if he can’t bring his BG down and is losing weight, it may be time for insulin. Glucose can’t get into your cells where it’s needed and can’t be stored for long term use without insulin.
+5. u/DizzyAstronaut9410 [score=2, created=2025-11-11T14:22:59]: If he has high blood sugar consistently, it will absolutely cause him to lose weight, and specifically muscle mass. Do you know what his A1C is?
+6. u/buzzybody21 [score=4, created=2025-11-11T11:15:15]: How active is your father? Is he able to take walks or move his body?
+7. u/Healthy-Zebra-9856 [score=4, created=2025-11-11T11:44:29]: Ask his doctor to run a full metabolic and nutritional panel — including A1C, fasting insulin, kidney function, testosterone (total &amp; free), vitamin D, and B12. Older men with long-standing diabetes often have low testosterone and poor nutrient absorption, which can cause rapid muscle loss. Many diabetics undereat protein out of fear of raising glucose. But protein minimally affects blood sugar and helps protect lean mass. Aim for 1.2–1.6 g per kg body weight daily, from sources like eggs, poultry, fish, whey isolate, Greek yogurt, tofu, etc. Whey isolate in particular is quick-digesting and shown to improve glucose control and muscle recovery when paired with resistance exercise. Even 15–20 minutes a few times per week makes a big difference. Bodyweight exercises or resistance bands can help reactivate muscle growth, improve insulin sensitivity, and stabilize blood sugar. As for supplements etc. * **Magnesium glycinate or citrate** – supports insulin signaling * **Creatine monohydrate (3 g/day)** – safe for most people with normal kidney function and helps preserve strength. Any company that sells CreaPure certified. eg. NutriCost, which has both certified &amp; non-certified. Choose CreaPure. * **Omega-3 (krill oil)** – anti-inflammatory and supports muscle protein synthesis. Krill Oil gets absorbed much better than fish oils. * **Vitamin D3 + K2** – helps muscle and bone strength * **HMB (β-Hydroxy-β-Methylbutyrate)** This is a metabolite of the amino acid leucine that directly reduces muscle protein breakdown. It’s one of the few supplements with strong evidence in older adults and people losing muscle from inactivity or chronic disease. Typical dose: **3 g per day**, split in two or three doses. It’s safe, doesn’t affect glucose, and works best when combined with light resistance training and adequate protein intake. I use NatureBell (Amazon) * **L-Glutamine** Glutamine is conditionally essential during illness or metabolic stress, and diabetics often have lower plasma glutamine levels. It helps maintain intestinal integrity, supports immune function, and can modestly aid recovery after workouts. However, for pure muscle-building purposes, it’s not as potent as HMB or creatine. Think of it more as a “recovery and gut health” amino acid. Typical dose: **5–10 g once or twice daily**, ideally between meals or post-workout. I use MicroIngredients (Amazon) If his kidney function is normal, HMB, L\_Glutamine &amp; Creatine can be used safely — but HMB will have the most direct effect on preventing further muscle loss, while glutamine helps overall recovery and glucose stability under stress.
+8. u/dmw_qqqq [score=2, created=2025-11-11T11:27:04]: Besides a good diet, encourage him to hit the gym. My brother is T2. This is how he maintains a healthy body mass.
+9. u/SputtleTuts [score=2, created=2025-11-11T11:38:53]: might want to check his ketone levels - i think i read somewhere that DKA (a result of uncontrolled sugar) attacks muscle.
+10. u/Huge_Plankton_905 [score=1, created=2025-11-11T13:37:46]: Is he on a weight loss drug? Like Ozempic

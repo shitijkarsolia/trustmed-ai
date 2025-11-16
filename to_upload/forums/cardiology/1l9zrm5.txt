@@ -1,0 +1,23 @@
+Thread ID: 1l9zrm5
+Subreddit: Cardiology
+Title: Avb?
+Author: BarbDart
+Created UTC: 2025-06-12T15:23:09
+Score: 18
+Num Comments: 11
+URL: https://reddit.com/r/Cardiology/comments/1l9zrm5/avb/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1l9zrm5/avb/
+Collected: 2025-11-15T08:29:09.038233
+===============================================================================
+
+94 yo female with ttr cardiac amyloid, known flutter/fib. What is the rhythm here? I thought cavb, ep read it as Atrial tachy at 150 with variable conduction. How to differentiate the two? Your thoughts? She is asymptomatic.
+
+---
+## Comments
+1. u/fmartonf [score=18, created=2025-06-12T15:39:20]: Atrial tachycardia with variable block
+2. u/EphesusKing [score=11, created=2025-06-12T16:02:17]: If you have complete AV block and there are QRS complexes, then something below the point of block is creating an escape rhythm. Junctional or ventricular escape rhythms are at a regular rate (yes there can be some slight wobble related to ventriculophasic response or abnormal automaticity but they are mostly regular). You can see here that the ventricular depolarizations are of a singular morphology but irregular which is only possible if there is something driving the ventricles - that something in this case is the atria. By definition, that means there is an association between atrial and ventricular activity but that association is variable.
+3. u/taterdoc [score=7, created=2025-06-12T15:47:03]: Agree with your EP, the p wave is inverted in lead II making it unlikely to be sinus. Slow atrial tach with variable conduction.
+4. u/lurking_opinion [score=1, created=2025-06-16T18:04:30]: CHB 100%. p waves march out with steady interval. PR interval is not consistent, so no there is no AV association. The RR interval being longer with the 6th and 7th qrs in rhythm strip makes it a little tricky (otherwise pretty regular RR) Edit: “PR”; also reading other comments, a variable RR does not mean there has to be a degree of AV association
+5. u/bestinter [score=1, created=2025-06-28T20:02:45]: Great discussion
+6. u/brixlayer [score=1, created=2025-06-12T15:29:20]: There is def some disassociation. I’m hesitant to call it a CHB but that is the safe beat. I’d like to see more before I’d say av dis with junctional escape Edit. For me it doesn’t fit a 2nd deg block
+7. u/IamZurg98 [score=0, created=2025-06-12T18:20:33]: I think it’s CHB but I am not 100% sure. The thing is: the PRI seems to change every QRS complex, which is the characteristics of CHB (even in atrial tachy there should be some sort of PRI consistency). However QRS are irregular and this ponders me to kinda exclude CHB, maybe taking into account some Mobiz 2 AVB or high degree AVB. I should need a long EKG to tell.

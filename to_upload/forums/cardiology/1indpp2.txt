@@ -1,0 +1,22 @@
+Thread ID: 1indpp2
+Subreddit: Cardiology
+Title: Case report: calcium score leads to transplant, does anyone remember the citation?
+Author: doctordavemd
+Created UTC: 2025-02-11T17:11:05
+Score: 16
+Num Comments: 22
+URL: https://reddit.com/r/Cardiology/comments/1indpp2/case_report_calcium_score_leads_to_transplant/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1indpp2/case_report_calcium_score_leads_to_transplant/
+Collected: 2025-11-15T08:31:26.659186
+===============================================================================
+
+Hello r/cardiology, I'm trying to find a case report from several years ago. I recall it being published in a major journal, but can't seem to find it searching my personal files, Google, pubmed, or open evidence. The gist of the story was demonstrating a worst case scenario of a testing cascade gone wrong that started with a calcium score and a series of tests and complications led to a transplant. Does this sound familiar to anyone? Thanks!
+
+---
+## Comments
+1. u/low_velocity_reject [score=14, created=2025-02-11T19:44:12]: https://pubmed.ncbi.nlm.nih.gov/21149745/
+2. u/just_peachy23 [score=10, created=2025-02-11T17:58:16]: As someone who is involved in a LOT of elevated calcium scores -&gt; coronary angios in renal txpt evaluation patients, would be very interested to read this case report. It’s mind boggling how an asymptomatic pt can end up as a CABG eval just through pre transplant testing protocols.
+3. u/EggieRowe [score=3, created=2025-02-11T17:43:42]: Probably not what I need to read before my CT angio next week, but I still want to read it if someone has it.
+4. u/[deleted] [score=2, created=2025-02-11T18:31:46]: [https://www.jhltonline.org/article/S1053-2498(24)00918-5/pdf](https://www.jhltonline.org/article/S1053-2498(24)00918-5/pdf) maybe?
+5. u/stam66 [score=2, created=2025-02-12T11:41:19]: Assuming the posts above are correct (I haven’t read the article), the weak link is that someone with mild-moderate CAD on CTCA was referred direct to angiography in the absence of suggestive symptoms. The argument is not that a CAC score or CTCA were done; it’s that the patient was referred for an invasive procedure that was unlikely to improve either symptoms or prognosis. The correct process from both safety and diagnostic point of view would be a non-invasive stress test not direct to angiography. We’re all well aware complications happen during angiography, including death. Risks worth taking if pre-test probability is high enough. Sadly I’ve heard of many cases like this (hypertensive patients referred for angiography) usually in the context of private (ie money-making) healthcare systems. It’s much more profitable doing an angiogram than a stress ECHO.
+6. u/Onion01 [score=2, created=2025-02-11T17:28:24]: Whoa, I hadn't heard of this but would love to read the article

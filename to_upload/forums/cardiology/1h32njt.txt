@@ -1,0 +1,20 @@
+Thread ID: 1h32njt
+Subreddit: Cardiology
+Title: Question about CABG 3x
+Author: WittyPromotion9776
+Created UTC: 2024-11-29T19:41:27
+Score: 0
+Num Comments: 18
+URL: https://reddit.com/r/Cardiology/comments/1h32njt/question_about_cabg_3x/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1h32njt/question_about_cabg_3x/
+Collected: 2025-11-15T08:32:31.293817
+===============================================================================
+
+Good Day! I'm 2nd year Physical Therapy Student, who have a Case Presentation about CABG x3 Our presentation is hypothetical only, because we don't have any experience about "real patient." My questions are: 1. What is the possible cause for third open surgery? 2. Is it okay to the 1st &amp; 2nd CABG is Secondary to MI? 3. What is the possible diagnosis for the 3rd surgery? I'm hoping for your response; your answer will be much appreciated. Edit: I input a wrong heading. This is Question about CABG x3 Edit: Thank you guys so much for your opinions! 😊
+
+---
+## Comments
+1. u/BiscuitsMay [score=9, created=2024-11-29T19:45:01]: Cabg x3 generally refers to the number of vessels being bypassed. For example the patient may have a LIMA to LAD, SVG to OM, and a SVG to the PDA. Cabg x3 does not refer to having a cabg on three separate occasions.
+2. u/macavity_is_a_dog [score=3, created=2024-11-29T20:42:16]: CABG x3 is a triple bypass - so it's one surgery and 3 harvested vines from leg used on heart.
+3. u/turn-to-ashes [score=2, created=2024-11-29T22:35:38]: I'm a cardiac nurse on a cardiac surgery floor in a level 1 trauma center. we get pre and post operative heart surgery patients, AKA I have CABG patients every day. "CABG x 3" means 3 arteries were bypassed in one single surgery. It does not mean 3 separate surgeries. I highly doubt this is even possible. First, a CABG is usually good for about 25 years. Second, the graft sites are too delicate to support multiple surgeries on them. Third, if you for whatever reason need 3 separate CABG, you have so many comorbidities you're dead.
+4. u/CoronaryCardiac [score=1, created=2024-12-09T13:48:16]: A possible diagnosis for the third surgery is mediastinal hemorrhage. 👍🏼 In all seriousness, this question is so very concerning. It is extremely unlikely that a patient would ever require three separate CABG surgeries… in the rare instance that a patient had an indication for redo CABG (with two prior CABGs), you’re looking at transplant, medical therapy, or comfort measures. As so many others have stated, CABG x3 = Coronary Artery Bypass Grafts x3. This is all done during the same surgery. If you present this to your peers as a patient undergoing three separate CABG surgeries, you will embarrass yourself. If your professor has told you that CABG x3 is three separate surgeries then they too should be embarrassed. I am not at all trying to be rude, but you should work to accept what so many others are telling you. You’ve asked this question twice and haven’t liked the answers you’re getting. I think a wonderful lesson for any student, healthcare professional, or human being is to not operate under the assumption that you’re the most knowledgeable person in the room…. especially if the room is full of CT surgeons that you are questioning on the term “CABG x3”.

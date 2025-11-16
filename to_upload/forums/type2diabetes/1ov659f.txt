@@ -1,0 +1,17 @@
+Thread ID: 1ov659f
+Subreddit: type2diabetes
+Title: Fasting glucose is between 100-103 while daytime and bedtime glucose are mostly between 88- 97
+Author: Ishthegood
+Created UTC: 2025-11-12T07:10:33
+Score: 1
+Num Comments: 1
+URL: https://reddit.com/r/type2diabetes/comments/1ov659f/fasting_glucose_is_between_100103_while_daytime/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1ov659f/fasting_glucose_is_between_100103_while_daytime/
+Collected: 2025-11-15T08:11:27.843079
+===============================================================================
+
+For the past 9 days, I have taken no metformin or insulin, and my blood glucose during the day is mostly below 100 when I check 2 or more hours after meals and at bedtime, but my morning fasting glucose has been consistently around 100-103 for 3 days now. I have not been taking my regular walk in the evenings after meals due to the cold weather. Could that be the reason?
+
+---
+## Comments
+1. u/cinnawitch [score=1, created=2025-11-13T00:09:13]: It very well could be, and that your regular evening walk has been preventing the “dawn phenomenon” for you. Can you replace it with some light activity indoors due to the cold? Yoga, doing some arm workouts, that sort of thing? But I would be surprised if that’s necessary - 100-103 for fasting on no meds and just in the morning is pretty awesome! (Obviously check with your doctor before taking that as gospel, though :-))

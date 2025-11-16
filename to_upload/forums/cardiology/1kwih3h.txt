@@ -1,0 +1,18 @@
+Thread ID: 1kwih3h
+Subreddit: Cardiology
+Title: ST vs AT
+Author: BarbDart
+Created UTC: 2025-05-27T01:55:45
+Score: 10
+Num Comments: 8
+URL: https://reddit.com/r/Cardiology/comments/1kwih3h/st_vs_at/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1kwih3h/st_vs_at/
+Collected: 2025-11-15T08:29:21.529411
+===============================================================================
+
+86 y/o M with HTN, diabetes, comes in with new onset heart failure, peripheral edema and mild shortness of breath, proBNP in the 5-6K, no other Hx or previous echo, What are the rhythms? I thought the first one was just sinus tachy but the second Atrial tachycardia. Thanks!
+
+---
+## Comments
+1. u/Learn2Read1 [score=23, created=2025-05-27T02:42:20]: Both are atrial flutters. Flutter waves best seen in lead II strip in the first and in V1 in the second.
+2. u/2toneSound [score=-11, created=2025-05-27T04:44:43]: Tip: ST -Pwave are visible AT -Pwave are hidden in the QRS

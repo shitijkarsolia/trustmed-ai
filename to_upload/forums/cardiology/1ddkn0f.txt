@@ -1,0 +1,19 @@
+Thread ID: 1ddkn0f
+Subreddit: Cardiology
+Title: Are old ekg books still relevant?
+Author: footbook123
+Created UTC: 2024-06-11T11:02:15
+Score: 8
+Num Comments: 4
+URL: https://reddit.com/r/Cardiology/comments/1ddkn0f/are_old_ekg_books_still_relevant/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1ddkn0f/are_old_ekg_books_still_relevant/
+Collected: 2025-11-15T08:34:35.279137
+===============================================================================
+
+Hey all, I stumbled upon the only ekg book you’ll ever need, but it’s the second edition from 1995. Anyone know how much of this stuff is obsolete or still relevant? Thanks
+
+---
+## Comments
+1. u/SynbiosVyse [score=6, created=2024-06-12T10:24:50]: I have books from the 50s including one by Wolff (as in WPW), they are still relevant. Speaking only from the Science side off the cuff, cardiac EP has advanced a lot every year but it's usually adding to knowledge, not correcting old knowledge. If someone can point to something that in an old text book that's been corrected, please point it out! I'd love to see specific examples.
+2. u/dayinthewarmsun [score=3, created=2024-06-11T23:28:27]: It should be pretty much up to date. The trend of categorizing MIs as “Q wave MI”, “STEMI”, “OMI” etc. change with time and there are always en vogue new criteria for things…but the bread and butter have not changed since long before the 90s.
+3. u/fruityuv [score=1, created=2024-07-20T09:46:59]: .

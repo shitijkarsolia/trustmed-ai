@@ -1,0 +1,21 @@
+Thread ID: 1ox41ry
+Subreddit: diabetes
+Title: A1c and doctors
+Author: shadow997ca
+Created UTC: 2025-11-14T11:14:19
+Score: 2
+Num Comments: 7
+URL: https://reddit.com/r/diabetes/comments/1ox41ry/a1c_and_doctors/
+Canonical URL: https://reddit.com/r/diabetes/comments/1ox41ry/a1c_and_doctors/
+Collected: 2025-11-15T02:16:03.732131
+===============================================================================
+
+More of a rant than anything but also looking for opinions and what your doctors say. I get a bit frustrated dealing with 2 doctors on my Diabetes. Diagnosed by my GP 12 years ago and put on slow and fast acting insulin about 8 months after that by the Endo who the GP referred me to. My GP calls it type 1 so I go with that. This week saw my GP and my Endo on the same day a few hours apart. I see the GP every 3 months and the Endo every 6. So every 3 months I have bloodwork done. My GP has always asked about lows and I tell her they aren't a big issue but as you all know there is going to be some. I have a cgm which alerts me at 4.2, time for me to correct before things get ugly and I manage that very well. For the past year my A1c has been between 5.6 and 5.8 which is a great improvement for me and I credit the cgm So my GP says, it's too low, you should strive to get it around 6 or slightly higher. I say, but lower is better isn't it? She's say, ask your Endo and let me know what he says. She also suggested Ozempic and to also ask him. I did so and he says, the lower the better and maybe she is getting fasting mixed up with A1c? No she isn't but anyway he tells me I'm doing great and to keep doing it! As for Ozempic he wasn't thrilled and again says, what you're doing is working so keep it up. Tells me he would prescribe it if I want but he usually only does that for people what can't control things well or if they're over weight of which I'm not too bad. I think I'll pass on it for now. For the ones who added Ozempic, how's it working for you? Recommended?
+
+---
+## Comments
+1. u/babbleon5 [score=5, created=2025-11-14T11:34:59]: She is following formulaic advice. 5.x is considered too low to avoid dangerous lows, but that level was set in the pre-CGM era. Ozempic is also on the formulary and is probably recommended by the medical app she uses.
+2. u/ShaxxsSon [score=3, created=2025-11-14T11:45:14]: A consistent a1c of 5.6 to 5.8 would translate to an average glucose of 122-129mg/dL (6.8-7.2mmol/l). While you *could* go lower, you could also stay comfortably in that range and be fine. I'm not trying to sway you one way or the other, just that, an a1c of 5.6 to 5.8 is a reasonable level for a diabetic, and that you're already doing well. From my understanding, after a certain point, the juice stops becoming worth the squeeze when it comes to a1c. As in, there's not much benefit to going lower.
+3. u/cjmnews [score=2, created=2025-11-14T14:08:03]: I would only discuss T1 with my endo. The GP is for other things, referrals, lab work, general health stuff.
+4. u/Faustian-BargainBin [score=1, created=2025-11-14T16:50:19]: As the old joke goes, ask ten doctors, get 11 opinions.
+5. u/kimpurple21 [score=-2, created=2025-11-14T12:11:18]: This is the first time I have heard of a target of 6. When you have aic under 5. That is within normal limits. What is her thinking...isn't that what all of us want?

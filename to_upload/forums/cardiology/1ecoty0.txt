@@ -1,0 +1,18 @@
+Thread ID: 1ecoty0
+Subreddit: Cardiology
+Title: E-bike for ETT
+Author: NFPA-MD
+Created UTC: 2024-07-26T07:00:52
+Score: 2
+Num Comments: 5
+URL: https://reddit.com/r/Cardiology/comments/1ecoty0/ebike_for_ett/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1ecoty0/ebike_for_ett/
+Collected: 2025-11-15T08:34:01.095080
+===============================================================================
+
+I recently purchased an e-bike for my GE CASE ETT system. All of my patients are fire fighters in reasonably good shape. However, I am having a difficult time getting them up to 12 METS while exercising on the e-bike. The literature I have found suggests a 7-10% MET deficit compared to the traditional treadmill. But that does not account for the results I am seeing. I am using the WHO protocol. Has anyone had a similar problem with the e-bike? If so - any solution?
+
+---
+## Comments
+1. u/[deleted] [score=2, created=2024-07-26T09:59:22]: Why are we doing ETTs on fire firefighters in good shape? Aren’t they doing their own ETTs?
+2. u/Creative_Event4963 [score=1, created=2024-10-10T03:42:21]: Can you describe the protocol more? Probably the problem is leg fatique (not used to cycling) and high patient weight that effects the MET calculation (muscular patiens). Although the firefighters do occassionally skip the aerobic training and just hit the gym which frequently explains the low MET. The MET is poor measure from standard exercise capacity. If you start the protocol with 11 MET stress then everyone pass... We use average of 4 last minute wats in our lab. Aim for max 10 min stress to minimize fatique. Like 20-40 w/min raise. Were the heart rate responses ok?

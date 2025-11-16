@@ -1,0 +1,57 @@
+Title: Speaking more languages might keep you younger, study suggests
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-languages-younger.html
+Canonical URL: https://medicalxpress.com/news/2025-11-languages-younger.html
+Filename: Medical_Xpress_Speaking_more_languages_might_keep_you_younger_study_suggests.txt
+Collected: 2025-11-15T16:59:40.123263
+===============================================================================
+
+Title: Speaking more languages might keep you younger, study suggests
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-languages-younger.html
+Collected: 2025-11-15T16:59:40.123075
+
+================================================================================
+
+Speaking more languages might keep you younger, study suggests
+
+byTrinity College Dublin
+
+edited byGaby Clark, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+Can learning another language help you stay younger for longer? Far beyond its cultural and social value, speaking multiple languages may protect both brain and body health, slowing down the biological processes of aging and strengthening resilience across the lifespan.
+
+An international study reveals that speaking multiple languages may slow the biological processes of aging and protect againstage-related decline.
+
+PublishedinNature Aging, the paper titled "Multilingualism protects against accelerated aging in cross-sectional and longitudinal analyses of 27 European countries" analyzed data from 86,149 participants across Europe, showing that multilingual individuals experience slower biobehavioral aging compared with monolinguals.
+
+How the study measured aging and language
+
+Using the innovativebiobehavioral aging clock framework, researchers quantified biobehavioral age gaps (BBAGs), that were estimated using artificial intelligence models trained on thousands of health and behavioral profiles.
+
+These models predict a person's biological age from features such asphysical conditions(hypertension, diabetes, sleep problems, sensory loss) andprotective factors(education, cognition, functional ability, physical activity). The BBAG—the difference between predicted and actual age—indicates whether someone shows younger, healthier aging (negative values) or accelerated aging (positive values).
+
+The study found that individuals from countries where people commonly speak at least one additional language were 2.17 times less likely to experience accelerated aging, while monolinguals were over twice as likely to show early aging patterns. These effects remained significant even after adjusting for linguistic, social, physical, and sociopolitical factors.
+
+Key findings and expert perspectives
+
+The protective impact of multilingualism was consistent across both cross-sectional analyses, reflecting current differences in aging, and longitudinal analyses, showing that multilingualism predicts a lower risk of accelerated aging over time.
+
+Dr. Agustín Ibáñez, senior author, Scientific Director of the Latin American Brain Health Institute (BrainLat), and Professor of Global Brain Health at Trinity College Dublin said, "Our results provide strong evidence that multilingualism functions as a protective factor for healthy aging. Language learning and use engage core brain networks related to attention, memory, and executive control—as well as social interaction—mechanisms that may reinforce resilience throughout life."
+
+Lead author Dr. Lucia Amoruso, from the Basque Center on Cognition, Brain and Language and BrainLat, added, "The protective effect was cumulative—the more languages people spoke, the greater their protection against aging-related decline."
+
+Co-lead author Dr. Hernán Hernández, from BrainLat, highlighted the societal implications: "Our findings show that multilingualism is an accessible, low-cost tool for promoting healthy aging across populations, complementing other modifiable factors such ascreativityandeducation."
+
+Implications for public health and policy
+
+This large-scale epidemiological investigation marks a major step toward global brain-health strategies that integrate cognitive, social, and cultural factors.
+
+The authors advocate incorporatinglanguage learninginto public health and educational policies to enhance cognitive resilience and reduce the societal burden of aging.
+
+More information:Lucia Amoruso et al, Multilingualism protects against accelerated aging in cross-sectional and longitudinal analyses of 27 European countries,Nature Aging(2025).DOI: 10.1038/s43587-025-01000-2Journal information:Nature Aging

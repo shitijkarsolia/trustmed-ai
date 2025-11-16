@@ -1,0 +1,51 @@
+Title: Nature vs. nurture: Sequencing study quantifies genetic influence on human traits and diseases
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-nature-nurture-sequencing-quantifies-genetic.html
+Canonical URL: https://medicalxpress.com/news/2025-11-nature-nurture-sequencing-quantifies-genetic.html
+Filename: Medical_Xpress_Nature_vs_nurture_Sequencing_study_quantifies_genetic_influence_on_human_traits_and_diseases.txt
+Collected: 2025-11-15T16:58:52.315513
+===============================================================================
+
+Title: Nature vs. nurture: Sequencing study quantifies genetic influence on human traits and diseases
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-nature-nurture-sequencing-quantifies-genetic.html
+Collected: 2025-11-15T16:58:52.315412
+
+================================================================================
+
+Nature vs. nurture: Sequencing study quantifies genetic influence on human traits and diseases
+
+byUniversity of Queensland
+
+edited byGaby Clark, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+Genome sequencing has been used to determine how much genes influence human characteristics including height and weight, and susceptibility to diseases like type 2 diabetes, in a study co-led by University of Queensland researchers and collaborators at genomic technology company Illumina, Inc.
+
+This study is the largest of its kind and used the DNA sequences of 347,630 people of European descent from the UK Biobank to quantify how much trait differences between people can be explained by genetic factors, known as heritability. The research ispublishedin the journalNature.
+
+Professor Loic Yengo from UQ's Institute for Molecular Bioscience said wholegenome sequencingallows the accurate measurement of most genetic variants, unlike traditional methods using data from relatives andtwin studies.
+
+"An outstanding question inhuman geneticshas been how much twin-based estimates of heritability could be replicated using modern genomic technologies when applied to unrelated individuals," Professor Yengo said.
+
+"Our study answers this question and demonstrates for the first time that this approach works."
+
+Among the 34 characteristics and diseases the researchers studied were height, body mass index (BMI), cholesterol, hypertension, fertility, smoking initiation and heart disease.
+
+"Across the traits studied, we've estimated genetic factors can explain on average 30% of differences between people, ranging from 74% for height and 12% for fertility," Professor Yengo said.
+
+"One of the limitations of the traditional approach is that relatives and twins share not only genes but also environmental factors.
+
+"For example, family-based estimates put genetic influence on a person's BMI at 50%, but the genomic sequencing determined the influence was 35%."
+
+The next step is to map the genes or genetic variants between individuals to explain why some people develop disease and others don't.
+
+"That would allow at-risk individuals to be identified early, and preventive measures taken well in advance of the disease developing," Professor Yengo said.
+
+Co-author and Illumina Vice President of Artificial Intelligence Kyle Farh said population-level genomic datasets like UK Biobank give researchers access to a wealth of data.
+
+More information:Pierrick Wainschtein et al, Estimation and mapping of the missing heritability of human phenotypes,Nature(2025).DOI: 10.1038/s41586-025-09720-6Journal information:Nature

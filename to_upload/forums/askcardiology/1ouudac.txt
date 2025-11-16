@@ -1,0 +1,17 @@
+Thread ID: 1ouudac
+Subreddit: askCardiology
+Title: electrophysiologist referral
+Author: GradSnacks
+Created UTC: 2025-11-11T20:22:54
+Score: 1
+Num Comments: 1
+URL: https://reddit.com/r/askCardiology/comments/1ouudac/electrophysiologist_referral/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1ouudac/electrophysiologist_referral/
+Collected: 2025-11-15T08:39:24.513113
+===============================================================================
+
+I went to the ER last night due to a low heart rate and fluttering feeling, paired with lightheadedness. It was very different from the two previous episodes I’ve experienced in the past month that are potentially SVT. The ER referred me to an electrophysiologist but they’re out of network - through my insurance I was able to schedule with a cardiologist (soonest appointment was January 8th…) but they won’t allow me to schedule with an electrophysiologist without a referral from their general cardiologist. Should I escalate to try and go directly to an electrophysiologist first?
+
+---
+## Comments
+1. u/Impressive_Donut3122 [score=2, created=2025-11-11T20:49:51]: Contact your cardiologist’s office, explain the recent ER episode and the urgency, and request they expedite a referral to an electrophysiologist, sometimes they can issue it without you waiting for the full January appointment.

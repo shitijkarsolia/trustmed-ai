@@ -1,0 +1,21 @@
+Thread ID: 1dsbqgu
+Subreddit: Cardiology
+Title: Is it common for cards to use the term "De novo" to describe a new onset of a pathology?
+Author: rosh_anak
+Created UTC: 2024-06-30T14:13:06
+Score: 4
+Num Comments: 5
+URL: https://reddit.com/r/Cardiology/comments/1dsbqgu/is_it_common_for_cards_to_use_the_term_de_novo_to/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1dsbqgu/is_it_common_for_cards_to_use_the_term_de_novo_to/
+Collected: 2025-11-15T08:34:11.104472
+===============================================================================
+
+For example "De novo AF"
+
+---
+## Comments
+1. u/nanoage3221 [score=3, created=2024-06-30T15:11:56]: Not much xp with cards but I don't think it's common. New onset x disease is more commonly used.
+2. u/confoundedarab [score=2, created=2024-06-30T18:57:17]: I see HFrEF, de novo quite a bit. Not as much beyond that context.
+3. u/blcks7n [score=2, created=2024-07-04T22:00:40]: New-onset is usually the phrase. Unless referring to “new stenosis” not related to a prior stent (ISR) in the context of CAD.
+4. u/EnergyMobile4400 [score=1, created=2024-07-01T00:27:42]: you already wrote the answer: 'a new onset of AF' is much more common.
+5. u/Grandbrother [score=1, created=2024-07-20T20:19:44]: Interestingly, I actually use the term newly diagnosed AF, often you don't know how long people have had paroxysmal AF. Can't say I see de novo much

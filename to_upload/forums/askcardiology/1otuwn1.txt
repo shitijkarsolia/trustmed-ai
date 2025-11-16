@@ -1,0 +1,17 @@
+Thread ID: 1otuwn1
+Subreddit: askCardiology
+Title: QRS Axis Shifting over time (+59° to +107°) and LPFB Pattern with Normal Recent Echos
+Author: commercialdrive604
+Created UTC: 2025-11-10T17:22:15
+Score: 1
+Num Comments: 4
+URL: https://reddit.com/r/askCardiology/comments/1otuwn1/qrs_axis_shifting_over_time_59_to_107_and_lpfb/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1otuwn1/qrs_axis_shifting_over_time_59_to_107_and_lpfb/
+Collected: 2025-11-15T08:40:09.943518
+===============================================================================
+
+I am a 41 year-old male who is pretty obese and had high blood pressure which is mostly under control now and I am losing weight. Over the past four years, I noticed my QRS axis on my ECGs has progressively shifted rightward, from a baseline of +54 (2021) to a recent reading of +107 (October 2025), which apparently meets the criteria for a Left Posterior Fascicular Block (LPFB) pattern? My previous workups from May–August 2025 appear to be normal. I have attached them in the image section. I guess my question is, how should the persistent and sometimes extreme QRS axis shift pattern be interpreted? Is this universally classified as a benign positional/vertical heart variant, maybe given my high BMI? Or does the rising trend still warrant any further investigation? I should note that I am not currently diagnosed with any heart condition and am not aware of any heart attacks. The reason for so many ecg's in the last year is because I found out a drug I was taking (Lexapro 20mg) was causing many scary PVC's. They went away after switching to 10mg. Also had a couple of panic attacks. I appreciate any advice I could get and I apologize for the long post. Just been worried going through these old records.
+
+---
+## Comments
+1. u/Impressive_Donut3122 [score=2, created=2025-11-10T20:37:06]: A progressive rightward QRS axis shift to in the context of obesity and hypertension could suggest Left Posterior Fascicular Block. However, your recent normal echocardiograms are very reassuring, as they show no significant structural heart disease or impaired function. This axis shift is often benign, potentially related to body habitus, but given the trend, it is reasonable to discuss it with your cardiologist to confirm. The absence of symptoms and normal echos makes a serious cause less likely.

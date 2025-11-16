@@ -1,0 +1,21 @@
+Thread ID: 1ottvgs
+Subreddit: diabetes
+Title: How do you make your cgm site look less dirty?
+Author: MageyRestoriation
+Created UTC: 2025-11-10T16:38:58
+Score: 3
+Num Comments: 5
+URL: https://reddit.com/r/diabetes/comments/1ottvgs/how_do_you_make_your_cgm_site_look_less_dirty/
+Canonical URL: https://reddit.com/r/diabetes/comments/1ottvgs/how_do_you_make_your_cgm_site_look_less_dirty/
+Collected: 2025-11-15T08:07:01.104931
+===============================================================================
+
+I understand that this is just something we may have to deal with but the cgm adhesive looks pretty gross after a few days of life. Any way to remedy this? Which covers are good? I use the Libre 3 plus.
+
+---
+## Comments
+1. u/hyuukiru [score=4, created=2025-11-10T19:27:23]: I use the sticker that comes with my Dexcom and add a cover on top. I can't vouch for other brands since this is my first month with a CGM, but I've been using Skin Grip brand over patches. They definitely get a bit frayed by the end of the 10 days, but hold up quite well otherwise.
+2. u/femme-cassidy [score=3, created=2025-11-10T19:37:37]: Black skin grip over patches. When my dexcom starts looking a little worse for wear (usually around 5 days in) I put the overpatch on over it. I know they make patches for Libre 3 also. Maybe they're a good option for you.
+3. u/Ashamed-Shift2911 [score=2, created=2025-11-10T21:33:28]: Using an overpatch really helps keep things cleaner and stops the edges from collecting lint. The Air or Clear ones from 'not just a patch' fit the Libre 3 nicely. They’ve got a non-stick middle so you can change the patch without pulling up the sensor.
+4. u/anemisto [score=1, created=2025-11-10T19:46:09]: I've been using these: https://a.co/d/9wzaPcJ They're larger than they need to be for the 3+, but they do make it, oh, 13 days before one edge maybe starts peeling. I think my last one was still perfect when it took it off. I had some others I bought off Amazon that only made it like a week before needing replacing. They did, however, come with a little hard cover for the sensor that made it easy to peel the patch off and replace.
+5. u/Far_Negotiation5331 [score=0, created=2025-11-10T19:26:26]: I don’t use libre 3 myself but just a quick google search and I found this https://www.amazon.se/-/en/Waterproof-Adhesive-Freestyle-Continuous-Protection/dp/B09P3TFM71

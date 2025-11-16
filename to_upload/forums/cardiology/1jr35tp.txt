@@ -1,0 +1,23 @@
+Thread ID: 1jr35tp
+Subreddit: Cardiology
+Title: Newfound love of IC
+Author: Gingernos
+Created UTC: 2025-04-03T21:12:28
+Score: 15
+Num Comments: 19
+URL: https://reddit.com/r/Cardiology/comments/1jr35tp/newfound_love_of_ic/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1jr35tp/newfound_love_of_ic/
+Collected: 2025-11-15T08:30:35.819079
+===============================================================================
+
+Hello all, I recently did an IC rotation and absolutely fell in love with the specialty. I had initially been considering trying my hand at applying DR -&gt; IR vs. hospitalist and I've found IC has literally the best of both worlds for me in terms of patient care/contact, procedures, and pathology, especially if you get into the vascular IC world as well. From what I've seen there isn't really a shorter path than 7-8 years to achieve IC with 3 years IM residency + 3 years cards fellowship (2 clinical and 1 research year seems to be the norm) + 1 year for IC then maybe another 1 year to tack on peripheral vascular? Does that timeline sound about right to y'all here?
+
+---
+## Comments
+1. u/themuaddib [score=18, created=2025-04-03T21:24:41]: Yes, in the USA 7 years post medical school is the minimum amount of time to become an interventional cardiologist. I’ve never heard of a general cardiology program having a pure research year though
+2. u/dayinthewarmsun [score=11, created=2025-04-03T22:49:11]: In the US, general cardiology fellowship is 3 years. The ACGME requires a minimum of 24 months of clinical time. That leaves a maximum of 12 months for research (and any vacation). However, it is extremely rare to have anything close to that much time for research. Most fellowship programs are too busy clinically to allow that much research time. The ones that do allow it generally are not trying to generate strong clinical cardiologists (they are training researchers). There is so much to experience in cardiology fellowship. You will want to master procedures: echo, TEE, RHC/hemodynamics, cardiac cath, nuclear cardiology, possibly more. You also need a solid foundation in CCU, consult, advanced HF, EP, etc. It's a lot. That is not to mention just getting tons of experience taking care of cardiology patients. To do extended research time (more than a few months), you would typically either have to add more years to training and/or sacrifice core clinical skills/knowledge.
+3. u/Crass_Cameron [score=6, created=2025-04-04T06:32:46]: We have 2 ICs where I work who did follow up vascular fellowships after they were done with cardiology stuff. They never do vascular work lol.
+4. u/CaramelImpossible406 [score=4, created=2025-04-03T21:38:12]: There is no research year I believe
+5. u/pseudonymicanonymity [score=2, created=2025-04-03T22:33:33]: No research year, and most people don't spend an entire year on solely peripheral interventions. Typically pgy-7 is the max for interventional cardiology
+6. u/GolgiApparatus88 [score=1, created=2025-04-05T04:10:51]: I’m an early career IC (2 years out). It’s a wonderful but high stress job that you live and breathe, regardless of how great your call schedule is. Timeline is 3 years IM, 3 years general cardiology, and then typically 1-2 years depending on the IC fellowship doing a combination of IC, structural, peripheral, or CHIP. Some programs have combined 2 year IC/structural. If you do peripheral id strongly recommend an extra year.
+7. u/saynocpr [score=1, created=2025-04-05T06:02:37]: It depends. If your goal is to do advanced vascular work, an additional year is typically needed. Some may be able to ’dabble’ in peripheral work but to tackle carotids, limb salvage, complex revascularization, EVARs you usually need a dedicated year of training. It is similar to structural, i.e. you may learn to do TAVRs without a dedicated fellowship but to do the full spectrum of structural work, one would usually do a dedicated fellowship. That additional vascular year also includes vascular medicine, phlebology, some wound care, and other things that go beyond the procedural aspects. People trained that way are usually take vascular and endovascular medicine boards and become eligible for FSVM certification. Doing so also gives you standing in a field shared also be vasc surgery and IR. However, the ROI of that additional year is variable. It is not every hospital that wants or needs their IC to perform vascular at that level, especially if they already have a strong vasc surg and/or IR presence.

@@ -1,0 +1,21 @@
+Thread ID: 1ouyhnp
+Subreddit: prediabetes
+Title: What is considered a spike and harmful to your health?
+Author: Capable-Fox-1312
+Created UTC: 2025-11-12T00:06:07
+Score: 14
+Num Comments: 12
+URL: https://reddit.com/r/prediabetes/comments/1ouyhnp/what_is_considered_a_spike_and_harmful_to_your/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1ouyhnp/what_is_considered_a_spike_and_harmful_to_your/
+Collected: 2025-11-15T08:23:07.106462
+===============================================================================
+
+I'm new to this and one thing I noticed is that what people mean by "spike" seems a little vague. Is there a specific number or percentage I should avoid? I've seen people referring to spiking as seemingly any rise in blood glucose after eating, which is confusing because I've read it also rises for non-prediabetics/diabetics as well. My fasting blood glucose hangs around the 103-107 range. After eating a meal it goes up to 115\~117. Is this a spike?
+
+---
+## Comments
+1. u/usafmd [score=11, created=2025-11-12T05:26:27]: Ask for a reference to a scientific study that references meals, AND prediabetics at risk for diabetes. Don’t let them try to confuse or conflate the diabetic recommendations for complications of 180 mg/dL spike. You will find that there’s simply no scientific evidence or guidance for prediabetics. The company Levels, founded by Casey Means, MD, please remember, did not finish medical residency training and doesn’t even have a medical license to see patients, let alone set CGM spike standards. (Those numbers look fine. More importantly, what is your HOMA-IR, body fat percentage, exercise and diet habits?)
+2. u/emi_lgr [score=9, created=2025-11-12T01:02:46]: Generally, a rise of less than 30 is considered healthy and normal after a meal, so I wouldn’t count anything below 30 as a spike. Your blood sugar is *supposed* to rise after eating, just not so much that it stresses your glucose management system.
+3. u/SuzMichell [score=4, created=2025-11-12T08:54:19]: See https://www.sciencedirect.com/science/article/pii/S0735109707034444?via%3Dihub In this publication from the American Journal of Cardiology, it says that exaggerated post-meal spikes in blood glucose and lipids when repeated multiple times daily eventually lead to atherosclerotic risk factors and CAD (Coronary Artery Disease). At only 80 mg/dl = 4.4 mmol/L the Cardiovascular (CV) risk of post-meal elevated blood sugar starts to increase. By 140 mg/dl = 7.8 mmol/L, the point at which we traditionally only begin to classify patients as glucose intolerant or pre-diabetic, the risk is already increased by 58% There are other health risks also from blood sugar spikes If you watch a YouTube video entitled: Optimal Levels Understanding Blood Sugar Levels &amp; what should your levels be, on the Levels - Metabolic Health &amp; Blood Sugar Explained YouTube channel https://youtu.be/vZbgTzDxBFg?si=YpbfC_Z1yPyBYxBv , they say that research shows that the optimal levels to aim for are a post meal glucose peak of less than 110mg/dL / 6.1 mmol, and a post meal increase of less than 30mg per dL / 1.7 mmol. On a YouTube short video entitled What should Your Fasting Glucose Level Be, Dr Robert Lustig says that FBS should optimally be 70-95mg/dL /3.9-4.7mmol , or sub-optimally maybe 70-90mg/dL. He states that blood sugar levels should not go above 110mg/dL 6.1 mmol after eating. He says that if your blood sugar level goes above 120mg/dL/6.7mmol &amp; turns around quickly, it’s not so bad. Ultimately, the goal is to get back to baseline within 90 minutes. Dr Lustig says that’s more important than how high it goes, because that’s the plateau.He doesn’t say whether the 90 minutes is from when you start eating or when your blood sugar peaks.
+4. u/CapriKitzinger [score=2, created=2025-11-12T09:29:39]: Healthy folks don’t go over 140. This is a spike [https://imgur.com/a/jlisAa2](https://imgur.com/a/jlisAa2) You’re not describing a spike. And yes, spikes are very harmful.
+5. u/PixiePower65 [score=4, created=2025-11-12T04:53:36]: I target keeping number below 140

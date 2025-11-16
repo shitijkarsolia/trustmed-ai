@@ -1,0 +1,21 @@
+Thread ID: 1o5bng5
+Subreddit: type2diabetes
+Title: Libre 2 Scanning Issues
+Author: throwawayaccount931A
+Created UTC: 2025-10-12T22:52:41
+Score: 1
+Num Comments: 7
+URL: https://reddit.com/r/type2diabetes/comments/1o5bng5/libre_2_scanning_issues/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1o5bng5/libre_2_scanning_issues/
+Collected: 2025-11-15T08:14:25.102686
+===============================================================================
+
+Hey All, I've been running into issues with my Libre 2 over the last month or so. I use my phone to scan my sensor, and when I scan it the app tries to keep scanning it - repeatedly. After a few seconds I get an error and the app crashes. Sometimes I get an error that NFC needs to be turned on -- however, it is turned on. I've never had this issue before. I scan my sensor when I'm out walking, or cycling so I can see how exercise is affecting my glucose levels and also so my endocrinologist can see how I'm progressing. Has anyone run into this? I don't think it's a bad sensor. I've restarted my phone, the only thing I haven't tried is to re-install the APP. I haven't tried this because I don't want to lose the information that is stored on my phone. Anyone else running into scanning problems?
+
+---
+## Comments
+1. u/GoingFishingAlone [score=1, created=2025-10-17T19:23:36]: My Dr. told me they no longer will support 2. Need to upgrade.
+2. u/Potential-Ostrich862 [score=2, created=2025-10-14T07:53:47]: My last two Libre 2s both 'crashed' as soon as the hour loading period was done. I'm wondering if there is any other CGM that's less buggy, but I haven't looked into it yet.
+3. u/anna-m-569 [score=2, created=2025-10-14T04:58:27]: Have you made sure your app is up to date? I had to call to replace a sensor that was reading incorrectly, and she asked me a couple times what version of the app I was on. Version 2.12.1.11476
+4. u/Canadian_Insulin [score=1, created=2025-10-13T13:36:03]: That sounds frustrating, especially when tracking during workouts. A few people have mentioned similar Libre 2 app glitches lately, the constant re-scanning and NFC error seem to happen after certain phone updates. Some found it helped to clear the app cache or restart NFC before scanning, but results vary depending on the phone model. Reinstalling can sometimes fix it, though syncing the data to LibreView first helps avoid losing history. Hopefully Abbott pushes an update soon; it’s been a recurring complaint in the past month or so.
+5. u/Icy_Cardiologist1620 [score=2, created=2025-10-13T00:24:06]: I upgraded to the 3+ sensors. Night and day.

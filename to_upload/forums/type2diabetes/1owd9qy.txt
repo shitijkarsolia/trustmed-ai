@@ -1,0 +1,17 @@
+Thread ID: 1owd9qy
+Subreddit: type2diabetes
+Title: Low blood sugar following a meal
+Author: HotStress6203
+Created UTC: 2025-11-13T14:16:43
+Score: 1
+Num Comments: 5
+URL: https://reddit.com/r/type2diabetes/comments/1owd9qy/low_blood_sugar_following_a_meal/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1owd9qy/low_blood_sugar_following_a_meal/
+Collected: 2025-11-15T08:11:13.079222
+===============================================================================
+
+hello all! I just got my first CGM and after my meal, which was unsuually high carb for me my blood sugar dived down to the low 50s. What causes this? everything I thought meant it goes up after eating?
+
+---
+## Comments
+1. u/No_Sundae_1068 [score=3, created=2025-11-13T14:23:04]: Is it your first day wearing your cgm? Sometimes the first day isn't always trustworthy. Double check with a fingerstick.

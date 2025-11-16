@@ -1,0 +1,26 @@
+Thread ID: 1oufcsi
+Subreddit: diabetes_t2
+Title: CGM or poke fingers?
+Author: andypt7
+Created UTC: 2025-11-11T10:19:25
+Score: 9
+Num Comments: 39
+URL: https://reddit.com/r/diabetes_t2/comments/1oufcsi/cgm_or_poke_fingers/
+Canonical URL: https://reddit.com/r/diabetes_t2/comments/1oufcsi/cgm_or_poke_fingers/
+Collected: 2025-11-15T02:19:24.662653
+===============================================================================
+
+Newly diagnosed, about 3 weeks in. A1C was 8.3. Started on lowest dose of mounjaro. Met with diabetes educator today and was given a accucheck glucose meter. We discussed continuous glucose monitors. Looking for opinions on one vs the other. I’m a data and I’m really interested in knowing how numbers will be with specific foods.
+
+---
+## Comments
+1. u/Frosty-Prune-206 [score=23, created=2025-11-11T10:27:51]: You’ll end up using both - CGM for the majority of the time and the meter to verify odd readings from the CGM, particularly more extreme highs and lows.
+2. u/Tzepish [score=12, created=2025-11-11T10:25:33]: At this point I couldn't imagine going without my CGM. You still need to do finger pokes for calibration and verifying extremes, but you get all the data "in between" for free. It's been a godsend for learning which foods spike me and which are relatively safe.
+3. u/andypt7 [score=7, created=2025-11-11T10:57:06]: I figured this was going to be the response, but I appreciate the affirmation. I have no issue with poking my finger and I see the importance of calibration/confirmation. Also appreciate this group, I’ve already learned a lot here, even before my first official post.
+4. u/jon20001 [score=8, created=2025-11-11T10:57:32]: I was in the same place as you 18 months ago. The CGM has been a game changer and the continuous check I need to stay on target and be healthy. I’m very data-driven, so this it has been a lifesaver with the added benefit of numbers to crunch and always compare. If you can get one, do it.
+5. u/Objective-Review-359 [score=3, created=2025-11-11T10:25:02]: CgM is great. Much better than finger pricks imo. Cant even feel the sensor.
+6. u/Thesorus [score=3, created=2025-11-11T10:27:33]: À cgm is a good tool to get started and learn how your body reacts to food and everyday life. But it can be a “curse” , you can spend your whole day looking at the numbers and trying to react to every little changes ( am I too high? Am I too low? I tried it twice and didn’t find it useful.
+7. u/psoriasaurus_rex [score=3, created=2025-11-11T10:44:32]: I used a cgm for about a year after I was diagnosed. I have a less than zero desire to poke my fingers all the time.
+8. u/Juncti [score=3, created=2025-11-11T12:46:52]: I've been asking my Dr for a CGM for what feels like years now, I'm currently 8 days into my first OTC CGM since they kept refusing. Apparently for me to qualify for a prescription CGM I need to let my diabetes run wild, if you watch and work towards improvement you don't get one. I like data and I like to figure out what works for me, now for the first time I can manage getting at least some useful data to act on that doesn't require me doing finger tests 10+ times a day to chart meals and post meal changes. So if you love data but the Dr refuses to allow you one through them, look to the OTC versions. Might not be as good but I feel like I'm already getting more useful data from mine after about a week. I'm using the Stelo, if you go a similar route make sure to look at the Dexcom Clarity app, let's you really dive into the data more than the default Stelo app.
+9. u/Right_Independent_71 [score=2, created=2025-11-11T10:33:15]: CGMs are great especially at the beginning to see trends. I’ve had such a bad run of Libre 3 Plus sensors I’ve given up on them for a while. Even at their best, I still think you’ll need to spot check accuracy and weird readings with a finger poke.
+10. u/ShaxxsSon [score=2, created=2025-11-11T10:47:36]: I primarily use a CGM, but still do manual checks when I feel like the CGM reading is really off. Like if the alarm goes off saying I'm low but I don't feel low, ill do a manual check to confirm if its accurate or not.

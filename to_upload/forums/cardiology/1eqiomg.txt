@@ -1,0 +1,18 @@
+Thread ID: 1eqiomg
+Subreddit: Cardiology
+Title: BP difference from 1st floor to 2nd floor
+Author: Smilin-_-Joe
+Created UTC: 2024-08-12T09:46:00
+Score: 0
+Num Comments: 5
+URL: https://reddit.com/r/Cardiology/comments/1eqiomg/bp_difference_from_1st_floor_to_2nd_floor/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1eqiomg/bp_difference_from_1st_floor_to_2nd_floor/
+Collected: 2025-11-15T08:33:50.699941
+===============================================================================
+
+Would the difference in barometric/atmospheric pressure from different office floors be enough to cause a consistent difference in BP measurements with common automatic machines?
+
+---
+## Comments
+1. u/theshadman18 [score=5, created=2024-08-12T23:02:50]: You have too much faith in the reproducibility of the equipment (respectfully). Two more birthdays/work dinners and the associated excess with high salt meals and drinks etc in July vs June and that's a really significant difference that no change in the floor you measure your office BP at in October is ever going to know or see.
+2. u/Onion01 [score=3, created=2024-08-12T09:46:28]: No

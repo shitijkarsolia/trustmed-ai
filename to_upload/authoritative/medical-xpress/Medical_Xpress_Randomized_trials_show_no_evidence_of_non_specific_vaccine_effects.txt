@@ -1,0 +1,55 @@
+Title: Randomized trials show no evidence of non-specific vaccine effects
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-randomized-trials-evidence-specific-vaccine.html
+Canonical URL: https://medicalxpress.com/news/2025-11-randomized-trials-evidence-specific-vaccine.html
+Filename: Medical_Xpress_Randomized_trials_show_no_evidence_of_non_specific_vaccine_effects.txt
+Collected: 2025-11-15T17:00:19.824552
+===============================================================================
+
+Title: Randomized trials show no evidence of non-specific vaccine effects
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-randomized-trials-evidence-specific-vaccine.html
+Collected: 2025-11-15T17:00:19.824397
+
+================================================================================
+
+Randomized trials show no evidence of non-specific vaccine effects
+
+edited byGaby Clark, 																								reviewed byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+For more than three decades, researchers Christine Stabell Benn and Peter Aaby from the Bandim Health Project have conducted randomized trials involving thousands of children in Guinea-Bissau and Denmark to demonstrate so-called non-specific vaccine effects—that is, whether vaccines also protect against diseases other than the one they are designed to prevent.
+
+A new comprehensive Danish review now shows that thetrialshave been unable to demonstrate non-specific effects for the widely used vaccinations against measles, tuberculosis, diphtheria, tetanus, and whooping cough. The study has just beenpublishedin the journalVaccine.
+
+"It is concerning that such a prominent research group has conducted so many randomized trials over such a long period without finding real results. Randomized trials are normally considered the gold standard inmedical research, so if they do not show anything, one should be very cautious about presenting it as convincing evidence," says Henrik Støvring from Steno Diabetes Center Aarhus and Aarhus University, who led the new review.
+
+Comprehensive analysis across all studies
+
+The new study is the first to systematically analyze all of Benn and Aaby's randomized trials. While others have previously criticized individual studies, the researchers behind the new review examined the full body of work.
+
+"We find indications that the researchers systematically selected and highlighted results that supported their theories, while downplaying the fact that they did not confirm the primary hypothesis the trials were actually designed to test. When you look at the overall picture, there are almost no real findings left," explains Støvring.
+
+Benn and Aaby have claimed that their results meant it was time to change the global approach to vaccination—all new vaccines should routinely be assessed for non-specific effects, and vaccination programs should be revised worldwide.
+
+When the gold standard does not hold
+
+The new review is based on 13 randomized trials presented in 26 articles containing more than 1,400 separate statistical analyses. Only one of the 13 randomized trials demonstrated the effect it was designed to detect—and that trial was stopped early and was considered unsuccessful by the researchers themselves.
+
+The review showed that only about 7% of the many hypotheses tested by the researchers could be expected to be correct. Notably, this did not apply to the researchers' own primary hypotheses—these were not supported by the corrected results.
+
+"In 23 out of 25 articles, the researchers highlighted secondary findings as support for their theories, but in 22 of these cases the evidence disappeared after proper statistical handling. Overall, the researchers' interpretation did not take into account how many analyses they had conducted, and they did not focus on the main outcomes of the trials," says Støvring.
+
+Not a rejection of the field
+
+The researchers stress that the purpose was not to determine whether non-specific vaccine effects exist, but to examine Benn and Aaby's research practices.
+
+"We hope that others in the field will now re-evaluate the evidence—what do we actually know about non-specificvaccineeffects? Although Benn and Aaby have contributed about one-third of all research in the area, others have also studied the question, and this should be included to form a complete picture," says Støvring.
+
+The study was conducted in collaboration between Støvring (Steno Diabetes Center Aarhus and Aarhus University), Claus Thorn Ekstrøm (University of Copenhagen), Jesper Wiborg Schneider (Aarhus University), and Charlotte Strøm (SharPen).
+
+More information:Henrik Støvring et al, What is actually the emerging evidence about non-specific vaccine effects in randomized trials from the Bandim Health Project?,Vaccine(2025).DOI: 10.1016/j.vaccine.2025.127937Journal information:Vaccine

@@ -1,0 +1,17 @@
+Thread ID: 1oupoh3
+Subreddit: askCardiology
+Title: 24m very odd heart sensations for a year
+Author: [deleted]
+Created UTC: 2025-11-11T16:50:57
+Score: 1
+Num Comments: 1
+URL: https://reddit.com/r/askCardiology/comments/1oupoh3/24m_very_odd_heart_sensations_for_a_year/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1oupoh3/24m_very_odd_heart_sensations_for_a_year/
+Collected: 2025-11-15T08:39:37.280216
+===============================================================================
+
+I was brought to the ER last year, early December, due to me freaking out about a feeling in my throat. Turned out my troponin was elevated to 213ng/L, so I was kept in the hospital for a suspected myocarditis. EKG and echo were clean. MRI was clean too, so they ruled out myocarditis and determined that my heightened troponin was due to physical exercise (I worked out before I had that feeling in my throat). My levels stabilized after a few days. They found some tachycardia I had a few times daily, got put on bisoprolol 1.25mg for this. I had a few bouts of tachycardia since then, usually during exercise as a short bout of extra fast heartrate, a few times during rest. Now for a week, my heart has been going insane. Many bouts of tachycardia, many very heavy palpitations, weird feeling in my left shoulder and left arm, lots of muscle spasms, breathlessness and a very odd feeling of like a tube going from my throat to my chest. I can also feel this tube when I lay my hand on my chest during walking, in my hand. I was sick and started working out again, after two workouts on two consecutive days, these symptoms started I was at my cardio today and the EKG and echo were clean. She said I should do another 24-hour holter in late December after I did one in May that came up clean. But my palpitations are so bad now and my breath is so hard to catch, I need to go to urgent care tomorrow morning. I really want to figure out the root of this issue. Is an angiogram, EP study or something like that appropriate? My heart has put a tremendous strain on my mental health over the last year Also I am 194cm, 92kg and I have MS Edit: also some things that are notable: I don't smoke, I don't drink, I am physically effective, eat healthy, don't take drugs. I have one small coffee daily.
+
+---
+## Comments
+1. u/Impressive_Donut3122 [score=1, created=2025-11-11T20:34:43]: Heart rhythm issues or cardiac strain can come and go and may not appear during a short office test. It’s safest to get continuous monitoring and repeat labs right away. A longer Holter can capture rare tachycardia episodes, and CTA can check for coronary issues that might not show on echo or MRI. An EP study is usually considered after an abnormal Holter or event monitor shows a concerning arrhythmia that needs further evaluation.

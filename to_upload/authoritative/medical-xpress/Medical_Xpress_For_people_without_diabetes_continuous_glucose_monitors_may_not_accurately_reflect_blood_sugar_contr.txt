@@ -1,0 +1,55 @@
+Title: For people without diabetes, continuous glucose monitors may not accurately reflect blood sugar control
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-09-people-diabetes-glucose-accurately-blood.html
+Canonical URL: https://medicalxpress.com/news/2025-09-people-diabetes-glucose-accurately-blood.html
+Filename: Medical_Xpress_For_people_without_diabetes_continuous_glucose_monitors_may_not_accurately_reflect_blood_sugar_contr.txt
+Collected: 2025-11-15T17:11:06.511409
+===============================================================================
+
+Title: For people without diabetes, continuous glucose monitors may not accurately reflect blood sugar control
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-09-people-diabetes-glucose-accurately-blood.html
+Collected: 2025-11-15T17:11:06.511251
+
+================================================================================
+
+For people without diabetes, continuous glucose monitors may not accurately reflect blood sugar control
+
+byMass General Brigham
+
+edited bySadie Harley, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+Continuous glucose monitors (CGMs) are wearable technologies that track blood sugar in real time and help patients with type 2 diabetes improve blood sugar control. In 2024, the U.S. Food and Drug Administration approved over-the-counter CGMs for individuals with and without diabetes, but there is limited understanding of how to interpret CGM metrics in individuals who do not have diabetes.
+
+Researchers from Mass General Brigham analyzed CGM data from people with diabetes, prediabetes, and normal glycemic control, finding that while CGM metrics in patients with diabetes correlated with hemoglobin A1c (HbA1c), the gold-standard assessment for averageblood sugar control, this relationship weakened in those with prediabetes, and disappeared for those without diabetes.
+
+Findings are published inDiabetes Technology and Therapeutics.
+
+"Our study reaffirms that CGMs are great tools for people with diabetes, but their numbers don't reflect the standard HbA1c test for people with prediabetes ornormal blood sugar," said corresponding author Jorge A. Rodriguez, MD, of Mass General Brigham's Department of Medicine and the Division of General Internal Medicine and Primary Care at Brigham and Women's Hospital.
+
+"Especially for those without diabetes, CGM data is not a substitute for HbA1c, which assesses how well the body controls blood sugar over multiple months."
+
+The authors analyzed data from 972 adults aged 40 years and older with and without diabetes, who are participating in the Artificial Intelligence/Machine Learning Consortium to Advance Health Equity and Researcher Diversity (AIM-AHEAD) program.
+
+Starting in 2022, study participants were enrolled at the University of Alabama, University of California, San Diego, and University of Washington, and wore a Dexcom G6, a device that measured blood sugar every five minutes for up to 10 days.
+
+Mass General Brigham researchers examined the relationship between HbA1c, which was measured at the start of the study, and eight different CGM metrics, such as average blood sugar, time spent in a healthy range, and measures of blood sugar variability.
+
+In those with type 2 diabetes, CGM metrics—especially average glucose—were closely aligned with the gold-standard HbA1c measurement. This correlation was weaker in those with prediabetes. In those with normal blood sugar, CGM metrics were largely unrelated to HbA1c. These patterns remained when the researchers accounted for factors such as body mass index.
+
+The authors note that it makes sense that CGM metrics most reliably reflect long-term blood sugar control in people with diabetes, given that CGMs were originally designed for this population.
+
+In those without diabetes, short-term fluctuations in blood sugar, which happen naturally with meals and activity, are likely not sustained long enough to affect HbA1c, but can provide real-time information about how lifestyle and medications impact blood sugar variability.
+
+The researchers highlight that people with prediabetes or normal blood sugar, as well as their clinicians, should be careful about drawing conclusions from CGM data.
+
+Long-term studies may uncover whether CGM data can help identify subpopulations of people with normal HbA1c who may be at greater risk of developing diabetes. The researchers also emphasize the importance of ongoing digital health equity work, to ensure that diabetes prevention innovation is accessible to those who need it most.
+
+"As a physician, it is important to me to be able to advise all patients who may increasingly use these monitors," Rodriguez said.
+
+"In those withoutdiabetes, CGMs may be useful as behavioral 'biofeedback' tools that can provide insight into how food and activity impact real-time blood sugar levels, but they do not directly reflect longer term blood sugar control."
+
+More information:Lack of Association Between Hemoglobin A1c and Continuous Glucose Monitor Metrics among Individuals with Prediabetes and Normoglycemia,Diabetes Technology & Therapeutics(2025).DOI: 10.1177/15209156251379506

@@ -1,0 +1,17 @@
+Thread ID: 1o4v1sd
+Subreddit: type2diabetes
+Title: Recent T2 diagnosis w/other complications and I keep having ketones
+Author: Phaedrusnyc
+Created UTC: 2025-10-12T10:25:45
+Score: 1
+Num Comments: 2
+URL: https://reddit.com/r/type2diabetes/comments/1o4v1sd/recent_t2_diagnosis_wother_complications_and_i/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1o4v1sd/recent_t2_diagnosis_wother_complications_and_i/
+Collected: 2025-11-15T08:14:30.596208
+===============================================================================
+
+I'm trying to figure out whether I should be worried or not. I was diagnosed 4 months ago with T2. Since then I've been on Mounjaro and Metformin and not only dropped 20% of my body weight, but my A1C is back down to 5.0 and my fasting glucose was 70 at my last bloodwork. I seem to be a GLP-1a superresponder, which is pretty miraculous. The problem is that the same bloodwork detected trace ketones in my urine and since then I've been measuring with strips both before and after eating and persistently have trace to small ketones with &lt;125 mg/dl finger sticks. According to sources, EDKA is normal blood sugar with "high" ketones. But does that mean ANY ketones are "high"? Or does that mean, like, dark purple test strips? Complicating things is that we are trying to figure out what else is wrong with me--I live with idiopathic hypersomnia (diagnosed 8 years ago) and take Xywav at night, which means I have to stop eating 4 hours before bedtime. Nevertheless, I still feel terrible from sleepiness/fatigue and blood tests keep finding new anomalies (including positive ANA), so there is SOMETHING else wrong with me, but we don't have it figured out yet. I'm not doing a ketogenic diet--I consume ~135 g of carbs every day, including vegetables, fruits, and bread. I am, as I said, fasting 12-13 hours (4+ hours before bed+ 8 hours in bed), which I thought could explain the ketosis, but even after eating two pieces of toast and other carbs I still have trace ketones. I'm concerned I could be at risk for EDKA. I obviously have fatigue, lethargy, lack of focus, and malaise because I *always* have them from the hypersomnia and whatever mystery illness I may have. Nausea is occasional, as is loss of appetite, but those are both also associated with Mounjaro and Metformin. I've had facial flushing since I was a child, so that doesn't tell me much, either. I read that EDKA can be caused by other underlying conditions, and we're looking for them. I really don't want to go on insulin but I also don't want to die from something treatable. So, long story short (too late) how many ketones before I start worrying?
+
+---
+## Comments
+1. u/RandomThyme [score=2, created=2025-10-13T02:45:19]: Are drinking enough water? There is a dehydration component to dka, particularly for T2s. I don't have any experience with DKA but EDKA is a rare sideffect of one of the medications that I take, Jardiance. Dehydration is a key factor in the risk though as well stress on the body either due to prolonged illness or trauma such as a surgery. Any concerns that you have should be discussed with your doctor or diabetes care team.

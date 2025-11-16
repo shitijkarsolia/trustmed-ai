@@ -1,0 +1,23 @@
+Thread ID: 1ovjgqk
+Subreddit: prediabetes
+Title: I caved a bough a CGM. Are these spikes concerning? Both are after very carb heavy meals (bread and rice). Also, why are there two of them?
+Author: Emergency_Amount4049
+Created UTC: 2025-11-12T15:19:50
+Score: 3
+Num Comments: 10
+URL: https://reddit.com/r/prediabetes/comments/1ovjgqk/i_caved_a_bough_a_cgm_are_these_spikes_concerning/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1ovjgqk/i_caved_a_bough_a_cgm_are_these_spikes_concerning/
+Collected: 2025-11-15T08:22:51.922596
+===============================================================================
+
+I love data so I’m honestly having a blast lol, it’s so cool to be able to see what my body is doing “behind the scenes” without me even thinking about it.
+
+---
+## Comments
+1. u/Even_Situation_1576 [score=3, created=2025-11-13T00:56:20]: Nothing to stress about. Most of the population would have a similar profile.
+2. u/Disastrous_Pin_5400 [score=2, created=2025-11-12T16:05:02]: Not really . Seem like regular spikes post having a carb lunch / dinner . If it goes beyond 140 then it’s slightly more concerning
+3. u/ShrimpSubawy87 [score=2, created=2025-11-13T11:37:46]: i dont like the lingo UI for this reason. but it looks like youre doing ok here
+4. u/Healthy-Zebra-9856 [score=1, created=2025-11-13T09:15:24]: These spikes are way below any dangerous levels. Not even close. And it’s the spike that make your body release insulin.
+5. u/SuzMichell [score=1, created=2025-11-13T13:54:19]: I think I’ve read that metabolically healthier people have a double spike, it’s more typical for prediabetics to only have one. See https://www.sciencedirect.com/science/article/pii/S0735109707034444?via%3Dihub In this publication from the American Journal of Cardiology, it says that exaggerated post-meal spikes in blood glucose and lipids when repeated multiple times daily eventually lead to atherosclerotic risk factors and CAD (Coronary Artery Disease). At only 80 mg/dl = 4.4 mmol/L the Cardiovascular (CV) risk of post-meal elevated blood sugar starts to increase. By 140 mg/dl = 7.8 mmol/L, the point at which we traditionally only begin to classify patients as glucose intolerant or pre-diabetic, the risk is already increased by 58% My Lingo CGM says a typical healthy daily average value is under 6.5 mmol /117mg/dL
+6. u/Effective-Hunter-911 [score=1, created=2025-11-13T20:04:00]: Looks clean to me
+7. u/CapriKitzinger [score=1, created=2025-11-13T20:37:38]: These are fine as long as they stay under 140 or so. Nothing like mine. 90 to 180 in 45 minutes.

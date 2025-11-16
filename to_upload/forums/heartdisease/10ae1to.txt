@@ -1,0 +1,18 @@
+Thread ID: 10ae1to
+Subreddit: HeartDisease
+Title: Hi can anyone help me with this result from my 24 hr Holter.❤️❤️
+Author: emotion_4
+Created UTC: 2023-01-12T16:15:24
+Score: 1
+Num Comments: 2
+URL: https://reddit.com/r/HeartDisease/comments/10ae1to/hi_can_anyone_help_me_with_this_result_from_my_24/
+Canonical URL: https://reddit.com/r/HeartDisease/comments/10ae1to/hi_can_anyone_help_me_with_this_result_from_my_24/
+Collected: 2025-11-15T02:25:25.693631
+===============================================================================
+
+Status. Document Type: Event Date: Performed By: Auth (Verified) Special Testing Service 2022/Nov/23 19:23 Grant, Andrew D,MD (2022/Nov/24 09:38) Special Testing Service Andrew D. Grant, MD 2022/Nov/07 RE: MRN: DOB: 1957/Feb/10 CLINIC DATE: 2022N0v/07 A. 24 HUR HOLTER MONITOR: DATE OF TESTING: November 7, 2022 INDICATION: PVCS. FINDINGS: Underlying Rhythm: Sinus rhythm with rates from 48 to 132 and average heart rate 83 beats per minute Pauses and AV Block: None Ventricular Ectopy. onice renresent 21.9% of all complexes. 26,279 ventricular ectopics represent There were 7 runs of nonsustained ventricular tachycardia, the longest 5 beats in duration. There were also 97 triplets and 426 couplets, Supraventricular Ectopy: 343 supraventricular ectopics represent 0.3% of all complexes SYMPTOMS: None reported. IMPRESSION: This is an abnormal 24-hour Holter. It documents very frequent PVCs including multiple short runs of NSVT. Andrew D. Grant, MD
+
+---
+## Comments
+1. u/Low-Refrigerator3674 [score=1, created=2023-01-13T17:53:14]: Hello! I suggest you contact your provider as soon as possible. Please note these abnormalities are manageable with medications, but please do not delay getting help as soon as you can. You’ll be okay :)
+2. u/ReditoresMed [score=1, created=2023-06-02T09:13:46]: Apart from visiting your doctor, I would also recommend you join r/PVCs

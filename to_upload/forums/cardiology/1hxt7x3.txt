@@ -1,0 +1,18 @@
+Thread ID: 1hxt7x3
+Subreddit: Cardiology
+Title: Anyone have a list of common cardiology billing codes?
+Author: Onion01
+Created UTC: 2025-01-09T18:41:10
+Score: 7
+Num Comments: 4
+URL: https://reddit.com/r/Cardiology/comments/1hxt7x3/anyone_have_a_list_of_common_cardiology_billing/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1hxt7x3/anyone_have_a_list_of_common_cardiology_billing/
+Collected: 2025-11-15T08:31:57.825159
+===============================================================================
+
+Per title, is there a convenient list of common cardiology billing? EM has one, I’m trying to harvest them off the master list which is enormous
+
+---
+## Comments
+1. u/dayinthewarmsun [score=3, created=2025-01-10T01:04:59]: [https://myheart.net/cardiology-coding-center/](https://myheart.net/cardiology-coding-center/)
+2. u/[deleted] [score=1, created=2025-01-24T03:03:42]: [removed]

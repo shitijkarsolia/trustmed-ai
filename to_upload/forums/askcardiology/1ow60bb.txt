@@ -1,0 +1,17 @@
+Thread ID: 1ow60bb
+Subreddit: askCardiology
+Title: Dropped the MCOT sensor
+Author: amfhTX
+Created UTC: 2025-11-13T09:44:13
+Score: 1
+Num Comments: 0
+URL: https://reddit.com/r/askCardiology/comments/1ow60bb/dropped_the_mcot_sensor/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1ow60bb/dropped_the_mcot_sensor/
+Collected: 2025-11-15T08:38:25.405057
+===============================================================================
+
+I just removed my MCOT patch after my 7 day monitoring period and while removing the sensor from the patch, it dropped onto a tile floor. I examined it carefully, no cracks or separation, seems totally intact...but would this affect the internal gear that apparently collected data? Does the Philips MCOT HQ receive and store the data remotely during the testing period? Or is it ALL contained in that sensor and must be downloaded once they receive the equipment back (I'm sending it back today). I hate to think after all this, I'd have to do it all again.
+
+---
+## Comments
+No comments captured.

@@ -1,0 +1,26 @@
+Thread ID: 1o5ui6b
+Subreddit: Cardiology
+Title: Cath immediately after CABG
+Author: Onion01
+Created UTC: 2025-10-13T13:01:55
+Score: 21
+Num Comments: 15
+URL: https://reddit.com/r/Cardiology/comments/1o5ui6b/cath_immediately_after_cabg/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1o5ui6b/cath_immediately_after_cabg/
+Collected: 2025-11-15T08:26:58.991747
+===============================================================================
+
+For the interventional peeps, how long would you wait after patient comes out of surgery before CABG? Patient comes from OR, still intubated, has evolving STE. Do you take back immediately and engage a still fresh graft? Do you have surgeon take back? Do you just “let it happen” and stay hands off?
+
+---
+## Comments
+1. u/Grandbrother [score=20, created=2025-10-13T15:22:41]: In an ideal world they really should get an immediate cath so that the issue can be diagnosed. Echo windows are always shit and doesn't help much. Sometimes its spasm or a nothing bomb. But have definitely seen surgical/CTICU teams not recognize or brush off blatant localized ST elevation when the vessel is down - then several hours later the patient gets a cath after the damage is irreversible and they are not doing well. Reviewing the post op ECGs is one of the ways cardiologists really add value when following post op patients. And it is a way we ICs can help our surgical colleagues out of trouble which is good for collaboration. I trained IC at a place where cardiac surgery was not a strong division so I consider myself an expert in CABG salvage lmao
+2. u/FIRE_CHIP [score=15, created=2025-10-13T13:10:58]: I've seen someone go immediately to the cath lab to get a stent to a Lima but it's usually with good communication with then surgeon. I've also seen missed stemi right after the OR
+3. u/Gustatory_Rhinitis [score=8, created=2025-10-13T15:10:06]: Whatever you do, discuss it with the surgeon before you do it
+4. u/Docdad30 [score=6, created=2025-10-13T14:11:32]: We normally do it with Surgeon close by and still do it. I have seen grafts going down immediately.
+5. u/MDSCFL3 [score=7, created=2025-10-14T05:02:22]: I actually did one of these last week, the patient rolled from the OR to the Cath Lab because they found ST elevations right after they closed up. Surgeon called me and asked me to squirt the grass in the coronaries and grafts. Turns out the LIMA was heavily spasmed (tiny lady, tiny IMA) which led to a small thrombus. A little nitro restored flow to the graft and we kept her on heparin, did great. Interesting case.
+6. u/docmahi [score=3, created=2025-10-13T15:20:44]: Depends on communication with surgeon - generally my surgeons will call me when concerned and we can go straight from OR
+7. u/DrScamp [score=3, created=2025-10-14T00:56:03]: Would definitely take if the surgeon asked, and if be extremely wary and careful for anastomotic dehiscence on the aortic and coronary ends. Id also have the surgeon close by in case the chest needs reopened asap. Potentially even perform in a hybrid lab if available
+8. u/ranuvin [score=3, created=2025-10-16T08:19:04]: I have done it after extensive discussion with surgeon. Straight from the OR to the Cath lab. Basically with the understanding that there is a significant risk of graft avulsion and he has to be willing to blue strip immediately back to the OR. Was I happy to do it? No, I was very apprehensive and made my concerns quite clear. It went fine. N=1
+9. u/dayinthewarmsun [score=2, created=2025-10-13T23:45:06]: Evolving STE and clinical instability, would take ASAP. However, would definitely do it in close consultation with surgeon. They know what they dealt with in there and their services may be (emergently) needed if your angiogram disrupts an anastomosis. In some cases, it may also be better for them to re-open. TTE is usually not very useful, but TEE can be in some situations. Always a judgment call and joint decision.
+10. u/ChattyCapybara [score=1, created=2025-10-24T16:55:22]: Request a new surgeon moving forward

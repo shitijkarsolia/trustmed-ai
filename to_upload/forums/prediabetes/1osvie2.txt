@@ -1,0 +1,27 @@
+Thread ID: 1osvie2
+Subreddit: prediabetes
+Title: Starting to feel slightly skeptical about my diagnosis?
+Author: Emergency_Amount4049
+Created UTC: 2025-11-09T14:35:28
+Score: 7
+Num Comments: 29
+URL: https://reddit.com/r/prediabetes/comments/1osvie2/starting_to_feel_slightly_skeptical_about_my/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1osvie2/starting_to_feel_slightly_skeptical_about_my/
+Collected: 2025-11-15T08:23:48.850986
+===============================================================================
+
+I had a blood test in August which found an A1C of 5.7 — prediabetic. Since then, I’ve been trying to cut down on carbs per the advice of my doctor. Based on some people’s advice on here, today I went out and bought a blood glucose test kit (the finger prick kind). Not just because I want to make sure my dieting is actually working, but also b/c I just like data and think it’s cool to have data abt what my body is up to lol. I tested just now, about two hours after having an extremely carb-heavy lunch (to be exact, a Trader Joe’s noodle bowl with 51g carbs, 19g protein, and 23g fat). That’s exactly the kind of thing I’m trying to avoid, but it was in my freezer and I figured it would be an interesting test. I also basically did not move at all after eating (I sat on my couch and watched football). My blood glucose result was 93, which is basically the same as my fasting glucose (90). What does this mean as far as insulin resistance is concerned?
+
+---
+## Comments
+1. u/Coixe [score=9, created=2025-11-09T14:46:03]: I think generally you want to test around the 1hr and then again around 2hrs. You probably missed your spike by testing at 2hrs.
+2. u/BlissCrafter [score=5, created=2025-11-09T15:00:06]: You’d be well served to get an iron test. If it’s low, hba1c will be elevated without it having anything to do with blood sugar. Also just in general hba1c can be off a tenth or two.
+3. u/Pick-Up-Pennies [score=5, created=2025-11-09T14:58:23]: as others are addressing the bloodwork, I'm going to take a different lane: Protein x carb ratio. If I intend to eat 51g of carbs, I'll eat a minimum of 26g of protein to offset it. Minimum. 1:2 One gram of protein allows for 2 grams of carbs.
+4. u/Parking-Track-7151 [score=4, created=2025-11-09T15:18:11]: “I sat on my couch and watched football)” This is the greatest thing I’ve read on this sub. You are my spirit animal.
+5. u/CapriKitzinger [score=3, created=2025-11-09T14:50:29]: Check your blood glucose at 45mins. If I only checked at 2 hours, I’d look amazing. In between that time I’m shooting up to 200 and then my body sends out a flood of insulin. My first phase is broken. Also at night some people spike.
+6. u/wuffwuffmeowmeow [score=3, created=2025-11-09T15:24:03]: I also was diagnosed with pre diabetes with an a1c of 5.7 last year. At first I did strict keto but over time I started cheating a lot more frequently, like pretty much every day lol. I redid my a1c this week and it came out to 5.3. The optimist in me wants to think the first reading was false but who really knows. I need to get a finger prick to see how my body reacts to carbs.
+7. u/tbrando1994 [score=2, created=2025-11-09T22:06:52]: A CGM or a blood glucose test will tell you very little about insulin resistance. For that you will need to actually test for fasting insulin level. That is different than your A1C. Your A1C is just one very small part of your metabolic story. What your pancreas is actually doing in terms of insulin release is much more important than what a recent food spike would be. Someone can have a lower glucose reading but that does not really tell you anything else as insulin can be released in an abundance and still be causing your cells to not respond correctly if you have resistance to them. You will only know this by getting a fasting insulin test.
+8. u/UtexBirder [score=1, created=2025-11-09T14:48:18]: Mine never goes to 93 not ever so I’d be ecstatic.
+9. u/emi_lgr [score=1, created=2025-11-10T00:03:51]: If you do have insulin resistance, the protein and fat might’ve slowed down your digestion enough to push your peak to beyond two hours and kept your blood sugar elevated for hours after. Another possibility is that you squeezed your finger too hard and interstitial fluid diluted your blood, resulting in a falsely low reading.
+10. u/Even_Situation_1576 [score=1, created=2025-11-11T02:25:50]: I would completely stop stressing as you’re right to be sceptical. It’s one test. The facts of life are, if you eat the wrong stuff continually you’ll have problems with something at some point in your life. Unless you’re genetically very lucky. It might be sugar, cholesterol or a range of things. Eat your 5 and 2, stay hydrated, give your body regular rest (don’t have it working on food from getting out of bed to going back to bed), let it switch off before bed (allow time for food to digest and keep it lighter at night), exercise all your muscles including your heart and stay off the bad stuff apart from treats. Have your bloods done every six months and see how you’re tracking.
+11. u/Mametbet [score=1, created=2025-11-09T16:17:07]: Get a CGM. You will find that your glucose is going up and down for 4 hours. That is something a single pin prick test at a single point in time will never detect. But because A1C is a continuous base of measurement, it highlights all those highs and lows.

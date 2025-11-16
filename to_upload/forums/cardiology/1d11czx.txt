@@ -1,0 +1,17 @@
+Thread ID: 1d11czx
+Subreddit: Cardiology
+Title: How are relative changes in membrane polarity detectable via EKG?
+Author: stunning_cupcake_65
+Created UTC: 2024-05-26T06:27:31
+Score: 2
+Num Comments: 1
+URL: https://reddit.com/r/Cardiology/comments/1d11czx/how_are_relative_changes_in_membrane_polarity/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1d11czx/how_are_relative_changes_in_membrane_polarity/
+Collected: 2025-11-15T08:34:55.899534
+===============================================================================
+
+I feel like I’m missing something important. This is my current understanding of membrane potential and cellular depolarization: When a cell depolarizes due to an influx of Na+ ions, the vast majority of the intracellular fluid is unaffected. Depolarization/repolarization is really only referring to the area directly inside the membrane, and the total concentration of ICF Na+ ions only changes by a fraction of a percent during these events. How are we able to record de/repolarization on something like an EKG? On a large scale, wouldn’t the shift in polarity within the ICF be cancelled out by an equal and opposite shift in the ECF?
+
+---
+## Comments
+1. u/Mysterious_Brain5739 [score=1, created=2024-05-26T21:46:52]: The cell to cell conduction of depolarization through the myocardium is carried by fast sodium ions. When this wave of positive charges moves towards a positive electrode, there is simultaneous upward deflection recorded by the EKG. It is the vector of the flow of the positive charge. I think Dale Dubin's Rapid Interpretation of EKG explains it well

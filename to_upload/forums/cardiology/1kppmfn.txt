@@ -1,0 +1,19 @@
+Thread ID: 1kppmfn
+Subreddit: Cardiology
+Title: Board Prep Advice Needed
+Author: Stress_cmp
+Created UTC: 2025-05-18T10:38:38
+Score: 6
+Num Comments: 6
+URL: https://reddit.com/r/Cardiology/comments/1kppmfn/board_prep_advice_needed/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1kppmfn/board_prep_advice_needed/
+Collected: 2025-11-15T08:29:36.155961
+===============================================================================
+
+I’m about to start prepping for boards (I’m a 3rd-year fellow) and wanted to pick your brain. * What resources did you find the most helpful? * Any tips for studying or getting through the exam day itself? Really appreciate any advice you can share!
+
+---
+## Comments
+1. u/srikanthaswin [score=17, created=2025-05-18T10:55:02]: I just took mine last year. The most helpful resources for me were 1) Mayo Clinic board prep videos - pretty comprehensive 2) ACCSAP questions - did them twice 3) ecg source and Okeefe. Although I preferred the interface of okeefe, it forces you to overcode on ekgs and Cath and this isn’t something you should be doing on the actual test as you may lose points. Try to code the top 1-2 features on the ekg and avoid coding for things like incomplete lbb/rbbb or atrial enlargement. I feel ECGsource was more representative of the actual test
+2. u/docmahi [score=4, created=2025-05-18T21:35:53]: Honestly my best advice is actually focus on day two. Obviously dont ignore the meat of the exam but ACCSAP/Mayo clinic are more than enough for those. People who fail the exam generally dont do it from the MCQ portion its from the ECGs/ECHOs/Angios. Do ECG source for all the images as well and do the Mayo images portion really just make sure you dont take the second day for granted
+3. u/news247120 [score=2, created=2025-05-21T14:01:40]: Can anyone help with tips regarding the echo section? And more extensively, the 2nd day, the imaging section can be very tricky.

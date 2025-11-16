@@ -1,0 +1,19 @@
+Thread ID: 1oo55se
+Subreddit: hypertension
+Title: Labetalol and Eplerenone together
+Author: TheRuckusOne
+Created UTC: 2025-11-04T04:39:05
+Score: 2
+Num Comments: 9
+URL: https://reddit.com/r/hypertension/comments/1oo55se/labetalol_and_eplerenone_together/
+Canonical URL: https://reddit.com/r/hypertension/comments/1oo55se/labetalol_and_eplerenone_together/
+Collected: 2025-11-15T02:23:29.733339
+===============================================================================
+
+My PCP who has been treating my HBP for the past 10 years changed me over Labetalol about 5 months ago. Some historical context - I have been on a number of other HBP meds but had to stop due to reactions or no improvements. PCP sent me to a Endocrinologist who had me get a CT Scan of my Aldosterone glands to see if they were the culprit of the HBP. Scan results came back fine, but Endo said that doesn't mean anything and further testing (Salt Test) is needed to validate. Due to my already HBP the Endo didnt want me to do the Salt Test and instead jumped right to taking the Eplerenone. The Endos rational was that if I did have Aldosterone glands over producing then the combination of these drugs would see "near instantaneous" improvements in my BP. Thoughts about this approach and about taking both drugs at once?
+
+---
+## Comments
+1. u/droid_mike [score=2, created=2025-11-04T05:47:53]: Once you get on a player now and you can't take the test to get diagnosed for hyperaldosterism. You certainly could still have one-sided hyperaldosteronism even without anything showing on the CT scans. Your doctor is right that if you do have hyperaldosterism taking eplerenone should help you immensely and relatively quickly (a few weeks), but then you are stuck on the medicine and any tests that you try to take will be tainted by it, including an adrenal vein sampling which is the gold standard for one-sided hyperaldosteronism isn't that can be treated with surgery. The labetalol also can interfere with your renan test which is needed to figure out read and aldosterone ratio. That's probably why your doctor said just try the medicine and see if it helps. You could at least take a 24-hour urine aldosterone before starting. I don't know what you should do. This is not unusual. My uncle had the same thing done, but I would try and push to try to get a diagnosis before treatment if you can.
+2. u/edumedibw [score=2, created=2025-11-04T06:17:07]: As an expert I don’t agree. Labetolol is a useless drug and needs to be taken three times a day. Eplerenone is also less good than spironolactone and neither is used until 4th line. Either exclude hyperaldo properly - unlikely if ARR is normal off beta blockers, or treat with usual first and second line drugs
+3. u/edumedibw [score=1, created=2025-11-04T09:53:13]: Whilst it can cause adverse effects these are rare at modern doses of 25mg as noted in the blinded trials. And it is a much more potent antagonist.

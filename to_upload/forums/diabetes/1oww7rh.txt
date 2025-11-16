@@ -1,0 +1,20 @@
+Thread ID: 1oww7rh
+Subreddit: diabetes
+Title: T2 - Remission &amp; Going off meds decision question
+Author: Ladder-Necessary
+Created UTC: 2025-11-14T06:16:48
+Score: 2
+Num Comments: 11
+URL: https://reddit.com/r/diabetes/comments/1oww7rh/t2_remission_going_off_meds_decision_question/
+Canonical URL: https://reddit.com/r/diabetes/comments/1oww7rh/t2_remission_going_off_meds_decision_question/
+Collected: 2025-11-15T02:16:15.182202
+===============================================================================
+
+This question is for those of you in remission or who could be candidates to try going off meds but choose not to. First, definition of remission from ADA, so we're on the same page: "This group proposed “remission” as the most appropriate descriptive term, and HbA1c &lt;6.5% (48 mmol/mol) measured at least 3 months after cessation of glucose-lowering pharmacotherapy as the usual diagnostic criterion. For those of you in remission or close, what A1c are you comfortable with? What informed your decision? Or, if you have tight control and continue meds, what guides that decision. If I (33F) stop meds, I could probablyyy get a under 6.5% A1C...(5.3% for last six months since diagnosis at 10.4%, and currently trending lower-with farxiga). But I'm not convinced I'd be in the normal range (&lt;5.7%) with meds. I also know farxiga can have other protective benefits, but also that any meds come with risks. So, how did yall decide to try life sans meds, or why do yall continue meds? What A1c feels comfortable or risky for you?
+
+---
+## Comments
+1. u/RandomThyme [score=2, created=2025-11-14T07:31:54]: I'm staying on my meds as it makes my life easier. I would be miserable without them as my diet would have to be way too restrictive. There anplenty of benefits to staying on them as well if you are tolerating them well. Metformin especially. It's a decision that you will have to make for yourself as we are all different.
+2. u/psoriasaurus_rex [score=2, created=2025-11-14T08:20:40]: I have tight control (a1c of 5.1), and I have no plan to discontinue my medication (Mounjaro and metformin). I don’t have negative side effects. My meds are safe and very effective. They do more than just glucose control (reduce risk of other diseases diabetics have higher risk of: CVD, CKD, stroke, likely cancer and dementia). I don’t really understand why I should try to go off of my medication when it’s working so well for me. Diabetes is a chronic disease. I want to use all the tools available (meds, diet, lifestyle) to have the best chance of controlling diabetes and living a hopefully long and healthy life.
+3. u/Dgskydive [score=2, created=2025-11-14T08:23:51]: I currently am off all meds. Went from a 12.7 a1c to a 5.2 my last 2 tests. Ill see where its at next month again. So far ive had tighten up my meals a bit more. My average was a 98mg. Now its 104mg. If its still under 5.7, I'll keep off the meds.
+4. u/TheRealSlim_KD [score=1, created=2025-11-14T07:09:19]: You don't mention Metformin?! That's strange. You are listerally passing out sugar and that is possibly reflecting lower BGS numbers. Remission (or just being in &lt;6 numbers for HbA1C) is going to be difficult to explain while on Farxiga. If you were at 10.4 then you are a diabetic for sure. I would be wary of dropping off medication in toto. I would suggest you never get off Metformin, but as I say- I am surprised you are not on it at all.

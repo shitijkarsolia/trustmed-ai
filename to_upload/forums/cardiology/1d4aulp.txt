@@ -1,0 +1,24 @@
+Thread ID: 1d4aulp
+Subreddit: Cardiology
+Title: Sinus tachycardia management in acute HF
+Author: prairydogs
+Created UTC: 2024-05-30T11:29:45
+Score: 4
+Num Comments: 28
+URL: https://reddit.com/r/Cardiology/comments/1d4aulp/sinus_tachycardia_management_in_acute_hf/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1d4aulp/sinus_tachycardia_management_in_acute_hf/
+Collected: 2025-11-15T08:34:50.797309
+===============================================================================
+
+Since beta blockers and CCB are contraindicated how to manage rates above 100? And what is target HR in acute lvf. I have seen ivabradine being used but sometimes it fails to lower the rate.
+
+---
+## Comments
+1. u/Onion01 [score=16, created=2024-05-30T11:35:21]: Sinus Tachycardia is a physiologic rhythm and in acute HFrEF is usually a compensatory mechanism to make up for low stroke volume. CO = SV x HR You should not try to control it. Doing so can plummet their cardiac output. Let them run a little tachy.
+2. u/Specialist_Wolf5654 [score=7, created=2024-05-30T15:35:51]: Tachycardia is a compensatory mechanism to low Stroke volume, in order to preserve cardiac output. Tachycardia is not your target to treat, as it is not pathological, nor the fundamental pathway of the disease. Manage HF and you will lower thr bpms.
+3. u/matthew2128 [score=5, created=2024-05-30T14:31:15]: If someone is tachy with ADHF I wouldn’t go after the HR. I would address underlying causes: pain, anxiety, intravascular depletion, infection. Then address the HF itself, optimize them start GDMT as tolerated including BB once out of the window of possible cariogenic shock And perfusion markers improving with diuresis. How’s that ?
+4. u/Inostranez [score=3, created=2024-05-31T10:18:48]: As stated above, do not treat sinus tach. I'd add one point: consider additional causes such as hypovolaemia, sepsis, or PE
+5. u/EntrestoSparalesto [score=2, created=2024-05-31T04:42:54]: Always consider the patient’s clinical picture as a whole. ADHF has many compensatory mechanisms active to maintain cardiac output, sinus tachycardia is one of them. Address causes of ADHF (i.e. CHAMPIT mnemophrase) and focus on keeping CO and peripheral perfusion (mental status, diuresis, RCT…) adequate. Keep in mind that a tachycardic yet not hypotensive patient may be a condition of impending shock.
+6. u/[deleted] [score=1, created=2024-05-30T13:40:52]: Are beta blockers really contraindicated in acute LVF ? I’ve seen short acting beta blockers be used (provided they are not hypotensive and improving with diuresis ). Ultimately wouldn’t rush to treat sinus tachycardia with rate control anyways even if they were running at 120-130bpm
+7. u/eiyuu-san [score=1, created=2024-05-31T10:42:39]: Why are betablockers contraindicated in acute HF? If RR is ok, would you discontinue in Acute HF?
+8. u/myspacetomtop5 [score=0, created=2024-05-30T12:43:48]: What about digoxin?

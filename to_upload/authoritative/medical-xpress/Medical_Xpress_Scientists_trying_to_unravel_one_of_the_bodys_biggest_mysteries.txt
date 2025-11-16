@@ -1,0 +1,71 @@
+Title: Scientists trying to unravel one of the body's biggest mysteries
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-scientists-unravel-body-biggest-mysteries.html
+Canonical URL: https://medicalxpress.com/news/2025-11-scientists-unravel-body-biggest-mysteries.html
+Filename: Medical_Xpress_Scientists_trying_to_unravel_one_of_the_bodys_biggest_mysteries.txt
+Collected: 2025-11-15T16:59:06.391417
+===============================================================================
+
+Title: Scientists trying to unravel one of the body's biggest mysteries
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-scientists-unravel-body-biggest-mysteries.html
+Collected: 2025-11-15T16:59:06.391224
+
+================================================================================
+
+Scientists trying to unravel one of the body's biggest mysteries
+
+by DAVID GOLDMAN and LAURAN NEERGAARD
+
+edited byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+reputable news agency
+
+A peek inside some leading research labs shows how scientists-turned-detectives are painstakingly decoding what causesautoimmune diseasesand how to stop the immune system from attacking you instead of protecting you.
+
+It's a huge challenge. By the National Institutes of Health's newest count there are about140 autoimmune diseasesaffecting tens of millions of people.
+
+Unraveling them requires patience, persistence—and sophisticated technology to even see the suspects. Researchers use laser-powered machinery and brightly coloredfluorescent dyesto tellrogue cellsfrom normal ones.
+
+Take Type 1 diabetes, caused when cells in the pancreas that produce insulin are gradually killed off by rogue T cells. In a biomedical engineering lab at Johns Hopkins University, researchers examine mouse pancreas cells on a computer screen. Red marks the killer cells. In yellow are "peacemaker" cells that are supposed to tamp down autoimmune reactions—but they're outnumbered.
+
+Another type of immune cell, B cells, driveautoimmune diseasesby producing antibodies that mistake healthy tissue for foreign invaders. At NIH, Dr. Iago Pinal-Fernandez studies myositis, a poorly understood group of muscle-weakening diseases. His research shows rogue antibodies don't just damage muscles by latching onto their surface. They can sneak insidemuscle cellsand disrupt their normal functions in ways that help explain varying symptoms.
+
+Dr. Justin Kwong, a research fellow, poses for a portrait as he removes cells from an incubator in the lab where he works at the National Institutes of Health, Monday, Aug. 25, 2025, in Bethesda, Md. Kwong coaxes human stem cells to grow into a kind of immune cell involved in autoimmune diseases, and has to replenish batches with fresh nutrients. "These are my babies. It's very rewarding to do this. It's very exciting but difficult to manage. I have to come in every day to feed them. Seven days a week. That's why I have a personal attachment to the cells. It takes a lot of your life, like a baby." Credit: AP Photo/David Goldman
+
+Research fellow Sachin Surwase poses for a portrait while examining a mouse pancreas tissue through a microscope in a biomedical engineering lab at Johns Hopkins University in Baltimore, Md., Tuesday, May 13, 2025. Surwase is part of a team developing possible new ways to treat Type 1 diabetes, an autoimmune disease, by reprogramming the immune system to protect and not harm insulin-producing cells in the pancreas. "For me, it started with my grandmother, she died of cancer, so that was the motivation to work on these diseases. But then I got interested in autoimmunity. That fascinated me that why in one disease we need to increase the response of immunity but in others we need to suppress our own immunity. It's like a two-edged sword." Credit: AP Photo/David Goldman
+
+Researcher Kathryn Luly poses for a portrait holding a plate of mice cell samples in a biomedical engineering lab at Johns Hopkins University in Baltimore, Md., Tuesday, May 13, 2025. Luly is part of a team using mRNA technology to develop new treatments for autoimmune diseases. Cell tests show if the different formulas are reaching the correct targets. "The thing that's really amazing about the immune system is that it's all this very unique balance. It's like a little bit of this is good, but too much is bad. So as an engineer, it's a very unique problem of trying to sort of thread the needle and find that balance between activation and suppression. I think it appeals to the engineering side of my brain and then also some of the biology of the immune system is just really fascinating. It's a really nice blend of biology and engineering that comes together.” Credit: AP Photo/David Goldman
+
+Dr. William Ambler, a translational research scholar who studies how biological sex affects the risk of autoimmune diseases, poses for a portrait while preparing a solution in the lab where he works at the National Institutes of Health, Monday, Aug. 25, 2025, in Bethesda, Md. "I'm fascinated in autoimmunity in general because the causes of it are so misunderstood. There is so much area to understand for treatment and hopefully prevention. What we're doing is very fundamental and has implications beyond autoimmunity. I do feel like we're at an inflection point of some sorts." Credit: AP Photo/David Goldman
+
+Researcher Manav Jain poses for a portrait while pulling human T-cells from a liquid nitrogen storage tank in a biomedical engineering lab at Johns Hopkins University in Baltimore, Md., Tuesday, May 13, 2025. Jain helps design biodegradable nanoparticles that could deliver new treatments for autoimmune diseases, making sure they're the right size to reach rogue immune cells in different parts of the body. "I think the engineering thing that I feel was drilled into me from day one is thinking about identifying problems and then figuring out how to pinpoint what needs to be solved or improved upon. It's small baby steps that then amount to big steps. The field that I work in has moved quite fast. I think it's really exciting seeing what's coming out." Credit: AP Photo/David Goldman
+
+Dr. Iago Pinal-Fernandez, a staff clinician, poses for a portrait while examining cells from a muscle biopsy in a light imaging lab at the National Institutes of Health, Monday, Aug. 25, 2025, in Bethesda, Md. Pinal-Fernandez studies myositis, a group of muscle-weakening autoimmune diseases. "When I started, nothing was known about the type of autoimmune disease we study. Now finally we're able to tell patients, 'You have this disease and this is the mechanism of disease. And this is the reason why we're treating you – because the disease works in this way.'" Credit: AP Photo/David Goldman
+
+Staff scientist Carmelo Carmona-Rivera poses for a portrait while working with antibodies used in autoimmunity research inside a cold room in the lab where he works at the National Institutes of Health, Monday, Aug. 25, 2025, in Bethesda, Md. "For me, I love helping people. In this lab, whatever I do can be translated to the patients. I really want to make a difference in how those patients are suffering. The key ingredient is passion. As long as you have passion, you will be able to persist to achieve your goal. In this lab we are applying so many groundbreaking techniques. I feel proud to be part of this." Credit: AP Photo/David Goldman
+
+Researcher Kyle Kaeo poses for a portrait as he sterilizes a flask to prepare hampster cells for protein production in a lab at Johns Hopkins University in Baltimore, Md., Tuesday, May 13, 2025. Kaeo is part of a team developing antibodies that could recognize faulty immune cells driving autoimmune diseases and help eliminate them. "I pivoted from doing cancer research to autoimmunity. It kind of seems like this is the frontier of something new. It's very cutting-edge. You know, not a lot in this field, kind of like what we're doing now has been done before. So that was really attractive to me, kind of the novelty and the idea that this can change patient care from what it's been traditionally." Credit: AP Photo/David Goldman
+
+Dr. Norio Hanata, a research fellow, poses for a portrait while diluting patient blood samples in the lab where he works at the National Institutes of Health, Monday, Aug. 25, 2025, in Bethesda, Md. As a rheumatologist in Japan, he saw a lot of patients with autoimmune diseases. "By doing this research we can overcome some unmet needs for the patients. We can know what we don't know." Credit: AP Photo/David Goldman
+
+Dr. Mariana Kaplan, a rheumatologist and autoimmunity researcher, poses for a portrait working with a cell sample on a microscope in her lab at the National Institutes of Health, Monday, Aug. 25, 2025, in Bethesda, Md. Kaplan is an NIH Distinguished Investigator who leads research on systemic autoimmune diseases at the National Institute of Arthritis and Musculoskeletal and Skin Diseases. Kaplan's path to a career trying to unravel autoimmune diseases began while she was a doctor-in-training and helped care for young women severely ill with lupus, including one who died, at a time when there were fewer treatments. "No matter what I did, the diseases just progressed. I felt so impotent and frustrated about it, and so sad for them. The immune system in general fascinated me but this concept of autoimmunity and losing tolerance to yourself – what was causing this?" Credit: AP Photo/David Goldman
+
+Research fellow Colin Gliech poses for a portrait while preparing to test cells in a lab where he studies autoimmune diseases at Johns Hopkins University in Baltimore, Md., Tuesday, May 13, 2025. "I've always been really passionate about understanding how things work in biology. Immunotherapies have seen a lot of promise in the field of cancer and we've seen a lot of success specifically with treating blood cancers. But that's by no means the only application for these really kind of exciting and new technologies. So I really see autoimmune diseases as one of those new frontiers." Credit: AP Photo/David Goldman
+
+Researcher Abigail McGahan poses for a portrait in the warm room of a lab before she leaves E. coli bacteria incubating in a petri dish overnight for antibody production at Johns Hopkins University in Baltimore, Md., Tuesday, May 13, 2025. Most treatments for autoimmune diseases broadly suppress the immune system. McGahan is part of a team developing new options to target just rogue immune cells, not healthy ones. "I really enjoy the protein engineering aspect as in finding new tools to harness the immune system and this, I think, is, like, really close to having an impact in patients' lives." Credit: AP Photo/David Goldman
+
+"When I started, nothing was known about the type of autoimmune disease we study. Now finally we're able to tell patients, 'You have this disease and this is the mechanism of disease," he said.
+
+In another NIH lab, Dr. Mariana Kaplan's team is hunting the root causes of lupus and other autoimmune diseases—what makes the immune system run amok in the first place—and why they so often strike women.
+
+Today's drugs tamp down symptoms but don't correct the problem. Now in early-phase clinical trials are treatments that instead aim to fix dysfunctional immune pathways.
+
+At Hopkins, scientists are working on next-generation versions, not yet ready to try in people. In one lab, they're developing nanoparticle-based treatment to dial down pancreas-killing cells in Type 1 diabetes and ramp up "peacemaker" cells.
+
+And in another Hopkins lab, researchers are developing what they hope will become more precise treatments forrheumatoid arthritis, lupus and other antibody-driven illnesses—drugs that search out and destroy "bad" B cells.
+
+© 2025 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission.

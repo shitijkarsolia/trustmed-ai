@@ -1,0 +1,20 @@
+Thread ID: 1dl6psk
+Subreddit: Cardiology
+Title: If a patient comes to you c/o of what sounds like stable angina, in their 50s w/ DM and HLD, with a baseline EKG of NSR with LBBB, what diagnostics are you ordering?
+Author: Dr_Propranolol
+Created UTC: 2024-06-21T08:27:43
+Score: 3
+Num Comments: 7
+URL: https://reddit.com/r/Cardiology/comments/1dl6psk/if_a_patient_comes_to_you_co_of_what_sounds_like/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1dl6psk/if_a_patient_comes_to_you_co_of_what_sounds_like/
+Collected: 2025-11-15T08:34:18.865628
+===============================================================================
+
+I got a similar question on MKSAP. Just curious.
+
+---
+## Comments
+1. u/jiklkfd578 [score=6, created=2024-06-21T13:58:27]: Coronary CT but I doubt that’s what MKSAP wants.
+2. u/dayinthewarmsun [score=2, created=2024-06-22T23:20:04]: MPI would be the answer…but it’s not what I would do.
+3. u/ranuvin [score=1, created=2024-06-21T18:58:03]: MKSAP is probably looking for pharmacological nuclear stress.
+4. u/spicypac [score=1, created=2024-06-21T20:47:20]: I’d probably order a nuc next

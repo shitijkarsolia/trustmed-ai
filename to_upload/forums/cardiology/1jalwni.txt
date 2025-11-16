@@ -1,0 +1,22 @@
+Thread ID: 1jalwni
+Subreddit: Cardiology
+Title: GDMT in ESRD
+Author: Gold-Solution1066
+Created UTC: 2025-03-13T13:30:02
+Score: 7
+Num Comments: 10
+URL: https://reddit.com/r/Cardiology/comments/1jalwni/gdmt_in_esrd/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1jalwni/gdmt_in_esrd/
+Collected: 2025-11-15T08:30:53.674916
+===============================================================================
+
+For cardiomyopathy and low EF, what medications are you using for GDMT? Does anyone use SGLT2i here?
+
+---
+## Comments
+1. u/Gideon511 [score=8, created=2025-03-13T13:45:29]: If already on dialysis then you can do BB, RAAS antagonism, Bidil, no issue
+2. u/one_plain_slice [score=5, created=2025-03-13T17:04:51]: Usually no SGLT2i and no MRA. Yes ARNI/ARB/ACE and BB
+3. u/dayinthewarmsun [score=3, created=2025-03-15T22:34:55]: Currently, the SGLT2 data is largely extrapolated from advanced CKD (not yet ESRD) patients in trials. I don't see how anyone can feel strongly (either way) about SGLT2 inhibitors in dialysis patients with HFrEF without any significant real clinical data in this population. This is especially true with this class of drug because SGLT2 inhibitors have many effects and the mechanism by which the benefit to the heart is imparted is speculative (we don't know if it is relevant in oliguric or anuric patients). With the other three "pillars of GDMT" we have significantly stronger understanding of (we think) of the beneficial mechanism. [There are several clinical trials underway that may be very helpful.](https://link.springer.com/article/10.1007/s11906-024-01314-3/tables/1)
+4. u/tweakycashews [score=2, created=2025-03-15T06:31:18]: Aren’t most cardiologists maxing out BB, RAAS antagonist, and SGLT2i as tolerated? Surprised to see some comments saying no MRA, SGLT2i. Am a physician not in cardiology for context
+5. u/Gideon511 [score=2, created=2025-03-13T13:36:19]: Ears on hd or not on hd?
+6. u/Icy_Head_4802 [score=2, created=2025-03-13T18:04:49]: I’ve still used both SGLT2i and MRA in iHD. If they’re compliant with iHD and potassium is &lt;5 no reason to add MRA

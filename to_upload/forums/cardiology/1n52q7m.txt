@@ -1,0 +1,22 @@
+Thread ID: 1n52q7m
+Subreddit: Cardiology
+Title: Interesting ekg and presentation.
+Author: cardiofellow10
+Created UTC: 2025-08-31T11:50:59
+Score: 24
+Num Comments: 16
+URL: https://reddit.com/r/Cardiology/comments/1n52q7m/interesting_ekg_and_presentation/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1n52q7m/interesting_ekg_and_presentation/
+Collected: 2025-11-15T08:27:59.752212
+===============================================================================
+
+70 year old pt came to er for multiple falls and left rib pain after falling and hitting his head. Ekg was abnormal and i was asked for input. Hstrop was 67000. What do you think is going on here? Would you activate or wait or on it?
+
+---
+## Comments
+1. u/Onion01 [score=19, created=2025-08-31T11:55:27]: Late presenting inferior STEMI. I would decide whether or not to activate the lab based on story, timeline, and current symptoms.
+2. u/jiklkfd578 [score=7, created=2025-08-31T12:07:54]: Head and chest CT to rule out bleed/trauma. Then to lab. Likely a late occlusion of an RCA which often don’t reperfuse well/easily.. or are worth chasing.
+3. u/cardiofellow10 [score=8, created=2025-08-31T12:43:57]: Agree with everything you all have pointed out. The reason for posting this was that these are subtle st changes and technically only lead 3 meets 1mm criteria. I actually activated it before we got the troponin bc of the q waves/st elevations and the reciprocal changes. Also pt falling multiple times (possible arrhythmia??). Prior to that got a head ct which was negative and sure enough rca prox was 100%. As a late stemi behaves this was difficult bit eventually opened the vessel and did pci x2 with good results. There were no collaterals to the rca. I think its important to see the whole picture and do a LHC for the unanswered qs rather than calling it a late stemi and calling it a day. EF preserved no vsd/pap muscle rupture etc.
+4. u/hughvr [score=1, created=2025-09-02T21:55:43]: Possibly would have hospitalized and do at least a 24 hr Holter monitoring to check for VT as cause of falls. Late presenting, no pain, if control trops are lower than initials would probably do ischemia testing first. Did it have akinesia or hypokinesia on echo?
+5. u/Individual-Charge-23 [score=1, created=2025-09-09T23:02:00]: look at his lead 2, classic STEMI
+6. u/Subject-Cheetah4959 [score=0, created=2025-08-31T14:33:22]: Thank you OP for bringing this. Are you open to accepting new IM interns interested in cardio as mentee.

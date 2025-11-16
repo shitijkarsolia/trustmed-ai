@@ -1,0 +1,17 @@
+Thread ID: 1oufe85
+Subreddit: askCardiology
+Title: Pacemaker question
+Author: Stock-Horse-6375
+Created UTC: 2025-11-11T10:20:46
+Score: 2
+Num Comments: 1
+URL: https://reddit.com/r/askCardiology/comments/1oufe85/pacemaker_question/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1oufe85/pacemaker_question/
+Collected: 2025-11-15T08:39:48.693896
+===============================================================================
+
+My dad has Atrial fibrillation and was recently admitted to hospital for breathlessness, the doctor put him a Digoxin 187.5 micrograms and today the doctor called to give him two options either they put him on a pacemaker and stop Digoxin completely or he takes Digoxin for life.. my dads heart rate is too high and the Digoxin was given to lower the heart rate. When I Google the uses of a pacemaker it says its for increasing a low heart rate but as my dads heart rate is high close to 95 is a pacemaker the best option? Thank you
+
+---
+## Comments
+1. u/Impressive_Donut3122 [score=1, created=2025-11-11T11:14:45]: Pacemakers are mainly for slow or paused heart rates. In your dad’s case, the doctor might suggest one if they plan to use stronger rate-controlling or rhythm-correcting treatments that could make his heart too slow without a pacemaker’s support. The pacemaker acts as a safety net, allowing the use of more effective medications without the risk of a dangerously slow heartbeat.

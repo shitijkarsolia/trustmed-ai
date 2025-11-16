@@ -1,0 +1,20 @@
+Thread ID: 1gbkrue
+Subreddit: Cardiology
+Title: Stress test in large AAAs
+Author: LeonardCrabs
+Created UTC: 2024-10-24T20:13:13
+Score: 6
+Num Comments: 12
+URL: https://reddit.com/r/Cardiology/comments/1gbkrue/stress_test_in_large_aaas/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1gbkrue/stress_test_in_large_aaas/
+Collected: 2025-11-15T08:32:58.894717
+===============================================================================
+
+Hey cardiology friends, Anesthesiologist here. Have had a situation arise a few times over the past year and was hoping to get some expert input: Elderly patient (\~70y/o) shows up with little/no prior medical care, found to have a large (7cm or more) AAA which requires relatively urgent repair (\~25% or higher chance of rupture in 6 months, so not looking to delay surgery by much if at all). Either low functional capacity, or unable to assess due to mobility. EKG with some chronic looking changes, maybe LBBB, but nothing acute. Echo largely unremarkable. Maybe some DOE but otherwise no acute symptoms. Can be either open AAA or endovascular repair. My questions would be: 1. Would this patient benefit from cardiac consult prior to their surgery? If so, what would that look like? According to [these](https://www.jvascsurg.org/article/S0741-5214(17)32369-8/fulltext) guidelines from Society for Vascular Surgery, this patient would qualify for cardiac risk stratification: "In patients with significant clinical risk factors, such as coronary artery disease, congestive heart failure, cerebrovascular disease, diabetes mellitus, chronic renal insufficiency, and unknown or poor functional capacity (metabolic equivalent \[MET\] &lt; 4), who are to undergo OSR or EVAR, we suggest noninvasive stress testing." 2. What sort of workup/eval would you do? What questions would be important from a risk stratification standpoint? 3. Can you actually stress test patients with large AAAs? Literature shows 6-7cm seems to be safe, but not much data on anything above 7cm. Or would you go straight to angio if concerned? 4. Other thoughts/things to know? Thanks ya'll!
+
+---
+## Comments
+1. u/dayinthewarmsun [score=11, created=2024-10-24T22:42:59]: This touches very closely to [what was studied in the CARP trial](https://www.nejm.org/doi/full/10.1056/NEJMoa041905) , which looked at coronary revascularization prior to vascular surgeries including expanding AAA repair. This, and the general take-home of most available evidence, does not really support ischemia evaluation prior to these surgeries. I would only consider an ischemia workup if it were going to make me consider coronary revascularization prior to AAA repair. In a patient with a large AAA, this is approximately never. The situation that I would do ischemia workup prior to AAA (and consider revascularization) is if there are unstable symptoms (ACS). Otherwise, the risk/benefit doesn’t even come close to being favorable. It would be reasonable to get an echocardiogram in patients with poor activity level to help guide peri- and intra-operative hemodynamic management. It would be good to know about HF, AS, etc.
+2. u/[deleted] [score=5, created=2024-10-24T20:47:00]: [removed]
+3. u/jiklkfd578 [score=5, created=2024-10-24T22:48:35]: Guy just needs his 7+ AAA fixed now.. like schedule him for next week and stop dinking around. Sure, grab an echo in the meantime.
+4. u/PNW-heart-dad-5678 [score=1, created=2024-10-25T08:31:53]: Don’t let a Cardiology consult get in the way of an urgent repair. Unless, the patient is having a STEMI or complete heart block. What’s the benefit of recasc in chronic cad? Lots of evidence that it doesn’t improve outcomes even if stress test is abnormal so why do it for a surgery where it has already been proven to not be beneficial? I.e. CARP

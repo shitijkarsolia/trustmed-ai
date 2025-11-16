@@ -1,0 +1,22 @@
+Thread ID: 1otpe7r
+Subreddit: prediabetes
+Title: Can’t seem to get fasting glucose or daytime glucose under 115.
+Author: sciencenerd75
+Created UTC: 2025-11-10T13:43:25
+Score: 8
+Num Comments: 18
+URL: https://reddit.com/r/prediabetes/comments/1otpe7r/cant_seem_to_get_fasting_glucose_or_daytime/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1otpe7r/cant_seem_to_get_fasting_glucose_or_daytime/
+Collected: 2025-11-15T08:23:30.822955
+===============================================================================
+
+Been working on trying to bring my A1c down from 6.1 for the last 4 weeks and can’t seem to get my fasting or baseline daytime levels down. Trying to do it the standard way with regular workouts (strength and cardio) as well as low carb/higher protein but my baseline levels never budge. My spikes are lower and come down quicker in general but my fasting never goes down. Any tips or suggestions that have worked for others?
+
+---
+## Comments
+1. u/Scarlett_Uhura1 [score=4, created=2025-11-10T14:02:32]: I’m in the same boat. I’m 51f and currently trying to get into an endo for help. Was diagnosed in May and while I’m doing great at controlling spikes after meals, my fasting level is ALWAYS between 105-115. I never see a number under 105. I’m learning that hormones might be the cause but since I can’t get an endo to agree to see me, I can’t really get any help.
+2. u/superlative-laziness [score=2, created=2025-11-11T23:42:06]: If you're able to try berberine, you should give it a chance. It's helping my fasting numbers
+3. u/jonkl91 [score=2, created=2025-11-10T17:39:40]: Decrease the amount of saturated fats and oils. If you are healthy enough, try extended fasting. More than 24 hours. I find 36 hours is a good sweet spot. 32 hours of fasting is when your fasting insulin levels bottom out.
+4. u/Pinku_No_Iruka [score=1, created=2025-11-10T13:57:11]: What does a typical day of eating look like for you -food and macros specifically. also, have you tried walking after meals or just more in general. Could you try eating a cup of veggies before your meal as well?
+5. u/Healthy-Zebra-9856 [score=1, created=2025-11-10T15:16:29]: Low carb is a very delicate thing. Too much a low-carb will really not help the way it’s supposed to. How much saturated fat are you consuming? Saturated fat will not spike your glucose, but it will cost insulin resistance. If you’re really working out to build your muscles, you need carbohydrates for them. Complex carbohydrates like brown, rice, quinoa, etc. will keep the cortisol level low. One of the reasons glucose remains high is due to high cortisol.
+6. u/BasicComment7306 [score=1, created=2025-11-10T17:27:30]: If you’re using a CGM, you should know that some tend to run high. If you’re using a CGM that can be calibrated (like a Dexcom G7) then you can confirm with a finger prick glucometer and calibrate the device to be more accurate. I have found the Dexcom Stelo to run 10 to 20 points higher than finger prick glucometer readings. Abbott Lingo seems to run 10 points lower than finger prick.

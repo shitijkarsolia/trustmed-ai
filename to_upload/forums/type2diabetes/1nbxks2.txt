@@ -1,0 +1,19 @@
+Thread ID: 1nbxks2
+Subreddit: type2diabetes
+Title: Stelo measuring 30 to 60 points higher than finger stick
+Author: AggravatingPipe2305
+Created UTC: 2025-09-08T12:38:21
+Score: 3
+Num Comments: 8
+URL: https://reddit.com/r/type2diabetes/comments/1nbxks2/stelo_measuring_30_to_60_points_higher_than/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1nbxks2/stelo_measuring_30_to_60_points_higher_than/
+Collected: 2025-11-15T08:18:01.743356
+===============================================================================
+
+So I bought a couple of Stelo cgms to help me see trends in my bg. I noticed immediately that it was running way high. But it said it might take 24 hours to level out. It is always high, anywhere from 30 to 60 points higher than the finger stick. I knew they were not always accurate. But dang. It’s installed properly. It’s placed well on the back of my arm right where it says. It all works. It would be different if it were even consistently wrong. But I don’t even know if I can check trends with any trust they are correct. It’s been over 24 hours. Does it sometimes take longer or something? Is it a bad sensor? Or are these things just that iffy?
+
+---
+## Comments
+1. u/kbartlez [score=2, created=2025-09-08T17:13:25]: After two months of use, I’ve found that the Stelo is consistently 15-25% higher than finger prick even when taking the 15 minute lag into account. I’ve learned not to panic about how high the spikes are and instead I’m just noting that there is one, how narrow or wide it is, etc. if you look at it as a trend graph, it’s very useful. Invaluable even.
+2. u/SuspiciouslyDullGuy [score=1, created=2025-09-08T14:27:27]: Get onto Dexcom and see if you can get a free replacement. All their other models support manual calibration which enables you to fix this problem. Abbot will replace their Freestyle Libre 2 and 3 sensors (which don't support calibration) if they are more than 15 to 20% away from three finger stick readings (accounting for the delay between blood and CGM, which Abbott say is 5 to 10 minutes in the email they send you if you try to get a replacement). I don't know what the replacement policy for the Stelo is. If you want to compare CGM with finger stick test when blood glucose levels are stable, such as before meals. It's hard to compare them when levels are changing rapidly. Bear in mind also that some finger stick meter models read low, and some high, on average. Some meters give readings which jump all over the place from one test to the next. While all finger stick meters are supposed to conform to the same basic standards some models are vastly better than others. The best meter available is a Contour Next One, which reads very close to objective accuracy on average with minimal variation from one test to the next. With a good meter it is possible to put biased (always high or always low) CGM readings into context, to figure out how much to add or deduct from CGM readings to get close to accuracy. You mention a 30 to 60 point variation - when blood glucose levels are stable the range of variation between CGM and finger stick should be much more narrow than that. If you're getting that wide a variation you either have a faulty CGM or a bad finger stick meter which gives readings that jump all over the place.
+3. u/RandomThyme [score=3, created=2025-09-08T12:46:55]: CGMs typically lag 15 min behind a finger poke. How close was the CGM to the finger poke after 15 min? CGMs are considered acceptablely accurate if they are +/- 20% of a finger poke. As I understand it anyway. This is why it is important to verify highs and lows with a finger poke before treating them. People often put on their new senor, without scanning it, 12 hrs or so prior to the current one ending to let it "soak". This seems to improve accuracy in the first 24hr period.

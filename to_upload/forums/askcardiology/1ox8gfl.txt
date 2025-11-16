@@ -1,0 +1,19 @@
+Thread ID: 1ox8gfl
+Subreddit: askCardiology
+Title: Holter monitor results
+Author: More_Banana
+Created UTC: 2025-11-14T14:02:15
+Score: 3
+Num Comments: 5
+URL: https://reddit.com/r/askCardiology/comments/1ox8gfl/holter_monitor_results/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1ox8gfl/holter_monitor_results/
+Collected: 2025-11-15T08:37:33.006356
+===============================================================================
+
+This is the graph of the results from my Holter monitor test. Can anyone tell me what is happening at the end? Right before that moment I wasn’t feeling well and almost fainted. Afterwards I had to throw up and felt unwell for a few more hours. Exactly at that point you can see all these little dots, which suddenly stop abruptly. Is this noise, or was something actually going on? The cardiologist didn’t assess that part. And is it normal for the graph to look so irregular, with so many spikes up to 150? It also said that 600 tachycardia episodes were detected.
+
+---
+## Comments
+1. u/Local_Ad67 [score=3, created=2025-11-14T14:51:22]: The graph shows roughly 300,000 heartbeats over those days, but it doesn’t tell you if they’re normal or abnormal. It only shows heart rate trends and the times you marked symptoms. Only the actual ECG strips or detailed Holter analysis can reveal arrhythmias or other rhythm issues.
+2. u/PetroVenus [score=2, created=2025-11-14T14:18:08]: This graph mainly shows your heart rate trends and when you marked symptoms, but it doesn’t give detailed info about specific heart rhythm changes. To understand what really happened during your symptoms, the cardiologist needs to review the actual ECG data from those exact times, not just the heart rate graph.
+3. u/Initial-Net-7519 [score=2, created=2025-11-14T14:31:06]: This is a heart rate graph. Nothing other than your heart rate over the time recorded can be read from this.

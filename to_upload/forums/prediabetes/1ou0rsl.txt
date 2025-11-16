@@ -1,0 +1,20 @@
+Thread ID: 1ou0rsl
+Subreddit: prediabetes
+Title: blood test results were removed from mychart. is this sketchy?
+Author: Impressive-Depth7610
+Created UTC: 2025-11-10T22:02:24
+Score: 4
+Num Comments: 4
+URL: https://reddit.com/r/prediabetes/comments/1ou0rsl/blood_test_results_were_removed_from_mychart_is/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1ou0rsl/blood_test_results_were_removed_from_mychart_is/
+Collected: 2025-11-15T08:23:25.224986
+===============================================================================
+
+recently noticed something strange with my medical records and could use some advice. A few weeks ago, I had bloodwork done at the hospital (a CMP that included glucose). I saw the results in my MyChart and noticed my glucose levels were consistently high (130+). i looked back at old tests and saw they had been that way in previous tests too. I was never notified by anyone When I finally messaged my clinic to ask about it, they replied saying they didn’t have any glucose tests on file. After that message, the blood test from my last visit disappeared from my MyChart. only my urine results are still visible. I know it was there before, and now it’s completely gone. I still have screenshots from past blood tests (from last year) showing similar high glucose levels that no one has ever mentioned to me. And just last week, I had a scary episode where my blood sugar felt really low (shaking, lightheaded, and feeling unwell) until I drank a smoothie. any advice?
+
+---
+## Comments
+1. u/slothole [score=1, created=2025-11-10T22:25:56]: maybe the sample got compromised, so they had to delete the results.
+2. u/sciencenerd75 [score=1, created=2025-11-11T00:13:07]: I would ask specifically to get it tested again. Just fasting glucose and A1c. If also want to check on your own you could get a glucose monitor and see what your levels are like in the morning after fasting and if they match up at all to the 130 you had seen
+3. u/baugofbones [score=1, created=2025-11-13T17:09:56]: They would definitely have records of what was inputted and changes somewhere within the system, would they tell you that probably not. So is it just your glucose numbers even from precious tests like that? They could easily erase those results leaving you to fend for yourself it wouldnt be above them not to. Maybe look for the what the doctor ordered for those test in the past-current
+4. u/Even_Situation_1576 [score=1, created=2025-11-11T04:04:22]: I’m not sure where you are but my advice is to make a complaint to the relevant authority in charge of the clinic. At the end of the day one of five things have happened, you have an issue which wasn’t brought to your attention, your results are erroneous, your latest results were erroneous, a combination of these things or none of these things and the clinic has just communicated badly why they have deleted the latest results. If your Glucose is too high, it doesn’t correctly with all your symptoms which sound like low sugar. If a smoothie made you feel better then that definitely sounds like low sugar. I’m not a medical professional but I would get a repeat A1C test to check your average levels. I have experience of dealing with medical errors and my advice is get a complaint in and have someone look into this. There’s always an audit trail.

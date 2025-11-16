@@ -1,0 +1,45 @@
+Title: Stenting all blocked arteries outperforms culprit-only treatment approach, study shows
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-stenting-blocked-arteries-outperforms-culprit.html
+Canonical URL: https://medicalxpress.com/news/2025-11-stenting-blocked-arteries-outperforms-culprit.html
+Filename: Medical_Xpress_Stenting_all_blocked_arteries_outperforms_culprit_only_treatment_approach_study_shows.txt
+Collected: 2025-11-15T17:12:21.423338
+===============================================================================
+
+Title: Stenting all blocked arteries outperforms culprit-only treatment approach, study shows
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-stenting-blocked-arteries-outperforms-culprit.html
+Collected: 2025-11-15T17:12:21.423166
+
+================================================================================
+
+Stenting all blocked arteries outperforms culprit-only treatment approach, study shows
+
+byMcMaster University
+
+edited byGaby Clark, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+Opening all blocked arteries with stents in patients with a heart attack, known as complete revascularization, reduces the risk of death from cardiovascular causes, death from any cause and future heart attacks compared with opening only the culprit artery causing the heart attack according to a new, large international study led by researchers at the Population Health Research Institute (PHRI), a joint organization of McMaster University and Hamilton Health Sciences.
+
+The results were published simultaneously inThe Lancetand presented in a Late-Breaking Clinical Science Featured Research Session at theAmerican Heart Association's 2025 Scientific Sessionsin New Orleans, Louisiana, on November 9, 2025.
+
+"Cardiologists face a dilemma when a patient has a heart attack and multiple coronary artery blockages are found: should they treat only theculpritartery causing theacute heart attack, or perform completerevascularizationand open all blocked arteries, including the bystander arteries?" said Shamir R. Mehta, study chair, PHRI senior scientist, interventional cardiologist at McMaster University.
+
+"Previous randomized trials suggested that complete revascularization reduced non-fatal heart events, but there was uncertainty as to whether it also lowers death from cardiovascular causes, the most important outcome. By combining data from several large trials, we finally had enough patients to clearly answer that question."
+
+The study analyzed data from six international multicenter randomizedclinical trialsenrolling 8,836 heart attack patients with a median age of 65.8 years, including 2,122 women and 6,714 men.
+
+Over a three-year follow-up period, patients who received complete revascularization (i.e., stenting of the culprit and all bystander blockages) were less likely to experience death from cardiovascular causes or a new heart attack compared with those treated with only opening the culprit artery. In addition, there was a lower risk of death from any cause.
+
+Patients who received complete revascularization with stents had a one-quarter lower rate of cardiovascular death or new heart attack, 9.0% compared with 11.5% in those treated with stents to the culprit artery only. Cardiovascular deaths were 3.6% versus 4.6%, a 24% relative reduction and all-cause deaths were 7.2% versus 8.1%, a 15% relative reduction. New myocardial infarctions were also reduced, while non-cardiovascular deaths (such as death due to cancer or infection) were similar between the groups.
+
+The benefits of complete revascularization were seen in patients presenting with both STEMI (ST-segment elevationmyocardial infarctionor full-blown heart attacks caused by complete blockage of the culprit artery) and NSTEMI (non-ST-segment elevation myocardial infarction, smaller heart attacks caused by severe partial blockage of the culprit artery), as well as in younger and older patients. These improvements were observed in addition to proven heart treatments, includingblood thinnerssuch as dual antiplatelet therapy, statins, angiotensin-converting enzyme inhibitors or angiotensin receptor blockers, and beta-blockers.
+
+"By reducing premature death, this large international study takes the importance of complete revascularization for patients having aheart attackto a different level. It firmly establishes complete revascularization as one of the very few life-saving procedures cardiologists now have that not only prevents future heart attacks but now also prolongs life. That's a major advance that has widespread implications," said Mehta.
+
+More information:The Lancet(2025).DOI: 10.1016/S0140-6736(25)02170-1Journal information:The Lancet

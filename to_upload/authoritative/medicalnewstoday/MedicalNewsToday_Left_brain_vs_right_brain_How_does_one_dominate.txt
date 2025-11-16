@@ -1,0 +1,60 @@
+Title: Left brain vs. right brain: How does one dominate?
+Source: MedicalNewsToday
+URL: https://www.medicalnewstoday.com/articles/323892
+Canonical URL: https://www.medicalnewstoday.com/articles/323892
+Filename: MedicalNewsToday_Left_brain_vs_right_brain_How_does_one_dominate.txt
+Collected: 2025-11-15T17:07:53.708679
+===============================================================================
+
+Title: Left brain vs. right brain: How does one dominate?
+Source: MedicalNewsToday
+URL: https://www.medicalnewstoday.com/articles/323892
+Collected: 2025-11-15T17:07:53.708465
+
+================================================================================
+
+The two hemispheres of our brain — left and right — specialize in different tasks. A recent study asks how this occurs and reaches a surprising conclusion.
+
+Hemispheric dominance, also known as lateralization of brain function, describes the tendency for either the left or the right side of the brain to carry out specific brain activities.
+
+Even though both sides of the brain are almost identical, one hemisphere primarily carries out some functions over others.
+
+For instance, the left hemisphere houses brain regions linked to speech (or the right hemisphere in left-handed people).
+
+Previously, scientists thought humans were the only creatures to exhibit this phenomenon. However, recent research has found lateralized brain functionthroughoutthe animal kingdom — from insects, such as honeybees, to aquatic mammals, including killer whales.
+
+The corpus callosum — a thick tract of nerve cells, known as commissural fibers — connects the two hemispheres. Exactly how dominance is produced remains uncertain.
+
+Recently, researchers from Ruhr-Universität Bochum in Germany set out to investigate this question. They chose to study the visual system of pigeons, and they have published their findings in the journalCell Reports.
+
+Bird brains and old ideas
+
+Previously, scientists have theorized that one side of the brain simply inhibits the other, allowing it to take dominance.
+
+Co-lead author Prof. Onur Güntürkün explains that “[i]n the past, it had been assumed that the dominant hemisphere transmits inhibitory signals to the other hemisphere via the commissures, thus suppressing specific functions in that region.”
+
+In effect, the dominant hemisphere is thought to overpower its neighbor. However, scientists have also noted that excitatory messages run both ways, so there must be more to this interaction.
+
+The researchers decided to use a pigeon model because other studies have described hemispheric dominance in this species insome detailover recent years.
+
+For instance, in pigeon brains, the left hemisphere takes the lead when it comes to visual processing of patterns and colors. Conversely, the right brain more often deals with social or emotionally charged stimuli.
+
+The scientists trained the birds to perform a color differentiation task. In particular, this challenge involves part of the brain that uses visual information to guide motor activity. In this type of task, the left side of the brain is dominant.
+
+To understand how cross-talk between hemispheres influences dominance, Prof. Güntürkün and co-author Dr. Qian Xiao intermittently switched off some of the neurons that run between the two sides of the brain.
+
+Interfering in cross-talk
+
+After blocking specific neurons running from one side, they would observe the activity of the neurons that usually receive their input on the opposite side. In this way, they could pick apart the way in which the dominant hemisphere exerts its control.
+
+The researchers showed that, rather than merely inhibiting the right side of the brain during this task, the left brain could delay the response of the right brain, so preventing it from getting involved.
+
+As Prof. Güntürkün explains, “The right hemisphere simply acts too late to control the response.”
+
+Rather than merely inhibiting the response, the right brain still operates, but its signals are too late to the party to make a difference to the bird’s behavior.
+
+“These results show that hemispheric dominance is based on a sophisticated mechanism. It does not hinge on one general inhibitory or excitatory influence; rather it is caused by minute temporal delays in the activity of nerve cells in the other hemisphere.”
+
+The findings provide an entirely new way to look at hemispheric dominance. Research is bound to continue into this rather peculiar phenomenon that evolution has lovingly conserved throughout many branches of life.
+
+However, it is likely to be quite some time before we understand why dividing tasks between the hemispheres is so evolutionarily advantageous.

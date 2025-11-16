@@ -1,0 +1,29 @@
+Thread ID: 1javoy0
+Subreddit: Cardiology
+Title: Utility of BNP in ADHF at time of discharge
+Author: Acceptable-Answer-11
+Created UTC: 2025-03-13T21:22:35
+Score: 3
+Num Comments: 22
+URL: https://reddit.com/r/Cardiology/comments/1javoy0/utility_of_bnp_in_adhf_at_time_of_discharge/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1javoy0/utility_of_bnp_in_adhf_at_time_of_discharge/
+Collected: 2025-11-15T08:30:52.212152
+===============================================================================
+
+Hey everyone, I'm a PGY-2 IM resident at a small community program. Just wondering what the utility of obtaining BNP at time of discharge in patients with history of HFrEF presenting with ADHF. I understand that trending BNP is has not shown to decrease length of stay. However, if a patient presents with BNP to 3000 and repeat is done on day of discharge showing improvement, is this useful when patient follows in Cardiology clinic 1-2 weeks later? I understand daily weights assist with telling us if patient is diuresing appropriately, and including weight at time of discharge maybe helpful, just wondering about BNP. Thanks
+
+---
+## Comments
+1. u/acecode47 [score=14, created=2025-03-14T01:13:33]: I find pre-discharge BNP helpful as a surrogate for when the patient is relatively dry/euvolemic for future reference. Also, don’t forget that if the patient is on Sacubitril/Valsartan for the HFrEF, BNP will be elevated due to the drug’s mechanism of action and NT-pro BNP should be used instead.
+2. u/Oxford___comma [score=10, created=2025-03-14T00:17:27]: Interesting perspectives on this thread. I find it extremely helpful to get a pre discharge (dry) BNP and weight. It can absolutely be helpful, both in the ED and outpatient, in assessment of volume status.
+3. u/Standardkamelen [score=8, created=2025-03-14T06:03:42]: ESC guidelines recommends not to rely on BNP as an indicator of treatment progress.
+4. u/Gold-Solution1066 [score=7, created=2025-03-14T00:49:12]: In my experience, weights are only helpful when they are done on the same scale. If you weigh them pre discharge and they go home and weigh themselves the same day you could see easily 2 to 3 pounds difference.
+5. u/nalsnals [score=5, created=2025-03-14T14:42:54]: BNP is not useful to guide treatment. In my opinion it's only useful in deciding whether to trial diuretics in a patient with undifferentiated dyspnoea who does not have clinical heart failure on examination or CXR. In patients with severe HF where you are unsure if they need further diuresis a right heart cath to check wedge and RA pressure is more useful.
+6. u/KtoTheShow [score=6, created=2025-03-14T06:49:56]: A lack of 30% decrease in BNP from admission to discharge has prognostic value
+7. u/shahtavacko [score=12, created=2025-03-13T21:36:53]: BNP is probably the most worthless lab on the planet, it’s like taking a picture of your foot to see whether you’re wearing a shoe or not. I’ve been a cardiologist for twenty years and have probably ordered it five times. IMHO if a particular test throws off the less experienced and leads them down the wrong path, we should limit its use. The test has so many limitations and exceptions but everyone wants to take it on face value and mistreat patients when all else points to the opposite direction. It’s like this relatively new low specificity troponin I, Lord that lab has become so worthless I want to pull out the four hairs left on my head.
+8. u/BigAorta [score=2, created=2025-03-14T06:14:38]: BNP is a lab test and must be interpreted in the entire clinical context to make helpful assessment. That being said, getting a pre-dc BNP is supported by the guidelines (2022 management of CHF with a 2a recommendation, additionally HFSA recommends this as well). Dry BNP helps with prognostic outcomes such as reduced CHF readmission and mortality.
+9. u/Accomplished-Road338 [score=2, created=2025-03-15T09:57:44]: A discharge BNP of 800 or more at discharge is predictive of readmission. Consider keeping these patients an extra day or two for additional diuresis.
+10. u/dayinthewarmsun [score=4, created=2025-03-13T22:53:57]: The argument is that you get a BNP when they are relatively "dry" so that if you check later on, you know if they are decompensated. I don't normally do this.
+11. u/Gideon511 [score=1, created=2025-03-14T02:19:04]: I find BNPs quite helpful
+12. u/Boskouei [score=1, created=2025-03-14T15:06:13]: To make a diagnosis and decision to admit or discharge, it is clinical judgement that you use and paraclinical information such as Labs, echo, chest xray are to confirm and guide treatment. I use baseline admission BNP ( or NT pro BNP). If main dx is ADHF, and patient is on acute IV diuresis at hospital, I repeat it every 2-3 days to help to guide the treatment( maximizing doses, adding other meds) while doing daily clinical history and exam. A predischarge dry weight ( usually unreliable at hospital unless there is a bedside scale, same scale, same tech, accurate recoding) and predischarge BNP are quite helpful. Why? Because those patients will be seen again either at clinic hopefully within a week or with next exacerbation at ER and you will need those previous numbers to confirm and guide your clinical judgement and management.
+13. u/missmee567 [score=1, created=2025-04-14T10:29:54]: I'm not a medic. I hope I can get help from the medics on here. My sister 41 yrs, was admitted with hypertension and swollen limbs ( she has been experiencing this for a long long time). The hospital requested several tests including kidney function, hba1c and probnp . The ranges for the first two were normal but the probnp reading is 3960. As it is a public hospital,she has not yet been seen. From the little research I've done, this figure seems very high. Can anyone interpret and advise on next cause of action and what prognosis is ? I'll appreciate it. Thank you

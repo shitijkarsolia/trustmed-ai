@@ -1,0 +1,55 @@
+Title: Hypertension affects the brain much earlier than expected, study suggests
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-hypertension-affects-brain-earlier.html
+Canonical URL: https://medicalxpress.com/news/2025-11-hypertension-affects-brain-earlier.html
+Filename: Medical_Xpress_Hypertension_affects_the_brain_much_earlier_than_expected_study_suggests.txt
+Collected: 2025-11-15T16:59:23.619975
+===============================================================================
+
+Title: Hypertension affects the brain much earlier than expected, study suggests
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-hypertension-affects-brain-earlier.html
+Collected: 2025-11-15T16:59:23.619840
+
+================================================================================
+
+Hypertension affects the brain much earlier than expected, study suggests
+
+byWeill Cornell Medical College
+
+edited byGaby Clark, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+Hypertension impairs blood vessels, neurons and white matter in the brain well before the condition causes a measurable rise in blood pressure, according to a new preclinical study from Weill Cornell Medicine investigators. The changes help explain why hypertension is a major risk factor for developing cognitive disorders, such as vascular cognitive impairment and Alzheimer's disease.
+
+The preclinical findings,publishedNov. 14 inNeuron, reveal that hypertension may induce early gene expression changes in individual brain cells that could interfere with thinking and memory. The findings may lead to medications that both reduceblood pressureand prevent cognitive decline.
+
+Patients with hypertension have a1.2 to 1.5-foldhigher risk of developingcognitive disordersthan people without the condition, but exactly why is not understood. While many current hypertension medications successfully lower high blood pressure, they often show little or no effect onbrain function. This suggests blood vessel changes could cause damage independently of the elevated pressure associated with hypertension.
+
+"We found that the major cells responsible for cognitive impairment were affected just three days after inducing hypertension in mice—before blood pressure increased," said senior author Dr. Costantino Iadecola, director of the Feil Family Brain and Mind Research Institute, professor of neuroscience and Anne Parrish Titzell Professor of Neurology at Weill Cornell. "The bottom line is something beyond the dysregulation of blood pressure is involved."
+
+Dr. Anthony Pacholko, postdoctoral associate in neuroscience at Weill Cornell, co-led the work.
+
+In previous work, Dr. Iadecola's team found that hypertension affects the function of neurons globally, but recent innovations in single-cell technologies have allowed them to zero in on what is happening in the different types of cells in the brain at themolecular level.
+
+To induce hypertension in mice, the researchers administered the hormone angiotensin, which raises blood pressure, mimicking what happens in humans. Then, they looked at how different types of brain cells were impacted three days later (before blood pressure increased) and after 42 days (when blood pressure was high, and cognition was affected).
+
+At day three, gene expression dramatically changed in threecell types:endothelial cells, interneurons and oligodendrocytes. Endothelial cells, which line the internal surface of blood vessels, aged prematurely with lower energy metabolism and higher senescence markers.
+
+The researchers also observed early signs of a weakened blood-brain barrier, which regulates the influx of nutrients into the brain and keeps out harmful molecules. Interneurons, brain cells that regulate the balance of excitatory and inhibitory nerve signals, were damaged, leading to an imbalance between inhibition and excitation like that seen in Alzheimer's disease.
+
+In addition, oligodendrocytes that enrobenerve fiberswith myelin did not properly express genes responsible for their maintenance and replacement. Without enough oligodendrocytes to maintain the health of the myelin sheath, neurons eventually lose the ability to communicate with each other, which is critical for cognitive function. Even moregene expressionchanges were observed at day 42, coinciding with cognitive decline.
+
+"The extent of the early alterations induced by hypertension was quite surprising," Dr. Pacholko said. "Understanding how hypertension affects the brain at the cellular and molecular levels during the earliest stages of the disease may provide clues to finding ways that can potentially block neurodegeneration."
+
+An antihypertensive drug already in clinical use called losartan inhibits the angiotensin receptor. "In some human studies, the data suggest that the angiotensin receptor inhibitors may be more beneficial to cognitive health than other drugs that lower blood pressure," Dr. Iadecola said. In additional experiments, losartan reversed the early effects of hypertension on endothelial cells and interneurons in the mouse model.
+
+"Hypertension is a leading cause of damage to the heart and the kidneys, that can be prevented by antihypertensive drugs. So independent of cognitive function, treating high blood pressure is a priority," Dr. Iadecola said.
+
+Dr. Iadecola and his team are now investigating how the premature aging of smallblood vesselsinduced by hypertension could trigger interneuron and oligodendrocyte defects. And in due time, the researchers hope to uncover the best way to prevent or reverse the devastating effects ofhypertensionon cognitive function.
+
+More information:Hypertension-Induced Neurovascular and Cognitive Dysfunction at Single-Cell Resolution,Neuron(2025).DOI: 10.1016/j.neuron.2025.10.018.www.cell.com/neuron/fulltext/S0896-6273(25)00799-8Journal information:Neuron

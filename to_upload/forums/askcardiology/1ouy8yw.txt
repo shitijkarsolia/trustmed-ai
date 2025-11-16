@@ -1,0 +1,18 @@
+Thread ID: 1ouy8yw
+Subreddit: askCardiology
+Title: should i be concerned about right atrial enlargement in an ecg?
+Author: Wild_Operation2559
+Created UTC: 2025-11-11T23:51:57
+Score: 0
+Num Comments: 2
+URL: https://reddit.com/r/askCardiology/comments/1ouy8yw/should_i_be_concerned_about_right_atrial/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1ouy8yw/should_i_be_concerned_about_right_atrial/
+Collected: 2025-11-15T08:39:19.584266
+===============================================================================
+
+my pcp told me it could be bc of the lead placement so it might be wrong but i feel like she was just saying that so i don’t worry too much. Also she kinda decided to order a chest xray after listening to my heart before i did the ecg so idk if i should worry about anything. ECG also said infereolateral lateral- ST elevation- repolarization variant 23F if that helps am i chillin or nah? i got an appt for cardio in a few months but idk what to do with this in the meantime
+
+---
+## Comments
+1. u/Impressive_Donut3122 [score=1, created=2025-11-12T08:43:33]: PCP is correct, lead misplacement is actually a very common reason for false ECG findings. Even small placement errors can make the P wave look larger or change its shape, which can be misread as enlargement when the heart is actually normal.
+2. u/HydroxFrost [score=1, created=2025-11-14T09:22:27]: Sounds like poor lead placement, if you're concerned about enlargement it needs to be diagnosed via echocardiogram.

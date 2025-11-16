@@ -1,0 +1,20 @@
+Thread ID: 1cqotzx
+Subreddit: Cardiology
+Title: What specialty or position can mimic a nocturnist lifestyle?
+Author: Anonymousmedstudnt
+Created UTC: 2024-05-12T19:40:31
+Score: 2
+Num Comments: 7
+URL: https://reddit.com/r/Cardiology/comments/1cqotzx/what_specialty_or_position_can_mimic_a_nocturnist/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1cqotzx/what_specialty_or_position_can_mimic_a_nocturnist/
+Collected: 2025-11-15T08:35:06.248933
+===============================================================================
+
+As in, 5-7 on and 7-10 off?
+
+---
+## Comments
+1. u/Onion01 [score=3, created=2024-05-12T19:51:18]: There are general cardiology jobs like that
+2. u/jiklkfd578 [score=2, created=2024-05-13T11:56:25]: Problem in cardiology with that is often the comp structure of the system you’re employed with. When nights are considered “call” and not “shifts” than there sometimes isn’t a mechanism in place with these standard group comp agreements to adequately compensate one for night shifts (because it pays out the same as the Pitiful call pay) Obviously the group would be all for it and often even the service line admin is for it but I’ve still seen issues with it being adequately compensated. The “shift based” specialties often don’t have that same problem (er, hospitalists, anesthesia, etc) When you’re FTE is not tied to the number of shifts than I’ve seen problems with it.
+3. u/cardsguy2018 [score=1, created=2024-05-13T12:35:18]: Maybe cardiac critical care, but your job options will be limited. If you want shift work, cardiology isn't it. Why do you want to do nights? One of the perks of gen cards is NOT having to work nights and most weekends.
+4. u/dayinthewarmsun [score=1, created=2024-05-15T00:25:53]: Yeh… I don’t think you’ll find what you are looking for. Most higher-paying medicine jobs are based on productivity. This tends to happen in the daytime (when daily inpatient notes are written, procedures are done, outpatients are seen, echos are read, etc.). You can probably get a job as a cardiology nocturnist at a large hospital, but that will be an IM job and not well-paid compared to a cardiology job (usually a stepping stone to cardiology fellowship). If all you are looking for is shift work with pay, this does exist. Some places have a “cardiology critical care” model, which basically runs the same way a normal ICU does as far as attending schedules go. I doubt the pay is high. Some institutions (some of the Kaiser hospitals) have inpatient-only cardiology jobs. Pay is not super high, but benefits are superb. Your best bet may be going to a remote location, especially if you are an IC. Some places are desperate and willing to do 1-2 weeks on/off with excellent pay. Then again, you’ll probably be traveling all the time and have no job security.

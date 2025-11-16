@@ -1,0 +1,23 @@
+Thread ID: 1os6ku3
+Subreddit: prediabetes
+Title: Glucose Spikes
+Author: Mcoop87
+Created UTC: 2025-11-08T18:35:40
+Score: 4
+Num Comments: 11
+URL: https://reddit.com/r/prediabetes/comments/1os6ku3/glucose_spikes/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1os6ku3/glucose_spikes/
+Collected: 2025-11-15T08:24:04.546923
+===============================================================================
+
+How high does your glucose spike to after meals? If you are wearing a CGM what does your graph look like? I am trying to figure out what is normal and what is not normal. Thanks!
+
+---
+## Comments
+1. u/ctbdp02 [score=2, created=2025-11-08T18:46:08]: Blood sugar levels depend on a number of things. I try to stay below 180 and adjust my carb intake accordingly.
+2. u/Unlikely_List_6285 [score=2, created=2025-11-09T02:21:30]: I’ve been tracking my post-meal spikes with a CGM, and it really depends on the meal simple carbs can push me up more than I’d expect, whereas meals with protein/fiber tend to be much steadier. My graph usually shows a small rise and then a gradual return to baseline over a couple of hours. I use NJAP patches with my sensors, which makes it easier to wear the CGM consistently and see the trends without fuss. Everyone’s response is a bit different, so it’s useful to track and see what’s typical for you.
+3. u/East_Collection_5672 [score=1, created=2025-11-08T19:04:22]: Honestly, it’s different for everyone. If you’re just curious which foods or combos usually cause spikes, you can check out the glucospike ai app, I don’t use a CGM anymore myself. I mainly use it to track which meals make my glucose go up.
+4. u/Mcoop87 [score=1, created=2025-11-08T19:12:20]: So I have spiked over 200 my A1C is 5.7 … I actually was up to 284 a couple days ago. But then I had a day with lower spikes.
+5. u/sciencenerd75 [score=1, created=2025-11-09T01:30:40]: Mine usually spikes anywhere from 150 to 180 depending on the meal. I’ve seen spikes up to 225 in the past but not too often. I have A1c of 6.1. It takes about 3 hrs for mine to go back to level it was before the spike. It usually begins going down at about 2 hrs after. I know mine is not “normal” because I believe if you have good insulin sensitivity you see the spike go down to normal after 2 hrs and the spike shouldn’t go much above 140 from what I’ve read. Although I believe even people with normal A1c have spikes that go over 140 sometimes.
+6. u/NoWafer8435 [score=1, created=2025-11-10T10:51:22]: This is what i am trying to figure out as well. What is a normal spike? and does the significance of this reading lie on the duration of the spike? I set my range to 130mg/dl and **IF** I eat reasonably I can stay just below 130. If I eat sushi bake, cheesy, garlic pesto bread, or a beautiful carne asada burrito with all the fixings; then i can almost guarantee that I will hit 150+, but will get back to baseline (below 130) within the next hour or so. My doctor says that she does not recommend a CGM for prediabetes because it is not required. Anyone else get push back from their primary about using a CGM?
+7. u/rylesss__ [score=1, created=2025-11-11T16:59:41]: you can get CGM covered with pre diabetes?? omg that’s so exciting

@@ -1,0 +1,23 @@
+Thread ID: 1nwti0n
+Subreddit: Cardiology
+Title: How to get the latest research and stay on top the new updates in cardiology?
+Author: jordan_wick
+Created UTC: 2025-10-03T01:29:41
+Score: 20
+Num Comments: 8
+URL: https://reddit.com/r/Cardiology/comments/1nwti0n/how_to_get_the_latest_research_and_stay_on_top/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1nwti0n/how_to_get_the_latest_research_and_stay_on_top/
+Collected: 2025-11-15T08:27:24.237080
+===============================================================================
+
+What website or service can i use to keep me updated day to day with the latest research
+
+---
+## Comments
+1. u/WSUMED2022 [score=14, created=2025-10-03T06:59:40]: If you like your updates with a healthy dose of cynicism (as I do), you want Mandrola's podcast.
+2. u/bekks95 [score=4, created=2025-10-03T17:43:29]: Easy. #CardioTwitter
+3. u/Wertyu25 [score=3, created=2025-10-03T04:41:36]: Visualmed app for landmark clinical trials and JACC subscription to stay current
+4. u/Gitgud90 [score=2, created=2025-10-03T11:42:56]: Same question please. Also if it helps Medscape and open evidence are quite useful
+5. u/br0mer [score=4, created=2025-10-03T14:54:36]: You can browse the headlines on JACC and Circulation and see if it's worth reading. 99% of research now is retrospective observational garbage, and you can just go ahead and skip those studies. There's only like 10 studies a year that are worth remembering.
+6. u/nathaneb26 [score=1, created=2025-10-05T00:48:01]: Vera Health app
+7. u/TuningForkUponStar [score=1, created=2025-10-05T09:22:10]: acc.org The site highlights notable recent research with summaries and provides access to JACC. It offers coverage of major meetings as well. Also, check the cardiology tab on the NEJM website.

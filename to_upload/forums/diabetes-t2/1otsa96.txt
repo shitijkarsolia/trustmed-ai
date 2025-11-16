@@ -1,0 +1,18 @@
+Thread ID: 1otsa96
+Subreddit: diabetes_t2
+Title: Humbled by my Dexcom
+Author: HeraPlum
+Created UTC: 2025-11-10T15:35:09
+Score: 4
+Num Comments: 9
+URL: https://reddit.com/r/diabetes_t2/comments/1otsa96/humbled_by_my_dexcom/
+Canonical URL: https://reddit.com/r/diabetes_t2/comments/1otsa96/humbled_by_my_dexcom/
+Collected: 2025-11-15T02:19:36.737642
+===============================================================================
+
+Hi everyone! I'm only recently diagnosed and have been using finger pricks the last couple of months to check my blood sugar levels. I take 2000mg of metformin per day (2 times per day with each meal) and eat less than 100 total carbs per day (usually less) with no sugars, breads, potatoes, etc. I've been doing intermittent fasting, eating at 3pm and 9pm each day, and pricking my finger before each meal and 1-2 hours afterward. My numbers have been pretty good, 95-110ish before meals and 115-125ish 2 hours after eating. I was feeling pretty good about my progress until I put on my first dexcom 2 days ago and whew...turns out, my blood sugar was all over the place when I wasn't looking, haha! It's definitely been eye opening and fascinating to watch. My biggest question pertains to my morning blood sugar readings. I've been sleeping at 85-95 overnight and when I wake up, my blood sugar has been skyrocketing up to 140-145 and takes like 3-4 hours to come back down. At this point I am toward the end of my IF (14-18 hours after eating last), what should I do about this spike? I'm not entirely sure what's causing it or how to react to it. Thank you!
+
+---
+## Comments
+1. u/FWIW47 [score=4, created=2025-11-10T15:44:15]: What you describe is Dawn Phenomenon It is notoriously hard to control. According to Cleveland Clinic, increasing the amount of exercise you do in the evening and increasing the protein-to-carbohydrate ratio of your evening meal, could help. If you're on medication, the timing of medications will also play a part. I also think the Intermittent Fasting doesn't always work well for T2 patients - my PCP specifically told me not to fast.
+2. u/Smworld1 [score=1, created=2025-11-10T23:25:58]: I started cgm end of July and after 22 year with this disease it has been very eye opening. I also started Mounjaro at the same time. Personally I think that every endocrinologist would be shouting to the roof tops about the dawn phenomenon if it were that serious in an otherwise well controlled diabetic. Mine goes up as soon as feet touch the floor. I generally don’t eat breakfast but definitely drink my coffee. Caffeine causes a spike too. The number comes down pretty quickly once I’m moving around and start my day. Honestly if you are very concerned talk with endocrinologist. Just know that it happens to everyone, it’s just that cgm wearers are much more aware of it

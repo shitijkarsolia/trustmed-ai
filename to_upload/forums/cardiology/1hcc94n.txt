@@ -1,0 +1,34 @@
+Thread ID: 1hcc94n
+Subreddit: Cardiology
+Title: Fatigue after PCI
+Author: Onion01
+Created UTC: 2024-12-11T20:38:41
+Score: 107
+Num Comments: 46
+URL: https://reddit.com/r/Cardiology/comments/1hcc94n/fatigue_after_pci/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1hcc94n/fatigue_after_pci/
+Collected: 2025-11-15T08:32:15.850374
+===============================================================================
+
+I'm a relatively new IC attending, which means I'm starting to see the first wave of follow-up visits for patients I've stented. I've been disappointed in finding that so many patients return to me with complaints of fatigue, tiredness, and other vague symptoms. I'm pretty meticulous with my PCI; routinely using IVUS, good post-dilation, maintaining therapeutic ACTs. It's not like I'm leaving a bunch of dissection flaps or dodgy distal flow. I walk away from most of my cases satisfied with the results, but nevertheless hear these same issues again and again. My senior partners tell me not to worry about it. They'll give patients the 'ol "well, you're not as young you used to be" response. I was hoping for a more physiologic answer. While prepping for IC boards I came across chapters that discussed demonstrably increased cytokine levels in DES when compared to BMS or POBA, and thought that might be plausible. I'm not one to marry myself to "woo" theories, but I'm not quite sure how else to explain it to them. Anyone have a better answer?
+
+---
+## Comments
+1. u/thedevilmademedoit81 [score=113, created=2024-12-11T21:06:35]: Push cardiac rehab my dude
+2. u/ceelo71 [score=50, created=2024-12-11T20:56:31]: Depending on the time frame of when you are seeing them, it can take a while to recover from an ACS/STEMI. Also, a lot of these patients are likely starting on new cardiac meds especially beta-blockers which can certainly contribute to this issue.
+3. u/imjustawatcher [score=61, created=2024-12-11T20:56:30]: I also can’t really think of a procedural based reason for this. Part of me wants to blame the old stenting outside of ACS has serious limitations. Most of me wants to blame substrate. Who gets PCI? Patients who at baseline live a mostly sedentary life and are extremely deconditioned. They then get an additional hit by whatever made you do the PCI. Positive feedback loop ensues. Have you noticed any difference in patients going for cardiac rehab? The Dallas Bedrest Study by Levine is worth a read if you haven’t done so already to better explain cardiac deconditioning
+4. u/dayinthewarmsun [score=44, created=2024-12-11T21:51:33]: Unless you are really practicing bad PCI (sounds like you are not), I don't think it has anything to do with the PCI procedure. For ACS, it's likely the hit the heart took, new medications (BB?) and accepting that "I'm not as invincible as I thought". For stable outpatients, it probably has mostly to do with the fact that they are underwhelmed with the improvement that the stent brought them. Let's face it, outside of ACS there is really a very limited role for PCI. Many patients have fatigue due to age, deconditioning, comorbid conditions, etc. They are blaming their CAD and are surprised when they don't feel 25 years old again after a stent.
+5. u/thiswasandy [score=12, created=2024-12-11T22:15:46]: Cardiac rehab works wonders.
+6. u/brighteyes789 [score=12, created=2024-12-11T23:40:07]: I really think beta blockers play a big role in the fatigue patients have post MI. I also think depression or an acute illness adjustment dampens their mood for a while. Many of these patients, while they’ve had HTN, DM, DLP etc… that was likely undiagnosed for years have their first major health event in their lives and this rocks their world view. In their mind they were healthy, they never needed to see the doctor! And now they need a fistful of medications and have four new diagnoses. It takes a while for their mind to catch up.
+7. u/awesomeqasim [score=5, created=2024-12-11T22:07:21]: Not sure I missed what time frame you’re seeing them in but… I feel like at least anecdotally a lot of the post ACS bundle meds- not sure if there are stable CAD or ACS pts- like BB, ACE/ARB etc tend to cause quite a bit of fatigue and dizziness at least initially
+8. u/Grandbrother [score=5, created=2024-12-11T23:38:00]: I have at least once case where ticag seemed to be the problem - not just dyspnea but fatigue, dizziness...I switch the ticag and patient felt way better. True true unrelated? Who knows
+9. u/CreakinFunt [score=12, created=2024-12-11T21:15:53]: Good guy OP. Some of my colleagues just say: if it ain’t chest pain or it’s equivalent it ain’t my problem. By some colleagues I mean me. Or do I. Maybe maybe not.
+10. u/Pandu0621 [score=18, created=2024-12-11T21:07:06]: I'm very happy as a patient, an EMT, and an educator to see you caring so much to try and understand the mechanism behind what may be going wrong by feedbacking like this. Please teach doctors all over the world these same ethics. Thanks so much.
+11. u/nalsnals [score=4, created=2024-12-11T22:49:42]: Ticagrelor dyspnoea?
+12. u/Silly_Bat_2318 [score=4, created=2024-12-12T00:04:00]: Isn’t this much to do with de-conditioning, medications (e.g., betablockers) and/or co-morbidities?
+13. u/RaBu6 [score=3, created=2024-12-12T07:35:35]: Multiple reasons … 1. BB ( exertional fatigue, Depression) 2. Statins esp. High dose more so with rosuva. - This is most notorious one causes generalised symptoms - I usually lower the dose &amp; supplement with Ezetemibe , accompanied with routine of light exercise . Mostly works.
+14. u/marktuttle [score=3, created=2024-12-12T20:27:23]: This quote from Bobby Yeh MD is pertinent: &gt;&gt;PCI is effective at reducing angina when the target coronary lesion is responsible for angina. Sounds obvious, but bears repeating because of the implications: This is a DIAGNOSTIC problem, not a therapeutic one. We don't have a perfect test linking symptoms to disease. https://x.com/rwyeh/status/1723439895841013858
+15. u/doctaco36 [score=5, created=2024-12-12T05:47:53]: PCI does not cure fatigue. Exercise does. Most of my patients that complain of fatigue and tiredness and lack of energy just have de conditioning. Cardiac rehab helps a little. Most importantly set expectations pre PCI that their fatigue will not be cured by a stent. If you don’t use it you lose it etc
+16. u/lobeams [score=4, created=2024-12-11T22:13:59]: Consider the meds they're on. Beta blockers? There's a pretty big segment of the population that experiences profound fatigue from beta blockers. I'm surprised how many cardiologists don't seem to know this.
+17. u/astern126349 [score=2, created=2024-12-12T18:57:14]: Could depression be a factor?
+18. u/Merpadurp [score=2, created=2024-12-13T02:17:50]: Most likely answer is that the patients aren’t making the lifestyle changes required to see *major* improvements and PCI can only do so much.

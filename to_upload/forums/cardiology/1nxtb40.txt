@@ -1,0 +1,20 @@
+Thread ID: 1nxtb40
+Subreddit: Cardiology
+Title: Ziopatch reading?
+Author: nonparticipant
+Created UTC: 2025-10-04T05:57:52
+Score: 7
+Num Comments: 7
+URL: https://reddit.com/r/Cardiology/comments/1nxtb40/ziopatch_reading/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1nxtb40/ziopatch_reading/
+Collected: 2025-11-15T08:27:19.984084
+===============================================================================
+
+Hi All, hoping to get perspectives on adding Ziopatch reading to my practice. Does anyone currently read Zio (asynchronous, not mobile tele) and can comment on RVUs per Zio (interpretation only), as well as how many you read per hour once ramped up? There’s a large volume of studies and a nearby hospital asked for help with the read volume. Thank you!
+
+---
+## Comments
+1. u/jiklkfd578 [score=4, created=2025-10-04T06:32:49]: That’s a dream set up if that is fed to you at a decent rate.
+2. u/PositivePeppercorn [score=3, created=2025-10-04T06:25:57]: Using CPT code 93248 for a patch worn for 7-15 days is about 1.4 RVU for the physician reading component only. So if you are paid $65 per RVU then it would be ~$90 per report. A little less if interpreting less than 7 days.
+3. u/thedevilmademedoit81 [score=3, created=2025-10-04T07:52:11]: Not going to get into the billing, but generally reading them takes very little time for most studies. It’s like EKGs. Most of them take a minute or two, and every now and then there will be one that takes you longer. you can even read them from your phone if I remember correctly when we used to use Zio patches.
+4. u/dayinthewarmsun [score=3, created=2025-10-04T14:33:15]: You can easily get through 20 an hour. The majority are more or less normal and take a minute or two. A few will take longer.

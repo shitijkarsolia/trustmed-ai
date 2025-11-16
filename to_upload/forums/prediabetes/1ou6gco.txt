@@ -1,0 +1,17 @@
+Thread ID: 1ou6gco
+Subreddit: prediabetes
+Title: Finger test v Dexcom v Libre
+Author: Even_Situation_1576
+Created UTC: 2025-11-11T03:53:25
+Score: 2
+Num Comments: 2
+URL: https://reddit.com/r/prediabetes/comments/1ou6gco/finger_test_v_dexcom_v_libre/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1ou6gco/finger_test_v_dexcom_v_libre/
+Collected: 2025-11-15T08:23:23.374005
+===============================================================================
+
+I was A1C of 9 in January. Went for the Glucose Tolerance Test and failed miserably. Doctor gave me the news I was well into T2 but gave me three months to sort myself out and make some improvements. Dropped to 6, then 5.7 to 5.3. I had a Dexcom One + CGM for a few months to help me focus. Didn’t have it on all the time. As I Iost weight, felt better and saw improvements in the A1C I got cynical about the accuracy of the Dexcom device. It was showing no real improvement. I decided to get an Accucheck saw I could compare blood from the finger to the Dexcom. It was way different even allowing for time lag. I’m talking 3 mmol/l different. I was given a Freestyle Libre 2 to try. Closer but still different. According to the Libre my blood glucose has been at 2.9 mmol/l for 30 minutes - no way. Accucheck read 4.2. I’d go with the Accucheck as I was out on a leisurely walk, felt great and full of energy. My crappy hypothesis is that for the first couple of days the CGM is fine. Post that the body heals and it starts to go off a little. It also doesn’t handle situational changes eg exercise, contact with water, humidity etc. Note my wife, who has no history of blood glucose issues with great scores, received one for free as well. Exactly the same. Is it just a poor user blaming the tools or is the finger prick the only real way. PS - I understand that some people rely on these much more than I do.
+
+---
+## Comments
+1. u/Nymthae [score=1, created=2025-11-11T05:25:17]: I have a Libre 2. I've noticed they're out a bit, e.g. maybe 0.4 or so either high or low, but relatively consistent throughout the life of the sensor. The first 20 hours or so is pointless and all over the shop. Best advice is put the sensor on and only activate it the day after. I got significantly lower readings activating it straight away (2-3 mmol lower). There is a good 15+ mins lag or so with CGMs due to how they measure, as it's reading institial fluid not the blood directly, so that needs to be considered when doing a comparison. Something 3 mmol out doesn't sound right though, has this happened multiple times or is it a dodgy sensor? I've not had many but I felt like maybe it was drifting a bit in a last couple of days of life. Probably to be expected as I guess this is the nature of the technology once your body starts to gunk up the sensor. Blood is best but the CGM is giving a lot more insight into patterns and behaviours rather than just the point in time, so depends on your aim with it as well. I don't think I've seen any issues with exercise or showering or anything.

@@ -1,0 +1,18 @@
+Thread ID: 1oa8vwn
+Subreddit: Cardiology
+Title: Holter report reading/interpretation/reporting
+Author: ivychad
+Created UTC: 2025-10-18T15:07:38
+Score: 6
+Num Comments: 4
+URL: https://reddit.com/r/Cardiology/comments/1oa8vwn/holter_report_readinginterpretationreporting/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1oa8vwn/holter_report_readinginterpretationreporting/
+Collected: 2025-11-15T08:26:46.119201
+===============================================================================
+
+Looking for basic Holter reading resources like guidelines for things like minimal amount of afib burden to consider significant, how to report patient reported symptoms, other common findings and interpreting them. New fellow here and my clinic attending does a lot of those, just trying to see if anyone can help point me in the right direction. thanks!
+
+---
+## Comments
+1. u/FIRE_CHIP [score=17, created=2025-10-18T15:13:22]: Any afib is significant and should be reported if that's what you're asking. Whether a patient needs to be anticoagulated should be up to the ordering provider and depends on the patient and reason for ordering. You should report what's seen on the strips in general. Don't over think it in general there is a reason cardiologist love reading them it's easy money.
+2. u/WasteofTiamat [score=3, created=2025-10-19T06:16:09]: Hello! The manufacturer of the Holter monitor and the software that analyzed your data (and generated your reports) almost certainly has a local rep you can reach out to with questions. That rep can usually connect you with a product manager or clinical specialist who can provide more detail around report structure and data definitions. While the manufacturer can’t comment on what amount of AF is clinically significant—that interpretation is up to you and your practice—they can clarify how their system defines AF and other arrhythmias or ectopic activity. Hope that helps! —Product Manager for a Holter/MCT manufacturer

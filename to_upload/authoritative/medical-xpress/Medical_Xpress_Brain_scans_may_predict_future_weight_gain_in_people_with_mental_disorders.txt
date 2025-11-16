@@ -1,0 +1,77 @@
+Title: Brain scans may predict future weight gain in people with mental disorders
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-10-brain-scans-future-weight-gain.html
+Canonical URL: https://medicalxpress.com/news/2025-10-brain-scans-future-weight-gain.html
+Filename: Medical_Xpress_Brain_scans_may_predict_future_weight_gain_in_people_with_mental_disorders.txt
+Collected: 2025-11-15T17:10:52.725707
+===============================================================================
+
+Title: Brain scans may predict future weight gain in people with mental disorders
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-10-brain-scans-future-weight-gain.html
+Collected: 2025-11-15T17:10:52.725550
+
+================================================================================
+
+Brain scans may predict future weight gain in people with mental disorders
+
+byUniversity of Cologne
+
+edited byStephanie Baum, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+With a simple standard MRI scan of the brain, it may soon be possible to predict which people with mental illnesses will gain weight after their initial diagnosis—thereby increasing their risk of physical diseases—and which ones will not.
+
+"This would allow us to start targeted prevention against the weight gain frequently observed in this patient group," says Professor Dr. Nikolaos Koutsouleris from the Department of Psychiatry and Psychotherapy of the LMU University Hospital Munich following the results of a new study involving numerous cooperation partners from Germany and abroad, including the University of Cologne.
+
+The results of the study titled "The BMIgap tool to quantify transdiagnostic brain signatures of current and future weight" arepublishedin the journalNature Mental Health.
+
+In Germany, almost 18 million people are affected by a mental illness, including depression in particular, but also anxiety disorders or schizophrenia. It is little known that people with severe mental illness die, on average, 10 to 15 years earlier than the general population. The problem is largely due to physical illnesses, especially cardiovascular diseases, which are more common than average among people with severe mental illness.
+
+"This is why it's important for patients to be mindful of risk factors such as lack of exercise, smoking or being overweight or obese," explains Koutsouleris.
+
+The key issue here is overweight. Experts remain unsure why so many people with mental disorders tend to gain weight.
+
+"Beyond the well-known side effects of certain medications, we assume, based on some findings, that weight gain may be related to brain changes that are in turn associated with the mental disorder," says Koutsouleris.
+
+Could these brain changes be used at the time of initial diagnosis to predict—almost like an oracle—which patients will later develop a higher body mass index (BMI)?
+
+Step by step to the prediction
+
+To create such an oracle, the research team first developed amachine learning model. They trained thisartificial intelligenceusing MRI scans of the brains of healthy people. The goal was for the model to learn, on its own, how to predict a person's body weight based solely on their brain scans.
+
+"And our algorithm does quite well," says the psychiatrist.
+
+The working group led by Professor Dr. Joseph Kambeitz from the Clinic and Polyclinic for Psychiatry and Psychotherapy at University Hospital Cologne contributed a patient database as training material, the so-called PRONIA cohort. The team was also significantly involved in thestudy design,data analysisand interpretation. As an expert in AI-supported analyses in psychiatry, Professor Kambeitz has helped to shape the research area of neuroscientific findings informed by artificial intelligence.
+
+In a second step, the researchers applied their system to the MRI brain scans of patients with mental disorders.
+
+"In these cases, our prognosis model made systematic errors and incorrectly determined the weight of the corresponding patients," explains Koutsouleris.
+
+For example, in people with schizophrenia, the model overestimated the weight, because certain brain areas such as the anterior cerebral cortex, which contains parts of the reward system, are smaller than usual.
+
+"This system significantly controls our eating behavior. Our prediction model had previously learned from healthy people: Less volume in these brain regions means higher weight," continues Koutsouleris.
+
+Although schizophrenia patients have smaller brain volumes when they are first diagnosed, they do not necessarily have a higher body mass index (BMI).
+
+In the final step, the researchers tracked the patients' BMI for a year after the initial diagnosis and initial weight assessment.
+
+"We observed that there is actually a sharp increase in those patients for whom our AI model had misjudged their BMI to be too high."
+
+This is especially true for people with schizophrenia, but it also applies to those with depression.
+
+"The difference between the estimated and the actually observed BMI, the so-called BMI gap, has a predictive power for the future weight development of the patients," says Koutsouleris.
+
+The benefits for patients
+
+This oracle offers the chance to prevent future weight gain.
+
+"We can try to encourage those affected to adopt a healthier lifestyle by participating in weight-loss programs, exercising more regularly, and making healthier food choices," says the psychiatrist. "Alternatively, we can prescribe medication such as metformin to reduce or prevent the risk of metabolic diseases. This would be a major benefit, especially since there is evidence that lessweight gainis associated with reduced inflammatory activity in thebrainand, consequently, fewer psychiatric symptoms as the disease progresses."
+
+As soon as the new tool has been refined with additional parameters such as the patient's individual genetics or blood values such as cholesterol, making it even more accurate, it will be made available to all doctors for determining the BMI gap.
+
+More information:Adyasha Khuntia et al, The BMIgap tool to quantify transdiagnostic brain signatures of current and future weight,Nature Mental Health(2025).DOI: 10.1038/s44220-025-00522-3Journal information:Nature Mental Health

@@ -1,0 +1,22 @@
+Thread ID: 1d9ypmg
+Subreddit: Cardiology
+Title: Thoughts on this rhythm?
+Author: Careful_Eagle_1033
+Created UTC: 2024-06-06T18:22:20
+Score: 10
+Num Comments: 17
+URL: https://reddit.com/r/Cardiology/comments/1d9ypmg/thoughts_on_this_rhythm/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1d9ypmg/thoughts_on_this_rhythm/
+Collected: 2025-11-15T08:34:43.232064
+===============================================================================
+
+I work in an EP office and a patient reached out saying their Apple Watch had been alerting them to “high heart rates” and asked me if their loop recorder showed anything. This is their presenting EGM (sorry for the terrible image quality). No recent events noted but it’s programmed to only record for HR &gt;158 over 16+bts 73yoF w/ pmhx: AVB (not otherwise specified), prolonged PR (idk why both separate diagnoses and not 1st degree AV block?), RBBB Had the loop recorder implanted a couple years ago to monitor “atrial rhythms” (no documented AF) and the AVB I’m thinking it’s SR w/ RBBB w/ some atrial runs/triplets? I know the single tracing and short rhythm strip doesn’t provide a lot of information but would love additional insight! TIA
+
+---
+## Comments
+1. u/Unlucky_Bid_304 [score=6, created=2024-07-07T06:57:21]: (EP Cardiologist here). This is an ILR tracing from a Medtronic LINQ. The sinus beats appear to have an IVCD and then the ectopic beats look narrower than sinus. It would be hard for supraventricular ectopy to produce a QRS that is narrower than sinus. Suspect this represents frequent ventricular ectopy arising from near the conduction system (fascicular ectopy) in someone with mild conduction system disease. Less likely to be atrial in origin.
+2. u/decydiddly [score=5, created=2024-06-07T06:19:29]: Was the patient symptomatic? Hard to know if there are p-waves buried in there. This may be the atrial high rate episodes (AHRE) that are being appreciated more. They were the focus regarding the question of anticoagulation in the recent ARTESIA and NOAH-AFNET6 trials that were recently released.
+3. u/Smilin-_-Joe [score=3, created=2024-06-07T02:30:12]: You might post it over on r/EKGs too. All I can say is it looks like sinus interspersed with bursts of what may be afib, but I'm not use to afib acting like that.
+4. u/regulate91x [score=3, created=2024-06-07T15:34:49]: I would almost certainly think that it is SR with BBB morphology and atrial triplets. It seems too organised to be paf, especially if there are more strips like this. Patient probably in the way to af though, if they don’t already have paf that is.
+5. u/matthew2128 [score=2, created=2024-06-09T07:52:43]: Internal medicine intern: sinus Brady with PACs but would love a 12 lead
+6. u/[deleted] [score=-1, created=2024-06-08T09:04:00]: [removed]

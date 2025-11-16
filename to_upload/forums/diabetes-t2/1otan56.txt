@@ -1,0 +1,18 @@
+Thread ID: 1otan56
+Subreddit: diabetes_t2
+Title: Is it normal for my glucose levels to jump around so much.
+Author: According-Thanks2605
+Created UTC: 2025-11-10T03:48:24
+Score: 1
+Num Comments: 3
+URL: https://reddit.com/r/diabetes_t2/comments/1otan56/is_it_normal_for_my_glucose_levels_to_jump_around/
+Canonical URL: https://reddit.com/r/diabetes_t2/comments/1otan56/is_it_normal_for_my_glucose_levels_to_jump_around/
+Collected: 2025-11-15T02:19:48.936726
+===============================================================================
+
+After some recomendations from people on a previous post I made last week (thank you) I got myself a CGM device. However, my glucose levels are all over the place. The screen shots show the last 3 hours and 12 hours where it shows random elevations in the middle of the night while I'm sleeping. In the shot for the last 3 hours, I ate breakfast at around 9.30 then my levels dropped then spiked. I hadn't eaten anything since 7pm the night before and just drank water from 7.30am this morning, until breakfast.
+
+---
+## Comments
+1. u/Smworld1 [score=3, created=2025-11-10T08:15:32]: Yes, everything you eat will cause some rise. Caffeine causes a rise too, something I never really believed before cgm. But they’ll have to pry my morning coffee out of my cold, dead, hands. As you learn what causes higher numbers you can adjust diet. Pick and choose your battles, but a balanced diet that includes a little carbs is just fine if you mind your portions
+2. u/SuspiciouslyDullGuy [score=1, created=2025-11-10T04:03:53]: The Dexcom One+ (and G7) jumps around a bit for the first 24 hours+ before settling down. The basic accuracy standards for these devices leave quite a bit of wiggle room. Once it settles and after calibrating with a very good finger stick meter (I use a Contour Next One for this) I typically get 8 or 9 days worth of accurate readings per sensor, though I often find I have to recalibrate it every couple of days if I want high accuracy. I put the calibration drift down to changes in hydration though I'm unsure what causes it. Other factors can affect it temporarily though, such as compression lows at night which happen due to pressure on the sensor if you lie on top of it, and temperature changes such as going out in cold weather or having a hot shower. If it's still giving you inaccurate readings after a couple of days wear and calibration doesn't fix it you can often get a free replacement sensor, depending on how far off the mark the CGM readings are.

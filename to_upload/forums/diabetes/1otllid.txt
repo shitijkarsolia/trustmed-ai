@@ -1,0 +1,18 @@
+Thread ID: 1otllid
+Subreddit: diabetes
+Title: was anyone else diagnosed as LADA but wonder if they're actually type 2?
+Author: Majestic_Economy_881
+Created UTC: 2025-11-10T11:25:00
+Score: 1
+Num Comments: 6
+URL: https://reddit.com/r/diabetes/comments/1otllid/was_anyone_else_diagnosed_as_lada_but_wonder_if/
+Canonical URL: https://reddit.com/r/diabetes/comments/1otllid/was_anyone_else_diagnosed_as_lada_but_wonder_if/
+Collected: 2025-11-15T08:07:19.440839
+===============================================================================
+
+For those familiar with LADA (latent autoimmune diabetes in adults), we've all heard that cases of LADA are frequently, if not almost always, initially diagnosed as T2. Follow-up antibody and C-peptide tests eventually point to LADA, whenever they're done. What I'm wondering is: has anyone heard of the reverse—being diagnosed as LADA but with strong evidence in favor of T2? My context, briefly: Dx T2 last summer with A1C of 7.1. Have been on a low dose of metformin ever since, which, combined with diet changes, immediately sent me right down to 5.8. Added a GLP-1 a few months ago and my A1C is now 5.4. No insulin, no complications. In a word, fabulous. I asked to see an endocrinologist at the start of 2025 and tests showed high levels of C-peptide, which means I was overproducing insulin, likely thanks to insulin resistance. GADA, IAA, and ZnT8 were all negative, and I have no other indicators of any autoimmune disease. Follow-up C-peptides have all shown slightly elevated or normal levels. The lone positive was IA-2, but it was a very weak positive, not far past the threshold. All this has me wondering if it's really LADA—the only evidence *for* is that weak IA-2; everything else seems to argue *against* LADA. From my research into it, people who present with LADA often are normal weight, experience unexplained weight loss, and have abnormally low C-peptide, often having difficulty controlling their sugars. None of that describes me. Further, GADA positivity is far and away the most common marker for autoimmune diabetes, and I'm GADA negative. My endo has said that I might be right in that I'm truly T2 rather than LADA, but that the only thing to do is to monitor my insulin production over time to see if it starts to decline. I wouldn't split hairs over the LADA/T2 distinction so much, but it has insurance implications for GLP-1 coverage in the immediate term, and will eventually matter to the trajectory of my treatment, so I'm invested in trying to tease out the "truth", inasmuch as it can be ascertained. Anyway, I really appreciate any thoughts you have to offer!
+
+---
+## Comments
+1. u/AdSecure1676 [score=2, created=2025-11-10T11:54:48]: I have LADA and am currently treating it with metformin and glipizde. My chart currently says I have type 2 from when I was initially diagnosed, maybe see if your doctor is willing to change your chart to help you get the meds you need.
+2. u/NopeRope13 [score=1, created=2025-11-11T06:03:11]: I sadly got diagnosed with LADA last year. My endo was kind enough to inform me that it was once of the clearest diagnosis of it that he’s seen. Also for context I’m being managed as a type 1

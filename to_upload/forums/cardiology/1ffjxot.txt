@@ -1,0 +1,18 @@
+Thread ID: 1ffjxot
+Subreddit: Cardiology
+Title: Safety of stress testing in troponin positive chest pain pts
+Author: Sudden-Tumbleweed906
+Created UTC: 2024-09-12T19:20:11
+Score: 4
+Num Comments: 5
+URL: https://reddit.com/r/Cardiology/comments/1ffjxot/safety_of_stress_testing_in_troponin_positive/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1ffjxot/safety_of_stress_testing_in_troponin_positive/
+Collected: 2025-11-15T08:33:31.958443
+===============================================================================
+
+I just started fellowship and for some reason, I'm really struggling with this concept. Is it safe to stress test a patient who comes in to the ED who is deemed "intermediate risk" with a positive troponin? I've looked through the chest pain guidelines and they are being, as best I can tell, contradictory and/or vague. Intermediate-risk pts are those "without high risk features and not classified as low risk" based on a clinical decision pathway (Heart score, timi score, etc). It goes on to say, "Intermediate risk patients **do not have evidence of acute myocardial injury by troponin**." Then in the very next sentence, "Some may have chronic or minor troponin elevations." What constitutes a minor troponin? &lt;1? The next section describes high-risk pts as those "with symptoms suggestive of ACS who are at high risk of short-term MACE and include those with new ischemic changes on the ECG, **troponin-confirmed acute myocardial injury**..." Let's say an ESRD patient comes in with chest pain after dialysis that doesn't sound typical for angina (onset at rest, constant for several hours, resolved with morphine once arrived at the ED), no ischemic EKG changes but then their troponin rises to 0.1 initially then 0.3 after 12 hrs. That seems like a relatively minor elevation (especially in the context of ESRD on dialysis), but I don't have another explanation for the troponin rise...wouldn't that make them an NSTEMI? And wouldn't stress testing them be an incredibly bad idea? But by Heart score they are "intermediate risk".
+
+---
+## Comments
+1. u/ConstantBreak6241 [score=2, created=2024-09-12T19:36:22]: I believe it depends on Each Case by case basis. TIMI score &gt;4 and Conclusive EKG changes with STEMI and Trops I would cath. Time is Myocardium, but NSTEMIs and Low Intermediate risk patients you can manage medically. Recent trials have shown that In most cases in NON LAD /Left Dom MIs med management had the same outcomes as PCI.
+2. u/dayinthewarmsun [score=1, created=2024-09-18T01:37:49]: Ironically (since it is so common), risk stratifying chest pain in the emergency/inpatient setting is one of the most challenging skill sets to develop as a cardiology fellow. The guidelines and scores help, but it takes experience (which you will have plenty of very soon). The story that you gave (ESRD, etc.) doesn’t really sound like ACS to me. It sounds more like stable CAD and supply-demand mismatch with dialysis. Troponin may be up due to that and ESRD. There are different definitions of MI, but [the fourth universal definition](https://www.acc.org/Latest-in-Cardiology/ten-points-to-remember/2018/08/24/00/09/Fourth-Universal-Definition-of-MI-ESC-2018) is the most common. Bottom line is that you need more than a troponin elevation. If you are still concerned about ACS, pharm myocardial perfusion imaging (not sure what you meant by “stress test”) might be a good idea because it can show new perfusion deficits and “rule in” MI. I don’t do inpatient/emergency treadmill tests on these patients, but if their troponin flattens and the emergency doc sends them home, I do expedited outpatient treadmill echos on the all the time.

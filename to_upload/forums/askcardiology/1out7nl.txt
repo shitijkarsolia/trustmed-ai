@@ -1,0 +1,17 @@
+Thread ID: 1out7nl
+Subreddit: askCardiology
+Title: How artifacts are determined (Zio)
+Author: suck_ulent
+Created UTC: 2025-11-11T19:29:10
+Score: 1
+Num Comments: 0
+URL: https://reddit.com/r/askCardiology/comments/1out7nl/how_artifacts_are_determined_zio/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1out7nl/how_artifacts_are_determined_zio/
+Collected: 2025-11-15T08:39:31.578244
+===============================================================================
+
+I’ve been experiencing various cardiac symptoms over the last few months (shortness of breath, palpitations, lightheadedness, pre-syncope) and due to my family history of heart disease my cardiologist wanted me to wear the Zio monitor for a week. I just got my test results back, and there are several instances where the device indicates artifact but apparently I pressed the button to trigger an event immediately after. This is not always the case, but nearly every time this happens I reported either lightheadedness or palpitations. What criteria are used to determine if a detected rhythm is due to an artifact vs related to an actual abnormal rhythm? Is it possible that I actually *AM* experiencing some sort of heart issue and it written off as a machine issue? Thank you in advance!!
+
+---
+## Comments
+No comments captured.

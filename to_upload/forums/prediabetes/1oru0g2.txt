@@ -1,0 +1,17 @@
+Thread ID: 1oru0g2
+Subreddit: prediabetes
+Title: interesting results..
+Author: petitegirl12
+Created UTC: 2025-11-08T09:41:34
+Score: 1
+Num Comments: 3
+URL: https://reddit.com/r/prediabetes/comments/1oru0g2/interesting_results/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1oru0g2/interesting_results/
+Collected: 2025-11-15T08:24:12.358868
+===============================================================================
+
+Just out of curiosity, did anyone get diagnosed with prediabetes/diabetes from an oral glucose tolerance test? If so, what were your results? Most of the diagnosis I hear were from A1C tests. I was diagnosed with prediabetes after having an oral glucose tolerance test in May 2024. My 2-hour reading at the time was 10.1mmol and an A1C of 6.0%. Fasting level was 5.1. Since then I have been restricting carbs and doing a modest amount of exercise every week. I am very lean to begin with, having a BMI of 17.7. My A1C throughout the whole time remain elevated at 5.6-6.1%. Disappointed was an understatement and I was at the point of breaking down. I’ve tried wearing cgm for a month and I was consistently getting readings of 8-10mmol at the 2 hour mark. I’ve confirmed this with finger pricks. In fact they only return to baseline after 3-4 hours. During this time my carb intake was around 90g a day max and I always eat in the correct order too: fibre-protein-carb. So last month my endo sent me for another OGTT to figure out what’s going on. I’ve been told to increase my carb intake to 150g a day for at least 3 days prior to the OGTT to avoid false positives, and the result took me by surprise. I was so sure my 1-hour reading would be above 13mmol.. but A1C was 5.9%, 1-hour reading at 9.1mmol and 2-hour at 6.3. How is this possible?! I did a finger prick when I got home straight after the test and it was 8.3. My house was only 5 mins away. I don’t get it. I’m pretty sure I’m not in remission because every ounce of carb spikes me like crazy.
+
+---
+## Comments
+1. u/CapriKitzinger [score=1, created=2025-11-12T16:23:47]: So here’s the strange thing for me……..pure simple sugar doesn’t spike me. I can eat candy covered grapes. I can eat 3. No spike. Carbs….corn…..through the roof. Also, my peak is at 45minutes. If they never test at 45 minutes, they miss a huge window. The OGTT test is a VERY outdated way of measuring. Reading every 10 or so minutes is a must. And these OGTT tests are pointless now that we have CGMs.

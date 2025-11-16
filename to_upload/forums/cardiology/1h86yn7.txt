@@ -1,0 +1,24 @@
+Thread ID: 1h86yn7
+Subreddit: Cardiology
+Title: Type 2 MI
+Author: [deleted]
+Created UTC: 2024-12-06T10:40:17
+Score: 22
+Num Comments: 38
+URL: https://reddit.com/r/Cardiology/comments/1h86yn7/type_2_mi/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1h86yn7/type_2_mi/
+Collected: 2025-11-15T08:32:23.998929
+===============================================================================
+
+Declaration: 35yr experience UK acute physician (hospitalist). My local cardiologists (especially the trainees) seem to apply "type 2 MI" to any patient with even the most trivial of possible provocation. I was wondering what other people's perspective is? The 4th definition makes a distinction between myocardial injury (raised troponin) and myocardial infarction (troponin plus ST changes, new Q waves, new RWMAs) but the core mechanisms are pretty much the same - ischaemia imbalance. So I understand shock, severe hypoxia, tachy-brady arrythmias as mechanisms. But why are patients with a fever/raised markers from a UTI or LRTI but with normal saturations, normal BP and normal heart rates being called Type 2 - there is no significant increased cardiac work or impaired coronary flow in these cases. If on the other hand this is cytokine mediated upregulation of coronary inflammation and plaque events isn't it best to just call these provoked Type 1s and take them to the cath lab?
+
+---
+## Comments
+1. u/br0mer [score=31, created=2024-12-06T10:50:25]: Type 1 = plaque rupture with thrombosis, aka classic MI. These people should go to the lab. Type 2 MI = symptoms and signs of ischemia (eg chest pain, ekg changes) but not consistent with plaque rupture (eg af rvr, severe htn, etc). There might be utility in taking these patients to the lab if you can't distinguish between this and ACS. Everything else is non-mi troponin elevation. These do not need to go to the lab.
+2. u/astrofuzzics [score=16, created=2024-12-06T11:28:25]: When I propose a diagnosis of type II NSTEMI, I am not implying the absence of coronary disease or suggesting that the coronaries are not guilty partners in the process. A supply-demand mismatch does not need to be attributed entirely to the supply side or entirely to the demand side. A longstanding, fixed, calcified coronary obstruction in a patient with chronic stable angina limits the reserve of coronary flow to its subtended vascular bed. If the reserve is only slightly limited, it takes a significant increase in demand (such as septic shock) to yield a supply-demand mismatch that raises cardiac biomarkers. If the chronic obstruction is severe, and the flow reserve is quite limited in that territory, such that even slight elevations above resting flow are impossible, then yes, something as “insignificant” as a urinary tract infection can drive up myocardial oxygen demand enough that it outpaces the local supply. If I suspect this is what’s happening, I recommend a noninvasive assessment of coronary disease, such as a nuclear stress test, after the acute demand-driving insult has resolved but before the patient gets discharged home. I also recommend treating the CAD medically with statins, aspirin, beta blockers as tolerated, etc. Think of delirium. A young patient with a lot of “brain reserve” needs to get quite sick before they become delirious. But an elderly patient with some baseline cognitive impairment can manifest significant delirium even with mild perturbations in homeostasis, such as a urinary tract infection. It’s all bout the physiologic reserve, or absence thereof. Hope that helps.
+3. u/DisposableServant [score=10, created=2024-12-06T10:57:50]: Probably just semantics honestly and someone trying to say the trop elevation is not something that needs to be worked up right now with everything else going on.
+4. u/[deleted] [score=2, created=2024-12-07T18:42:53]: [deleted]
+5. u/Necessary-Lock5903 [score=2, created=2024-12-08T01:07:46]: The analogy I would use is if someone was to cut off a limb and then check a troponin , that troponin would be raised Would you treat that bleeding patient with a blood thinner ? Every blood/muscle mismatch should not be treated as an MI
+6. u/schopfermd [score=1, created=2024-12-06T17:46:15]: You're right that some clinical scenarios can produce both myocardial infarction and/or myocardial injury, which is why the clinical context is essential. This is a good overview of determining the most likely category your patient falls into: https://www.jacc.org/doi/10.1016/j.jacc.2019.02.018
+7. u/jiklkfd578 [score=1, created=2024-12-08T17:00:43]: If you want to stop diagnosing type 2 MIs just stop checking troponins. This has gotten ridiculous.
+8. u/fruityuv [score=1, created=2024-12-09T08:54:56]: .

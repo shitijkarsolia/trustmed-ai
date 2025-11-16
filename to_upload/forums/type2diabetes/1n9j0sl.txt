@@ -1,0 +1,18 @@
+Thread ID: 1n9j0sl
+Subreddit: type2diabetes
+Title: Could the sensor have been incorrect?
+Author: Equivalent-Yoghurt38
+Created UTC: 2025-09-05T15:27:20
+Score: 6
+Num Comments: 6
+URL: https://reddit.com/r/type2diabetes/comments/1n9j0sl/could_the_sensor_have_been_incorrect/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1n9j0sl/could_the_sensor_have_been_incorrect/
+Collected: 2025-11-15T08:18:20.721776
+===============================================================================
+
+This is my first time changing the sensor for my CGM. So in total have been using it for 10 days. My readings have been pretty high for all 10 days. I’ve been eating 30 carbs or less per meal, working out once a day, taking my meds, etc. Once I put the new sensor on and it finished “warming up” my blood sugar dropped from 147 to 101. That was over a period of 30 minutes. Prior to changing the sensor, I hadn’t eaten for at least 4 hours. I’ve now eaten dinner and the highest it’s gone is 127. I’ve been beating myself up that I’m not making the progress I was told I should be making. Is it possible that the sensor was bad? Are these things really unreliable?
+
+---
+## Comments
+1. u/coutureonly [score=3, created=2025-09-05T17:38:17]: These are things you will learn in your journey. I have now been wearing CGMs a little over a year and I am still trying to figure out how to stop my arms from leaking interstitial fluid and getting rashes. My skin is now allergic to CGMs and my spots feel like hard leather they are so damaged. I’ve tried the whole skin prep wipes then layers of Flonase then an under patch then an over patch. Nothing has worked until I am hopeful using hydrocolloquial dressing under one which is now two days is is the final cure. To me will tell but you are going to have frustrations. You will have sensors that fail all the time so have several backups ready and blood pricking kits and be ready to spend money because it all costs to figure it out.
+2. u/coutureonly [score=2, created=2025-09-05T17:22:19]: CGMs are mostly half and half with accuracy which is why you also need to two different finger pricking kits so you can calibrate it to be accurate from your finger pricks. They are amazing when they are working properly but that’s not always going to be the case.

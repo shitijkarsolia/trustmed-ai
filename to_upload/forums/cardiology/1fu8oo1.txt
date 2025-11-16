@@ -1,0 +1,17 @@
+Thread ID: 1fu8oo1
+Subreddit: Cardiology
+Title: TTE vs TEE NBE exams - study crossover?
+Author: Secret-Locksmith-751
+Created UTC: 2024-10-01T22:12:05
+Score: 5
+Num Comments: 1
+URL: https://reddit.com/r/Cardiology/comments/1fu8oo1/tte_vs_tee_nbe_exams_study_crossover/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1fu8oo1/tte_vs_tee_nbe_exams_study_crossover/
+Collected: 2025-11-15T08:33:11.483163
+===============================================================================
+
+Hi, I'm currently studying for the AdvPTEeXAM(TEE), mainly using PTEMasters and Sidebotham's text. I'm also wanting to sit the ASCeXAM (TTE). My question goes out to those who have completed both, and the crossover in study and feasibility of sitting both in the same year. Was it a lot of extra work to study or was TEE stuff just as relevant for TTE? Any extra texts you would add for ASCExam study? Is one exam 'harder' than the other? Cheers.
+
+---
+## Comments
+1. u/Wyvernz [score=1, created=2024-10-02T20:30:42]: I’m not the best person to answer as I’ve only done ASCeXAM and am trained as a cardiologist (I’m assuming you’re anaesthesia as I’ve never known a cardiologist who took the perioperative one), but I can answer some: 1. ASCeXAM is not a focused TTE exam - it’s pretty comprehensive and includes both tte, tee, and general ultrasound physics. Generally you’re given a set of images and asked to make a diagnosis or calculate a value. 2. Going purely by pass rates, which has limitations obviously, about twice as many people fail ASCeXAM than do AdvPTEeXAM (80% pass versus 90% pass, respectively). That’s with people studying pretty hard for ASCeXAM too since it’s known at least on the cardiology side as the most difficult of the board exams we take, and that’s with the advantage of spending quite a bit of time on echo rotations.

@@ -1,0 +1,23 @@
+Thread ID: 1ouks8x
+Subreddit: diabetes_t2
+Title: Tracking glucose meter readings
+Author: PotentialYam4442
+Created UTC: 2025-11-11T13:38:30
+Score: 1
+Num Comments: 23
+URL: https://reddit.com/r/diabetes_t2/comments/1ouks8x/tracking_glucose_meter_readings/
+Canonical URL: https://reddit.com/r/diabetes_t2/comments/1ouks8x/tracking_glucose_meter_readings/
+Collected: 2025-11-15T02:19:32.484591
+===============================================================================
+
+How do you track your glucose meter/fingerstick readings? I'm currently writing everything down in my notes app, but my log is getting long and I'm not really able to visualize the numbers well. I do also record them in my daily planner, which helps a little more, but I was wondering if there were easier ways to log and visualize the numbers. (The meter came with a booklet but I never bothered to use that.)
+
+---
+## Comments
+1. u/Arkasol [score=3, created=2025-11-11T13:45:15]: My reader (accu check guide) has a built in logbook, and an it connects to an app - results auto send to the app via Bluetooth and it syncs with Apple Health!
+2. u/Agitated_Age8035 [score=3, created=2025-11-11T13:51:58]: I too have the accu glide, but I use the mysugr app, it tracks everything and you can add if it was dinner, breakfast, and a bunch of other stuff.
+3. u/Thesorus [score=2, created=2025-11-11T13:54:08]: I use the MySugr app. It logs the values from my Accu-Chek Guide It also goes on Apple Health.
+4. u/jadedjen110 [score=2, created=2025-11-11T14:03:06]: I use a Dexcom g7 to keep track.
+5. u/deacc [score=2, created=2025-11-11T15:40:56]: I use the app mynetdiary to track everything.
+6. u/Turbobuick86 [score=2, created=2025-11-11T18:59:37]: Newer meters have bluetooth. I'm new to all this and was writing them down too. The new fangled way(bluetooth) is waaayy easier. I use the Contour Next One meter and it has its own proprietary app. Once paired it uploads automatically and it goes back months for updating.
+7. u/carki001 [score=2, created=2025-11-11T22:03:43]: Google sheets

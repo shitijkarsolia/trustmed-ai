@@ -1,0 +1,22 @@
+Thread ID: 1oswcfb
+Subreddit: diabetes_t2
+Title: CGM
+Author: Mcoop87
+Created UTC: 2025-11-09T15:08:37
+Score: 1
+Num Comments: 19
+URL: https://reddit.com/r/diabetes_t2/comments/1oswcfb/cgm/
+Canonical URL: https://reddit.com/r/diabetes_t2/comments/1oswcfb/cgm/
+Collected: 2025-11-15T02:19:53.927350
+===============================================================================
+
+Did anyone get a CGM to get diagnosed? What did your numbers look like on the CGM?
+
+---
+## Comments
+1. u/[deleted] [score=11, created=2025-11-09T15:13:50]: [deleted]
+2. u/Weathergod-4Life [score=2, created=2025-11-09T15:44:19]: Nope. You get an A1C test to get diagnosed. A CGM is used to help you understand why your numbers are doing what they are doing so you can clean up your diet or if you need insulin so you can determine how the insulin is affecting your numbers. A CGM is not a diagnostic tool for diabetes.
+3. u/Muireadach [score=1, created=2025-11-09T17:44:20]: I had been on insulin for ten years. I finally got a CGM after I was arrested for a medical episode That involved a felony.
+4. u/VeniABE [score=1, created=2025-11-09T19:25:44]: Sensor Engineer here. A CGM technically could be used in some places for diagnosis; however the culture is strongly oriented around measuring A1C so CGMs normally are not approved for that purpose, nor are doctors trained to use them that way. A1C shows overall blood glucose over a long time. CGMs will show how your body is responding to food; but hitting 220 glucose could just be pigging out on candy or drinking sugar cane juice. So with knowledge and context a lot of trained professionals and look at the CGM data and see clear diabetes. But still in most places health insurance will require the A1C as seen by a doctor to pay for treatment. I do think that in the next 15 years it is likely that people will spend some time each year with a CGM if they are at risk of diabetes. However the A1C test is extremely cheap so I doubt that the "rules" and normal behavior will switch much. Do understand, it cost potentially 2000 dollars a month to be on these things 10 years ago. Most doctors I have talked to are either in that mindset or use them all the time because they know they are affordable now. All this said, I would have to go review current applications research: but I think prediabetes would be more visible on a CGM than via A1C measurement. So its possible pre-diabetes in at risk populations will get an alternate diagnostic criteria based on CGM data.
+5. u/Unlikely_List_6285 [score=1, created=2025-11-09T21:40:00]: Yep! Some people actually get diagnosed thanks to a CGM, especially if they were just curious or tracking pre-diabetes numbers. What usually shows up are things like high fasting or overnight readings 130–180+ post-meal spikes well over 200 that take hours to come down, or, in early T1D, wild swings even with small meals. Seeing those patterns often pushes people to get labs done, which ends up confirming diabetes.
+6. u/ShivanTom [score=1, created=2025-11-10T11:59:17]: 1. don't be too afraid of spikes - spikes are normal. 2. the cgm allows you to gauge how different foods and activity affect you. you can practice layering food (protein first &gt; then greens &gt; then light carbs) and then add in some movement even just a simple walk around the block. 3. at first whenever i "spiked" above 150 i was filled with dread. the cgm became a sort of game. i was trying to stay in the green 100% of the time. a true spike is outside of the green range usually 175+. depending on YOUR numbers this is a good start.

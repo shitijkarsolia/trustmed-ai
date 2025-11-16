@@ -1,0 +1,21 @@
+Thread ID: 1lq88qu
+Subreddit: Cardiology
+Title: Tips / study materials for someone about start managing coronary icu?
+Author: spicy_41
+Created UTC: 2025-07-02T14:43:21
+Score: 12
+Num Comments: 7
+URL: https://reddit.com/r/Cardiology/comments/1lq88qu/tips_study_materials_for_someone_about_start/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1lq88qu/tips_study_materials_for_someone_about_start/
+Collected: 2025-11-15T08:29:00.745354
+===============================================================================
+
+I will start doing coronary icu shifts in a month or two, thought of which puts me in such a mood that using the term stressing out would fall laughably short. Being the only doctor in the icu where everything happens so quickly, you must know the solution almost subconsciously to almost any problem you are about to face. So, what would be your recommendations? How was it for you back then? What are the must know things to manage the icu and where to learn more about them, not asking like just reading in a textbook, you should read this 1500 page intubation book, but more like everyday use knowledge? Like acute arrythmia management, hypertensive pulmonary edema, arrest protocols, managing according to abg, mechanical ventilation etc etc you name it. What are the must know things to manage the icu to a certain level according to your experience?
+
+---
+## Comments
+1. u/Soggy_Freedom [score=5, created=2025-07-02T15:29:37]: Herzog’s CCU Survival Guide (old, basics ) MGH Cardiology Board Review (easy to read, essentials, you probably gonna find it free in your institutional library) Practical cardiovascular medicine (a better read, usually EP Reps can bring you this book free) ACCSAP and ACCSAP HF (free for you)
+2. u/Ok-Bid8988 [score=6, created=2025-07-02T16:27:10]: Watch Elias Hanna videos on YouTube! Covers MCS to cardiogenic shock to hemodynamics so many other topics too!. Incredible amazing. He has a pdf book as well. Super practical
+3. u/spicypac [score=3, created=2025-07-02T17:20:53]: I know you said no books, but the Vassopressor and Inotrope Handbook by Dr Gutierrez is great. Not some thick book. Great summaries that are written more casually but also easy to reference. It’s helped me a lot as a IP cardiology PA. Good luck!!
+4. u/dayinthewarmsun [score=1, created=2025-07-03T00:25:42]: There is so much to learn in ICU. In general p, would also focus on understanding and being able to diagnose different types of shock. Know what swan-ganz numbers tell you. We don’t use swans as much anymore, but the concepts are extremely important. I strongly recommend that you understand the general concepts in [this paper](https://www.ahajournals.org/doi/10.1161/circulationaha.107.728840) . You don’t need to know chemical pathways. You do need to know how different agents treat different things.
+5. u/bestinter [score=1, created=2025-07-03T15:23:28]: Thanks

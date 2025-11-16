@@ -1,0 +1,17 @@
+Thread ID: 1ou3jjb
+Subreddit: Cardiology
+Title: Echo exam prep
+Author: Present-Sea-9282
+Created UTC: 2025-11-11T00:48:17
+Score: 3
+Num Comments: 3
+URL: https://reddit.com/r/Cardiology/comments/1ou3jjb/echo_exam_prep/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1ou3jjb/echo_exam_prep/
+Collected: 2025-11-15T08:26:16.024437
+===============================================================================
+
+https://preview.redd.it/p751ag8w1l0g1.png?width=874&amp;format=png&amp;auto=webp&amp;s=d8f8711c5a89dcbd9b58268f86f9c3d51a638740 Going through MCQ, how is pressure Half time calculated here when then x axis isn't marked. It says 250-300msec in the model answer. Is that by assuming the sweep spell is 10mm/s and therefor one large box is 100ms
+
+---
+## Comments
+1. u/Coldcase331 [score=3, created=2025-11-11T06:53:01]: Idk what question bank you’re looking at, but Mayo videos+Klein+physics packet is all you need.

@@ -1,0 +1,17 @@
+Thread ID: 1cl7joj
+Subreddit: Cardiology
+Title: RPVI
+Author: EffulgentBovine
+Created UTC: 2024-05-05T18:51:25
+Score: 2
+Num Comments: 1
+URL: https://reddit.com/r/Cardiology/comments/1cl7joj/rpvi/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1cl7joj/rpvi/
+Collected: 2025-11-15T08:35:17.308076
+===============================================================================
+
+For those who have passed RPVI boards in the last several years, what study material did you use/recommend? Are review videos enough?
+
+---
+## Comments
+1. u/Responsible_Fox3136 [score=2, created=2024-05-18T05:17:29]: I did the Oakstone RPVI videos and nothing else. Passed without any issues. Many people use Pegasus but it’s very dry and goes too much into physics that you won’t need to know.

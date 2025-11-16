@@ -1,0 +1,17 @@
+Thread ID: 1bfen9k
+Subreddit: askCardiology
+Title: Apple Watch and other Consumer Based EKG's
+Author: MotherSoftware5
+Created UTC: 2024-03-15T07:01:35
+Score: 21
+Num Comments: 0
+URL: https://reddit.com/r/askCardiology/comments/1bfen9k/apple_watch_and_other_consumer_based_ekgs/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1bfen9k/apple_watch_and_other_consumer_based_ekgs/
+Collected: 2025-11-15T08:37:09.315489
+===============================================================================
+
+Consumer-based EKG products have proved to be valuable at gaining insight for potential arrhythmias or ruling out arrhythmia's during symptoms. This forum DOES permit consumer-based EKG's (Apple Watch, Kardia, AlivCor, etc) to be shared, but there needs to be an understanding that these devices have not been proven or validated for more advanced medical interpretation. Utilizing this data to draw larger conclusions would be irresponsible. &amp;#x200B; |What we can read |What we CANNOT (responsibly) read | |:-|:-| |Atrial Fibrillation|QT Intervals| |Pre-Mature Atrial Contractions|Axis| |Pre-Mature Ventricular Contractions|Heart Failure (Ejection Fraction) | |SupraVentricular Tachycardia|Right or Left Bundle Branch Blocks| |Ventricular Tachycardia|ST Elevations| |Bradycardia |Q, U, J, Epsilon or any other advanced waveform| **If consumer-based EKG's causes you anxiety and harm, please discontinue and seek professional help.** Artifact caused by small contact movements can cause massive distortion in the waveforms, this is not an arrhythmia. The QALY app is not FDA approved. **Disclaimer:** Apple Watch has a Class II clearance by the [FDA](https://www.accessdata.fda.gov/cdrh_docs/pdf21/K213971.pdf) to detect Atrial Fibrillation: "The Atrial Fibrillation (AFib) History Feature is an over-the-counter ("OTC") software-only mobile medical application intended for users 22 years of age and over who have a diagnosis of atrial fibrillation (AFib)." The [United States Preventive Services Task Force (USPSTF)](https://jamanetwork.com/journals/jama/fullarticle/2684613) has recommended against ECG screening in asymptomatic healthy individuals due to the insufficient evidence that the benefits of this screening outweigh its harm. The concern about the potentially large numbers of false alarms that may be translated into ER visits and serve as an economic burden is another point that is brought up. &amp;#x200B; **If you have medical evidence, you would like to have considered, or new updated guidelines, please submit them to the MOD team inbox to review. Thank you!**
+
+---
+## Comments
+No comments captured.

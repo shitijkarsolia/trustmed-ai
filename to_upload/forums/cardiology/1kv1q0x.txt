@@ -1,0 +1,19 @@
+Thread ID: 1kv1q0x
+Subreddit: Cardiology
+Title: Swan ganz, pcwp, a fib.
+Author: ascalapius
+Created UTC: 2025-05-25T05:47:48
+Score: 9
+Num Comments: 3
+URL: https://reddit.com/r/Cardiology/comments/1kv1q0x/swan_ganz_pcwp_a_fib/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1kv1q0x/swan_ganz_pcwp_a_fib/
+Collected: 2025-11-15T08:29:24.797134
+===============================================================================
+
+Hello, How do you measure the pcwp in a patient in afib? In NSR, we look at the peak and trough of the a wave and take the mean and average it over 3 beats. In Afib, this is not feasible as an ‘a’wave is absent. So, what to do then? Look at PADP ?
+
+---
+## Comments
+1. u/JuniorSquirrel3323 [score=19, created=2025-05-25T06:03:04]: You just take the mean. Draw a straight average line through your waveform and that’s the answer
+2. u/yangerang55 [score=9, created=2025-05-25T06:04:01]: Wedge should be measured at end diastole and end expiration. End diastole is at the beginning of the QRS so should be able to see in Afib.
+3. u/hagared [score=2, created=2025-05-25T09:04:29]: As others have mentioned, you’d be better using the z-point method (a line straight down 0.08-0.1) after your QRS during end expiration. Wherever it lands, that is your PAOP (pcwp as you referred).

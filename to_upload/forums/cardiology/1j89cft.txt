@@ -1,0 +1,27 @@
+Thread ID: 1j89cft
+Subreddit: Cardiology
+Title: Cardiology Trials and Guidelines Anki Deck
+Author: [deleted]
+Created UTC: 2025-03-10T14:02:45
+Score: 125
+Num Comments: 19
+URL: https://reddit.com/r/Cardiology/comments/1j89cft/cardiology_trials_and_guidelines_anki_deck/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1j89cft/cardiology_trials_and_guidelines_anki_deck/
+Collected: 2025-11-15T08:31:02.555183
+===============================================================================
+
+I’m about four months from starting my cardiology fellowship, and I’ve been trying to get a solid grasp on the key cardiology guidelines and the landmark clinical trials that shape them. But, I’ve found there aren’t many good resources that help tie everything together in a structured, easy-to-remember way. So, over the past year, I’ve been working on an Anki deck (link below) to organize and reinforce these concepts. My hope is that this resource will be useful for other residents and fellows who want to understand the guidelines efficiently. Would love to hear your thoughts. Feel free to share with co-residents and fellows! I do have some disclaimers * This deck is far from comprehensive, but it does focus on the clinical trials that come up on rounds over and over * The content is designed for a cardiology-bound PGY2/3, an early cardiology fellow, or a medicine attending trying to understand cardiology recs (medical students or early interns may find this too dense) * I’m sure there are many mistakes hidden within the deck; if you find any, please reach out to me, and I will edit * Feel free to use this as a reference, but I also have instructions (below) for how to best use the deck **Instructions** **1. Suspend all cards.** **2. Select a guideline.** Choose one of the eleven guidelines (e.g., Revascularization) to begin. **3. Choose a section.** Within the selected guideline, identify a section and unsuspend all cards from the trials that fall under it. **4. Learn the cards.** Study all the cards in that section until you’re confident with them. **5. Move to another section.** Once you’ve mastered a section, unsuspend a different section within the same guideline. **6. Repeat until complete.** Continue this process—working through all sections of a guideline before moving to a new guideline—until you've learned all the cards. [https://www.mediafire.com/file/xblatqx9syq64ic/ROMA\_deck\_v2.4.apkg/file](https://www.mediafire.com/file/xblatqx9syq64ic/ROMA_deck_v2.4.apkg/file)
+
+---
+## Comments
+1. u/[deleted] [score=23, created=2025-03-10T14:46:17]: [deleted]
+2. u/Hyperex33 [score=4, created=2025-03-10T14:43:20]: This is great, thanks for creating and sharing
+3. u/CaramelImpossible406 [score=3, created=2025-03-10T14:21:07]: Link doesn’t work
+4. u/asdsaz1 [score=2, created=2025-03-10T21:39:44]: Was doing something similar but have started after the residency so almost impossible to complete the deck for me. Thank you so much for this. By the way, which guidelines did you use, ESC or AHA/ACC?
+5. u/Pure_Distribution_34 [score=1, created=2025-03-10T18:01:03]: i am able to download but cant open the file. What do you open it with for MAC?
+6. u/doctordavemd [score=1, created=2025-03-11T05:36:17]: Thanks for sharing, for anybody who is interested in academic medicine and medical education, keeping track of downloads of things like this is a helpful way to show your impact on the GME community.
+7. u/VintageThrilla [score=1, created=2025-03-11T09:13:53]: Thank you for putting the time to make this and sharing it with the community!
+8. u/Homogenous1 [score=1, created=2025-03-12T04:16:15]: Thanks for creating! How can I use it on iPhone?
+9. u/Infinite_Manner7890 [score=1, created=2025-03-14T19:21:46]: Thank you so much!
+10. u/Plastic-Peak-5635 [score=1, created=2025-05-20T17:32:09]: I cant use it
+11. u/felineSam [score=0, created=2025-03-10T20:27:20]: Share the APK file so easier to install

@@ -1,0 +1,17 @@
+Thread ID: 1oty81t
+Subreddit: askCardiology
+Title: Are these normal ecg results
+Author: Suitable-Caramel-433
+Created UTC: 2025-11-10T19:53:51
+Score: 1
+Num Comments: 9
+URL: https://reddit.com/r/askCardiology/comments/1oty81t/are_these_normal_ecg_results/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1oty81t/are_these_normal_ecg_results/
+Collected: 2025-11-15T08:40:05.479945
+===============================================================================
+
+(No selftext provided.)
+
+---
+## Comments
+1. u/Impressive_Donut3122 [score=2, created=2025-11-10T20:01:20]: The abnormal and possible infarct notes are automated ECG machine interpretations, which can sometimes be inaccurate. The measurements look normal, and the final judgment should come from the doctor who reviewed and confirmed the ECG.

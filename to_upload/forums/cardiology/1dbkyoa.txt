@@ -1,0 +1,18 @@
+Thread ID: 1dbkyoa
+Subreddit: Cardiology
+Title: Is there some functional benefit of heart having low glycolytic activity?
+Author: According_Tourist_69
+Created UTC: 2024-06-08T21:03:36
+Score: 1
+Num Comments: 8
+URL: https://reddit.com/r/Cardiology/comments/1dbkyoa/is_there_some_functional_benefit_of_heart_having/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1dbkyoa/is_there_some_functional_benefit_of_heart_having/
+Collected: 2025-11-15T08:34:40.360949
+===============================================================================
+
+I read heart consumes free fatty acid more than glucose for it's metabolism. Is there some biochemical reason this is preferred by heart, cus as far as I can find in my book, heart is the only organ that does this. Please correct me if I'm wrong .
+
+---
+## Comments
+1. u/[deleted] [score=4, created=2024-06-08T22:17:50]: [removed]
+2. u/decydiddly [score=2, created=2024-06-09T08:15:44]: Fatty acids yield more ATP per carbon consumed. Yes, they do require more oxygen, but if the coronaries are the first vessel to come off the aorta the heart gets the most oxygenated blood. In the normal physiologic state, the heart is not oxygen limited. It is preferred to use the substrate that yields more ATP per carbon consumed than ATP per oxygen consumed since oxygen is not the limiting factor for a normal heart. Relationship with the brain is not the major determinant here. There is an entire research domain on cardiac metabolism. Happy to give more info if you're interested.

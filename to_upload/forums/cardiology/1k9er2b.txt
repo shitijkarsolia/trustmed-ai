@@ -1,0 +1,23 @@
+Thread ID: 1k9er2b
+Subreddit: Cardiology
+Title: EP in the house? Figure of 8 AVNRT?
+Author: rosh_anak
+Created UTC: 2025-04-27T14:16:45
+Score: 28
+Num Comments: 11
+URL: https://reddit.com/r/Cardiology/comments/1k9er2b/ep_in_the_house_figure_of_8_avnrt/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1k9er2b/ep_in_the_house_figure_of_8_avnrt/
+Collected: 2025-11-15T08:29:59.112416
+===============================================================================
+
+Credit to @abdulazizM2669 from twitter
+
+---
+## Comments
+1. u/shahtavacko [score=12, created=2025-04-27T15:20:10]: It’s certainly interesting that it alternates short and long pathways like that, I don’t believe I’ve ever seen that (I’m not EP, but cardiologist for more than 20 years now).
+2. u/Pizzaman_42069 [score=7, created=2025-04-27T17:52:28]: Not an EP doc but work in an EP lab. Basically yeah, figure 8 AVNRT is a good way to describe it. Assuming this is in fact AVNRT, this is probably a slow-fast AVNRT alternating between two separate slow pathways for antegrade conduction and the fast pathway for retrograde conduction. Very interesting find.
+3. u/OriginalLaffs [score=6, created=2025-04-27T19:18:53]: Possible this is 2 slow pathways, but more likely it is same slow pathway with alternating degrees of decrement (conducts slower leading to longer TCL and less decrement leading it to conduct faster so shorter TCL and more decrement leading to longer TCL and less decrement etc. etc.).
+4. u/RandC8713 [score=3, created=2025-04-27T19:14:16]: Nice tracings. Have not seen that in a long time.
+5. u/pandaman29 [score=3, created=2025-04-28T18:15:36]: Looks like probably typical slow-fast AVNRT with cycle length alternans. Wouldn’t quite say figure of 8, just that the antegrade limb is alternating between two different slow pathways. Interestingly, the 2nd and 4th beat seem to have much more prominent retrograde p-waves. Theoretically, could also be retrograde limb alternating between two different fast pathways. Source: EP fellow
+6. u/Gideon511 [score=2, created=2025-04-27T15:02:03]: I concur looks like a short rp tachycardia probably avnrt, a normal ecg for comparison would be helpful
+7. u/ApolloIV [score=1, created=2025-04-27T14:54:56]: Looks like there’s a retrograde P in lead II, no?

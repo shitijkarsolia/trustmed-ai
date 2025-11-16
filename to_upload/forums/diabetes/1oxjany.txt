@@ -1,0 +1,19 @@
+Thread ID: 1oxjany
+Subreddit: diabetes
+Title: Lost my sugar meter and just found it. Cgm says low, finger poke says nah
+Author: Bisouchuu
+Created UTC: 2025-11-14T22:16:28
+Score: 2
+Num Comments: 10
+URL: https://reddit.com/r/diabetes/comments/1oxjany/lost_my_sugar_meter_and_just_found_it_cgm_says/
+Canonical URL: https://reddit.com/r/diabetes/comments/1oxjany/lost_my_sugar_meter_and_just_found_it_cgm_says/
+Collected: 2025-11-15T02:15:49.849955
+===============================================================================
+
+Finger poke read 128 idk if i should try taking the cgm off, I just got a new sugar meter too and it reads the same as the other one I found. Ive probably been doing worse than I thought because if the cgm is 50+ points lower than what I actually am I probably havent been in range at all lol
+
+---
+## Comments
+1. u/VikingRaiderPrimce [score=1, created=2025-11-14T23:19:02]: yeah that can happen sometimes. usually its sensor placement. i take a couple samples the first day and if its about the same i just add that difference to my chm amount each time and leave a note
+2. u/VikingRaiderPrimce [score=1, created=2025-11-14T23:24:25]: i feel ya. i have adhd so remembering even those meds are a struggle lol
+3. u/Apprehensive_Ad_1501 [score=1, created=2025-11-15T00:32:49]: I've been 90% in the red zone, like 54, for the last 5 days. Sometimes those Libres are just poor quality no matter placement. (In my case 'sometimes' is 50% 🤦) You can either do a mental correction every time if you think you can still trust the trend or call Abbott for a free replacement - they have clear rules, like 35%+ deviation in stable state is a warranty case

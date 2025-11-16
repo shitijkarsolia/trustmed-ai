@@ -1,0 +1,18 @@
+Thread ID: 1oq5akb
+Subreddit: hypertension
+Title: Enalapril side effects during sleep
+Author: Kidley
+Created UTC: 2025-11-06T10:34:10
+Score: 1
+Num Comments: 2
+URL: https://reddit.com/r/hypertension/comments/1oq5akb/enalapril_side_effects_during_sleep/
+Canonical URL: https://reddit.com/r/hypertension/comments/1oq5akb/enalapril_side_effects_during_sleep/
+Collected: 2025-11-15T02:23:05.842442
+===============================================================================
+
+On Monday night I (30M) went to the hospital for routine check and was diagnosed with high BP. Seems like I got a record of +140 everytime I've gone and that day I got 155/82. The doctor prescribed me enalapril 20mg/day. The reason was because I have low risk factors: - Healthy bodyweight and body fat - Exercise 5-7 days/week - Healthy food habits (95% home cooking, no sodas only water, etc) - No smoking - Occasionally drink (couple beers every 1-2 months) That night he asked me to take 20mg, wait about 20min and check my BP (went down to 143/80). Later in the middle of the night, I suddenly woke up with my left arm tingling, feeling kinda tight and feeling odd (hard to describe, I guess like anxious). Didn't say anything to my wife, dealt with it for an hour and somewhat got back to sleep. Never in my life I've felt any of that Next day I went to pick up the pills, and I though better start taking them the next day to start in the morning and didn't want to experience the same thing if it had something to do with the pill. Nothing happen that night, slept good as usual. The next day (yesterday) I took the first pill at 6:55AM. Went about my day, went a couple times to the clinic to check my BP (+150s again), they told me it takes about a week to start seeing a change (kinda inconsistent from what the doctor told me). That night it happen again, woke up around 1:45AM. This time felt it a little more, more tight around my upper left chest and armpit, and some cold feeling around my arm as well. Right arm completely normal. And the most concerning thing was my heart beat was very slow and inconsistent like ". . _ . _ . . _ ." Called 911 and they told me an ambulance was on its way. They didn't show up, because according to them I'm not in immediate danger. This is public system it what it is. Around 3AM from being up it, the feelings went away and got back to sleep a little. I'm not taking it anymore until I speak with a cardiologist later today. Has someone ever experienced something like this?
+
+---
+## Comments
+1. u/antoniateresa [score=1, created=2025-11-09T06:15:32]: All Ace Inhibitors (like Enalapril) tend to increase the potassium levels in the Blood (Hyperkalemia). Very high potassium levels can cause strong side affects like cardiac arrhythmia (irregular heartbeats), muscle weakness and twitching) and sometimes even worse. Suggest you talk to your doctor before continuing. He may run some serum lab tests also
+2. u/amosthagreat [score=1, created=2025-11-06T21:14:58]: Never take meds if all these readings were done in public settings. Buy a machine and take your readings at home for a month and see trends in your BP. You could be anxious at the ER without realizing . Best to take them in a safe and quiet setting at home to determine your true BP readings. Personally I think all these meds mess with our bodies in one way or another.

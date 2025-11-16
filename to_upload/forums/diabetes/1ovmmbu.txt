@@ -1,0 +1,19 @@
+Thread ID: 1ovmmbu
+Subreddit: diabetes
+Title: A website for comparison
+Author: Apprehensive-Limit-7
+Created UTC: 2025-11-12T17:29:04
+Score: 0
+Num Comments: 3
+URL: https://reddit.com/r/diabetes/comments/1ovmmbu/a_website_for_comparison/
+Canonical URL: https://reddit.com/r/diabetes/comments/1ovmmbu/a_website_for_comparison/
+Collected: 2025-11-15T02:16:57.507630
+===============================================================================
+
+Does there exist a website where one can enter a bunch of data points, such as weight height ethnicity, diets etc, as well as medication and treatments and compare them against other to see if potentially more effective treatment options exist?
+
+---
+## Comments
+1. u/BoonOfTheWolf [score=2, created=2025-11-12T17:44:49]: I don't know if there is such a website, but something to keep in mind. Someone can be 6 feet tall and 300 pounds, but there is a massive difference between mostly muscle versus mostly fat. And just because one medication works well for someone, doesn't mean it will apply to other people. And people's bodies change over time as well. My ex-wife was on Ozempic for a bit and it was working well, but then she started getting side effects and needed to switch to another medication.
+2. u/Faustian-BargainBin [score=2, created=2025-11-12T22:40:33]: You're basically describing the fields of epidemiology and personalized medicine. Epidemiology is taken into consideration when medical associations develop treatment guidelines and algorithms. Personalized medicine is still a developing field that I expect will grow significantly over the next 20 years.
+3. u/cjmnews [score=2, created=2025-11-12T23:29:30]: websites can’t really offer treatment options, as options change all the time, and every person reacts differently to foods, medication and exercise. too many factors.

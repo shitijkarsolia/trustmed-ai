@@ -1,0 +1,17 @@
+Thread ID: 1ovw725
+Subreddit: diabetes
+Title: Is it garmin or LinX CGM app problem?
+Author: ko_notiek
+Created UTC: 2025-11-13T01:53:07
+Score: 1
+Num Comments: 0
+URL: https://reddit.com/r/diabetes/comments/1ovw725/is_it_garmin_or_linx_cgm_app_problem/
+Canonical URL: https://reddit.com/r/diabetes/comments/1ovw725/is_it_garmin_or_linx_cgm_app_problem/
+Collected: 2025-11-15T02:16:48.028474
+===============================================================================
+
+Hi. Recently acquired LinX CGM sensor and installed app on my Xiaomi 14T Pro. I have notifications enabled and app is sending low/high alerts to my Garmin vivoactive 6 watch without problems, but the permanent floating notification that sits in my phone and watch that is supposed to show my glucose level in blood - is just empty field. Phone shows gray number with mmol/L , but watch is showing just LinX notification as seen in images but is empty. I'm thinking this is LinX app issue that is sending some weird color code to garmin, or it can be something else that garmin doesn't have access to? I have written to my LinX CGM retailer and garmin support about this also.
+
+---
+## Comments
+No comments captured.

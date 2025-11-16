@@ -1,0 +1,19 @@
+Thread ID: 1oqy9kj
+Subreddit: prediabetes
+Title: Help! Glucose normal, insulin high.
+Author: Iwosnd
+Created UTC: 2025-11-07T09:01:43
+Score: 2
+Num Comments: 5
+URL: https://reddit.com/r/prediabetes/comments/1oqy9kj/help_glucose_normal_insulin_high/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1oqy9kj/help_glucose_normal_insulin_high/
+Collected: 2025-11-15T08:24:29.662270
+===============================================================================
+
+I had some blood work done last week. The results suggest my glucose is within range (5.1 mmol/), however, my insulin levels are extremely high (14.6 mIU/L). I would like to take all steps to avoid entering pre-diabetes terrain (evidently I am developing insulin resistance). In the past week, I've improved my diet, reducing sugar and carbs. I too have started exercising daily. My question: my doctor has advised taking Glucophage (Metformin). While I'm aware Glucophage helps in making Insulin more sensitive, I'm wondering 1) whether it will cause dependency (wherein my body's beta cells will stop producing insulin in a healthy manner)? and 2) whether Glucophage really will help address my insulin resistance? I really want to avoid this insulin resistance progressing into prediabetes. Your assistance and suggestions would go a long way! Thanks!
+
+---
+## Comments
+1. u/Healthy-Zebra-9856 [score=1, created=2025-11-07T09:22:08]: Metformin (Glucophage) doesn’t cause dependency or make your pancreas “lazy.” It mainly works by reducing liver glucose output and improving insulin sensitivity in your muscles - it doesn’t force your pancreas to produce more insulin. In fact, it can take some strain *off* your beta cells by lowering how hard they have to work. That said, if your glucose is still normal and you’ve only just started cutting carbs and exercising daily, you might not need to jump to medication right away. For many people with early insulin resistance, consistent exercise (especially resistance training), improved sleep, and a lower-glycemic diet can make a big difference within a few weeks or months. Your doctor likely suggested Metformin as a preventive measure, since it’s generally safe and well-tolerated. On cutting carbs, this should be done carefully. Cutting carbs doesn't equate to removing carbs. In the absence of carbs, your body will be glycogen depleted and you wont be able to build muscles. So, start by lower GI diet but as you work towards putting muscle mass start including complex carbs like brown basmati rice, quinoa, steel cut oats etc. Another important fact is avoiding saturated fats as they will cause hepatic insulin resistance &amp; in low carb situations may also make physiological insulin resistance worse. If you do start it, it’s not a “forever” medication - some people taper off once they’ve reversed their insulin resistance through lifestyle. But that should be done under supervision and after tracking improvements in fasting insulin, HOMA-IR, and A1C over time. Metformin can help, but lifestyle is the real fix. If you’re already improving diet and exercise, you’re absolutely on the right path.
+2. u/East_Collection_5672 [score=1, created=2025-11-07T09:42:42]: This is interesting; while you want to avoid prediabetes, the steps to manage insulin resistance are very similar to those recommended for lowering A1C or glucose tolerance in prediabetes. A few key rules: balanced meals are crucial, and it's best to avoid deep-fried foods since they can worsen insulin resistance. Post-meal walks also help. You might want to try a food coach app like glucospike AI app to track your meal patterns and see which are meals can affect IR.
+3. u/CliffsideJim [score=1, created=2025-11-08T21:16:20]: Early Time Restricted Eating. Google it. It means no food after, say, 3 pm until breakfast the next day. Research shows this to be great for reversing insulin resistance.

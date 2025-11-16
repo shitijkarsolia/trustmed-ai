@@ -1,0 +1,18 @@
+Thread ID: 1f8akli
+Subreddit: Cardiology
+Title: Question about QRS Complex and ST Segment
+Author: NoDemand8729
+Created UTC: 2024-09-03T13:35:15
+Score: 1
+Num Comments: 3
+URL: https://reddit.com/r/Cardiology/comments/1f8akli/question_about_qrs_complex_and_st_segment/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1f8akli/question_about_qrs_complex_and_st_segment/
+Collected: 2025-11-15T08:33:36.624523
+===============================================================================
+
+Hello, I am a student cardiologist and have been one for around 5 months now, so I'll get straight to the point. I know quite a bit about the heart's electrical system and how the heart works. However, when it comes to reading ECGs, I’m still a bit uncertain. I understand most of it, but I struggle with interpreting the QRS complex and ST segment. During the QRS complex, the ventricles depolarize. Specifically, during the Q wave, the electrical impulse reaches the bottom middle of the heart and then spreads to both the left and right ventricles. During the R wave, the ventricular walls or "sides" depolarize. During the S wave, the rest of the ventricles, the bottoms, depolarize. Now here is my question, which I haven't been able to figure out yet: Does the contraction of the ventricles start during the R wave or during the ST segment? From what I have learned, during the QRS complex, the ventricles only depolarize, and at the start of the S wave, they begin contracting until the T wave arrives, by which time they are fully contracted, have pumped all the blood out, and then start repolarizing. However, when I asked ChatGPT about this, it suggested that the ventricles start contracting at the start of the Q wave and finish contracting at the end of the T wave, instantly starting repolarization as if the contraction follows the depolarization. Which explanation is correct?
+
+---
+## Comments
+1. u/astrofuzzics [score=3, created=2024-09-05T11:09:45]: Think of the physiology - depolarization from voltage-gated sodium channels, then opening of voltage-gated calcium channels, also ryanodine receptors, calcium-induced calcium release, and then actin-myosin cross-bridging. Electrical systole must precede mechanical systole. You can see this on echocardiographic M-mode tracings, which have excellent temporal resolution on the order of 1,500 frames per second - the left ventricular wall begins to thicken a few milliseconds after the R wave. Unless there is a left bundle branch block, contraction of the septum is a few milliseconds earlier than contraction of the lateral wall - hardly perceptible to the human eye on 2D imaging.
+2. u/Affectionate-Rope540 [score=1, created=2024-09-03T13:46:24]: Ventricular systole starts during at the beginning of the QRS complex and ends around the beginning of the TP segment. The ST segment is isoelectric because the entire ventricle is depolarized, hence there is no intraventricular voltage difference.

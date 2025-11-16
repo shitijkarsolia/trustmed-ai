@@ -1,0 +1,20 @@
+Thread ID: 1oqyb9l
+Subreddit: diabetes_t2
+Title: Help! Glucose normal, insulin high.
+Author: Iwosnd
+Created UTC: 2025-11-07T09:03:28
+Score: 1
+Num Comments: 14
+URL: https://reddit.com/r/diabetes_t2/comments/1oqyb9l/help_glucose_normal_insulin_high/
+Canonical URL: https://reddit.com/r/diabetes_t2/comments/1oqyb9l/help_glucose_normal_insulin_high/
+Collected: 2025-11-15T02:20:27.181247
+===============================================================================
+
+I had some blood work done last week. The results suggest my glucose is within range (5.1 mmol/), however, my insulin levels are extremely high (14.6 mIU/L). I would like to take all steps to avoid entering pre-diabetes terrain (evidently I am developing insulin resistance). In the past week, I've improved my diet, reducing sugar and carbs. I too have started exercising daily. My question: my doctor has advised taking Glucophage (Metformin). While I'm aware Glucophage helps in making Insulin more sensitive, I'm wondering 1) whether it will cause dependency (wherein my body's beta cells will stop producing insulin in a healthy manner)? and 2) whether Glucophage really will help address my insulin resistance? I really want to avoid this insulin resistance progressing into prediabetes. Your assistance and suggestions would go a long way! Thanks!
+
+---
+## Comments
+1. u/Advanced_Cheetah_552 [score=6, created=2025-11-07T10:48:36]: Metformin specifically acts to increase the insulin sensitivity of your cells. It doesn't have anything to do with insulin production. I think combination with diet and exercise (building muscle specifically will help) while decreasing the strain on your pancreas will help.
+2. u/One-Second2557 [score=2, created=2025-11-07T11:20:11]: Well as i am told the high insulin levels are due too insulin resistance. Good thing you caught this early . Life style changes will go a long ways. Best of luck!
+3. u/CuteInterest2744 [score=1, created=2025-11-08T08:51:11]: Nope. It's all been attempted. Just cannot take it
+4. u/CuteInterest2744 [score=-1, created=2025-11-07T10:06:47]: Fyi: Metformin can cause severe GI issues in some people. I refuse to take it

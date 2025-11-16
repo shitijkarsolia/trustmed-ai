@@ -1,0 +1,67 @@
+Title: AI-powered diabetes prevention program shows similar benefits to those led by people
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-10-ai-powered-diabetes-similar-benefits.html
+Canonical URL: https://medicalxpress.com/news/2025-10-ai-powered-diabetes-similar-benefits.html
+Filename: Medical_Xpress_AI_powered_diabetes_prevention_program_shows_similar_benefits_to_those_led_by_people.txt
+Collected: 2025-11-15T17:10:51.537147
+===============================================================================
+
+Title: AI-powered diabetes prevention program shows similar benefits to those led by people
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-10-ai-powered-diabetes-similar-benefits.html
+Collected: 2025-11-15T17:10:51.536861
+
+================================================================================
+
+AI-powered diabetes prevention program shows similar benefits to those led by people
+
+byJohns Hopkins University School of Medicine
+
+edited byGaby Clark, 																								reviewed byRobert Egan
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+Researchers from Johns Hopkins Medicine and the Johns Hopkins Bloomberg School of Public Health report that an AI-powered lifestyle intervention app for prediabetes reduced the risk of diabetes similarly to traditional, human-led programs in adults.
+
+Published inJAMAOct. 27, the study is believed to be the first phase III randomized controlled clinical trial to demonstrate that an AI-powereddiabetesprevention program (DPP) app helps patients meet diabetes risk-reduction benchmarks established by the Centers for Disease Control and Prevention (CDC) at rates comparable to those in human-led programs.
+
+An estimated 97.6 million adults in the United States have prediabetes, a condition in which blood sugar levels are above normal but below the threshold for type 2 diabetes, putting them at increased risk of developing type 2 diabetes within thenext five years. Previous research has shown that adults with prediabetes who complete a human-led DPP, which help participants makelifestyle changesto diet and exercise, are58% less likelyto develop type 2 diabetes, as shown in the CDC's originalDiabetes Prevention Program (DPP) clinical study. However, access barriers, such as scheduling conflicts and availability, have limited the reach of these programs.
+
+Of the approximately 100CDC-recognized digital DPPsavailable, AI-DPPs represent only a minor subset, and data demonstrating their effectiveness compared with human-led programs islacking.
+
+In the study, the researchers tested whether a fully AI-driven program could provide adults with prediabetes similar health benefits as yearlong, group-based programs led by human coaches.
+
+"Even beyond diabetes prevention research, there have been very few randomized controlled trials that directly compare AI-based, patient-directed interventions to traditional human standards of care," says Nestoras Mathioudakis, M.D., M.H.S., co-medical director of the Johns Hopkins Medicine Diabetes Prevention & Education Program and study principal investigator, regarding the absence of medical literature on health benefits of AI-based DPPs.
+
+During the COVID-19 pandemic, 368 middle-aged (median age 58 years) participants volunteered to be referred to either one of four remote, 12-month, human-led programs or a reinforcement learning algorithm app that delivered personalized push notifications guiding weight management behaviors,physical activityand nutrition.
+
+Overall, participants were 71% female, 61% white, 27% Black, and 6% Hispanic. All participants met race-specific overweight or obese body mass index cutoffs, and had a diagnosis of prediabetes prior to starting the study.
+
+In both groups, a wrist activity monitor was used to track participant physical activity for seven consecutive days each month during the 12-month study.
+
+While participating, study volunteers continued to receive medical care from theirprimary care providers, but could not participate in other structured diabetes programs or use medications that would affect glucose levels or body weight, such as metformin or GLP-1 agonists.
+
+Once referred, the researchers did not promote engagement in the program and only followed up with both groups at the 6- and 12-month marks.
+
+"The greatest barrier to DPP completion is often initiation, hindered by logistical challenges like scheduling. So, in addition toclinical outcomes, we were interested in learning whether participants were more likely to start the asynchronous digital program after referral," says study co-first author Benjamin Lalani, currently amedical studentat Harvard Medical School and research associate working in the Mathioudakis Lab.
+
+After 12 months, the study team found 31.7% of AI-DPP participants and 31.9% of human-led DPP participants met the CDC-defined composite benchmark for diabetes risk reduction (at least 5%weight loss, at least 4% weight loss plus 150 minutes of physical activity per week, or an absolute A1C reduction of at least 0.2%).
+
+Results demonstrated that similar outcomes can be achieved by a human coach-based program and an AI-DPP. Moreover, the AI-DPP group had higher rates of program initiation (93.4% vs. 82.7%) and completion (63.9% vs. 50.3%) in comparison to the traditional programs.
+
+Researchers believe ease of access increased participant engagement in the AI group, showing that AI interventions could be an effective alternative to existing human-coached programs. As such, primary care providers may consider AI-led DPPs for patients in need of a lifestyle change program, especially those with considerable logistical constraints.
+
+"Unlike human-coached programs, AI-DPPs can be fully automated and always available, extending their reach and making them resistant to factors that may limit access to human DPPs, like staffing shortages," says Lalani. "So, while the black-box nature of AI is a commonly citedbarrier to clinical adoption, our study shows that the AI-DPP can provide reliable personalized interventions."
+
+Looking ahead, the study team is interested in exploring how the AI app outcomes they observed translate to broader, underserved, real-world patient populations who may not have the time or resources to engage in traditional lifestyle intervention programs.
+
+Additionally, several secondary analyses are underway, which intend to explore patient preference with AI vs. human modality, the impact of engagement on outcomes in each intervention and costs associated with AI-led DPPs.
+
+As a part of the study, Sweetch Health, Ltd. and the participating DPPs received financial compensation for providing services to participants. The DPPs did not have access to the overall cohort results, did not analyze data from the study, and did not provide interpretations of the results.
+
+Maruthur and The Johns Hopkins University receive royalty distributions related to an online diabetes prevention program not discussed in the publication. The arrangement terms have been reviewed and approved by The Johns Hopkins University in accordance with its conflict-of-interest policies.
+
+More information:Nestoras Mathioudakis et al. An AI-Powered Lifestyle Intervention vs. Human Coaching in the Diabetes Prevention Program,JAMA(2025).DOI: 10.1001/jama.2025.19563Journal information:Journal of the American Medical Association

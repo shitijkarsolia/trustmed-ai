@@ -1,0 +1,19 @@
+Thread ID: 1or8z5a
+Subreddit: hypertension
+Title: I keep getting crazy numbers like this and nothing is done
+Author: Wrinklysocks22
+Created UTC: 2025-11-07T15:54:01
+Score: 0
+Num Comments: 11
+URL: https://reddit.com/r/hypertension/comments/1or8z5a/i_keep_getting_crazy_numbers_like_this_and/
+Canonical URL: https://reddit.com/r/hypertension/comments/1or8z5a/i_keep_getting_crazy_numbers_like_this_and/
+Collected: 2025-11-15T02:22:49.259687
+===============================================================================
+
+I dont understand why my diastolic jumps up like that. Usually when I laugh or stressed etc. Yes its common for BP to rise but this is insane. https://preview.redd.it/rrixnbx00xzf1.jpg?width=640&amp;format=pjpg&amp;auto=webp&amp;s=54d39b3526dee86271076a58c81691ba510378c2
+
+---
+## Comments
+1. u/droid_mike [score=3, created=2025-11-07T20:26:51]: That second number has to be an error. There's no way that you have a pulse pressure of only 10, even for a moment. Anyways, it's an aberration, so that's not real... Maybe it's from a PVC or something like that? More likely, a reading error on your cuff. Any hiccup while it is taking blood pressure can cause erroneous measurements.
+2. u/AKHwyJunkie [score=3, created=2025-11-07T17:38:58]: It's probably important to understand what these numbers mean. The top number (systolic) is the pressure exerted when the heart pumps blood into the body. The bottom number (diastolic) is essentially the "baseline" pressure of the circulatory system. BP will shift and change constantly, with activity of any sort raising the pressure (both numbers) to support the activity. This is done by the body's parasympathetic nervous system, it's literally what makes you function. Treatment of blood pressure is a game of averages, not peaks. A non-hypertensive person will certainly have (much) higher than "normal" values under stress or activity, but that's a peak. (Nor is it dangerous long term.) If you average these readings over time and during periods of rest, you're just barely at the point where treatment is usually desirable. Most doctors will refrain from treatment, due to the potential for medication issues, until its clearly necessary. Furthermore, home based units can also be inaccurate. (Many units provide a 3x test and provide an average, which help rule out errant tests.)
+3. u/Affectionate-Key916 [score=1, created=2025-11-07T22:23:08]: Do you on any BP drugs subscribed by your doctor? Did you take these BP readings at proper sit down position, relaxed and calmed ?

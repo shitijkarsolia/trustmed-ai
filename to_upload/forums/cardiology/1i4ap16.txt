@@ -1,0 +1,33 @@
+Thread ID: 1i4ap16
+Subreddit: Cardiology
+Title: do cardiologists work with CT surgeons?
+Author: Prit717
+Created UTC: 2025-01-18T09:05:34
+Score: 23
+Num Comments: 34
+URL: https://reddit.com/r/Cardiology/comments/1i4ap16/do_cardiologists_work_with_ct_surgeons/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1i4ap16/do_cardiologists_work_with_ct_surgeons/
+Collected: 2025-11-15T08:31:44.686452
+===============================================================================
+
+hello, I'm a med student and I was just curious about this. I had heard this before somewhere and wanted to check if it was true. Is there any instances where as a cardiologist, you need to enter an OR and help the CT surgeon with something for a shared patient?
+
+---
+## Comments
+1. u/Crass_Cameron [score=98, created=2025-01-18T09:26:12]: TAVR TUESDAY!!!
+2. u/Dramatic-Try7973 [score=50, created=2025-01-18T09:18:22]: I work in the electrophysiology lab. We were preforming a PVI/watchman implant last week. It is believed that the left atrial appendage was perforated from the ablation catheter. We noticed a sharp decrease in pressures and saw they had developed a pretty big effusion on ICE. We attempted to drain the effusion via pericardial tap. After an hour of draining fluid and no change in effusion size, we realized it was a losing battle and needed to get the patient down to the OR. As we were preparing to get the pt off the table, they went into PEA and VT as they were full tamponade at this point. We started compressions (my first time doing CPR) and the CT surgeons rushed into the lab. At this point there must have been 20 ppl in the lab as they were getting ready for an emergency sternotomy. Ended up cracking the chest right there in the EP lab and go in to stop the bleeding. Once pt was stable enough, he was taken down to the OR where he received an atriaclip. Pt made a full recovery. Very hectic, especially as this was my first time being in a code. So… CT surgeons do work with cardiologist sometimes.
+3. u/Onion01 [score=46, created=2025-01-18T09:14:16]: Very closely. I’ll go to the OR sometimes to assist in an intraop TEE, or give opinions on vessels to graft during CABG. But I’m not scrubbing into the surgery itself. We also scrub in together for certain percutaneous procedures, like TAVR. There they act as my assistant, and also are prepared to open the chest if something goes wrong. I’m close friends with my CT surgeons.
+4. u/woobagoobagreenteeth [score=11, created=2025-01-18T09:31:40]: Cards fellow here. In my experience we work with CT surgery a lot, but not often in the OR itself besides maybe some TAVR models and lead extraction. In the community I have heard of cardiologists doing intraop TEEs if there isn’t a cardiothoracic anesthesiologist but I think most high volume centers don’t do this. Interventional/structural works a lot with CT surgery on deciding on PCI/CABG, TAVR/SAVR, pre op or post op (I.e graft evaluations, button implant evals) coronary angiograms, and then CT surgery will provide support if there are complications with percutaneous procedures. Transplant/HF cards and CT surgery work very closely in deciding on treatment/managing end stage HF patients and supporting them to and through transplant or LVAD. Our EP department does a lot of management of peri op arrhythmia issues (pacemakers, post op afib). But obviously most of these are not necessary intraop support.
+5. u/pillaylay [score=4, created=2025-01-18T09:36:35]: As an EP at a tertiary referral center, I maintain a strong relationship with my CT surgeons. We collaborate on complex device extractions. They collaborate with structural heart. They've called me into the OR rarely to look at rhythms or help place temporary wires....but otherwise pretty rare. Would be unlikely as a general cardiologist.
+6. u/Affectionate-Rope540 [score=4, created=2025-01-18T09:52:14]: Mitraclip, TAVRs, TEE
+7. u/brighteyes789 [score=3, created=2025-01-18T09:28:47]: In my center, cardiac surgeons are a bit different than our thoracic surgeons. I work with cardiac surgeons all the time. We have shared rounds twice a week, they come to review echos pre and post op, and often there is intra-operative guidance with TEE. Even post op, we will get called about some of the more medicine side of cardiology. Love our surgeons and I’ve learnt a lot from them.
+8. u/zeey1 [score=3, created=2025-01-18T11:46:50]: No, except for your interventional cardiology
+9. u/WSUMED2022 [score=3, created=2025-01-18T15:22:24]: I'm surprised HF/transplant isn't mentioned here.
+10. u/kylemiller94 [score=2, created=2025-01-18T11:23:27]: In general it’s a very collaborative relationship
+11. u/Ibutilide [score=2, created=2025-01-18T15:21:02]: In EP at my hospital, we do our lead extractions in the OR with CT Surgery on standby to open the chest should we tear the SVC. The most common inpatient consult we receive is post-cardiac surgery HDAVB or CHB. IC also does TAVR and MitraClip in the OR with CT Surgery on standby. We have good relationships all around.
+12. u/North-Leek621 [score=1, created=2025-01-18T09:16:57]: In the hospital where I volunteered there was a heart team. CT surgeons, interventional, HF even vascular all of them worked together on complex cases. Was amazing to see :)
+13. u/steph-wardell-curry [score=1, created=2025-01-18T09:29:56]: As a noninvasive guy, yes. On matters of hemodynamics (we don’t have hf), TEEs for valve cases, opinions on intraop TEE, etc.
+14. u/ConstantBreak6241 [score=1, created=2025-01-18T11:16:46]: All the time
+15. u/vasjpan002 [score=1, created=2025-01-18T11:42:41]: Gated CT
+16. u/Thatguy7242 [score=1, created=2025-01-18T16:55:22]: IABP Insertions, angiovac, alternative access, fixing closed bypasses, as said TAVR /TMVR Tuesday, many, many reasons for interventionalist and CTS to comingle. Also disease states beyond our ability to fix percutaneously. They're your best friend when you need a window or have a unresolvable perf.
+17. u/No_Mathematician3764 [score=1, created=2025-01-24T21:57:53]: Hola alguien puede responderme esto? De un paciente con costocondritis y arritmias, es normal recetarle Atenolol Meloxicam?

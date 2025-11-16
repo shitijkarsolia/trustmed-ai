@@ -1,0 +1,19 @@
+Thread ID: 1if4aie
+Subreddit: Cardiology
+Title: I am an assistant lecturer in cardiology and I am interested in regenerative medicine. I need your advice.
+Author: sz_70
+Created UTC: 2025-02-01T04:21:23
+Score: 6
+Num Comments: 3
+URL: https://reddit.com/r/Cardiology/comments/1if4aie/i_am_an_assistant_lecturer_in_cardiology_and_i_am/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1if4aie/i_am_an_assistant_lecturer_in_cardiology_and_i_am/
+Collected: 2025-11-15T08:31:33.661305
+===============================================================================
+
+I am interested in the use of stem cells and tissue scaffolds in regenerating healthy valves/replacing diseased myocardium. There are courses being held to give us an deeper dive into stem cells and extracellular vesicles. Do you think these in-depth courses will be beneficial from a cardiologist perspective? Should a cardiologist know these core basics and the how-to or just learn the crude applications only?
+
+---
+## Comments
+1. u/SynbiosVyse [score=3, created=2025-02-01T05:39:42]: From perspective of PhD researcher, I see this field still years away from practical use. Clinicians please correct me if I'm wrong if this is actually relevant in the clinic nowadays. I don't think a course would be necessary, unless there's some specific modern aspects that are relevant. I'd start by reading up on the Piero Anversa scandal. https://www.reuters.com/investigates/special-report/health-hearts-stem-cells/ Then go to to GRC Cardiac Regulatory Mechanisms to get the latest info.
+2. u/redicalschool [score=3, created=2025-02-01T06:45:25]: Probably not generally useful to the average cardiologist, unfortunately. Although regenerative medicine is interesting, it's generally not considered to be developed well enough to be practical. Not to mention, the only exposure most traditional clinical physicians have to regenerative medicine is from hearing about the shysters and grifters of the world that are peddling non-tested treatments using autologous tissues and fluids of various sorts. We are generally taught in med school (when I went through 5-8 years ago at least) that the evidence for most things in regenerative medicine is weak at best. I'm not saying your field of interest is entirely bogus, I just don't think it's really ready for prime time yet. If any specialty demands data and solid medical literature prior to changing practice, it's probably cardiology. Kind of stuck in our ways until things are well proven.
+3. u/Less-Organization-25 [score=1, created=2025-02-01T15:05:13]: I agree with above two. It’s not ready for prime time yet, and there are other cardiology developments in the pipeline that are much closer to fruition that you might want to focus upon (eg amyloid antibody treatment - I’m in heart failure).

@@ -1,0 +1,18 @@
+Thread ID: 1n27u4l
+Subreddit: Cardiology
+Title: Advice on pursuing a PhD
+Author: Time_Raccoon_6035
+Created UTC: 2025-08-28T02:43:34
+Score: 3
+Num Comments: 2
+URL: https://reddit.com/r/Cardiology/comments/1n27u4l/advice_on_pursuing_a_phd/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1n27u4l/advice_on_pursuing_a_phd/
+Collected: 2025-11-15T08:28:07.527110
+===============================================================================
+
+Hi, I’m about to start my final year of medical school in Italy, and I have a strong interest in pursuing a career in cardiology. I’m reaching out to ask for your suggestions and recommendations, as I’m currently considering doing a PhD in cardiovascular research. I’ve spent several weeks shadowing in cardiology wards. While I greatly enjoy the clinical work, I also want to gain experience in research. My impression from shadowing was that most clinicians primarily follow established guidelines to diagnose and treat patients. Before fully committing to clinical practice, I would like to gain cutting-edge knowledge in a specific area through research, and then transition into a more clinical role. My first question is whether, in your opinion, pursuing a PhD is a valuable step for someone aiming to become a cardiologist. Does having a PhD provide meaningful benefits in this field? If so would you recommend doing the PhD before or after residency? And lastly do you have any recommendations regarding institutions where I could pursue a PhD? One idea I’ve been considering is applying for a PhD position at the Karolinska Institute after graduating from medical school. During the four years of the PhD, I plan to learn the language so that I can later choose to do my residency either in Italy or Sweden. Thank you very much for your time and any insights you can offer.
+
+---
+## Comments
+1. u/FIRE_CHIP [score=1, created=2025-08-29T03:28:39]: In the USA at least if you want a career in clinical cardiology my advice would be don't pursue a PhD. If you want a career part research and part clinical it might be reasonable to do. Not sure how it is in Sweden or Italy though.
+2. u/dayinthewarmsun [score=1, created=2025-08-30T01:08:48]: I don't know about Italy. In the USA, it is generally a bad idea to get a PhD. It can be a golden ticket, but the opportunity cost is too high.

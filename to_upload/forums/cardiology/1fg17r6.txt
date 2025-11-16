@@ -1,0 +1,18 @@
+Thread ID: 1fg17r6
+Subreddit: Cardiology
+Title: Isosorbide ER formualtion  and tolerance 
+Author: dukemallard
+Created UTC: 2024-09-13T11:02:24
+Score: 3
+Num Comments: 4
+URL: https://reddit.com/r/Cardiology/comments/1fg17r6/isosorbide_er_formualtion_and_tolerance/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1fg17r6/isosorbide_er_formualtion_and_tolerance/
+Collected: 2025-11-15T08:33:29.349119
+===============================================================================
+
+Hi, I am a pharmacist. I am hoping you may be able to help fill a gap in my clinical knowledge. I have always been under the impression that the extended-release formulation of isosorbide is meant to be dosed once daily to reduce the risk of tolerance development. I have a heart failure patient who is being prescribed isosorbide ER twice daily. When I called the cardiologist to discuss, the nurse told me that it was correct and that the cardiologist prescribes it twice daily routinely. Is the tolerance development not clinically significant? Is this heart failure specific dosing? Any thoughts, guidance or references are appreciated.
+
+---
+## Comments
+1. u/dayinthewarmsun [score=4, created=2024-09-13T23:44:15]: In general it is prescribed once daily due to tachyphylaxis. However… - More frequent dosing may be done temporarily (for a few days inpatient, for instance), as an alternative to nitroglycerin drip or topical. - Since the half life is short, about 6 hrs, some will give BID doses on the half-life (take a dose at 6 AM and noon) with the idea that there will still be a reasonable nitrate-free window. I’m not sure how well this works, and I don’t do it, but it is done. - There is some evidence/speculation that tachyphylaxis may be mitigated or avoided with concomitant use of hydralazine.
+2. u/br0mer [score=2, created=2024-09-13T12:42:43]: cardiologist is an idiot, plain and simple.

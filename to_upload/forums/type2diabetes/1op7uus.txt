@@ -1,0 +1,18 @@
+Thread ID: 1op7uus
+Subreddit: type2diabetes
+Title: CGMs not working?
+Author: shimmertoyourshine
+Created UTC: 2025-11-05T09:41:14
+Score: 4
+Num Comments: 8
+URL: https://reddit.com/r/type2diabetes/comments/1op7uus/cgms_not_working/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1op7uus/cgms_not_working/
+Collected: 2025-11-15T08:12:11.620089
+===============================================================================
+
+My GCM fell off at the pool yesterday. I came home and applied a new one - didn’t work. So I tried another one - same issue. 4 in a row gave me this message. I tried various application points. Has anyone had this issue? Do they just not work for me? The one I had on previously seemed fine. Freestyle Libre 2.
+
+---
+## Comments
+1. u/rckblykitn14 [score=2, created=2025-11-05T17:11:58]: Is it the Libre 2 or the 2 PLUS? The 2 was discontinued in September for the 2 plus.
+2. u/No_Sundae_1068 [score=3, created=2025-11-05T11:44:41]: Call the company and they will replace them. Are you using lotion? That's the only time I had one fall off. Restart the app.

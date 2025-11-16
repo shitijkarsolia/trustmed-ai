@@ -1,0 +1,30 @@
+Thread ID: 1lr4t7j
+Subreddit: Cardiology
+Title: Beta blocker after ppm
+Author: prolongedQT314159
+Created UTC: 2025-07-03T17:04:23
+Score: 9
+Num Comments: 34
+URL: https://reddit.com/r/Cardiology/comments/1lr4t7j/beta_blocker_after_ppm/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1lr4t7j/beta_blocker_after_ppm/
+Collected: 2025-11-15T08:28:57.378480
+===============================================================================
+
+80M with htn, no AFib/cad/vt history, comes in for asymptomatic sinus bradycardia to 30s. Int Cards does a carotid massage and documents a '7s pause'. Gets a pacemaker. Is a beta blocker warranted at discharge? My thought in absence of a clear indications it isn't. Appreciate the input. Edit. Was on Lisinopril for htn Edit 2 sinus bradycardia I'm a hospitalist. I inherited the patient on the day the pacemaker went int. Int Cardio wanted metoprolol. I didn't see an indication. I refused to told them to ask their pa to add at discharge. (Our cardiologist were previously sued for inappropriate procedures and I don't trust their medical decisions). Just trying to see if there is something im missing. Edit 3: The reason I am asking strangers on r/cardio is because I've seen poor medical decisions over and over again. Our cardiologists are interventional. Our cardiologist will routinely restart metformin after cath. Place 5 stents in patients with diabetes/triple vessel disease instead of referring out for CABG. Start Vericiguat for their first presentation for heart failure while not on full GDMT. Choose dopamine as first line for cardiogenic shock. Place pts with hfpef on dopamine to 'assist' with diuresis. DAPT with asa and effient on all pts etc etc.
+
+---
+## Comments
+1. u/noltey22 [score=24, created=2025-07-03T17:16:47]: I mean what are you treating exactly? I’m not being rude but from the limited vignette I’m just asking? Certainly some distant CAD history wouldn’t warrant BB usage. Now if he previously required high dose BB usage for rate control of his Afib that’s a different matter.
+2. u/qkhb [score=12, created=2025-07-03T17:07:47]: Why would you? Beta blockers are not first line for hypertension.
+3. u/pillaylay [score=14, created=2025-07-03T19:09:56]: Nothing about this makes sense. Carotid massage inducing a pause is not an indication for a pacemaker.
+4. u/br0mer [score=5, created=2025-07-03T17:08:51]: no
+5. u/Silly_Bat_2318 [score=3, created=2025-07-03T17:43:31]: I’m guessing he was receiving atenolol for hypertension (distant past this was one of the first line meds no?) - i’d stop it and switch him to a ccb/ace inh if no contraindications and if his HTN is through the roof
+6. u/jiklkfd578 [score=3, created=2025-07-03T20:27:06]: Both of you guys are confusing me.
+7. u/CaramelImpossible406 [score=3, created=2025-07-04T05:39:26]: Becsuse he/she was sued before doesn’t mean you can’t ask them directly a question to clarify your doubt. Why is medicine so full of people who likes to throw others under the bus. Let’s grow up.
+8. u/BibliotecarioDeBabel [score=3, created=2025-07-04T08:41:06]: Reasonable for VT and GDMT if HFrEF is present. Need more info and context to adjudicate such. If it's for remote CAD or HTN, it's not a good choice.
+9. u/shahtavacko [score=6, created=2025-07-03T18:02:30]: Was the guy in the habit of giving himself carotid massages from time to time? Asymptomatic bradycardia is an indication for a PPM? Others have said no to BB, he has no indication for a BB of course.
+10. u/Conscious-Kitchen610 [score=2, created=2025-07-04T02:29:09]: Not wanting to be a dick but why didn’t you just ask the cardiologist what their indication/rational for initiating metoprolol was?
+11. u/[deleted] [score=1, created=2025-07-04T00:43:56]: You have given no reason why he should have a BB. If you want to use a BB for the hypertension then you can but it slightly depends upon what the pacemaker setting is set to. If it merrily allows him to run at his sinus rate of 30 if he is asymptomatic but is set to pace just long pauses (say rate &lt; 20 maybe with hysteresis) to conserve battery then a BB may drive his rate lower and convert him to pacing dependant. If the device is set to 60ish and he is now pace dependant it makes no difference.
+12. u/Primary_Towel5905 [score=1, created=2025-07-07T00:51:18]: Why was a carotid massage being done on a asymptomatic sinus Brady?
+13. u/Guidewire_ [score=1, created=2025-07-10T08:54:13]: $ounds like his cath volume is dropping $o he’$ doing stuff like this. The metoprolol… yeah no indication, unless low EF?
+14. u/Drinksky [score=1, created=2025-07-21T07:16:11]: You should bring these specific cases to the attention of your institution’s peer review board. There should be some quality assurance process in place to evaluate this behavior.

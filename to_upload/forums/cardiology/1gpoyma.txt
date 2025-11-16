@@ -1,0 +1,21 @@
+Thread ID: 1gpoyma
+Subreddit: Cardiology
+Title: Current ECG Recommendations
+Author: Deltasidearm
+Created UTC: 2024-11-12T09:39:31
+Score: 10
+Num Comments: 6
+URL: https://reddit.com/r/Cardiology/comments/1gpoyma/current_ecg_recommendations/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1gpoyma/current_ecg_recommendations/
+Collected: 2025-11-15T08:32:45.433432
+===============================================================================
+
+I'm a current USMD M4 set on cardiology/EP. I have Thaler's The Only EKG Book You'll Ever Need, but I want a deeper understanding of how surface ECG translates to what's physically happening over primary pattern recognition for my own curiosity. From prior posts and looking at previews, it seems like Chou's Electrocardiography may be the best source for this but the most recent edition was published in 2008. Should I consider any other resources instead?
+
+---
+## Comments
+1. u/15erich [score=8, created=2024-11-12T16:11:33]: I really like https://www.ecgacademy.com/about.html. The videos are really good and he’s great about explaining the why on everything.
+2. u/rads2riches [score=4, created=2024-11-12T15:33:45]: A Visual Guide to ECG Interpretation by Martin and Martindale
+3. u/KtoTheShow [score=2, created=2024-11-13T20:43:54]: Chou’s. Still a good reference
+4. u/EnergyMobile4400 [score=2, created=2024-11-14T02:23:36]: A Visual Guide to ECG interpretation, Goldberger, Marriott are all good. Chou is still great but it's not for students and non-cardiologists. Goldberger's ECG book is written for students and houseofficers (author says), and the book mentions Chou as a 'further reading' resource
+5. u/astrofuzzics [score=1, created=2024-12-09T09:43:57]: Go to ECG Wave Maven. Free website with 500+ annotated EKGs run by the Beth Israel Deaconess hospital group. Browse their EKGs. When you encounter findings and/or explanations you don’t understand, look them up for further reading. This is the best practice bank for students, with excellent explanations/answers to the presented examples, and it’s totally free.

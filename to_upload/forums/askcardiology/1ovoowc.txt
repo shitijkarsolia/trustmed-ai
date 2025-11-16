@@ -1,0 +1,17 @@
+Thread ID: 1ovoowc
+Subreddit: askCardiology
+Title: How common is blood culture negative infective endocarditis?
+Author: Good-Championship278
+Created UTC: 2025-11-12T19:02:22
+Score: 2
+Num Comments: 1
+URL: https://reddit.com/r/askCardiology/comments/1ovoowc/how_common_is_blood_culture_negative_infective/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1ovoowc/how_common_is_blood_culture_negative_infective/
+Collected: 2025-11-15T08:38:36.410273
+===============================================================================
+
+Anesthesiologist here! My uncle just got dx with IE after a 3wk hospitalization. From what I understand from my cousin who’s an OBGYN, his initial presentation was fatigue with elevated WBC and trop, one episode of AFib on tele (no prior hx of AFib), and fevers of unknown origin. BCx were neg, initial CXR unremarkable, TTE just showed mod aortic regurg (chronic, not new). Eventually he developed noncardiogenic pulm edema which they were tx with Lasix (he has h/o CKD so they weren’t too aggressive). Apparently they never did a TEE because of his high O2 requirements...not sure how high his requirements were but I know he was never intubated, not sure if he was on BIPAP Anyways, my cousin had been wracking her brain and finally presented this idea to ID and they got a repeat TTE (almost 3wks after initial presentation) showing MV vegetations. Again BCx negative the entire time. Apparently he’d recently had a cracked tooth which was pulled.
+
+---
+## Comments
+1. u/Impressive_Donut3122 [score=1, created=2025-11-12T19:35:58]: BCNIE is relatively uncommon, occurring in roughly 5–10% of all IE cases. The most common causes are prior antibiotic use and infections with fastidious organisms.

@@ -1,0 +1,19 @@
+Thread ID: 1kopqd9
+Subreddit: Cardiology
+Title: Flutter?
+Author: BarbDart
+Created UTC: 2025-05-17T03:22:14
+Score: 6
+Num Comments: 6
+URL: https://reddit.com/r/Cardiology/comments/1kopqd9/flutter/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1kopqd9/flutter/
+Collected: 2025-11-15T08:29:38.467068
+===============================================================================
+
+40 y/o M with Hx of repaired TOF in childhood, known Flutter, mild COPD, presenting with palpitations I thought this was atypical flutter with variable ventricular response, known CRBBB btw
+
+---
+## Comments
+1. u/Ibutilide [score=4, created=2025-05-17T07:13:50]: Based on the history alone, I have a high suspicion for an atriotomy flutter (going around the scar created by previous open heart surgery as the circuit). There may well be multiple circuits or loops to the flutter. When I have a patient with many previous open heart surgeries or congenital heart disease, a lot of the usual “rules” or patterns we see on surface ECG may not hold. If the patient is symptomatic, I would have a low threshold to take him or her to the EP lab for this.
+2. u/Material-Ad5426 [score=2, created=2025-05-17T03:34:14]: Cannot really tell from this photo how irregular is is, seems a bit to irregular for 1:3 vs 1:2 conducting
+3. u/hughvr [score=2, created=2025-05-17T06:09:05]: Could also be MAT.

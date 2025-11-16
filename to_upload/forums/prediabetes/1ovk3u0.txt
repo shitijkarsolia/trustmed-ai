@@ -1,0 +1,19 @@
+Thread ID: 1ovk3u0
+Subreddit: prediabetes
+Title: New to managing prediabetes
+Author: JustJack70
+Created UTC: 2025-11-12T15:45:16
+Score: 1
+Num Comments: 7
+URL: https://reddit.com/r/prediabetes/comments/1ovk3u0/new_to_managing_prediabetes/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1ovk3u0/new_to_managing_prediabetes/
+Collected: 2025-11-15T08:23:02.589948
+===============================================================================
+
+Hey all, Hopefully this hasn’t been asked repeatedly and I missed it, but I recently (six weeks ago) was diagnosed as pre-diabetic. My lab work results had my A1C at 5.7 and and avg glucose of 117. I’ve since been looking at carb/sugar amounts on what I buy, and am switching up my diet, avoiding pasta, white breads, etc. And this weekend I bought a home glucose monitor. Yesterday afternoon, about four hours after breakfast, I tested at 104. First thing this morning, I got a result of 128! This was after 8 hours sleep. I thought it was supposed to be lower after a night’s rest and now I’m confused and a little disheartened. Is there something I’m not taking into account? Thanks in advance!
+
+---
+## Comments
+1. u/sciencenerd75 [score=2, created=2025-11-12T15:57:39]: This could be due to dawn phenomenon when your liver pumps out glucose to keep your blood sugar from going down too low. This happens early in the morning. I usually get a brief spike after I wake up and walk around.
+2. u/East_Collection_5672 [score=2, created=2025-11-12T19:29:27]: Read this: https://buttondown.com/beat-the-spike/archive/the-dawn-effect-why-your-blood-sugar-spikes/
+3. u/MagicalBean_20 [score=1, created=2025-11-13T09:24:04]: What brand of meter did you get? Some seem to be more reliable than others and some, like CareSens, reportedly measure high.

@@ -1,0 +1,67 @@
+Title: Alzheimer's: Certain combinations of prescription drugs may slow progression of disease, according to mice study
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-05-alzheimer-combinations-prescription-drugs-disease.html
+Canonical URL: https://medicalxpress.com/news/2025-05-alzheimer-combinations-prescription-drugs-disease.html
+Filename: Medical_Xpress_Alzheimers_Certain_combinations_of_prescription_drugs_may_slow_progression_of_disease_according_to_m.txt
+Collected: 2025-11-15T17:12:13.485984
+===============================================================================
+
+Title: Alzheimer's: Certain combinations of prescription drugs may slow progression of disease, according to mice study
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-05-alzheimer-combinations-prescription-drugs-disease.html
+Collected: 2025-11-15T17:12:13.485835
+
+================================================================================
+
+Alzheimer's: Certain combinations of prescription drugs may slow progression of disease, according to mice study
+
+by Silvia Maioli and Francesca Eroli,The Conversation
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+written by researcher(s)
+
+Millions of older adults takefive or more prescription drugsevery day to manage chronic illnesses. While polypharmacy is often necessary, this practice has also been linked tomany negative health outcomesin older adults—including memory problems, increased risk of falls and greater frailty.
+
+Themost common prescription drugsinvolved in polypharmacy are those used to treat conditions such ashigh blood pressure, high cholesterol and depression. Importantly, these same conditions are alsoknown risk factorsfor Alzheimer's disease.
+
+This raises an important question: could polypharmacy have any influence on the progression of Alzheimer's disease?
+
+Ourrecent researchin mice suggests that certain prescription drug combinations might actually have a positive effect on memory and signs of Alzheimer's disease. However, these effects appeared to differ depending on whether the mouse was male or female.
+
+To better understand how polypharmacy may affect Alzheimer's disease, we designed an experiment using mice that were genetically altered to develop Alzheimer's-likebrain changes. These mice hadamyloid plaques—clumps of protein in the brain that, with time, are linked with memory loss and considered ahallmark of Alzheimer's disease.
+
+We tested two different combinations offive commonly prescribed drugs, including: analgesics (painkillers), antithrombotics (to preventblood clots), lipid-modifying agents (such as statins, which lower cholesterol), beta-blockers (which help controlling arrhythmias and hypertension) and ACE inhibitors (used to treat cardiovascular conditions), as well as antidepressants.
+
+Both groups of mice were given paracetamol, aspirin, an antidepressant, a statin and a blood pressure drug. The only differences between the two groups were the specific types of statin and cardiovascular drugs used. The first group were given simvastatin and metoprolol, while the second group was given atorvastatin and enalapril.
+
+We gave these prescription drug combinations to both male and female mice. We then tested their memory, examined their brains for signs of disease and analyzed blood samples for disease-related markers.
+
+Our findings showed that polypharmacy has both positive and negative effects on Alzheimer's disease progression. The effects largely depended on which specific drug combinations were used as well as the sex of the mice.
+
+The first drug combination had beneficial effects inmale mice. These mice showed better memory, reduced signs of Alzheimer's pathology in the brain (such as the number and size of amyloid plaques) and fewer signs of the disease in their blood. This suggested that polypharmacy delayed the progression of Alzheimer's disease.
+
+In females, however, the same combination had very little to no effect on signs and symptoms of the disease.
+
+But for the mice in the second combination group, the results were different. The benefits previously seen in males disappeared. In female mice, their memory worsened.
+
+We also looked at what happened when some of the drugs were taken on their own. In some cases, they had beneficial effects for the female mice—improving memory and signs of Alzheimer's disease in the brain. For instance, the statin simvastatin improved memory and reduced signs of brain inflammation in female mice when the drug was taken on its own.
+
+Polypharmacy and brain health
+
+These results show how complex the effects of polypharmacy can be, especially in the context of a brain disease such as Alzheimer's. They also suggest that men and women may respond differently to certain drug combinations.
+
+This is not surprising. Biological sex is known to influence how drugs are absorbed and metabolized andtheir effect on the body. When it comes to polypharmacy, these differences can become more pronounced, having aneven stronger effecton drug safety and efficacy.
+
+This could partly help explain why the same drug combinations had very different effects in the male and female mice in our study. Other possible explanations for why certain drug combinations only improved signs and symptoms of the disease in male mice includesex differencesin hormone levels and differences in immune responses that may influence how drugs work in the brain. Understanding these mechanisms will be key to tailoring safer and more effective treatments for the disease.
+
+Our study confirms that current, universal prescribing approaches forolder adultsmay not be ideal.
+
+It's also worth noting that older women aremore likely to be polypharmacy userscompared to men. This highlights the importance of understanding the effects ofpolypharmacythat are specific to men and women, and developing more personalized prescribing approaches.
+
+Future translational studies (from mice to humans) looking at how drug combinations affect Alzheimer's in males and females are also warranted to help reduce risks and improve health care in the aging population.
+
+The global population is continuing to age, which means that an even greater number of people are going to beat risk of developing Alzheimer's disease. This is why it's so important we understand all of the causes of the disease and how it can be prevented.
+
+This article is republished fromThe Conversationunder a Creative Commons license. Read theoriginal article.

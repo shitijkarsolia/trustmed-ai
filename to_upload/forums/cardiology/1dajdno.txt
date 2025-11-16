@@ -1,0 +1,18 @@
+Thread ID: 1dajdno
+Subreddit: Cardiology
+Title: Why is soft S1 heard in first degree block?
+Author: According_Tourist_69
+Created UTC: 2024-06-07T12:24:12
+Score: 3
+Num Comments: 3
+URL: https://reddit.com/r/Cardiology/comments/1dajdno/why_is_soft_s1_heard_in_first_degree_block/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1dajdno/why_is_soft_s1_heard_in_first_degree_block/
+Collected: 2025-11-15T08:34:41.779680
+===============================================================================
+
+Currently studying the topic and came across this correlation. Tried searching on Google but couldn't find anything, the closest thing i could find was just stating the fact in another way," delayed ventricle contraction leads to soft s1" , but why is soft s1 heard here? Is it because there is longer for ventricular filling to occur as systole is delayed, resulting in the valves being closer to a closed position, hence not travelling a lot during ventricular contraction, which leads to a soft s1?
+
+---
+## Comments
+1. u/Nervous-Slide [score=4, created=2024-06-07T19:39:57]: &gt; Is it because there is longer for ventricular filling to occur as systole is delayed, resulting in the valves being closer to a closed position, hence not travelling a lot during ventricular contraction, which leads to a soft s1? Yep exactly
+2. u/fruityuv [score=1, created=2024-07-20T09:48:43]: .

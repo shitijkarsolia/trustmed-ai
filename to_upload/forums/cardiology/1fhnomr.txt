@@ -1,0 +1,19 @@
+Thread ID: 1fhnomr
+Subreddit: Cardiology
+Title: Afib vs SVT?
+Author: BarbDart
+Created UTC: 2024-09-15T14:26:12
+Score: 2
+Num Comments: 19
+URL: https://reddit.com/r/Cardiology/comments/1fhnomr/afib_vs_svt/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1fhnomr/afib_vs_svt/
+Collected: 2025-11-15T08:33:28.182185
+===============================================================================
+
+https://reddit.com/link/1fhnomr/video/eg72bttaj1pd1/player NCT in a 91 y/o M POD 2 after urgent hernia surgery. was called to this gentleman for new tachyarrythmia. ecg shows NCT to 175\~ bpm with RR that seems regular but hard to say at this rate. Was stable and reported palpitations. Has no cardiac history and is overall healthy and rather fit for his age. Afib or SVT based on this info? Obv the former is much more common in his age group. Apologize for the video didn't take a pic of the printed strip My thought was 175 is pretty rapid ventricular response for a 91 y/o AV node and called this (albeit unusually) SVT thoughts? pic for easy zoom in: https://preview.redd.it/cq5hba2js1pd1.jpg?width=1170&amp;format=pjpg&amp;auto=webp&amp;s=2c5f7b5f52fe25bad8bd46d1479d97d70cb92b42
+
+---
+## Comments
+1. u/PNW-heart-dad-5678 [score=5, created=2024-09-15T18:40:42]: It’s REALLY hard for if not impossible for a 91 year old’s sinus node to go 170. I’ve never seen it as a Cardiologist in practice for 10 years. Even a fib would be rare to go that fast in a 91 year old because of the difficulty in the AVN to transmit that fast. For the sake of documenting the rapid response it would be very reasonable to just say it was a narrow complex tachycardia and treat with AVN blockers. Recommend ambulatory monitor at discharge.
+2. u/Talks_About_Bruno [score=1, created=2024-09-15T15:04:52]: Pretty sure it’s ST but I can zoom in. Edit: Pretty sure I see Pw in lead II.
+3. u/drschmockter [score=1, created=2024-10-11T16:52:15]: Late to the game here but this is very likely to be an atrial tachycardia.

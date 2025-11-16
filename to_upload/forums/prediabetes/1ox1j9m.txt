@@ -1,0 +1,19 @@
+Thread ID: 1ox1j9m
+Subreddit: prediabetes
+Title: Passed 2 hr Oral GTT, but high fasting/A1C
+Author: travelworkoutwine
+Created UTC: 2025-11-14T09:41:45
+Score: 1
+Num Comments: 7
+URL: https://reddit.com/r/prediabetes/comments/1ox1j9m/passed_2_hr_oral_gtt_but_high_fastinga1c/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1ox1j9m/passed_2_hr_oral_gtt_but_high_fastinga1c/
+Collected: 2025-11-15T08:22:24.954283
+===============================================================================
+
+Background Info: I am a 40 year old female who has had borderline high fasting blood sugar numbers since early 20's (anywhere between 100 and 120). I also have had borderline high A1C readings every 6 months (ranging from 5.5 to 6.0) since 2019 when my doctor started drawing my A1C. I also had gestational diabetes that I controlled with diet (I don't think it was actually gestational-I think it is just my normal high blood sugar). I am 5'5" and weight 115 pounds (naturally small framed person, not underweight). I do resistance training 4 times a week and slow run or walk another 2-3 times per week. I get 8,000 to 10,000 steps on other days. I follow a fairly healthy, but not perfect, diet and live a fairly low stress life. I decided this was the year I am going to figure out what is going on with my body so I started wearing a Lingo CGM. I have learned that any sort of carbs, even healthy ones, spike my blood sugar (think chickpeas, sprouted grain bread, etc), as well as distance running and things like hot showers. Unhealthy carbs (pasta, pizza, rice, French fries) put be more 200 and will keep me elevated above 140 for hours. Based on this and my other readings I asked my primary for a referral to endocrinology. I saw the doctor and she dismissed my request to draw insulin and c-peptides (not sure how I feel about this) and sent me for a 2 hr GTT to see if metformin might be a good option. I was wearing my Lingo when I I did this. GTT Results (also including Lingo readings): Fasting: 105 (blood draw); 96 (lingo); 116 (finger prick - the lab tech said she thinks her finger prick machine was running high) 1 hr: no blood draw; &gt;200 (lingo) 2 hr: 104 (blood draw); 135 (lingo - but admittedly was spiking up and down at this time, Lingo didn't show a 104 reading until 3 hours after testing) So a few questions - has anybody "passed" a GTT test with borderline A1C - mine was 5.7 in October? Thoughts on the huge difference between the Lingo and blood draw at 2 hours when the fasting reading was more consistent? Where would you go from here? I did send the doctor my Lingo chart from yesterday after she messaged me questioning my 2 hour result.
+
+---
+## Comments
+1. u/LMAquatics [score=1, created=2025-11-14T10:15:36]: So you did a GTT and they only took a fasting glucose and 2-hr glucose and no insulin?
+2. u/Healthy-Zebra-9856 [score=1, created=2025-11-14T11:07:15]: I agree with u/LMAquatics, your doc should have ordered more tests. Fasting glucose can be as a result of hepatic insulin resistance, fat buildup in the liver. This can happen due to dietary reasons or other medical conditions. High saturated fat, alcohol etc can contribute to hepatic insulin resistance but the Dr. should be looking at other factors, like Liver, Kidney numbers, Lipids, Iron &amp; B12 levels.
+3. u/USC2018 [score=1, created=2025-11-14T21:13:01]: I’m going through something similar after being diagnosed GD, but I failed the post partum OGTT and have a low a1c of 4.5 (i think because i’ve been eating like a rabbit for months- if i eat something carby i’m in the 200’s). Dr wants me to just continue to monitor before doing more tests but I feel like I’ll only get attention if I go off the rails and eat “normally”. I’m accepting of a T2 diagnosis if that’s what it is, but I’m also very small framed and active with none of the usual risk factors. I’ve been thinking about paying out of pocket for labcorp testing

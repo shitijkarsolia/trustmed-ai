@@ -1,0 +1,83 @@
+Title: Community health centers provide care for 1 in 10 Americans, but funding cuts threaten their survival
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-community-health-centers-americans-funding.html
+Canonical URL: https://medicalxpress.com/news/2025-11-community-health-centers-americans-funding.html
+Filename: Medical_Xpress_Community_health_centers_provide_care_for_1_in_10_Americans_but_funding_cuts_threaten_their_survival.txt
+Collected: 2025-11-15T17:11:35.013089
+===============================================================================
+
+Title: Community health centers provide care for 1 in 10 Americans, but funding cuts threaten their survival
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-11-community-health-centers-americans-funding.html
+Collected: 2025-11-15T17:11:35.012906
+
+================================================================================
+
+Community health centers provide care for 1 in 10 Americans, but funding cuts threaten their survival
+
+by Jennifer Spinghart,The Conversation
+
+edited byGaby Clark, 																								reviewed byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+written by researcher(s)
+
+Affordable health care was theprimary point of contentionin the longest government shutdown in U.S. history, which hit 43 days on Nov. 12, 2025.
+
+This fight highlights a persistent concern for Americans despite passage of the landmark Affordable Care Act 15 years ago.
+
+In 2024,27.2 million Americans, or 8.2%of the population, lackedhealth insuranceentirely. A significant number of Americanshave trouble affording health care, even if they do have insurance. The tax and spending package signed by President Donald Trump into law in July 2025 puts a further 16 million Americans at risk oflosing their health care insurance by 2034, according to the Congressional Budget Office.
+
+Many people who lack or have insufficient health insurance seek health care from a network of safety net clinics called community health centers. Even though community health centers provide care for1 in 10 peoplein the U.S.—and 1 in 5 inrural areas—many people are unaware of their role in the country's medical system.
+
+As anemergency physicianand the director of thestudent-led community health programat the University of South Carolina School of Medicine in Greenville, I collaborate with the community health center in Greenville and am closely familiar with how these types of providers function.
+
+These clinics often operate on razor-thin margins and already function under continual demands to do more with less. Slated cuts to health care spending from the tax and spending bill and funding uncertainties that were driven by the shutdown threaten to destabilize them further.
+
+What are community health centers?
+
+Community health centers are clinics typically located in low-income areas that provideaffordable health careto everyone, regardless of their ability to pay. Their history isrooted in the Civil Rights Movement.
+
+In 1964, as activists traveled through the South to register Black voters, a group of doctors, nurses andsocial workersthatcalled themselves the Medical Committee for Human Rightsformed to provide emergency first aid and to support civil rights workers, volunteers and thelocal communitiesthey engaged with.
+
+Witnessing how intimately poor health in some of these communities was tied to living in conditions of extreme poverty, the group embraced the mission of providing health care as a way tofight the injustice of racism. Their idea was that treating illnesses and chronic conditions that stemmed from poverty would enable people to rise out of poverty and shape their own destiny.
+
+The original community health centers were calledNeighborhood Health Centers, and the first two—one in Boston and the other in Mississippi—opened in 1966. They were funded as part of President Lyndon B. Johnson'sWar on Poverty, which introducedlegislation that launched safety net programs, including Medicare and Medicaid, designed to support Americans experiencing economic hardships.
+
+Community health centersquickly multiplied over the following decadesand became a cornerstone of the U.S. health care system. These health centers took a broad approach to patient care, focusing on preventive nutrition and health education. They also sought to help with challenges that weren't strictly medical but also affect people's health, such aslanguage barriers, lack of transportation and housing insecurity.
+
+Different types of community health centers
+
+Most community health centersreceive the majority of their fundingfrom the federal government. These clinics, called Federally Qualified Health Centers, must fulfill some specific requirements.
+
+For one thing, they must bestrategically located to be accessibleto people in low-income communities with fewer available medical professionals. They must also minimize other barriers to care—for example, by providing language interpreters and offering telehealth services if appropriate. Additionally, they must be governed by a board in which at least 51% of the members are people who live in the local community.
+
+In 2023, such clinicsreceived over US$5.6 billionin federal funding. In addition to directfederal governmentsupport, they oftenrely on reimbursements from Medicaidto cover their costs. Some also receive state funding and private funding, as well as money from private insurance of the few patients who do carry it.
+
+People who lack Medicaid or private insurance, or who are underinsured, receive care at no cost if theirincome is below 200% of the poverty level, and on a sliding scale otherwise.
+
+Another type of community health center is often referred to as a "free clinic" or a"look-alike" clinic. These clinics typically rely on private grant funding or charitable donations. They are usually run by volunteers, and they often operate on limited schedules and have limited access to specialists.
+
+In 2024, there were more than 1,500 federally funded health clinics providing services in over 17,000 different locations and more than775 documented free or charitable clinicsacross the U.S. Together, these two types of community health centersprovide free care to over 30 million people.
+
+The community health project that I direct,called Root Cause, falls into a third category of free safety net health care generally referred to as "pop-up" or makeshift medical clinics. These projects vary widely, but Root Cause, which is run by medical students, operates as a monthly health fair that provides simple screenings for high blood pressure and diabetes as well as education on preventive care and healthy lifestyles.
+
+Pop-up projects like ours are more precarious than other types of community health centers, but through grants and partnerships with organizations in Greenville, we have managed to keep this program funded for eight years.
+
+Compounding stressors
+
+Community health centersare extremely cost-effective, providing primary care to more than 10% of the U.S. population at the cost of just 1% of the country's total health care spending. But withhealth care costs risingand Medicaid and insurance reimbursements failing to keep up, community health centers are increasingly being asked to do more with less.
+
+The 2025 government shutdown added further uncertainty to community health centers' operations. Although government funding and reimbursements through Medicare and Medicaid continued, having fewer government workers to complete the administrative tasks that these clinics rely on slowed their access to funds.
+
+In the long term,cuts to Medicaid of up to $1 trillionincluded in the government's tax and spending package are likely to decrease community health centers' funding by limiting Medicaid reimbursements.
+
+Simultaneously, those cuts and other policy changes, such asnew work requirements for Medicaid, are likely tostrip millions of Americans of health coverage—pushing more people to seek free or low-cost care. Cuts toSupplemental Nutrition Assistance Program benefitswould increase food insecurity as well as stress—bothfactors that directly affect health—and thus may have the same effect.
+
+Given that community health centers provide a kind of long-term stopgap for health care in high-need areas, decreasing their capacity could destabilize other elements of local health care delivery systems. For example, uninsured people who can't access care at community health centers may turn toalready overburdenedhospital emergency rooms, which arerequired by law to treat them.
+
+As funding cuts imperil health care access, the need for safety net health care only grows. These opposing forces may be putting an untenable strain on a vital service so many Americans rely on.
+
+This article is republished fromThe Conversationunder a Creative Commons license. Read theoriginal article.

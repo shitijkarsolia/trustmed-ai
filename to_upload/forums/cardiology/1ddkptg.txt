@@ -1,0 +1,19 @@
+Thread ID: 1ddkptg
+Subreddit: Cardiology
+Title: Why is there a Q wave with TWI in lead III that resolves under inspiration- what's the pathophysiology?
+Author: rosh_anak
+Created UTC: 2024-06-11T11:05:18
+Score: 9
+Num Comments: 4
+URL: https://reddit.com/r/Cardiology/comments/1ddkptg/why_is_there_a_q_wave_with_twi_in_lead_iii_that/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1ddkptg/why_is_there_a_q_wave_with_twi_in_lead_iii_that/
+Collected: 2025-11-15T08:34:33.541918
+===============================================================================
+
+(No selftext provided.)
+
+---
+## Comments
+1. u/Accomplished-Road338 [score=9, created=2024-06-11T13:45:57]: Change in axis due to change in the position of the heart with phases of respiration.
+2. u/fruityuv [score=1, created=2024-07-20T09:46:40]: .
+3. u/Duskwood_Reaper [score=1, created=2024-10-06T05:22:31]: In Bulgaria we call this phenomenon Ettinger's lead or Ettinger's test

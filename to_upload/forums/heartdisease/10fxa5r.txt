@@ -1,0 +1,18 @@
+Thread ID: 10fxa5r
+Subreddit: HeartDisease
+Title: Advice on an ECG - arrhythmia felt after shock/adrenaline
+Author: ooccooccoo
+Created UTC: 2023-01-19T02:15:54
+Score: 2
+Num Comments: 2
+URL: https://reddit.com/r/HeartDisease/comments/10fxa5r/advice_on_an_ecg_arrhythmia_felt_after/
+Canonical URL: https://reddit.com/r/HeartDisease/comments/10fxa5r/advice_on_an_ecg_arrhythmia_felt_after/
+Collected: 2025-11-15T02:25:15.603166
+===============================================================================
+
+Hi I've been getting arrhythmia recently when I really push myself physically (weights, surfing) or get a shock that causes an adrenaline rush. Usually they go away within a couple of minutes but I did have one bad episode where my heart didn't beat right for a whole evening and didn't get back to normal until I'd been to sleep. In hindsight I should have gone to hospital but I was in denial about what was going on. I managed to catch the latest occurrence on my fitbit charge 5. I think the really big peaks are from where I wasn't sat still enough but you can see extra beats around 6s and 14s and other places. Other symptoms I have is heavy lifting causes chest pains (angina?) and spasm like feelings around my heart (but they don't show up on ECG). If I've had a bad day I often feel like my heart is beating quite hard (but not fast) when I'm at rest, to the point where lying on my left side or front when trying to sleep isn't possible as I can feel my heart beating so much. Jogging and hiking feel good though and don't seem to worsen it. I've seen doc and cardiologists blood tests and ECG done and they say they can't pick anything up. Not had echocardiagram yet, then that's next step. This has been going on for a couple of months and I would love to know what's wrong with me
+
+---
+## Comments
+1. u/melly_says_hi [score=2, created=2023-08-19T22:00:10]: Don't rely on this EKG reading hun. The "abnormalities" on it are artifacts from you moving around, so it won't give an accurate EKG.
+2. u/YogurtConstant [score=2, created=2023-10-27T09:28:36]: i’ve had pretty much the same reading on my fitbit ecg. i was having anxiety attacks at the time, and the messed up reading was due to a reading error. don’t sweat the fitbit too much. doctors have much better instruments.

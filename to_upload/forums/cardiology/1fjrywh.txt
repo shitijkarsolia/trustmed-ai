@@ -1,0 +1,17 @@
+Thread ID: 1fjrywh
+Subreddit: Cardiology
+Title: Testamur vs Diplomate status for echo certification
+Author: caffeineismysavior
+Created UTC: 2024-09-18T05:48:17
+Score: 2
+Num Comments: 1
+URL: https://reddit.com/r/Cardiology/comments/1fjrywh/testamur_vs_diplomate_status_for_echo/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1fjrywh/testamur_vs_diplomate_status_for_echo/
+Collected: 2025-11-15T08:33:20.497441
+===============================================================================
+
+Does getting Diplomate status really matter for a cardiology career? I see many practicing cardiologists have the Testamur from the physician verification website, but not many have the Diplomate status. Slightly unrelated question: who should consider getting the title of fellow of the American Society of Echocardiography (FASE)?
+
+---
+## Comments
+1. u/dayinthewarmsun [score=2, created=2024-09-18T07:23:02]: It depends where you will practice. 90%+ of places just require COCATS 2 level of competence and don’t require ASE diplomat status/certification. However, you may need this certification to (1) lead a certified echo lab or (2) at certain (typically academic) institutions if you want to read echos. I haven’t seen the testamur status used for anything (except to prove that certification is pending).

@@ -1,0 +1,30 @@
+Thread ID: 1j9r9lt
+Subreddit: Cardiology
+Title: Eliquis vs Xarelto vs Pradaxa vs Warfarin
+Author: Smilin-_-Joe
+Created UTC: 2025-03-12T11:37:32
+Score: 22
+Num Comments: 37
+URL: https://reddit.com/r/Cardiology/comments/1j9r9lt/eliquis_vs_xarelto_vs_pradaxa_vs_warfarin/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1j9r9lt/eliquis_vs_xarelto_vs_pradaxa_vs_warfarin/
+Collected: 2025-11-15T08:30:57.754573
+===============================================================================
+
+Which do you use most and under what circumstances do you try your second preferred?
+
+---
+## Comments
+1. u/wannaberesident [score=42, created=2025-03-12T12:32:33]: Apixaban is pretty much my default. Obviously, if patient has mechanical valve, APLS etc. have to go warfarin. Low dose riva for certain indications. Dabigatran very rarely if at all.
+2. u/acecode47 [score=13, created=2025-03-12T15:54:41]: I prefer Apixaban in most cases because it is superior to Warfarin in stroke/embolism prevention and also has a lower bleeding risk. Even LV thrombus and Afib in HOCM can now be treated with DOACs. Warfarin for mechanical valves, valvular atrial fibrillation and antiphospholipid antibody syndrome.
+3. u/lagniappe- [score=13, created=2025-03-12T13:48:55]: 95% of the time eliquis. The only exceptions are: 1. Xarelto for younger/healthier person who doesn’t want to take a pill twice a day (rarely run into this) 2. Generic Pradaxa is an option for people who have insurance that doesn’t cover eliquis. But I just tell people to take eliquis script to a Canadian pharmacy which ends up being about the same price or even cheaper. 3. Warfarin if LV thrombus (and I think they can FU with INRs (otherwise I use eliquis) 4. Warfarin obviously for mechanical valves or mod-severe MS. If they have APL syndrome then heme onc should be managing. I don’t think anyone should be using something other than eliquis unless above scenarios. Anytime I see someone using a lot of Xarelto I assume they’re a paid speaker or something
+4. u/BigAorta [score=5, created=2025-03-13T10:55:05]: 1) eliquis 2) go back to no. 1. 3) xarelto only for QD dosing 4) pradaxa only due to $ insurance reasons 5) warfarin = mech valves, V-AF, APLS
+5. u/decydiddly [score=11, created=2025-03-12T12:41:25]: Xarelto for morbidly obese. Warfarin for indications other poster mentioned. Apixaban for all else. Edit: looked it up and seems I am mistaken about apixaban and obesity. Early trials did not include those with BMI &gt;40, but subsequent observational and retrospective reviews have shown similar efficacy to Xarelto in BMI &gt;50 even. https://pubmed.ncbi.nlm.nih.gov/34820876/
+6. u/awesomeqasim [score=3, created=2025-03-12T21:25:41]: One common point against DOACs is CP C cirrhosis - they’re not well studied at all and are highly protein bound. Most by the book guidelines recommend warfarin in these patients
+7. u/karlkrum [score=4, created=2025-03-12T13:46:44]: pradaxa (generic) is $66/mo with singlecare coupon at walgreens (like goodrx but sometimes cheaper)
+8. u/spicypac [score=2, created=2025-03-13T10:47:32]: I’m an Eliquis die hard. Xarelto if people can’t remember to take meds twice a day (*rolls eyes). Fuck Pradaxa and fuck Kaiser for preferring it.
+9. u/Icy_Head_4802 [score=2, created=2025-03-13T18:03:37]: Eliquis Eliquis Eliquis. Although their patient assistance program has gone to shit so seeing more switched to warfarin for those that can’t afford Eliquis Another thing to add with DOACs vs warfarin is history of major abdominal surgery (gastric sleeve, removal of portions of small intestines/etc) - have to know what drugs are absorbed where and if you are going to have efficacy
+10. u/InternalMedGeek [score=2, created=2025-03-14T06:14:55]: And how about the place of enoxaparin in the States? I’m from South Africa and we’re unfortunately still heavily dependent on Clexane and warfarin as the DOACs aren’t readily available (in the government/state sector).
+11. u/Glittering-Muscle135 [score=2, created=2025-03-15T20:15:16]: As mentioned below with Eliquis being the drug of choice in most scenarios. I do use ASA + Xarelto 2.5mg BID for pts with PAD (COMPASS trial). Eliquis is not approved for this indication in PAD.
+12. u/Wafflewas [score=1, created=2025-04-09T06:54:28]: I’ve been talking Pradaxa for a year without incident. No significant side effects at all. I was told that a benefit of Pradaxa over some other options is that the rapid reversal agent idarucizumab can be given before emergency surgery or an invasive procedure. Is this true for Eliquis and Xarelto as well? The other positive experiences I’ve had with Pradaxa are that the electrophysiologist who did my ablation did the procedure with no dosage adjustment. He said that he took precautions with some other anticoagulants but generally not with Pradaxa. And, I had dental surgery with minimal complications, just halted Pradaxa for two days before the procedure and the day of the procedure. It was a seamless experience. I can get any medication I want. Price is not an issue. My cardiologists seem to prefer Pradaxa. What are they missing?
+13. u/Latter-Letterhead-60 [score=1, created=2025-06-25T22:16:53]: I've been on all of them at 40 years of age now. I'm predisposed to clots so I'm on them for life. One thing that doesn't get documented with Xarelto or Eliquis as much is predisposing you to skin inflammation. The doctors labelled it as psoriasis (autoimmune disorder) but being on those two medications increased my psoriasis SO MUCH, mainly on my legs up to the thighs. Xarelto caused more itchiness than Eliquis. Taking warfarin and Pradaxa never caused those issues for me. Pradaxa isn't bad, although i have more diarrhea episodes while taking it. I may go back to it, to save myself from having to apply all these corticosteroids and generally cheaper with insurance. The rest of the thread has been really thorough about the efficacy though.
+14. u/Separate-Primary7721 [score=1, created=2025-07-14T18:17:34]: What price did you pay with Pradaxa

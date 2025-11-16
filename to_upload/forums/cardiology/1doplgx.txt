@@ -1,0 +1,17 @@
+Thread ID: 1doplgx
+Subreddit: Cardiology
+Title: dacron graft ---&gt; dental prophylaxis
+Author: Weary_Lie7598
+Created UTC: 2024-06-25T21:05:36
+Score: 3
+Num Comments: 3
+URL: https://reddit.com/r/Cardiology/comments/1doplgx/dacron_graft_dental_prophylaxis/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1doplgx/dacron_graft_dental_prophylaxis/
+Collected: 2025-11-15T08:34:16.909138
+===============================================================================
+
+my pt just had an elective TAA repair and hemiarch replacement with dacron graft, 71M hypertension no other reason for TAA his valves were fine and pt otherwise healthy no cancer or immunosuppresants, no diabetes, no central line etc etc. no hx of infections etc. he plans to have teeth cleaning and maybe extraction. I am thinking, there is no harm in doing dental prophylaxis just 30-60min before with the usual 2G amoxicillin As far as I can tell, ESC guidelines and papers i have read from thoracic surgery point of view IIa recommendation for antibiotics in this case. our US guidelines does not seem to discuss a dacron graft for the thoracic aorta in particular. our US guidelines only discusses homografts and prosthetic valves I think risk&lt;benefit for this one and agree with european guidelines any thoughts or experience????
+
+---
+## Comments
+1. u/Onion01 [score=5, created=2024-06-26T05:07:06]: My opinion: dental prophylaxis makes for a good board test question but is a pointless topic in real life. It’s not like we’re discussing placing patients on daily, suppressing antibiotics. Dental procedures are infrequent, oral antibiotics are cheap and generally well tolerated, the consequences of device infection are catastrophic. The risk/benefit scale for me vastly favors giving antibiotics. If you’ve got prosthetic material, I’m recommending taking a few pills of amoxicillin when you’re getting your teeth cleaned.

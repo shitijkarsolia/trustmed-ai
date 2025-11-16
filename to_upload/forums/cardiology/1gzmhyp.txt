@@ -1,0 +1,19 @@
+Thread ID: 1gzmhyp
+Subreddit: Cardiology
+Title: Curious how others would formally overread an EKG with the following findings
+Author: CoC-Enjoyer
+Created UTC: 2024-11-25T09:13:34
+Score: 13
+Num Comments: 6
+URL: https://reddit.com/r/Cardiology/comments/1gzmhyp/curious_how_others_would_formally_overread_an_ekg/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1gzmhyp/curious_how_others_would_formally_overread_an_ekg/
+Collected: 2025-11-15T08:32:37.409324
+===============================================================================
+
+So I recently started a new position where I am overreading more ED and floor EKGs. There is a class of EKGs that I've had trouble deciding of how I formally want to read them, and I've run into them actually quite a few times (5-10 over the past 2 months) They typically include the following characteristics: 1. Very young (i.e 15-25; I read pediatric ECGs) 2. Relatively rightward axis (i.e. right around 90) 3. Big giant S waves V1-V2 (i.e. &gt;30mm im V2) with small R waves (i.e. &lt;2mm) 4. Deep, even dominant S waves in V5-V6 (i.e. R and S wave both 15mm in V6) but with normal sized R waves 5. Other various abnormalities (i.e. biatrial enlargement, or Nonspecific T wave changes... not just isolated high voltages that is probably normal in a healthy young athletic person) Its a clearly abnormal ECG, and I think its actually a finding of LVH with an atypical pattern in the lateral leads (With a borderline RAD being more related to the patient's young age than actual RV hypertrophy). That says, it feels off to read as LVH with dominant S waves in V5-V6; I also didnt want to read as "possibles" in a clearly abnormal ECG. It doesn't matter too much from a practical standpoint, the ECGs are abnormal and in an otherwise young, healthy person will lead to a referral... this is more of an art of medicine question to those more experienced than me. Ive landed on reading it as "Ventricular hypertrophy with a non specific pattern", but "LVH, PO RVH" has crossed my mind as well to not try and get too cute. Curious if others have thoughts
+
+---
+## Comments
+1. u/Sartorius2456 [score=7, created=2024-11-25T09:36:32]: As am adult congenital cardiologist, I am trying to figure out what this could be. Is there iRBBB or RBBB? The V5/V6 pattern is really odd, like maybe dextrocardia? I think nonspecific ventricular hypertrophy is reasonable especially because of how bad LVH/RVH are in terms of sensitivity/ specificity. My gist would be to consider if these patients have atrial septal defects that have been missed (though 10 over a few months is way too many for that). That often presents with RAD and RBBB. Would love to hear follow up - thanks OP!
+2. u/[deleted] [score=1, created=2024-11-25T10:07:49]: I’d suggest something like “potential Ventricular hypertrophy with a non specific pattern, suggest further exam and imaging”. just noting that your language comes across as a set diagnosis, while it sounds like you’re not quite sure(?)
+3. u/Greenheartdoc29 [score=1, created=2024-11-28T13:54:51]: We’d need to see examples. Could be normal Juvenile pattern to rvh.

@@ -1,0 +1,21 @@
+Thread ID: 1muqo3v
+Subreddit: Cardiology
+Title: Resources for NP Starting in General Cardiology
+Author: Accomplished-Wave625
+Created UTC: 2025-08-19T11:26:58
+Score: 0
+Num Comments: 5
+URL: https://reddit.com/r/Cardiology/comments/1muqo3v/resources_for_np_starting_in_general_cardiology/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1muqo3v/resources_for_np_starting_in_general_cardiology/
+Collected: 2025-11-15T08:28:19.074727
+===============================================================================
+
+I’m a NP starting in general cardiology. Going to be a mix of inpatient and outpatient practice. Inpatient will be rounding with physician, placing orders and helping with notes. Outpatient will be general cardiology practice. What resources would you recommend to a NP starting in this area? My supervising physician let me know he’d teach me everything I need to know in 6 months to meet his standards lol. I’ve started the PA/NP core competencies course through Mayo Clinic and have been doing a lot of EKG practice/courses. What other resources would be beneficial? Also, how can I be a good midlevel to assist in the care of the patients of my supervising physician?
+
+---
+## Comments
+1. u/Gideon511 [score=5, created=2025-08-19T13:29:02]: I recommend reading drugs for the heart this will give you a good background for different meds, why we prescribe them etc
+2. u/ElfMistress [score=6, created=2025-08-19T12:31:52]: Bookmark the ACC guidelines and read them. I’d recommend looking at the CAD, HF, afib, and HTN guidelines first as that is the vast majority of what you’ll see in Cardiology.
+3. u/siegolindo [score=6, created=2025-08-19T11:48:04]: Depends on your nursing background but it’s always about the basics. Review your anatomy and physiology. Physical assessment (actually touching patients) and history taking. Understand renal dosing for certain meds. Understand current guidelines for HTN, HLD, HF with and without comorbid conditions. Learn your attendings mindset and be prepared to educate patients on all manner of cards. You have to know arrhythmias tight, and at a minimum basic 12 lead interpretation. Understanding how the electrical output is molded by the physical to determine possible underlying structural changes. Oh and brush up on the vascular system (atherosclerosis, CAD, claudication). Understand rational for risk optimization of preop clearances.
+4. u/JumpStartMyHe4rt [score=1, created=2025-08-24T22:09:11]: Cardiology is really nice in that there are a lot of strong guidelines from bodies like ACC, AHA, JACC, ESC, etc. If you have a commute I recommend throwing on a presentation on guidelines while you drive. Just youtube like "afib guidelines" and there should be a lot. For ECGs, just try to read as many of them as you can and double check with your attending or someone who is confident in reading them. Cover up the computer interpretation, give your interpretation, check with the computer interpretation, then check with someone else. The main thing you want to learn is what a normal ECG looks like, then everything that is abnormal will stick out to you.
+5. u/CaramelImpossible406 [score=1, created=2025-08-19T11:39:47]: Ask questions

@@ -1,0 +1,18 @@
+Thread ID: 1nndyhf
+Subreddit: type2diabetes
+Title: Highs &amp; Exercise
+Author: throwawayaccount931A
+Created UTC: 2025-09-21T22:20:13
+Score: 3
+Num Comments: 4
+URL: https://reddit.com/r/type2diabetes/comments/1nndyhf/highs_exercise/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1nndyhf/highs_exercise/
+Collected: 2025-11-15T08:16:46.660415
+===============================================================================
+
+Hey All - So recently I started cycling. I aim for 1-2 rides that are short (around 17km) and 1 longer (30+ km) however the issue I run into is with high sugar readings on my CGM. I totally understand that as I exercise, my body will release glucose to make sure the body can function, but I've gone from 6 mmol/l to over 10 mmol/l and sometimes will peak at around 12 mmol/l. How do you handle this? Just give yourself a few units of insulin once you're done? I forgot to ask my endocrinologist this at my last appointment so am asking here to see how others deal with this.
+
+---
+## Comments
+1. u/SuspiciouslyDullGuy [score=3, created=2025-09-22T04:59:58]: Intense exercise (hard work) releases hormones (cortisol and epinephrine aka adrenaline) which will raise your blood glucose levels in a number of ways including acting on the liver. As you get fitter the same bike ride might feel less like hard work and the effect may decrease. At the same time the exercise lowers insulin resistance in muscle tissue and that effect lasts somewhat for 24 and perhaps up to 48 hours. If your levels come back down relatively quickly after the exercise then it's not something to worry about too much, though do monitor your blood readings after exercise to be sure the insulin dose you're on isn't too much relative to the lowering of insulin resistance. If levels don't come down quickly then you should definitely discuss with your doctor before changing your insulin dosing, bearing in mind that the situation may change as you get fitter and long bike rides start to feel easier.
+2. u/doulos52 [score=3, created=2025-09-21T23:11:07]: After a heavy resistance workout, my blood glucose rises sharply, but it falls within a few hours to lows unobtainable without the workout; and it helps me stay low for a few days, contrasted with no workouts at all. So, I just let the blood glucose rise and let it fall naturally afterwards. How long does it take for your blood glucose to go back down?

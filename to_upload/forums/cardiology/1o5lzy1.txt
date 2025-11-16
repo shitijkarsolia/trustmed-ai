@@ -1,0 +1,20 @@
+Thread ID: 1o5lzy1
+Subreddit: Cardiology
+Title: Patient's clinical pacemaker/EKG question
+Author: Alternative-Hat6040
+Created UTC: 2025-10-13T07:57:32
+Score: 5
+Num Comments: 13
+URL: https://reddit.com/r/Cardiology/comments/1o5lzy1/patients_clinical_pacemakerekg_question/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1o5lzy1/patients_clinical_pacemakerekg_question/
+Collected: 2025-11-15T08:27:04.078710
+===============================================================================
+
+Good morning my great cardiologists. Hoping to get some insight on a scenario that I have seen couple times. I apologize I don't have a EKG strip. Background - Post sternotomy patient needing dual PPM, previously had episodes of AFib/with amio started followed by bradycardia eventually leading to PPM. Patient has set rate of 70. On monitor patient is being regularly V-paced with rates intermittently in 120. What is happening here? The pacemaker was interrogated and is working fine. Thought process is that patient might have underlying AFib that is causing this. This confuses me a lot so please help me understand. If the patient is in AFib, why is the patient being v-paced at rate of 120s. In AFib, wouldn't pacemaker go into inhibition mode sensing the qrs ? Or since they are coming at irregular intervals, the pacemaker just paced Everytime? I am sorry just a newbie nurse trying to understand. Patient is mostly asymptomatic with maybe slight drop in pressure. He was eventually started on amio again.
+
+---
+## Comments
+1. u/---root-- [score=2, created=2025-10-13T09:12:46]: Are you able to provide the (anonymised) PM interrogation printout?
+2. u/LtleTeapot [score=3, created=2025-10-13T08:07:10]: Hi, Not a cardiologist but a PA in EP. My guess would be an atrial flutter or tachycardia with some of the flutter waves falling into blanking. The device is only seeing an atrial rate below it's mode switch rate and is tracking them to the max track rate of 120. Would ask device to be interrogated by EP/pacemaker team to see if any settings could be adjusted to avoid this.
+3. u/cpnfantastic [score=1, created=2025-10-13T08:26:51]: The ventricular pacing in DDD mode isn’t based on the lower rate programming, but off of timing from either a paced or sensed atrial beat. The atrium decides when it’s time to pace the ventricle, up to a maximum rate, usually around 130 BPM. In this example, the pacemaker is sensing the atrium at 120 BPM and telling the ventricle to keep up at the same rate. Usually when I see this it’s either sinus tach or a relatively slow atrial tach. If the patient was in AF or flutter or a faster AT the pacemaker should recognize that and stop tracking, but if it isn’t sensing the arrhythmia correctly that can cause innapropriate tracking.
+4. u/FIRE_CHIP [score=1, created=2025-10-13T12:10:40]: I suspect the patient's LOWER limit is probably set to 70 and the upper tracking limit is set to 120. So the device is sensing the increased atrial activity and pacing at the upper limit.

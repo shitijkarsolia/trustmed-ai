@@ -1,0 +1,24 @@
+Thread ID: 1j9uvln
+Subreddit: Cardiology
+Title: How do you keep up with different studies?
+Author: choi_wut26
+Created UTC: 2025-03-12T14:09:44
+Score: 29
+Num Comments: 25
+URL: https://reddit.com/r/Cardiology/comments/1j9uvln/how_do_you_keep_up_with_different_studies/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1j9uvln/how_do_you_keep_up_with_different_studies/
+Collected: 2025-11-15T08:30:56.737090
+===============================================================================
+
+How to search for specific studies for procedures or medications, and how to stay up to date with the most important studies and filter out the ones which might not be of concern
+
+---
+## Comments
+1. u/br0mer [score=50, created=2025-03-12T14:47:42]: Everything before graduating is legit, everything afterwards is bullshit.
+2. u/[deleted] [score=32, created=2025-03-12T14:54:52]: The easiest way to identify the important ones are the trials cited in the guidelines. Take a look at this Anki deck of the ~150 most important trials. https://www.mediafire.com/file/xblatqx9syq64ic/ROMA_deck_v2.4.apkg/file
+3. u/Soggy_Freedom [score=6, created=2025-03-12T17:32:55]: Pick 3 journals to track from your speciality plus nejm, use some tools to get the headlines of the newest issue, like email subscription, webscrapper, RSS feeds to your phone...(automate it) , if something sparks interest, use AI tools to summerize the article the way you want so to make it easier to digest and get to the points (this helps alot) something like main question and outcomes in bullet points or table. Now To compare it with previous study ask open evidence to look for similar trial in the past. you can be as detailed as you want at any level (e.g you can ask to compare inclusion criteria of X amount of trial or to make a table of their outcomes, of course it's advised to double check) . If you have more time you can get all the articles/trials of choice and put it into AI app like notebook LM and ask it direct question, I usually do that will guidelines, and it will only try to answer from that documents. You don't have to do the above more that once a month and it will take you less than 30 min if you are just skimming.
+4. u/PrettyPussySoup1 [score=3, created=2025-03-12T15:48:31]: Google Scholar, sign up for emails
+5. u/kttrphc [score=2, created=2025-03-12T17:55:49]: There is a Twitter or X handle on cardiac trials. They do have catchy flashcards on important cardiac trials If you are a resident, There are short summaries of improtant trials available. Kindly look up a PDF document by infusion medicine..
+6. u/Wertyu25 [score=2, created=2025-03-12T20:16:55]: Visualmed app has all the latest trials
+7. u/Cool-Bandicoot-3516 [score=1, created=2025-03-12T14:58:17]: F
+8. u/Zealousideal_Yam4412 [score=0, created=2025-03-12T14:46:50]: F

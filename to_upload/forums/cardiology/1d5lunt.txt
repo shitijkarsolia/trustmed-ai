@@ -1,0 +1,17 @@
+Thread ID: 1d5lunt
+Subreddit: Cardiology
+Title: Survey to understand contribution of risk factors to CVD
+Author: New_Researcher428
+Created UTC: 2024-06-01T05:25:47
+Score: 2
+Num Comments: 0
+URL: https://reddit.com/r/Cardiology/comments/1d5lunt/survey_to_understand_contribution_of_risk_factors/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1d5lunt/survey_to_understand_contribution_of_risk_factors/
+Collected: 2025-11-15T08:34:49.478376
+===============================================================================
+
+Dear doctors, my team is building an AI model on risk stratification, and would like to know how these risk factors rank in your clinical practice. I request you to kindly fill this form, it won’t take more than 2 minutes. Thank you! https://forms.gle/Q1vdJqtuv28VVHEF7
+
+---
+## Comments
+No comments captured.

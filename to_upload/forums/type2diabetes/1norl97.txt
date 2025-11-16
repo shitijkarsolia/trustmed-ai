@@ -1,0 +1,20 @@
+Thread ID: 1norl97
+Subreddit: type2diabetes
+Title: Interesting fact on fasting glucose level
+Author: bloggingtraveller
+Created UTC: 2025-09-23T12:55:57
+Score: 13
+Num Comments: 8
+URL: https://reddit.com/r/type2diabetes/comments/1norl97/interesting_fact_on_fasting_glucose_level/
+Canonical URL: https://reddit.com/r/type2diabetes/comments/1norl97/interesting_fact_on_fasting_glucose_level/
+Collected: 2025-11-15T08:16:40.521567
+===============================================================================
+
+Little background about me, diagnosed with T2 5 months back with HbA1c at 13, started medication with the help of diet and workouts able to bring that to 6.7 after 3 months. I was testing the fasting sugar today morning and found the level as 110mg , without taking any medicine or food, went out for a walk for 30 minutes. Tested again and glucose level was 131 . Not sure what exactly caused this and what would be the best workaround to prevent this. Anyone noted this behaviour or have any suggestions.? Currently taking metaformin-750 2 times a day.
+
+---
+## Comments
+1. u/Frosty-Prune-206 [score=2, created=2025-09-28T11:26:42]: Since being diagnosed about a year ago I’ve consistently found that my morning fasted BG is higher than when I go to bed. (I’m not sleep eating lol.) I spoke with a clinical pharmacist who specializes in diabetes management earlier this year, and she said that aside from the dawn phenomenon some people also get higher and higher BG after a certain point in fasting because they’ve waited too long to eat and their liver starts using glycogen stores. That’s the same mechanism that causes a rise in BG after working out. To me it sounds like that is at play for you, whether because of the exercise or the extended fast - your liver started tapping into stored glycogen. My A1Cs have been decreasing regardless of my higher than optimal AM BG. I would say don’t sweat individual data points as much as looking at the bigger picture.
+2. u/Routine_Inside7341 [score=2, created=2025-09-26T05:48:18]: I wouldn’t consider 131 a spike.
+3. u/catsandplants424 [score=3, created=2025-09-23T17:09:10]: If you had nothing in your system for your body to burn while being active your body will produce its own glucose for energy. Same basic reason for high blood sugar after waking up even though you haven't eaten in many hours. Even if you eat before being active your blood glucose could go up as your body thinks it needs more energy.
+4. u/thaus2021 [score=7, created=2025-09-23T13:09:20]: Don’t worry too much about that, the little spike is very transient. When you exercise, your body calls up glycogen out of storage to supply your muscles with the glucose they need for the exercise. It shouldn’t affect your overall daily levels much at all.

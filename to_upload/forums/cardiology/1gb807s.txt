@@ -1,0 +1,20 @@
+Thread ID: 1gb807s
+Subreddit: Cardiology
+Title: How much problem solving and what type of problem solving does cardiology have?
+Author: BitofNothin
+Created UTC: 2024-10-24T10:19:13
+Score: 8
+Num Comments: 12
+URL: https://reddit.com/r/Cardiology/comments/1gb807s/how_much_problem_solving_and_what_type_of_problem/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1gb807s/how_much_problem_solving_and_what_type_of_problem/
+Collected: 2025-11-15T08:33:00.133103
+===============================================================================
+
+Hi, I'm a first year med student, wanting to learn more about cardiology. I've loved everything about cards, the ability to have meaningful procedures and medicine, the mix of complex and more straightforward patients, and the impactful patient interactions you can have. The only thing I really wonder about is the problem solving in cardiology. I've really liked the kinds of things where you are given a bunch of info about a patient and its up to you to figure out what is going on and how to treat them. Is there much of that in cardiology? From my extremely limited exposure to the field I haven't seen too much of that aspect which is why I ask. Additionally, what types of problems are cardiologists generally solving? Are they complex and requiring some real thought or are many of them just routine? Thanks so much!
+
+---
+## Comments
+1. u/jiklkfd578 [score=13, created=2024-10-24T11:17:33]: Real medicine isn’t like TV medicine.
+2. u/PNW-heart-dad-5678 [score=5, created=2024-10-24T13:08:44]: Such a good question. In all aspects of medicine there is a certain level of problem solving right? For the majority of Cardiology clinic patients there is a symptoms that presents and you have 1 of 5 diagnostic test to apply. Cardiologists are experts at applying those tests and more importantly interpreting those results. In a perfect world most of those tests have been already ordered. There really isn't any great Sherlock Holmes investigations that require great intellect. The great intellect is in learning how to manage those conditions once they've been diagnosed. There are few rare Cardiac conditions that require an enquiring/engaged mind to get to the diagnosis. In general the bread and butter is: chest pain, shortness of breath, arrhythmias, heart failure, and the acute and chronic management of atherosclerosis. I'd say Cardiology is best suited for people who like to fix things (i.e. interventionists, electrophysiology, heart failure) or people who are interested in diagnostic imaging (echocardiograms interpretation, nuclear cardiology imaging, cardiac MRI, and cardiac CT). There are puzzles to solve along the way with all of these patients, tests, and procedures. Best of luck!
+3. u/shahtavacko [score=5, created=2024-10-25T18:26:16]: I’ve been a cardiologist for more than 20 years and am also a chemical engineer and practiced engineering for a couple of years prior to going to med school. I’ve always said medicine is nowhere near as intellectually difficult as engineering was. The sheer volume of what you’re expected to learn is horrendously more than what you’d normally encounter in engineering, but it’s mostly memorization and recall. There obviously are puzzles in all branches of medicine, but House neither exists nor do his cases present that way or are worked up in that manner; it’s mostly a joke really. Most of the intellectual problems in cardiology lie on the side of EP and their treatment choices, the rest is pretty routine really; albeit some of what we do seem like a black box to those outside of our world (even things like treatment of hypertension!).
+4. u/CardiologistCapital [score=1, created=2024-10-26T05:15:35]: If you like Cardiology and problem solving, look at EP.

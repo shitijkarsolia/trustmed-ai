@@ -1,0 +1,26 @@
+Thread ID: 1ov7igx
+Subreddit: diabetes
+Title: How Much Insulin Are You Taking Per Day?
+Author: Ok-Tumbleweed-7378
+Created UTC: 2025-11-12T08:03:21
+Score: 3
+Num Comments: 42
+URL: https://reddit.com/r/diabetes/comments/1ov7igx/how_much_insulin_are_you_taking_per_day/
+Canonical URL: https://reddit.com/r/diabetes/comments/1ov7igx/how_much_insulin_are_you_taking_per_day/
+Collected: 2025-11-15T02:17:00.218424
+===============================================================================
+
+My endocrinologist just increased my basal and bolus rates again on my insulin pump. Its taking 20 - 25 units of insulin per meal to cover 45 carbs, and that puts me in the 200s. I would have to bolus more to get in the 100s but Im afraid of going low. Anyway, with boluses for meals and boluses for non meal corrections, I’m taking around 100 units of insulin per day, and thats not including my basal rate. Is that normal? It seems like a lot to me but maybe its not.
+
+---
+## Comments
+1. u/KillerQueenMirelurk [score=42, created=2025-11-12T08:22:03]: Never compare. Your needs are your needs, do what you gotta do.
+2. u/Far_Negotiation5331 [score=14, created=2025-11-12T08:18:31]: Everyone’s treatment and dosages are different.
+3. u/iaumpqc [score=5, created=2025-11-12T12:57:35]: Honestly. It doesn't matter. Take what you need and don't compare to others. No one is the same...in so many ways.
+4. u/ASSMDSVD [score=4, created=2025-11-12T08:30:13]: I think the concern about going low is so real... And I think you need to talk to your endo about that. Your endo should be helping you feel safe with your diabetes and, being honest, if they aren't, you should find one that will! I can't say if your insulin consumption is high or low, but being in the 200s all the time isn't good.
+5. u/Ok_Medium_5358 [score=3, created=2025-11-12T11:51:17]: Just means you’re very insulin resistant. Have they considered a GLP-1 like Ozempic? Much better at blood sugar control, weight loss which will improve insulin resistance and is all around a much better drug for T2DM
+6. u/Argentinian_Penguin [score=1, created=2025-11-12T08:16:11]: I'm currently taking 18 units of basal insulin and around 20 units of NovoRapid daily. My avg bg is around 130 mg/dL. But I'm T1. And everyone's needs are different.
+7. u/MCMD [score=1, created=2025-11-12T08:22:34]: I do 10-15 per meal but I started exercising daily and it has really helped reduce the amount of insulin I take.
+8. u/rattlinsabre [score=1, created=2025-11-12T08:52:13]: Here's a suggestion; it's just that, but you can try it to get a better idea of what you need. Pick a meal that you like and can be relatively certain the carbs in it. Eat it once, take your normal amount of insulin and write down your numbers before, and every 30 minutes throughout for the next 4 hours. Also include your activity level. If you spike into the 200s and have relatively low activity, try it again with a single variable change -- either be more active or take more insulin, write it down again. Try it at least half a dozen times. Your goal is to get incremental changes that are better, not bomb your sugar levels. You'll get better at guestimating what you need, when, and how long it'll take. Eventually, you'll be able to take a bit more insulin or have more activity and not have to worry about dropping low. It's not a sprint, it's a marathon!
+9. u/CmdrMcLane [score=1, created=2025-11-12T09:16:35]: 6 basal, bolus as needed based on carbs. I eat a very low carb diet most days. 20-30gr a day. Type 1.
+10. u/TheNyxks [score=1, created=2025-11-12T09:17:16]: At one point I was taking 500U of U200 Humalog each day and still didn't have controlled glucose levels, a1c was 9.8 and increasing and was also taking 320U of U200 Trisba and was looking at possibly needing to move over to U500 Humalog (I was on Trulicity at the time), but then Oz was approved in 2018 and within two years things started to come down and stabilize. Something I hadn't seen since being on Byretta from 2005 to 2010. But thankfully things have changed, I've gotten down to around 20u a day of u200 Humalog and and as of last week I'm finally down to 160u of U200 Trisba after being on 1mg for the past 13 months. I was told decades ago that there is no Normal when it comes to how much insulin a person needs, as that varies from person to person and that what you need to take is what you need to take and that is what is normal for you. Though sadly insulin resistance can play a big factor in how much insulin one might need to take as the resistance makes it harder for the body to use the insulin it makes or is given effectively.

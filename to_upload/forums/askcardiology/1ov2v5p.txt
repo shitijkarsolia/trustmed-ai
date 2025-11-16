@@ -1,0 +1,17 @@
+Thread ID: 1ov2v5p
+Subreddit: askCardiology
+Title: Nt-pro bnp - does it stay elevated after heart attack?
+Author: Imaginary-Pin-1030
+Created UTC: 2025-11-12T04:39:16
+Score: 1
+Num Comments: 1
+URL: https://reddit.com/r/askCardiology/comments/1ov2v5p/ntpro_bnp_does_it_stay_elevated_after_heart_attack/
+Canonical URL: https://reddit.com/r/askCardiology/comments/1ov2v5p/ntpro_bnp_does_it_stay_elevated_after_heart_attack/
+Collected: 2025-11-15T08:39:11.180351
+===============================================================================
+
+A family member (65) had heart attack (NSTEMI, chronic occlusion, POBA was done) three years ago and her BNP came back 380. She is asymptomatic. Is it normal for this value to stay elevated after HA?
+
+---
+## Comments
+1. u/Impressive_Donut3122 [score=1, created=2025-11-12T08:55:33]: NT-proBNP can stay mildly elevated long after a heart attack in older adults or if there’s some residual heart muscle damage or stiffness, even without symptoms.

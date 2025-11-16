@@ -1,0 +1,18 @@
+Thread ID: 1oxce4b
+Subreddit: diabetes
+Title: New to Diabetes glucose moniters.
+Author: Kwinjor
+Created UTC: 2025-11-14T16:41:28
+Score: 2
+Num Comments: 4
+URL: https://reddit.com/r/diabetes/comments/1oxce4b/new_to_diabetes_glucose_moniters/
+Canonical URL: https://reddit.com/r/diabetes/comments/1oxce4b/new_to_diabetes_glucose_moniters/
+Collected: 2025-11-15T02:15:55.089424
+===============================================================================
+
+I recently was diagnosed as type 2 diabetic and when I was diagnosed, it tested as me having A1C of 9.8. I just used my accu check monitor for the first time ( after a month my insurance finally approved a device), and my results showed up as 153. I'm just a little confused about how that converts into A1C. Also, i'm open to any tips for new diabetics that anyone may want to share.
+
+---
+## Comments
+1. u/deacc [score=4, created=2025-11-14T16:50:39]: A1C blood test gives you your average blood sugar level over the past three months. A finger prick is giving you your current blood sugar level. The following calculator converts A1C % to mg/dL and mmol/L https://www.hba1cnet.com/hba1c-calculator/
+2. u/Grouchy_Geezer [score=3, created=2025-11-14T17:28:23]: Just a caution here. Mathematically you can convent any glucose reading to an A1c, but it won't be accurate projection of your future A1c, because the A1c is an average of your continuous glucose readings second by second for 3 months. We don't test ourselves enough times to provide the calculation with enough readings to make an accurate estimate of our future A1c. However, if you can include that grain of salt in the calculation, it is fun to do!

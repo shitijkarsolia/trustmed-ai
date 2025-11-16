@@ -1,0 +1,18 @@
+Thread ID: 1owiwo0
+Subreddit: prediabetes
+Title: How to interpret CGM?
+Author: Emergency_Amount4049
+Created UTC: 2025-11-13T18:13:12
+Score: 1
+Num Comments: 5
+URL: https://reddit.com/r/prediabetes/comments/1owiwo0/how_to_interpret_cgm/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1owiwo0/how_to_interpret_cgm/
+Collected: 2025-11-15T08:22:34.784605
+===============================================================================
+
+So I followed the prevailing advice on here which seems to be to get a CGM. I’m enjoying looking at the data, but I’m honestly not sure how to read it. What should I be looking for? Is a spike inherently bad, or only if it exceeds a certain level? Does the relative or absolute blood glucose matter (eg is the goal keeping spikes below 140 mg/dl or below +30 of baseline)? Is a long but low magnitude (&lt;115) spike with multiple peaks bad or good?
+
+---
+## Comments
+1. u/ricopan [score=1, created=2025-11-15T07:17:17]: The first question would be -- what is your goal for using a CGM? I am only on my 3rd, but it has been really interesting for me. I got it at first because I can get very tired after meals, and I was curious if this correlated to blood glucose spikes -- it doesn't look like it. But my blood sugar A1c has been rising, and it looks like this may in part be that whatever I do in the last few hours before bed may have a big impact on my sleeping blood glucose levels --- something I would never know with finger pricks.
+2. u/East_Collection_5672 [score=1, created=2025-11-13T19:35:27]: A spike isn’t always bad, but frequent or sharp ones can be a red flag. Aim to stay below 140 mg/dL, and ideally within +30 mg/dL of your baseline after meals. A slow rise under 115 with gentle curves usually means your body is handling the meal well. Fast rises (like 30+ mg/dL in 30 min) often suggest the meal needs more fiber, fat, or protein. Multiple peaks might mean slow digestion or frequent snacking. You can try the Glucospike AI app to scan meals, see predicted spikes, and get quick suggestions to balance them. Then go for a walk about 20 minutes after eating. Check your CGM and see how that combo affects your spike. That feedback loop builds awareness fast and helps you make better food choices without guessing.

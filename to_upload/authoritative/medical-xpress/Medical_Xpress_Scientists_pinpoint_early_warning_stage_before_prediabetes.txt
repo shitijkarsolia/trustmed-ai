@@ -1,0 +1,61 @@
+Title: Scientists pinpoint early warning stage before prediabetes
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-09-scientists-early-stage-prediabetes.html
+Canonical URL: https://medicalxpress.com/news/2025-09-scientists-early-stage-prediabetes.html
+Filename: Medical_Xpress_Scientists_pinpoint_early_warning_stage_before_prediabetes.txt
+Collected: 2025-11-15T17:11:11.064267
+===============================================================================
+
+Title: Scientists pinpoint early warning stage before prediabetes
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2025-09-scientists-early-stage-prediabetes.html
+Collected: 2025-11-15T17:11:11.064110
+
+================================================================================
+
+Scientists pinpoint early warning stage before prediabetes
+
+by Steven Lee,University of Texas at San Antonio
+
+edited byGaby Clark, 																								reviewed byAndrew Zinin
+
+This article has been reviewed according to Science X'seditorial processandpolicies.Editorshave highlighted
+														the following attributes while ensuring the content's credibility:
+
+peer-reviewed publication
+
+A study from The University of Texas at San Antonio Health Science Center indicates that changes in the body that lead to type 2 diabetes occur long before current diagnostic thresholds for prediabetes are met.
+
+Thefirst-of-its-kind study, published inDiabetes Care, challenges conventional thinking about the onset of type 2 diabetes, identifying a risk category before prediabetes, called "pre-prediabetes." At this stage, people with normal glucose tolerance already have severeinsulin resistance, early beta cell dysfunction andmeasurable cardiovascular disease.
+
+"We've shown that long before you develop diabetes, and even before you meet the criteria for prediabetes, people can be severely insulin resistant," said Ralph DeFronzo, MD, professor of medicine and chief of the Diabetes Division at the Health Science Center, and deputy director of the Texas Diabetes Institute. "Diabetes is a continuous disease; you don't just wake up one day with prediabetes or diabetes."
+
+Rethinking diagnostic criteria
+
+The American Diabetes Association (ADA) defines diabetes based on three separate criteria:
+
+Fasting glucose ≥126 mg/dL
+
+Two-hour glucose during anoral glucose tolerance test(OGTT) ≥200 mg/dL
+
+Prediabetes is similarly defined using slightly lower thresholds. However, these measures are not interchangeable and often identify some at-risk patients while failing to catch others before the disease progresses.
+
+In this study, DeFronzo's team of scientists from the Health Science Center and the Translational Research Department of the Dasman Diabetes Institute in Kuwait examined people with normal glucose tolerance, per ADA standards, and found that one measurement—one-hour glucose levels during an OGTT—is far better at predicting future disease. A value between 120 and 155 mg/dL identified individuals likely to develop prediabetes, and eventually type 2 diabetes, years before standard criteria would spot them.
+
+"The one-hour glucose is far superior to the two-hour glucose test for predicting who will progress," DeFronzo said. "Using this measure, we can see insulin resistance and beta cell problems well before the current definitions kick in."
+
+The case for early intervention
+
+Despite the evidence, the ADA does not currently recommend routine treatment of prediabetes, and there are no drugs approved by the Food and Drug Administration for prediabetes treatment. In high-risk cases, the ADA advises considering metformin, a drug DeFronzo helped bring to the United States but now says is becoming obsolete.
+
+He said today there are more effective treatments for type 2 diabetes, prediabetes and potentially pre-prediabetes. One drug DeFronzo champions is the insulin sensitizer pioglitazone, which has proven to reduce the progression from prediabetes to diabetes by 75%—more than double metformin's effect. Additionally, newer GLP-1 receptor agonists and dual agonists like semaglutide and tirzepatide can cut type 2 diabetes progression rates by up to 85%.
+
+DeFronzo believes high-risk patients, especially those with strong family histories of diabetes or early cardiovascular disease, should be screened early and offered treatment long before they develop type 2 diabetes.
+
+Early detection, early intervention
+
+Through continued research, patient education and off-label prescribing by endocrinologists and other specialists, DeFronzo hopeshealth care providerswill eventually shift toward earlier detection and intervention for insulin resistance, prediabetes and type 2 diabetes. He said this study's findings should prompt more clinicians to consider OGTTs, especially in high-risk populations, and to recognize that significant metabolic and vascular disease can be present long before traditional thresholds for prediabetes.
+
+"Insulin resistance can lead to diabetes, beta cell failure,heart failure, atherosclerosis, liver disease and kidney disease," he said. "We can see it and measure it years before overt diabetes becomes manifest. The sooner we act, the better prepared we are to prevent these outcomes."
+
+More information:Muhammad Abdul-Ghani et al, One-Hour Plasma Glucose Predicts the Progression From Normal Glucose Tolerance to Prediabetes,Diabetes Care(2025).DOI: 10.2337/dc24-2832Journal information:Diabetes Care

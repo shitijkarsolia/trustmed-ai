@@ -1,0 +1,20 @@
+Thread ID: 1ovmwt0
+Subreddit: diabetes_t2
+Title: Dawn phenomenon lasts till 11AM
+Author: SolidLava99
+Created UTC: 2025-11-12T17:41:47
+Score: 13
+Num Comments: 15
+URL: https://reddit.com/r/diabetes_t2/comments/1ovmwt0/dawn_phenomenon_lasts_till_11am/
+Canonical URL: https://reddit.com/r/diabetes_t2/comments/1ovmwt0/dawn_phenomenon_lasts_till_11am/
+Collected: 2025-11-15T02:19:05.959461
+===============================================================================
+
+Since getting a CGM I noticed my dawn phenomenon starts creeping up around 4AM-5AM and lasts until about 11AM - 11.30AM before it goes back to normal. I wake up around 7AM everyday, tried taking my meds earlier as soon as I wake up, having eggs for breakfast and low carb (long black coffee) but alas can't seem to get it back down before that. everything I read says it shouldn't go beyond 8AM, was curious if anyone else in the same boat ?
+
+---
+## Comments
+1. u/Healthy-Zebra-9856 [score=14, created=2025-11-12T18:05:38]: Maybe the underlying problem is hepatic insulin resistance rather than just a normal dawn rise. The typical 3 to 8 AM window only applies when the liver still responds reasonably well to insulin. When the liver is insulin resistant, the glucose output doesn’t shut off after you wake up, so the elevated numbers can run much longer, even up to late morning. A few things can extend it to 10 or 11 AM: 1. Cortisol rhythm: Your cortisol peaks around waking but stays elevated for hours afterward. If the liver is insulin resistant, it keeps releasing glucose the whole time. 2. Hepatic IR: If the liver isn’t responding to insulin, taking meds earlier or going lower carb won’t fix the morning drift. The liver just keeps dumping glucose longer than it should. 3. Low carb breakfast: Eggs and coffee won’t spike you, but they also don’t give any insulin signal to suppress liver glucose output. If hepatic IR is present, the liver needs at least a small insulin response to shut off the flood. 4. Counterregulatory hormones: Growth hormone, adrenaline, and cortisol overlap for longer in some people, especially under stress or sleep disruption. A quick test: Try adding a small amount of low glycemic carbs with some protein, like half a cup of steel cut oats or a slice of whole grain bread with your eggs. If your numbers drop faster afterward, that means your liver needed an insulin signal to shut off production. You’re not alone. In people with hepatic insulin resistance, dawn phenomenon stretching until 10 to 11 AM is actually pretty common.
+2. u/myrichphitzwell [score=4, created=2025-11-12T18:17:05]: I recommend going for a brisk walk until it drops...to the best of your ability. If you can't do that, find some exercise you can do. I had a little under the desk bike thing at one point. Not as good as walk but it helped
+3. u/WaltonGogginsTeeth [score=3, created=2025-11-12T20:46:20]: I was finally able to control it by walking for 20-30 min after breakfast. That and no snacking plus my daily dose of Metamucil. Before I’d get a gradual rise all the way to lunch.
+4. u/TheUrbanBaba [score=2, created=2025-11-12T20:21:54]: I have the same problem, one more thing i realized that sleep cycle and length of your sleep time also decides your cortisol push. We guys have to sleep well no matter what and to sleep early we need to be physically tired and to be physically tired we have move. Experiment what's working with your body....

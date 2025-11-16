@@ -1,0 +1,24 @@
+Thread ID: 1cl8zuz
+Subreddit: Cardiology
+Title: Best way to become an EKG expert?
+Author: footbook123
+Created UTC: 2024-05-05T20:05:49
+Score: 4
+Num Comments: 14
+URL: https://reddit.com/r/Cardiology/comments/1cl8zuz/best_way_to_become_an_ekg_expert/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1cl8zuz/best_way_to_become_an_ekg_expert/
+Collected: 2025-11-15T08:35:16.258156
+===============================================================================
+
+Hey everyone, I’ll be starting my IM internship next month, and I’m interested in cardiology. I would love to hear any advice on how you think I should go about learning EKGs? I was thinking of getting Dubins, but I wanted to hear some other perspectives before making a purchase. Thanks so much for your time!
+
+---
+## Comments
+1. u/EnergyMobile4400 [score=4, created=2024-05-06T03:46:11]: Dubin's is a shit for layman, written by a morally hazardous plastic surgeon. Believe me and don't buy it. My recommendation is a Goldberger's Clinical Electrocardiography. Marriott's is also excellent and more detailed (than Goldberger's), but it's graphic design is old-fashioned. I guess it's for cardio fellows.
+2. u/[deleted] [score=3, created=2024-05-06T11:43:43]: [deleted]
+3. u/Dry_Illustrator6490 [score=2, created=2024-05-06T00:45:13]: Well maybe im not qualified enough to give this advice as i am just a medical student interested in cardiology and ECGs in general Although i found myself pretty good solving some slightly complicated ECGs at the hospital compared to interns and residents I have read few books including Elias B henna practical cardiovascular medicine Marriott’s practical ECG And i do highly recommend Dr Smith Blog ( i read most of the posted cases and i noticed huge improvement) LIFTL website is good if you want to have rapid review of any topic in mind
+4. u/Makaveli_GOAT [score=2, created=2024-05-06T09:57:40]: Suggest https://www.ecgacademy.com/?utm_term=ecg%20academy&amp;utm_campaign=**LP+ECG+Classes+(US)+-+B&amp;utm_source=adwords&amp;utm_medium=ppc&amp;hsa_acc=9907583306&amp;hsa_cam=414210910&amp;hsa_grp=28978869670&amp;hsa_ad=557263664109&amp;hsa_src=g&amp;hsa_tgt=kwd-331828765635&amp;hsa_kw=ecg%20academy&amp;hsa_mt=b&amp;hsa_net=adwords&amp;hsa_ver=3&amp;gad_source=1
+5. u/eiyuu-san [score=2, created=2024-05-07T22:53:56]: I enjoy reading ECG interpretation by Fred Kusumoto. It goes into electrophysiology in great detail without being too difficult to understand. If you really want to go into Electrophysiology and Arrhythmology, then I recommend Clinical Arrhythmology and Electrophysiology. A Companion to Braunwald's Heart Disease. If you want to specialize in Ischemic ECG then ECG in Acute MI by Stephen Smith is great.
+6. u/Beccaboo793 [score=1, created=2024-05-22T03:01:21]: ecg.bidmc.harvard.edu has free practice ekg cases
+7. u/justinecares99 [score=1, created=2024-09-09T22:41:06]: Try Goldberger’s Clinical Electrocardiography or Marriott’s Practical ECG if you want something solid. Also, practicing with real cases can be super helpful. Check out Dreambound for some good resources and courses that could help you dive deeper into EKGs. You can find more info here: [https://dreambound.com/blog/how-to-become-an-ekg-technician](https://dreambound.com/blog/how-to-become-an-ekg-technician) and [https://dreambound.com/blog/ekg-classes-near-me](https://dreambound.com/blog/ekg-classes-near-me). Good luck with your internship!
+8. u/modernmanshustl [score=0, created=2024-05-06T06:58:34]: You don’t need to be an ekg expert to be a good doctor. If you just know how to recognize and treat the common things you’ll be fine. No one is going to appreciate the intern talking about the electrical axis but they will appreciate the one who picks up heart block and can appropriately respond to the patient with “new onset afib” correctly

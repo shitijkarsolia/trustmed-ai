@@ -1,0 +1,29 @@
+Thread ID: 1oo4ns6
+Subreddit: Cardiology
+Title: Isolated elevated lactate with normal blood pressure
+Author: genericuser202
+Created UTC: 2025-11-04T04:10:50
+Score: 15
+Num Comments: 24
+URL: https://reddit.com/r/Cardiology/comments/1oo4ns6/isolated_elevated_lactate_with_normal_blood/
+Canonical URL: https://reddit.com/r/Cardiology/comments/1oo4ns6/isolated_elevated_lactate_with_normal_blood/
+Collected: 2025-11-15T08:26:30.606051
+===============================================================================
+
+Had a case lately where I wanted some second opinions. Elderly lady with anterior STEMI, LVEF 25-30%, low dose Norepinephrine for the cath and the first 2-3 hours afterwards. One time VF during Cath, which was immediately defibrillated. Initially had a lactate of 2.3 and was centralized, after cath Norepinephrine could be weaned quickly and she was clinically well appearing. She then developed a rising lactate up to 5 mmol/l but good blood pressure, MADs around 80s without Norepinephrine. Slightly volume overloaded. Mesenterial ischemia was ruled out and lactate was slightly declining but persisting &gt; 24h and undulating between 3-4. Patient oliguric but responding ok to Lasix. Is this a case where you would give inotropics or not?
+
+---
+## Comments
+1. u/Ok_Atmosphere0909 [score=63, created=2025-11-04T04:13:19]: hypoperfusion is possible without hypotension
+2. u/creamasteric_reflex [score=19, created=2025-11-04T04:18:35]: Yea she was in cardiogenic shock. Not surprising
+3. u/Gideon511 [score=6, created=2025-11-04T04:41:41]: Concur hypoperfusion, whether or not ionotropic therapy would help in long term unclear, a trial of low dose short term ionotropic therapy would have been reasonable
+4. u/CaramelImpossible406 [score=5, created=2025-11-04T08:25:30]: Also, does she has a normal liver? Otherwise we see this all the time. Cheers!
+5. u/oatsoatsgoats [score=4, created=2025-11-04T07:42:24]: Are there any other evidence of hypoperfusion? Mental status, lft’s, rising creatinine, cool extremities on exam, etc. I’ve had a post STEMI patient with persistent lactate 3’s (not uptrending either) that was likely due to being on metformin; normotensive, felt great, no other markers of hypoperfusion. Not to discount any suspicion for cardiogenic shock obviously, and agree that you can have normotensive shock. Would get a right heart cath if you aren’t sure.
+6. u/dayinthewarmsun [score=3, created=2025-11-06T00:49:36]: You are describing cardiogenic shock. Not surprising to have lactate elevation in this setting. If patient is objectively improving and not overtly unstable, I would not start inotropes. The thing about this type of cardiogenic shock is that the heart is the problem and it needs to recover. Inotropes usually will not help that happen. Sometimes they are needed due to end-organ damage, but you avoid if you can. Would instead focus on diuretics and appropriate after load reduction.
+7. u/beepos [score=4, created=2025-11-04T04:28:40]: When in doubt about etiology of shock, a rught heart cath is a good option. Can help guide next steps-an inotrope may be appropriate, but so may a vasodilator is SVR is super high But you can absolutely have hypoperfusion without hypotension.
+8. u/chummybears [score=2, created=2025-11-04T06:16:18]: Right heart Cath. Could do well with milrinone if stroke index low
+9. u/Live4now [score=1, created=2025-11-04T04:29:43]: Ideally should have a swan and probably some sort of MCS. Not sure what type of candidate she was.
+10. u/cheltor11 [score=1, created=2025-11-04T09:15:37]: Any thoughts about inotrope s and ischemia? Like let’s say NSTEMI that hasn’t been revascularized. So you want to avoid inotropes to not worsen the infarct/ ischemia? Or in this case is it fine because they were revascularized?
+11. u/noltey22 [score=1, created=2025-11-09T13:14:11]: This case screams for PA catheter guidance
+12. u/spicypac [score=1, created=2025-11-04T06:48:39]: Great insights here! I think it makes good sense given the context. I recently heard from someone that a mildly elevated lactate, acts more as the body’s check engine light in acute illnesses. The take away being that you could be dealing with something minor or an atypical shock presentation and to not get bogged down in numbers like a normal BP. Idk if that makes sense lol.
+13. u/supadupasid [score=1, created=2025-11-04T07:14:41]: Lactate doesnt always equal hypoperfusion. Worsening end organ damage? Exam if possible?

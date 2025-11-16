@@ -1,0 +1,21 @@
+Thread ID: 1owagqq
+Subreddit: prediabetes
+Title: Best CGM for Prediabetes
+Author: Icy-Pin1083
+Created UTC: 2025-11-13T12:29:07
+Score: 3
+Num Comments: 15
+URL: https://reddit.com/r/prediabetes/comments/1owagqq/best_cgm_for_prediabetes/
+Canonical URL: https://reddit.com/r/prediabetes/comments/1owagqq/best_cgm_for_prediabetes/
+Collected: 2025-11-15T08:22:33.434952
+===============================================================================
+
+Hi all, I’ve been using a Dexcom Stelo for about 8 months now, and just wondering if there’s a better option out there for prediabetes. My only complaint is it only checks it every 15 minutes and that it doesn’t alert me of a drop in blood sugar. Thanks in advance!
+
+---
+## Comments
+1. u/BlissCrafter [score=7, created=2025-11-13T14:07:30]: None of the non prescription models will be particularly accurate. They will all read high except for aberrant (false) lows that generally happen overnight. They will give you the general area that you’re in but all tend to read slightly high. If you see a low appear, something low enough you would assume you need to eat something, double check with a finger stick glucometer before bombarding yourself with carbs.
+2. u/ChunkyStitchBee [score=3, created=2025-11-13T13:17:37]: I don’t know what the best one is but I was prescribed the Libre Freestyle 3 plus. It’s been mostly accurate when I cross check with my glucometer. I plan to use it until I go in for my 6 month recheck. I’ve been using it for about 3.5 months now. It’s not covered by insurance because they don’t cover supplies for prediabetes so it costs $75 for 2 sensors which will last you 30 days( 15 days each sensor). It checks your glucose levels every minute automatically in the app and there are alerts for high and low. Just make sure you get a glucometer to cross check unusual lows or unusual highs because sometimes they will be false.
+3. u/CarlyJS18 [score=1, created=2025-11-13T12:47:21]: I have only used the Libre Freestyle 3 Plus and found it easy to use, accurate, and constantly updates. The only draw back is that I'm a side sleeper so I had to find the best placement for the CGM so it doesn't give me a false low reading. Just lay down in your favorite sleep position, the exposed area is what you'll use for placement. The Libre Freestyle app allows you customize and set your target blood sugar alerts. It does not let you opt out of low blood sugar but it was not an issue for me once I figured out the best placement. Lastly, I purchased CGM adhesive patches on Amazon to secure the CGM during workouts and changing, showering, etc.
+4. u/middlelifecrisis [score=1, created=2025-11-13T15:14:37]: Same here. Free Style Libre 3 Plus. It’s surprisingly comfortable to wear. The data is by the minute (with the known delay via reading glucose level via interstitial fluid). Getting the data out of their app is a bit of a pain. I’m using LibreLinkUp to share the data with Gluroo. I’m trying to get the data into Apple Health but so far no luck. Ideally I want the CGM data is live side by side with my LoseIt meal/weight tracking app. The only annoyance is that I need to keep my phone close by all the time. I think Libre 3 caches the data is there is a disconnect but I’m not sure.
+5. u/East_Collection_5672 [score=1, created=2025-11-13T19:37:19]: Dexcom Stelo is solid for general trends, but the 15-minute delay and lack of alerts can be limiting, especially if you’re trying to catch sharp drops or spikes in real time. If you want alerts, Dexcom G7 or Libre 3 might be better options. They offer faster readings (1 to 5 minute intervals) and real-time alarms for highs and lows. Also, pairing your CGM with an app like Glucospike AI can help you get more out of it. You can scan your meals, see predicted spikes, get tips to balance them, and plan short walks after meals. Then use your CGM to see how your body actually responded. It’s a solid loop for improving metabolic control.

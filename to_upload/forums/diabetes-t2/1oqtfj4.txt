@@ -1,0 +1,18 @@
+Thread ID: 1oqtfj4
+Subreddit: diabetes_t2
+Title: Relationship between A1C x fbg? And the future?
+Author: audiologyint
+Created UTC: 2025-11-07T05:44:58
+Score: 0
+Num Comments: 4
+URL: https://reddit.com/r/diabetes_t2/comments/1oqtfj4/relationship_between_a1c_x_fbg_and_the_future/
+Canonical URL: https://reddit.com/r/diabetes_t2/comments/1oqtfj4/relationship_between_a1c_x_fbg_and_the_future/
+Collected: 2025-11-15T02:20:29.832797
+===============================================================================
+
+I recently got diagnosed with pre-diabetes and had pretty heavy insulin resistance. I am being treated with metformin which has helped my overall metabolism of glucose so it stays at 5.6mmol/L at most. My glucose metabolism is clearly impaired. But I’m curious what everyone means when they say you always need to take care about the amount of carbs or sugar you eat… forever? If you’re being treated, and eat cake for example, does this affect you long term if your glucose doesn’t rise so much?
+
+---
+## Comments
+1. u/Thesorus [score=6, created=2025-11-07T05:52:02]: A1c is a 3 months "average"; it's a standard way to test if someone is diabetic (at least type 2 or pre-diabetics) Once you're diabetic, you stay diabetics, you can only manage it by taking medication, eating less carbs, exercising and controling weight. If your long term blood glucose trend is stable and within a reasonable range, eating some cake once in a while is not a problem (obviously, don't go wild and eat 1/2 of the cake).
+2. u/hu_gnew [score=2, created=2025-11-07T18:18:44]: I manage my diabetes with Metformin (I use to be drug free, long story) and a low-ish carb diet. I set up a budget for how many carbs I will consume in a day. If I eat cake or something else with a high glycemic index I'll deduct the carbs in that serving from that daily allowance. Doesn't take a big piece of cake to blow your budget for the day but then, once you get into the rhythm it doesn't take a big piece of cake to scratch that itch either. I deal with the simple carbs by only having sweets AFTER a proper meal with lots of fiber and protein, which slows down digestion and helps mitigate the spike.

@@ -344,3 +344,63 @@ img[src*="logo.png"] {
 #chat-submit:hover {
     background-color: var(--tm-primary-dark) !important;
 }
+
+/* Hide theme toggle button - multiple selector strategies */
+#theme-toggle,
+button#theme-toggle,
+[id="theme-toggle"],
+button[id="theme-toggle"],
+[data-testid="theme-toggle"],
+button[aria-label*="theme"],
+button[aria-label*="Theme"],
+[class*="theme-toggle"],
+[class*="themeToggle"] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  width: 0 !important;
+  height: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  overflow: hidden !important;
+  pointer-events: none !important;
+  position: absolute !important;
+  left: -9999px !important;
+}
+
+/* Hide readme button - multiple selector strategies */
+.readme-button,
+#readme-button,
+button.readme-button,
+button[id*="readme"],
+button[id*="Readme"],
+[id*="readme-button"],
+[id*="Readme-button"],
+button[aria-label*="Readme"],
+button[aria-label*="readme"],
+[data-testid*="readme"],
+[class*="readme-button"],
+[class*="readmeButton"],
+nav button:nth-of-type(2),
+header button:nth-of-type(2),
+[role="button"][aria-label*="Readme"] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  width: 0 !important;
+  height: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  overflow: hidden !important;
+  pointer-events: none !important;
+  position: absolute !important;
+  left: -9999px !important;
+}
+
+/* Alternative: Hide by parent container and nth-child */
+nav > button:nth-child(2),
+header > button:nth-child(2),
+[class*="header"] > button:nth-child(2),
+[class*="navigation"] > button:nth-child(2) {
+  display: none !important;
+}

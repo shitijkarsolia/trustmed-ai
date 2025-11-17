@@ -5,7 +5,7 @@
       TrustMed AI
     </span>
   </h1>
-  <p style="font-size: 1.1rem; color: #6b7280; max-width: 600px; margin-bottom: 0.15rem;">Your trusted AI-powered medical assistant, powered by a custom retrieval engine based on authoritative medical sources.
+  <p style="font-size: 1.1rem; color: #6b7280; max-width: 600px; margin-bottom: 0.15rem;">Your trusted AI-powered medical assistant based on authoritative medical sources.
   </p>
 </div>
 

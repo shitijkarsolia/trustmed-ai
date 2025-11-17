@@ -17,8 +17,50 @@ BANNER_AUTHOR = "AI"
 AWS_REGION = os.getenv("AWS_REGION", "us-east-1")
 BEDROCK_KB_ID = os.getenv("BEDROCK_KB_ID","CVSWBQ5BFR")
 BEDROCK_MODEL_ARN = "meta.llama3-8b-instruct-v1:0"
+# BEDROCK_MODEL_ARN = "mistral.mistral-small-2402-v1:0"
 # BEDROCK_MODEL_ARN = os.getenv("BEDROCK_MODEL_ARN")
 KB_VECTOR_RESULTS = int(os.getenv("KB_VECTOR_RESULTS", "8"))
+TOPIC_FILTER_ENABLED = os.getenv("ENABLE_TOPIC_FILTER", "false").lower() in (
+    "1",
+    "true",
+    "yes",
+)
+SUPPORTED_KEYWORDS = (
+    "diabetes",
+    "type 2",
+    "type ii",
+    "prediabetes",
+    "hyperglycemia",
+    "hypoglycemia",
+    "glucose",
+    "a1c",
+    "blood sugar",
+    "insulin",
+    "metformin",
+    "sulfonylurea",
+    "glp-1",
+    "heart",
+    "cardio",
+    "cardiovascular",
+    "cardiology",
+    "blood pressure",
+    "hypertension",
+    "beta blocker",
+    "ace inhibitor",
+    "statin",
+    "cholesterol",
+    "triglyceride",
+    "arrhythmia",
+    "stroke",
+    "lifestyle",
+    "diet",
+    "exercise",
+    "medication",
+    "medicine",
+    "drug",
+    "symptom",
+    "risk factor",
+)
 
 PROMPT_TEMPLATE = """
 <system>
@@ -236,6 +278,16 @@ def build_retrieve_payload(user_text: str, include_prompt_template: bool = True)
     }
 
 
+def is_supported_query(text: str) -> bool:
+    """
+    Basic heuristic to keep the assistant focused on cardiometabolic topics.
+    """
+    if not text:
+        return False
+    lowered = text.lower()
+    return any(keyword in lowered for keyword in SUPPORTED_KEYWORDS)
+
+
 @cl.on_chat_start
 async def on_chat_start():
     """
@@ -288,6 +340,15 @@ async def on_message(message: cl.Message):
     try:
         # Provide a minimal delay so the UI shows a spinner even for fast responses.
         await asyncio.sleep(0.2)
+
+        if TOPIC_FILTER_ENABLED and not is_supported_query(message.content):
+            response_msg.content = (
+                "TrustMed AI answers questions about cardiometabolic health topics "
+                "such as Type II Diabetes, heart disease, blood pressure, and related "
+                "medications. I’m not able to help with that request."
+            )
+            await response_msg.update()
+            return
 
         client = get_bedrock_client()
         bedrock_session_id = cl.user_session.get("bedrock_session_id")

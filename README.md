@@ -10,6 +10,19 @@ Built as a **Retrieval-Augmented Generation (RAG)** system, it grounds every res
 
 ---
 
+## 💬 User Interface
+
+![TrustMed AI Interface](UI.png)
+
+**Key Features:**
+- 🎨 Clean, modern chat interface powered by Chainlit
+- 📚 Transparent source citations for every answer
+- ⚡ Real-time streaming responses
+- 🔍 Retrieval from dual knowledge sources (medical literature + patient forums)
+- 🎯 Focused on diabetes and cardiovascular disease topics
+
+---
+
 ## 📁 Repository Structure
 
 ```

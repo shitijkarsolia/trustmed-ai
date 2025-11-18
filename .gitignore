@@ -30,7 +30,12 @@ wheels/
 
 # Environment variables
 .env
+.env.*
 .venv
+*.env
+# But DO include .env.example files
+!.env.example
+!**/.env.example
 
 # IDE
 .vscode/
@@ -38,16 +43,45 @@ wheels/
 *.swp
 *.swo
 
-# API credentials
+# API credentials and configuration
 config.py
 data_collection/scripts/config.py
+CODE/data_collection_scripts/config.py
+**/config.py
+!config_template.py
+
+# AWS credentials
+.aws/
+aws/
+*.pem
+credentials
+*credentials*
+!config_template.py
+
+# Chainlit
+.chainlit/
+*.db
+*.sqlite
 
 # Logs
 *.log
 data_collection/logs/*.log
+logs/
 
 # OS
 .DS_Store
 Thumbs.db
+
+# Archives
 aws*
 *.zip
+*.tar.gz
+
+# Secrets and sensitive data
+secret*
+*secret*
+*SECRET*
+!config_template.py
+*.key
+*.pfx
+*.p12

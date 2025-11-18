@@ -10,6 +10,27 @@ Built as a **Retrieval-Augmented Generation (RAG)** system, it grounds every res
 
 ---
 
+## 📁 Repository Structure
+
+```
+trustmed-ai/
+├── CODE/                    # All source code
+│   ├── app/                # Main Chainlit application
+│   └── data_collection_scripts/  # Data scraping and processing scripts
+├── DATA/                    # All data files
+│   ├── processed/          # Cleaned data ready for KB upload
+│   │   ├── authoritative/  # Medical articles from trusted sources
+│   │   └── forums/         # Reddit community discussions
+│   └── raw_collected/      # Original scraped data
+├── EVALUATIONS/            # TruLens evaluation scripts and results
+├── REFERENCE/              # Project documentation and references
+└── README.md               # This file
+```
+
+Each directory contains its own README with detailed information.
+
+---
+
 ## ⚙️ Architecture  
 - **Data Sources:**  
   - Clinical articles → validated medical facts  
@@ -28,6 +49,50 @@ Built as a **Retrieval-Augmented Generation (RAG)** system, it grounds every res
 
 ## 🧩 Tech Stack
 **Python · LangChain · Chainlit · AWS EC2 · S3 · OpenSearch · Bedrock · TruLens**
+
+---
+
+## 🚀 Quick Start
+
+### 1. Environment Setup
+
+**Configure your environment variables first:**
+
+```bash
+# Copy the template
+cp .env.example .env
+
+# Edit with your credentials
+nano .env
+```
+
+Required variables:
+- `AWS_REGION` - Your AWS region
+- `BEDROCK_KB_ID` - Your Bedrock Knowledge Base ID  
+- `BEDROCK_MODEL_ARN` - Model to use (e.g., `meta.llama3-8b-instruct-v1:0`)
+
+See `CODE/SETUP.md` for detailed instructions.
+
+### 2. Running the Application
+```bash
+cd CODE/app
+pip install -r requirements.txt
+chainlit run app.py
+```
+
+### Data Collection
+```bash
+cd CODE/data_collection_scripts
+python scrape_medical_articles.py
+python collect_reddit_threads.py
+python prepare_upload.py
+```
+
+### Evaluations
+```bash
+cd EVALUATIONS
+python evaluations.py
+```
 
 ---
 

@@ -14,17 +14,25 @@ from botocore.exceptions import BotoCoreError, ClientError
 import chainlit as cl
 
 BANNER_AUTHOR = "AI"
-AWS_REGION = os.getenv("AWS_REGION", "us-east-1")
-BEDROCK_KB_ID = os.getenv("BEDROCK_KB_ID","CVSWBQ5BFR")
-BEDROCK_MODEL_ARN = "meta.llama3-8b-instruct-v1:0"
-# BEDROCK_MODEL_ARN = "mistral.mistral-small-2402-v1:0"
-# BEDROCK_MODEL_ARN = os.getenv("BEDROCK_MODEL_ARN")
+
+# AWS Configuration - All values must be set via environment variables
+AWS_REGION = os.getenv("AWS_REGION")
+BEDROCK_KB_ID = os.getenv("BEDROCK_KB_ID")
+BEDROCK_MODEL_ARN = os.getenv("BEDROCK_MODEL_ARN")
 KB_VECTOR_RESULTS = int(os.getenv("KB_VECTOR_RESULTS", "8"))
 TOPIC_FILTER_ENABLED = os.getenv("ENABLE_TOPIC_FILTER", "false").lower() in (
     "1",
     "true",
     "yes",
 )
+
+# Validate required environment variables
+if not AWS_REGION:
+    raise ValueError("AWS_REGION environment variable is required")
+if not BEDROCK_KB_ID:
+    raise ValueError("BEDROCK_KB_ID environment variable is required")
+if not BEDROCK_MODEL_ARN:
+    raise ValueError("BEDROCK_MODEL_ARN environment variable is required")
 SUPPORTED_KEYWORDS = (
     "diabetes",
     "type 2",

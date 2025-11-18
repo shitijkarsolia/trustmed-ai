@@ -41,11 +41,32 @@ class RedditHealthCollector:
     def __init__(self):
         """Initialize Reddit API connection."""
         try:
-            # Using Reddit's public read-only mode
+            # Load credentials from environment variables or config.py
+            import os
+            client_id = os.getenv('REDDIT_CLIENT_ID')
+            client_secret = os.getenv('REDDIT_CLIENT_SECRET')
+            user_agent = os.getenv('REDDIT_USER_AGENT', 'TrustMedAI Health Forum Collector v1.0')
+            
+            # Fallback to config.py if environment variables not set
+            if not client_id or not client_secret:
+                try:
+                    from config import REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USER_AGENT
+                    client_id = REDDIT_CLIENT_ID
+                    client_secret = REDDIT_CLIENT_SECRET
+                    user_agent = REDDIT_USER_AGENT
+                except ImportError:
+                    print("✗ Reddit API credentials not found!")
+                    print("Please set environment variables or create config.py:")
+                    print("  - REDDIT_CLIENT_ID")
+                    print("  - REDDIT_CLIENT_SECRET")
+                    print("  - REDDIT_USER_AGENT (optional)")
+                    print("\nVisit: https://www.reddit.com/prefs/apps to create an app.")
+                    sys.exit(1)
+            
             self.reddit = praw.Reddit(
-                client_id='your_client_id_here',  # Will be replaced with actual credentials
-                client_secret='your_client_secret_here',
-                user_agent='TrustMedAI Health Forum Collector v1.0'
+                client_id=client_id,
+                client_secret=client_secret,
+                user_agent=user_agent
             )
             self.reddit.read_only = True
             print("✓ Reddit API connection established")
